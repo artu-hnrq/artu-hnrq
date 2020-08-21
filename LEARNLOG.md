@@ -4,8 +4,24 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Two in a row - 2020-08-20
+### Coded
+- .fragatron: [package project as a command line interface](https://github.com/Fragatron/.fragatron/tree/06159a59a4d098e923afb22ebe9a937eaa68ae93)
+
+### Consulted
+- Click Doc: [Why and how to correct distribute your python cli with click](https://click.palletsprojects.com/en/5.x/setuptools/)
+- Video: [Building Command Line Applications with Click](https://youtu.be/kNke39OZ2k0)
+
+### Checked
+- [How can I use Python to get the system hostname?](https://stackoverflow.com/questions/4271740/how-can-i-use-python-to-get-the-system-hostname)
+- [Qual a diferença entre os comandos 'git pull' e 'git fetch'?](https://pt.stackoverflow.com/questions/3231/qual-a-diferen%C3%A7a-entre-os-comandos-git-pull-e-git-fetch)
+
+### Passed through
+- [Building our first GitHub app](https://medium.com/swlh/building-the-first-github-app-3ea67a76c19a)
+
+
 ## Studing night out - 2020-08-19
-### Codded
+### Coded
 - [setup-profile-picture.py scritp](https://gist.github.com/artu-hnrq/bfe1df326b3ac70287961d8b54e0e904#file-setup-profile-picture-py)
 
 ### Asked
