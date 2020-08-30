@@ -4,6 +4,17 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Serasa code challenge begin - 2020-08-29
+##### Consulted
+- [Quickstart: Docker Compose and Django](https://docs.docker.com/compose/django/)
+- [Using Docker in PyCharm](https://blog.jetbrains.com/pycharm/2015/12/using-docker-in-pycharm/)
+- Django REST framework: [Quickstart tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
+- Django Doc: [How to write reusable apps](https://docs.djangoproject.com/en/3.1/intro/reusable-apps/)
+
+##### Checked
+- [What's the difference between Docker and Python virtualenv?](https://stackoverflow.com/a/50975143/2989289)
+
+
 ## Untitled - 2020-08-23
 ##### Consulted:
 - Python Doc: [subprocess](https://docs.python.org/3/library/subprocess.html)
