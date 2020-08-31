@@ -4,6 +4,14 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Continuing code challenge - 2020-08-30
+##### Consulted
+- Docker: [How to connect multiple containers](https://dev.to/mozartted/docker-networking--how-to-connect-multiple-containers-7fl)
+- [Segurança em APIs RESTful](https://thiagolima.blog.br/parte-3-seguran%C3%A7a-em-apis-restful-a780bd9f186a)
+
+##### Checked
+- Django REST framework: [Passing extra parameters to actions / endpoints](https://stackoverflow.com/a/54221108/2989289)
+
 ## Serasa code challenge begin - 2020-08-29
 ##### Consulted
 - [Quickstart: Docker Compose and Django](https://docs.docker.com/compose/django/)
