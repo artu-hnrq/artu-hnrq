@@ -6,10 +6,12 @@ This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en
 
 ## Continuing code challenge - 2020-08-30
 ##### Consulted
+- Django Doc: [Providing initial data for model](https://docs.djangoproject.com/en/3.1/howto/initial-data/)
 - Docker: [How to connect multiple containers](https://dev.to/mozartted/docker-networking--how-to-connect-multiple-containers-7fl)
 - [Segurança em APIs RESTful](https://thiagolima.blog.br/parte-3-seguran%C3%A7a-em-apis-restful-a780bd9f186a)
 
 ##### Checked
+- [Copying files from Docker container to host](https://stackoverflow.com/a/22050116/2989289)
 - Django REST framework: [Passing extra parameters to actions / endpoints](https://stackoverflow.com/a/54221108/2989289)
 
 ## Serasa code challenge begin - 2020-08-29
