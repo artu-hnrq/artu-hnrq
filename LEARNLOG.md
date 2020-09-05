@@ -4,10 +4,16 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Researching out - 2020-09-04
+##### Consulted
+- [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
+- Docker Doc: [Development best practices](https://docs.docker.com/develop/dev-best-practices/)
+- Docker Doc: [Orchestration](https://docs.docker.com/get-started/orchestration/)
+
 ## Continuing code challenge - 2020-08-30
 ##### Consulted
 - Django Doc: [Providing initial data for model](https://docs.djangoproject.com/en/3.1/howto/initial-data/)
-- Docker: [How to connect multiple containers](https://dev.to/mozartted/docker-networking--how-to-connect-multiple-containers-7fl)
+- Docker Doc: [How to connect multiple containers](https://dev.to/mozartted/docker-networking--how-to-connect-multiple-containers-7fl)
 - [Segurança em APIs RESTful](https://thiagolima.blog.br/parte-3-seguran%C3%A7a-em-apis-restful-a780bd9f186a)
 
 ##### Checked
