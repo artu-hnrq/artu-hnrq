@@ -4,6 +4,16 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Hired at Denox - 2020-09-10
+##### Studied
+- MongoDB: [Introduction course for SQL Pros](https://university.mongodb.com/mercury/M100/2020_September_8/overview)
+
+##### Consulted
+- MongoDB: [db.collection.findOne()](https://docs.mongodb.com/manual/reference/method/db.collection.findOne/)
+
+##### Checked
+- [How to import data from mongodb to pandas?](https://stackoverflow.com/q/16249736/2989289)
+
 ## Researching out - 2020-09-04
 ##### Consulted
 - [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
