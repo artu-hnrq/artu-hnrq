@@ -4,6 +4,13 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Jupyter travel - 2020-10-19
+##### Consulted
+- Jupyter: [How to add your Conda environment to your Jupyter Notebook](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)
+- Jupyter: [Basic Kernel management](https://queirozf.com/entries/jupyter-kernels-how-to-add-change-remove)
+- Conda: [Basic Environment management](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
+
+
 ## Hired at Denox - 2020-09-10
 ##### Studied
 - MongoDB: [Introduction course for SQL Pros](https://university.mongodb.com/mercury/M100/2020_September_8/overview)
