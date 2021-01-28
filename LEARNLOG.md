@@ -4,6 +4,20 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+
+## Making some progress - 2021-01-28
+##### Studied
+- GNU Make: [Oficial Manual](https://www.gnu.org/software/make/manual/make.html)
+- GNU Make: [Quick reference](https://www.gnu.org/software/make/manual/html_node/Quick-Reference.html)
+
+##### Consulted
+- GNU Make: [Self documenting Makefile](https://victoria.dev/blog/how-to-create-a-self-documenting-makefile/)
+
+##### Checked
+- GNU Make: [Prerequisities precedence](https://stackoverflow.com/questions/1647480/in-what-order-prerequisites-will-be-made-by-the-gnu-make)
+
+--------------------------------------------------------------------------------------------------------------
+
 ## Jupyter travel - 2020-10-19
 ##### Consulted
 - Jupyter: [How to add your Conda environment to your Jupyter Notebook](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)
