@@ -4,6 +4,10 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Bazinga - 2021-02-08
+##### Consulted
+- Base64: [Encoding and Decoding Base64 Strings in Python](https://stackabuse.com/encoding-and-decoding-base64-strings-in-python/#whatisbase64encoding)
+- Base64: [Wikipedia](https://en.wikipedia.org/wiki/Base64#Output_padding)
 
 ## Making some progress - 2021-01-28
 ##### Studied
