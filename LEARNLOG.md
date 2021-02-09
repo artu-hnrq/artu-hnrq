@@ -4,6 +4,13 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Building up with best practices - 2021-02-09
+##### Consulted
+- Open-souring: [Building a Useful, User-Friendly Project](https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md)
+- Open-sourcing: [Documenting](https://github.com/LappleApple/feedmereadmes/blob/master/Inspiration.md)
+- Make a Readme: [Official manifest](https://www.makeareadme.com/)
+- Readme : [Standard Readme](https://github.com/RichardLitt/standard-readme/blob/master/spec.md)
+
 ## Bazinga - 2021-02-08
 ##### Consulted
 - Base64: [Encoding and Decoding Base64 Strings in Python](https://stackabuse.com/encoding-and-decoding-base64-strings-in-python/#whatisbase64encoding)
