@@ -4,6 +4,11 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
+## Committed to commit everyday- 2021-02-10
+##### Checked
+- [Is there a generic way for a function to reference itself?](https://stackoverflow.com/q/5063607/2989289)
+- Github: [Trigger repository workflow via REST API](https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-event)
+
 ## Building up with best practices - 2021-02-09
 ##### Consulted
 - Open-souring: [Building a Useful, User-Friendly Project](https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md)
@@ -34,7 +39,6 @@ This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en
 - Jupyter: [How to add your Conda environment to your Jupyter Notebook](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)
 - Jupyter: [Basic Kernel management](https://queirozf.com/entries/jupyter-kernels-how-to-add-change-remove)
 - Conda: [Basic Environment management](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
-
 
 ## Hired at Denox - 2020-09-10
 ##### Studied
