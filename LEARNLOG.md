@@ -4,7 +4,16 @@ Since I'm constantly looking up to learn, I use to fell it would be nice to have
 
 This file format is inspired on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), however it adheres to [Sentimental Versioning](http://sentimentalversioning.org/) instead of [Semantic](https://semver.org/spec/v2.0.0.html) one. 
 
-## Committed to commit everyday- 2021-02-10
+## Thinking further on microserving - 2021-02-14
+##### Read
+- [Command Query Responsibility Segregation](https://martinfowler.com/bliki/CQRS.html)
+- Dev: [Django-CQRS](https://dev.to/maxipavlovic/automatic-synchronization-of-django-services-14m2)
+
+##### Checked
+- [How do you handle shared concepts in a microservice architecture?](https://softwareengineering.stackexchange.com/q/277011/385150)
+- [Why is it so bad to read data from a database “owned” by a different microservice](https://softwareengineering.stackexchange.com/q/263735/385150)
+
+## Committed to commit every (at least, business) day - 2021-02-10
 ##### Checked
 - [Is there a generic way for a function to reference itself?](https://stackoverflow.com/q/5063607/2989289)
 - Github: [Trigger repository workflow via REST API](https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-event)
