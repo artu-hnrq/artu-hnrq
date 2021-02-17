@@ -8,7 +8,20 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-##  - 2021-02-15
+## They will buy me a notebook - 2021-02-16
+##### Read
+- Github: [Codespace](https://github.com/features/codespaces) - Online IDE
+- PyCharm: [Configuring colors and fonts](https://www.jetbrains.com/help/pycharm/configuring-colors-and-fonts.html#customize-color-scheme)
+- GNU Make: [Match-Anything Pattern Rules](https://www.gnu.org/software/make/manual/html_node/Match_002dAnything-Rules.html#Match_002dAnything-Rules)
+
+##### Asked
+- GNU Make: [How to set an array from a space-separated string?](https://stackoverflow.com/q/66233239/2989289)
+
+##### Checked
+- [Reading a delimited string into an array in Bash](https://stackoverflow.com/q/9293887/2989289)
+- [How to split one string into multiple strings separated by at least >one space in bash shell?](https://stackoverflow.com/q/1469849/2989289)
+
+## Thinking further on documenting - 2021-02-15
 ##### Read
 - Python: [Implementing an Interface in Python](https://realpython.com/python-interface/)
  
