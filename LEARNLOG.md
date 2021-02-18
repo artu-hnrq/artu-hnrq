@@ -8,6 +8,20 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## First things first - 2021-02-17
+##### Read
+- [A Better Pip Workflow](https://kennethreitz.org/essays/2016/02/25/a-better-pip-workflow) 
+
+##### Sourcing
+- [Pipm](https://github.com/jnoortheen/pipm): Python dependency management workflow using setup.cfg and requirements files.
+- [Python-Frontmetter](https://github.com/eyeseast/python-frontmatter): Parse and manage posts with YAML (or other) frontmatter
+- 
+##### Watch
+- Linkedin Learning: [Python Essential Libraries](https://www.linkedin.com/learning/python-essential-libraries/)
+
+##### Checked
+- [What is pip's equivalent of `npm install package --save-dev`?](https://stackoverflow.com/q/19135867/2989289)
+
 ## They will buy me a notebook - 2021-02-16
 ##### Read
 - Github: [Codespace](https://github.com/features/codespaces) - Online IDE
@@ -133,7 +147,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 
 ##### Consulted
 - PyPI Click: [Why and how to correct distribute your python cli with click](https://click.palletsprojects.com/en/5.x/setuptools/)
-- PyPI Click:: [Building Command Line Applications with Click](https://youtu.be/kNke39OZ2k0)
+- PyPI Click: [Building Command Line Applications with Click](https://youtu.be/kNke39OZ2k0)
 
 ##### Checked
 - [How can I use Python to get the system hostname?](https://stackoverflow.com/questions/4271740/how-can-i-use-python-to-get-the-system-hostname)
