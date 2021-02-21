@@ -8,6 +8,22 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Keeping on the good of learning - 2021-02-20
+##### Read
+- PyCharm: [HTTP client in code editor](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html)
+- PyCharm: [OpenAPI](https://www.jetbrains.com/help/idea/openapi.html)
+- Python: [abc — Abstract Base Classes](https://docs.python.org/3/library/abc.html)
+
+##### Learn
+- DataCamp: [Data Manipulation with Pandas - Transforming Data](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-data)
+
+## A great title for a great day - 2021-02-18
+##### Watch
+- Real Python: [Python Package Versioning Best Practices](https://realpython.com/lessons/python-package-versioning-best-practices/)
+
+##### Sourcing
+- [Bump2version](https://github.com/c4urself/bump2version/): Version-bump your software with a single command
+
 ## First things first - 2021-02-17
 ##### Read
 - [A Better Pip Workflow](https://kennethreitz.org/essays/2016/02/25/a-better-pip-workflow) 
