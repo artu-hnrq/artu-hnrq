@@ -7,6 +7,17 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## What more to say? - 2021-02-21
+##### Sourced
+- [Sendgrid-Python](https://github.com/sendgrid/sendgrid-python): The Official Twilio SendGrid Led, Community Driven Python API Library
+
+##### Read
+- Python: [With Statement Context Managers](https://docs.python.org/3.10/reference/datamodel.html#context-managers)
+- Python: [Prevent Rpetition with Assignment Expressions](https://effectivepython.com/2020/02/02/prevent-repetition-with-assignment-expressions)
+
+##### Checked
+- [A Summary of References in Learning Python](https://docs.python-guide.org/intro/learning)
 
 ## Keeping on the good of learning - 2021-02-20
 ##### Read
@@ -14,25 +25,25 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - PyCharm: [OpenAPI](https://www.jetbrains.com/help/idea/openapi.html)
 - Python: [abc — Abstract Base Classes](https://docs.python.org/3/library/abc.html)
 
-##### Learn
+##### Studied
 - DataCamp: [Data Manipulation with Pandas - Transforming Data](https://campus.datacamp.com/courses/data-manipulation-with-pandas/transforming-data)
 
 ## A great title for a great day - 2021-02-18
-##### Watch
+##### Watched
 - Real Python: [Python Package Versioning Best Practices](https://realpython.com/lessons/python-package-versioning-best-practices/)
 
-##### Sourcing
+##### Sourced
 - [Bump2version](https://github.com/c4urself/bump2version/): Version-bump your software with a single command
 
 ## First things first - 2021-02-17
 ##### Read
-- [A Better Pip Workflow](https://kennethreitz.org/essays/2016/02/25/a-better-pip-workflow) 
+- Python: [A Better Pip Workflow](https://kennethreitz.org/essays/2016/02/25/a-better-pip-workflow) 
 
-##### Sourcing
+##### Sourced
 - [Pipm](https://github.com/jnoortheen/pipm): Python dependency management workflow using setup.cfg and requirements files.
 - [Python-Frontmetter](https://github.com/eyeseast/python-frontmatter): Parse and manage posts with YAML (or other) frontmatter
 - 
-##### Watch
+##### Watched
 - Linkedin Learning: [Python Essential Libraries](https://www.linkedin.com/learning/python-essential-libraries/)
 
 ##### Checked
