@@ -8,16 +8,25 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
-## What more to say? - 2021-02-21
+## The day everything changes - 2021-02-22
 ##### Sourced
-- [Sendgrid-Python](https://github.com/sendgrid/sendgrid-python): The Official Twilio SendGrid Led, Community Driven Python API Library
+- [bitly-api-python](https://github.com/bitly/bitly-api-python): python library to the bitly api
 
 ##### Read
+- Medium: [Microservice Principles: Decentrilized Data Management](https://medium.com/@nathankpeck/microservice-principles-decentralized-data-management-4adaceea173f)
+  
+## Detaching concepts, but gathering purpose - 2021-02-21
+##### Sourced
+- [sendgrid-Python](https://github.com/sendgrid/sendgrid-python): The Official Twilio SendGrid Led, Community Driven Python API Library
+
+##### Read
+- RealPython: [Python Microservices with gRCP](https://realpython.com/python-microservices-grpc/)
 - Python: [With Statement Context Managers](https://docs.python.org/3.10/reference/datamodel.html#context-managers)
 - Python: [Prevent Rpetition with Assignment Expressions](https://effectivepython.com/2020/02/02/prevent-repetition-with-assignment-expressions)
 
 ##### Checked
 - [A Summary of References in Learning Python](https://docs.python-guide.org/intro/learning)
+- AWS DynamoDB: [Getting Started Developing with Python and DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.html)
 
 ## Keeping on the good of learning - 2021-02-20
 ##### Read
@@ -33,15 +42,15 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - Real Python: [Python Package Versioning Best Practices](https://realpython.com/lessons/python-package-versioning-best-practices/)
 
 ##### Sourced
-- [Bump2version](https://github.com/c4urself/bump2version/): Version-bump your software with a single command
+- [bump2version](https://github.com/c4urself/bump2version/): Version-bump your software with a single command
 
 ## First things first - 2021-02-17
 ##### Read
 - Python: [A Better Pip Workflow](https://kennethreitz.org/essays/2016/02/25/a-better-pip-workflow) 
 
 ##### Sourced
-- [Pipm](https://github.com/jnoortheen/pipm): Python dependency management workflow using setup.cfg and requirements files.
-- [Python-Frontmetter](https://github.com/eyeseast/python-frontmatter): Parse and manage posts with YAML (or other) frontmatter
+- [pipm](https://github.com/jnoortheen/pipm): Python dependency management workflow using setup.cfg and requirements files.
+- [python-frontmatter](https://github.com/eyeseast/python-frontmatter): Parse and manage posts with YAML (or other) frontmatter
 - 
 ##### Watched
 - Linkedin Learning: [Python Essential Libraries](https://www.linkedin.com/learning/python-essential-libraries/)
