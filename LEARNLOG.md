@@ -7,7 +7,14 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## The decision day - 2021-02-24
+##### Sourced
+- [pikepdf](https://github.com/pikepdf/pikepdf): A Python library for reading and writing PDF, powered by qpdf
+
+##### Read
+- Real Python: [Python & APIs](https://realpython.com/python-api/)
+
 ## The day everything changes - 2021-02-22
 ##### Sourced
 - [bitly-api-python](https://github.com/bitly/bitly-api-python): python library to the bitly api
@@ -20,7 +27,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - [sendgrid-Python](https://github.com/sendgrid/sendgrid-python): The Official Twilio SendGrid Led, Community Driven Python API Library
 
 ##### Read
-- RealPython: [Python Microservices with gRCP](https://realpython.com/python-microservices-grpc/)
+- Real Python: [Python Microservices with gRCP](https://realpython.com/python-microservices-grpc/)
 - Python: [With Statement Context Managers](https://docs.python.org/3.10/reference/datamodel.html#context-managers)
 - Python: [Prevent Rpetition with Assignment Expressions](https://effectivepython.com/2020/02/02/prevent-repetition-with-assignment-expressions)
 
