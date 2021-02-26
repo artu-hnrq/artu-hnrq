@@ -8,6 +8,18 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## How can it get better, Universe? - 2021-02-25
+##### Watched
+- Youtube: [Developing Flask Apps on Google Cloud](https://youtu.be/1hd05Ti79AM) - PyCharm by JetBrains
+
+##### Read 
+- [eXtreme Go Horse Methodology](https://medium.com/@dekaah/22-axioms-of-the-extreme-go-horse-methodology-xgh-9fa739ab55b4)
+- [XGH origin reference](https://pt.stackoverflow.com/a/165550/69805)
+
+##### Checked
+- GCP: [Cloud Code](https://cloud.google.com/code/docs/intellij/) - JetBrains' IDEs Plugin
+- MongoDB: [$pull operator](https://docs.mongodb.com/v2.6/reference/operator/update/pull/)
+
 ## The decision day - 2021-02-24
 ##### Sourced
 - [pikepdf](https://github.com/pikepdf/pikepdf): A Python library for reading and writing PDF, powered by qpdf
