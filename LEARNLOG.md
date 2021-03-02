@@ -7,6 +7,16 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## To infinity and beyond - 2021-03-01
+##### Read
+- Medium: [Rapid Development with GraphQL Microservices](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
+
+##### Watched
+- Youtube: [What's the Difference Between DevOps and SRE?](https://youtu.be/uTEL8Ff1Zvk) - Google Cloud
+
+##### Checked
+- PyCharm: [Jupyter Notebook Support](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
 
 ## How can it get better, Universe? - 2021-02-25
 ##### Watched
