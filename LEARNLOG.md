@@ -7,7 +7,17 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Put a title here - 2021-03-02
+##### Discover
+- [DataLore](https://datalore.jetbrains.com/): Online Data Science Notebook with smart coding assistance
+
+##### Watched
+- Youtube: [View STL files on GitHub](https://youtu.be/JV0NX_-Pr5Y) - Github
+- 
+##### Checked
+- PyCharm: [Detaching tab from code editor](https://www.jetbrains.com/help/pycharm/using-code-editor.html#detach_tab)
+
 ## To infinity and beyond - 2021-03-01
 ##### Read
 - Medium: [Rapid Development with GraphQL Microservices](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
