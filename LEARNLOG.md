@@ -8,8 +8,16 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Act without expectation - 2021-03-03
+##### Discovered
+- [Figma](https://www.figma.com/): The collaborative interface design tool
+
+##### Read
+- Wikipedia: [DRY principle](https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself) - Don't repeat yourself
+- Medium: [GraphQL + Django + MongoDB](https://medium.com/@fullstackedkush/switching-up-my-stack-django-mongodb-graphql-react-native-5bba6a73724e)
+
 ## Put a title here - 2021-03-02
-##### Discover
+##### Discovered
 - [DataLore](https://datalore.jetbrains.com/): Online Data Science Notebook with smart coding assistance
 
 ##### Watched
