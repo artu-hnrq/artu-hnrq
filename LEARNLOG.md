@@ -8,6 +8,23 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Graphing out loud around - 2021-03-04
+##### Studied
+- [GraphQL]: [Schemas and Types](https://graphql.org/learn/schema/)
+- [Postman]: [Querying with GraphQL](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/)
+
+##### Sourced
+- [grephene](https://github.com/graphql-python/graphene): GraphQL framework for Python
+- [ariadne](https://github.com/mirumee/ariadne): Python library for implementing GraphQL servers using schema-first approach
+
+##### Read
+- GraphQL: [GraphQL Server with Ariadne and Flask](https://medium.com/netcompany/graphql-server-with-ariadne-and-flask-301fd8bcc731)
+- GraphQL: [GraphQL Server With Graphene and Flask](https://towardsdatascience.com/graphql-with-python-flask-560d083ffa01)
+- GraphQL: [Build a GraphQL API with Python, Flask and Ariadne](https://www.twilio.com/blog/graphql-api-python-flask-ariadne)
+
+##### Checked
+- GraphQL: [Using nullability in GraphQL](https://www.apollographql.com/blog/using-nullability-in-graphql-2254f84c4ed7/)
+
 ## Act without expectation - 2021-03-03
 ##### Discovered
 - [Figma](https://www.figma.com/): The collaborative interface design tool
