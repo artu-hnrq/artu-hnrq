@@ -8,10 +8,20 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Sleepy friday- 2021-03-05
+##### Read
+- RealPython: [Python and MongoDB: Connecting to NoSQL Databases](https://realpython.com/introduction-to-mongodb-and-python/)
+- MongoDB: [Grid File system](https://docs.mongodb.com/manual/core/gridfs/)
+- Medium: [GraphQL Server with Ariadne and Flask](https://medium.com/netcompany/graphql-server-with-ariadne-and-flask-301fd8bcc731)
+
+##### Sourced
+- [djongo](https://github.com/nesdis/djongo/): Django and MongoDB database connector
+- [pymongo](https://github.com/mongodb/mongo-python-driver): The Python driver for MongoDB
+
 ## Graphing out loud around - 2021-03-04
 ##### Studied
-- [GraphQL]: [Schemas and Types](https://graphql.org/learn/schema/)
-- [Postman]: [Querying with GraphQL](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/)
+- GraphQL: [Schemas and Types](https://graphql.org/learn/schema/)
+- Postman: [Querying with GraphQL](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/)
 
 ##### Sourced
 - [grephene](https://github.com/graphql-python/graphene): GraphQL framework for Python
