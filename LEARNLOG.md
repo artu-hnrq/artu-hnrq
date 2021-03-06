@@ -12,6 +12,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Read
 - Medium: [The flawless pipes of Python/ Pandas](https://towardsdatascience.com/the-flawless-pipes-of-python-pandas-30f3ee4dffc2)
 - Github Blog: [An introduction to innersource][https://resources.github.com/whitepapers/introduction-to-innersource/]
+- IBM: [Data Moleling](https://www.ibm.com/cloud/learn/data-modeling)
 
 ##### Sourced
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client): The official Python client library for Google's discovery based APIs.
