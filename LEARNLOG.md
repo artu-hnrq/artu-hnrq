@@ -8,6 +8,14 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Thrust the process - 2021-03-06
+##### Read
+- Medium: [The flawless pipes of Python/ Pandas](https://towardsdatascience.com/the-flawless-pipes-of-python-pandas-30f3ee4dffc2)
+- Github Blog: [An introduction to innersource][https://resources.github.com/whitepapers/introduction-to-innersource/]
+
+##### Sourced
+- [google-api-python-client](https://github.com/googleapis/google-api-python-client): The official Python client library for Google's discovery based APIs.
+
 ## Sleepy friday- 2021-03-05
 ##### Read
 - RealPython: [Python and MongoDB: Connecting to NoSQL Databases](https://realpython.com/introduction-to-mongodb-and-python/)
