@@ -8,6 +8,19 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Let the wonderful show begin - 2021-03-10
+##### Read
+- Django: [Advanced tutorial: How to write reusable apps](https://docs.djangoproject.com/en/3.1/intro/reusable-apps/)
+- Django: [Use Django authentication as a microservice](https://forum.djangoproject.com/t/utilize-django-authentication-as-a-microservice/1760/6)
+- Django: [Writing an authentication backend](https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#writing-an-authentication-backend)
+- Medium: [Microservices Authentication and Authorization Solutions](https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a)
+
+##### Checked
+- [Django Microservices authentication](https://stackoverflow.com/q/63585529/2989289)
+
+## Late commit - 2021-03-09
+- GCP: [Structuring Web Services in App Engine](https://cloud.google.com/appengine/docs/standard/python3/configuration-files)
+
 ## Thrust the process - 2021-03-06
 ##### Read
 - Medium: [The flawless pipes of Python/ Pandas](https://towardsdatascience.com/the-flawless-pipes-of-python-pandas-30f3ee4dffc2)
