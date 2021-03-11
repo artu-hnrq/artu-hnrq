@@ -14,6 +14,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - Google Pay: [Overview](https://developers.google.com/pay/api/web/overview)
 - Google Pay: [Developer tutorial](https://developers.google.com/pay/api/web/guides/tutorial)
 - GCP: [Startup Program](https://inthecloud.withgoogle.com/startup/dl-cd.html?utm_source=google-homepage&utm_medium=et&utm_campaign=FY21-Q1-global-demandgen-website-cs-startup_program_mc&utm_content=startup_lp)
+- GCP: [Microservices Architecture on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine)
 
 ##### Watched
 - Google Pay: [Implementando a API do Google Pay (Web)](https://youtu.be/pZyGYUMZAeg)
