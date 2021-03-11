@@ -20,12 +20,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - Google Pay: [Implementando a API do Google Pay (Web)](https://youtu.be/pZyGYUMZAeg)
 
 ## Let the wonderful show begin - 2021-03-10
-## Read
+##### Read
 - Django: [Middleware](https://docs.djangoproject.com/en/3.1/topics/http/middleware/)
 - Django [How to use sessions](https://docs.djangoproject.com/en/3.1/topics/http/sessions/)
 - Redis: [Using Redis to Deal With Inter-Service Communications](https://dzone.com/articles/using-redis-to-deal-with-inter-service-communicati)
 
-## Soured
+##### Soured
 - [django-static-markdown-blog](https://gitlab.com/aloha68/django-static-markdown-blog): Django application to create a blog based on local Markdown files
 - [django-markdownx](https://github.com/neutronX/django-markdownx): Comprehensive Markdown plugin built for Django
 - [django-redis](https://github.com/jazzband/django-redis): Full featured redis cache backend for Django.
