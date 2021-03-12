@@ -9,8 +9,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Is she birthdate - 2021-03-12
+##### Soureced
+- [python-semantic-release](https://github.com/relekang/python-semantic-release): Automatic semantic versioning for python projects
+- [cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility
+
 ##### Read
 - Medium: [Git: Criando Tags](https://medium.com/rafaeltardivo/git-criando-tags-7c34ee6786be)
+- Medium: [Using Docker Containers As Development Machines](https://medium.com/rate-engineering/using-docker-containers-as-development-machines-4de8199fc662)
 - GitHub: [Managing releases in a repository](https://docs.github.com/en/enterprise-server@3.0/github/administering-a-repository/managing-releases-in-a-repository)
 
 ##### Checked
@@ -18,6 +23,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - Git: [Change first commit of project](https://stackoverflow.com/a/2309391/2989289)
 - Git: [How to amend older Git commit?](https://stackoverflow.com/a/18150592/2989289)
 - GitHub: [Change connected commit on release github](https://stackoverflow.com/q/24849362/2989289)
+- Python: [Create a symbolic link](https://www.w3resource.com/python-exercises/os/python-os-exercise-6.php)
 
 ## Starting up - 2021-03-11
 ##### Checked
