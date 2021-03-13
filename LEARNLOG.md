@@ -8,6 +8,15 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+
+## What's for today? - 2021-03-13
+##### Read
+- PyPI: [How to use GitHub as a PyPi server](https://www.freecodecamp.org/news/how-to-use-github-as-a-pypi-server-1c3b0d07db2/)
+- PyPI: [How to write your own Python Package and publish it on PyPi](https://thucnc.medium.com/how-to-publish-your-own-python-package-to-pypi-4318868210f9)
+
+##### Sourced
+- [pypiserver](https://github.com/pypiserver/pypiserver): Minimal PyPI server for uploading & downloading packages with pip/easy_install
+
 ## Is she birthdate - 2021-03-12
 ##### Soureced
 - [python-semantic-release](https://github.com/relekang/python-semantic-release): Automatic semantic versioning for python projects
