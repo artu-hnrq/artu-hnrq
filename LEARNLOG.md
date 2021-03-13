@@ -13,9 +13,14 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Read
 - PyPI: [How to use GitHub as a PyPi server](https://www.freecodecamp.org/news/how-to-use-github-as-a-pypi-server-1c3b0d07db2/)
 - PyPI: [How to write your own Python Package and publish it on PyPi](https://thucnc.medium.com/how-to-publish-your-own-python-package-to-pypi-4318868210f9)
+- Github: [Mastering Issues](https://guides.github.com/features/issues/)
+- Microservice: [Pattern: Database per service](https://microservices.io/patterns/data/database-per-service.html)
+- Microservice: [Blasphemy! Multiple microservices, shared database](https://oprearocks.medium.com/blasphemy-multiple-microservices-shared-database-f525025a8a81)
+- Python: [Why decorators in Python are pure genius](https://towardsdatascience.com/why-decorators-in-python-are-pure-genius-1e812949a81e)
 
 ##### Sourced
 - [pypiserver](https://github.com/pypiserver/pypiserver): Minimal PyPI server for uploading & downloading packages with pip/easy_install
+- [roadmap](https://github.com/github/roadmap): GitHub public roadmap
 
 ## Is she birthdate - 2021-03-12
 ##### Soureced
