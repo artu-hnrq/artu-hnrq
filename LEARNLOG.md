@@ -8,13 +8,23 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Starting earlier - 2021-03-15
+##### Discovered 
+- [Stackshare](https://stackshare.io/): Track and collaborate on tech stack decisions
+
+##### Checked
+- [How do I handle dyno restarts when using Django?](https://stackoverflow.com/a/31031867/2989289)
+
 ## Thinking ahead into contributing - 2021-03-14
+##### Sourced
+- [sampleproject](https://github.com/pypa/sampleproject): A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
+
 ##### Read
 - Mozilla: [Python code style guideline](https://ateam-bootcamp.readthedocs.io/en/latest/reference/python-style.html)
 - Mozzila: [Development Process](https://ateam-bootcamp.readthedocs.io/en/latest/guide/development_process.html)
 - Chromium: [Mozzila CONTRIBUTING.md](https://chromium.googlesource.com/chromium/deps/mozdownload/+/5d3e0bf7851b093ff9a89d45f13185691c496bec/CONTRIBUTING.md)
 - Github: [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-
+- Github: [Docs' CONTRIBUTING.md](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
 
 ## What's for today? - 2021-03-13
 ##### Read
