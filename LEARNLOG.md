@@ -12,6 +12,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Discovered 
 - [Stackshare](https://stackshare.io/): Track and collaborate on tech stack decisions
 
+##### Sourced
+- [PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
+- [GitPython](https://github.com/gitpython-developers/GitPython): Python library used to interact with Git repositories
+- [requests](https://github.com/psf/requests): A simple, yet elegant HTTP library
+
 ##### Checked
 - [How do I handle dyno restarts when using Django?](https://stackoverflow.com/a/31031867/2989289)
 
