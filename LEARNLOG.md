@@ -12,13 +12,19 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Discovered 
 - [Stackshare](https://stackshare.io/): Track and collaborate on tech stack decisions
 
+#### Read
+- PyPI: [How To Run Your Own PyPI Server](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/private-pypi.html)
+
 ##### Sourced
 - [PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 - [GitPython](https://github.com/gitpython-developers/GitPython): Python library used to interact with Git repositories
 - [requests](https://github.com/psf/requests): A simple, yet elegant HTTP library
+- [license](https://github.com/hroncok/license): Python library that encapsulates free software licenses
 
 ##### Checked
-- [How do I handle dyno restarts when using Django?](https://stackoverflow.com/a/31031867/2989289)
+- Twelve-Factor: [How do I handle dyno restarts when using Django?](https://stackoverflow.com/a/31031867/2989289)
+- PyPI: [Setting up a local PyPi server with custom set of packages](https://stackoverflow.com/q/14674873/2989289)
+- PyPA: [Do python projects need a MANIFEST.in, and what should be in it?](https://stackoverflow.com/q/24727709/2989289)
 
 ## Thinking ahead into contributing - 2021-03-14
 ##### Sourced
