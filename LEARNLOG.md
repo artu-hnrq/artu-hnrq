@@ -11,9 +11,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Looking ahead for two-week rest - 2021-03-17
 ##### Read
 - Django: [Central Authentication Service (CAS) implementation using Django microservices](https://medium.com/@adiletmaratov/central-authentication-service-cas-implementation-using-django-microservices-70c4c50d5b6f)
+- UNIX: [Is macOS UNIX? (and What Does That Mean?)](https://www.howtogeek.com/441599/is-macos-unix-and-what-does-that-mean/)
 
 ##### Sourced
 - [django-mama-cas](https://github.com/jbittel/django-mama-cas): A Django Central Authentication Service (CAS) single sign-on server
+
+##### Checked
+- [Is Mac OS X UNIX?](https://unix.stackexchange.com/q/1489/364080)
 
 ## Starting earlier - 2021-03-15
 ##### Discovered 
