@@ -8,6 +8,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Looking ahead for two-week rest - 2021-03-17
+##### Read
+- Django: [Central Authentication Service (CAS) implementation using Django microservices](https://medium.com/@adiletmaratov/central-authentication-service-cas-implementation-using-django-microservices-70c4c50d5b6f)
+
+##### Sourced
+- [django-mama-cas](https://github.com/jbittel/django-mama-cas): A Django Central Authentication Service (CAS) single sign-on server
+
 ## Starting earlier - 2021-03-15
 ##### Discovered 
 - [Stackshare](https://stackshare.io/): Track and collaborate on tech stack decisions
