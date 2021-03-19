@@ -9,7 +9,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
   
 ## Pissed of not fulfilling a commit a day - 2021-03-19
+##### Read
 - Git: [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
+- PyPA: [Packaging namespace packages](https://packaging.python.org/guides/packaging-namespace-packages/)
+- PyPA: [Writing the Setup Script](https://docs.python.org/3/distutils/setupscript.html)
 
 ## Looking ahead for two-week rest - 2021-03-17
 ##### Read
