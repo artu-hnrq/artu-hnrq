@@ -13,6 +13,8 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - Git: [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
 - PyPA: [Packaging namespace packages](https://packaging.python.org/guides/packaging-namespace-packages/)
 - PyPA: [Writing the Setup Script](https://docs.python.org/3/distutils/setupscript.html)
+- PyPA: [Entry Points](https://setuptools.readthedocs.io/en/latest/userguide/entry_point.html)
+- PyPA: [Keywords](https://setuptools.readthedocs.io/en/latest/references/keywords.html)
 
 ## Looking ahead for two-week rest - 2021-03-17
 ##### Read
