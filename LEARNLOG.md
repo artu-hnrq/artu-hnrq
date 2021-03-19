@@ -7,6 +7,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Pissed of not fulfilling a commit a day - 2021-03-19
+- Git: [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
 
 ## Looking ahead for two-week rest - 2021-03-17
 ##### Read
