@@ -8,6 +8,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+ ## Camping day - 2021-03-20
+ ###### Published
+ - [generic-tree/python-package](https://pypi.org/project/generic-tree/0.0.1/)
+  
 ## Pissed of not fulfilling a commit a day - 2021-03-19
 ##### Read
 - Git: [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
