@@ -8,6 +8,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
  
+ ## Got in sharkcity - 2021-03-22
+ ##### Read
+ - PyPA: [pip install][https://pip.pypa.io/en/latest/reference/pip_install/]
+ 
  ## Every day is precious - 2021-03-21
  ##### Read
  - Postman: [Data driven testing per request without using data file](https://praveendavidmathew.medium.com/data-driven-testing-per-request-without-using-data-file-aeb573b4f63a)
