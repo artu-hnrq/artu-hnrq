@@ -7,7 +7,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+ 
+ ## Every day is precious - 2021-03-21
+ ##### Read
+ - Postman: [Data driven testing per request without using data file](https://praveendavidmathew.medium.com/data-driven-testing-per-request-without-using-data-file-aeb573b4f63a)
+ - Github: [Stop re-writing pipelines! Why GitHub Actions drive the future of CI/CD](https://blog.codecentric.de/en/2021/03/github-actions-nextgen-cicd/)
+ - Medium: [When To and When Not To Use Functional Programming](https://betterprogramming.pub/when-and-when-not-to-use-functional-programming-73dbcb5d0a85)
+ 
  ## Camping day - 2021-03-20
  ###### Published
  - [generic-tree/python-package](https://pypi.org/project/generic-tree/0.0.1/)
