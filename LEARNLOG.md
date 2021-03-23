@@ -7,6 +7,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+ ## She talked to me out of nowhere - 2021-03-23
+ ##### Read
+ - PyPA: [The Internal Structure of Python Eggs](https://setuptools.readthedocs.io/en/latest/deprecated/python_eggs.html)
+ - PyPA: [Setuptools - Command Reference](https://setuptools.readthedocs.io/en/latest/userguide/commands.html)
  
  ## Got in sharkcity - 2021-03-22
  ##### Read
