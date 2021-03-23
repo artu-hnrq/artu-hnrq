@@ -10,7 +10,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
  
  ## Got in sharkcity - 2021-03-22
  ##### Read
- - PyPA: [pip install][https://pip.pypa.io/en/latest/reference/pip_install/]
+ - PyPA: [pip install](https://pip.pypa.io/en/latest/reference/pip_install/)
+
+##### Checked
+- PyPA: [Why does “python setup.py sdist” create unwanted “PROJECT-egg.info” in project root directory?](https://stackoverflow.com/a/3780822/2989289)
+- PyPA: [Allow to customize location of .eggs directory](https://github.com/pypa/setuptools/issues/1854)
  
  ## Every day is precious - 2021-03-21
  ##### Read
