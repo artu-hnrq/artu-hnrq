@@ -8,6 +8,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+ ## Got in Urubici - 2021-03-24
+ - Firebase: [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe)
+
  ## She talked to me out of nowhere - 2021-03-23
  ##### Read
  - PyPA: [The Internal Structure of Python Eggs](https://setuptools.readthedocs.io/en/latest/deprecated/python_eggs.html)
