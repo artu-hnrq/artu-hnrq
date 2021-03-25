@@ -8,6 +8,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+ ## Getting colder - 2021-03-25
+ ##### Answered
+ - [How to start using automatically generated changelog with old commit history present](https://stackoverflow.com/a/66803485/2989289)
+
  ## Got in Urubici - 2021-03-24
  - Firebase: [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe)
  - Firebase: [Django Authentication Project with Firebase](https://www.google.com/amp/s/www.geeksforgeeks.org/django-authentication-project-with-firebase/amp/)
