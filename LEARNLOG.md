@@ -15,6 +15,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
  - [How to start using automatically generated changelog with old commit history present](https://stackoverflow.com/a/66803485/2989289)
 
  ## Got in Urubici - 2021-03-24
+ ##### Read
  - Firebase: [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe)
  - Firebase: [Django Authentication Project with Firebase](https://www.google.com/amp/s/www.geeksforgeeks.org/django-authentication-project-with-firebase/amp/)
  - Firebase: [Pyrebase — Firebase in Flask](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
