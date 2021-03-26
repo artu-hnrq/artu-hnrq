@@ -9,6 +9,8 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
   
  ## Getting colder - 2021-03-25
+ ##### Read
+ - [Tudo sobre a Plataforma Binamik](https://binamiktecnologia.medium.com/tudo-sobre-a-plataforma-binamik-3b442820ab0c)
  ##### Answered
  - [How to start using automatically generated changelog with old commit history present](https://stackoverflow.com/a/66803485/2989289)
 
