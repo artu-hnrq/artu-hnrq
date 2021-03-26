@@ -8,6 +8,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+ ## Nomad workspace set up - 2021-03-26
+ ##### Read
+ - Django: [Class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/)
+ - Django: [Introduction to class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/intro/)
+ - Django: [Built-in class-based generic views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/)
+ - Django: [Built-in class-based views API](https://docs.djangoproject.com/en/3.1/ref/class-based-views/)
+  
  ## Getting colder - 2021-03-25
  ##### Read
  - [Tudo sobre a Plataforma Binamik](https://binamiktecnologia.medium.com/tudo-sobre-a-plataforma-binamik-3b442820ab0c)
