@@ -8,16 +8,26 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+ ## Great development starts in the beginning of sunny saturdays - 2021-03-27
+ ##### Read
+ - Git: [A Tutorial for Tagging Releases in Git](https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e)
+ - Github: [Creating github actions in python](https://jacobtomlinson.dev/posts/2019/creating-github-actions-in-python/)
+ - PyPA: [Building and Uploading to PyPI](https://python-packaging-tutorial.readthedocs.io/en/latest/uploading_pypi.html)
+  
  ## Nomad workspace set up - 2021-03-26
  ##### Read
  - Django: [Class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/)
  - Django: [Introduction to class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/intro/)
  - Django: [Built-in class-based generic views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/)
  - Django: [Built-in class-based views API](https://docs.djangoproject.com/en/3.1/ref/class-based-views/)
+
+ ##### Sourced
+ - [action-gh-release](https://github.com/softprops/action-gh-release): GitHub Action for creating GitHub Releases
   
  ## Getting colder - 2021-03-25
  ##### Read
  - [Tudo sobre a Plataforma Binamik](https://binamiktecnologia.medium.com/tudo-sobre-a-plataforma-binamik-3b442820ab0c)
+ 
  ##### Answered
  - [How to start using automatically generated changelog with old commit history present](https://stackoverflow.com/a/66803485/2989289)
 
