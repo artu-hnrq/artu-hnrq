@@ -11,8 +11,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
  ## Great development starts in the beginning of sunny saturdays - 2021-03-27
  ##### Read
  - Git: [A Tutorial for Tagging Releases in Git](https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e)
- - Github: [Creating github actions in python](https://jacobtomlinson.dev/posts/2019/creating-github-actions-in-python/)
  - PyPA: [Building and Uploading to PyPI](https://python-packaging-tutorial.readthedocs.io/en/latest/uploading_pypi.html)
+ - Github: [Creating github actions in python](https://jacobtomlinson.dev/posts/2019/creating-github-actions-in-python/)
+ - Github: [Using Github Actions to Automate Our Release Process](https://riggaroo.dev/using-github-actions-to-automate-our-release-process/)
+
+ ##### Checked
+ - [Github action to release when tagged](https://stackoverflow.com/a/63932790/2989289)
   
  ## Nomad workspace set up - 2021-03-26
  ##### Read
