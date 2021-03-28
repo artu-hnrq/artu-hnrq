@@ -14,6 +14,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
  - PyPA: [Building and Uploading to PyPI](https://python-packaging-tutorial.readthedocs.io/en/latest/uploading_pypi.html)
  - Github: [Creating github actions in python](https://jacobtomlinson.dev/posts/2019/creating-github-actions-in-python/)
  - Github: [Using Github Actions to Automate Our Release Process](https://riggaroo.dev/using-github-actions-to-automate-our-release-process/)
+ - OOP: [5 Principles to write SOLID Code](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
 
  ##### Checked
  - [Github action to release when tagged](https://stackoverflow.com/a/63932790/2989289)
