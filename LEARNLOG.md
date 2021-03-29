@@ -8,6 +8,14 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+ ## After full moon midnight enverything glitters - 2021-03-28
+ ##### Read
+ - CircleCI: [Docs - Python language](https://circleci.com/docs/2.0/language-python/)
+ - Github: [Actions cheat sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf)
+
+ ##### Checked
+ - [Sharing steps between jobs and jobs between workflows](https://github.community/t/sharing-steps-between-jobs-and-jobs-between-workflows/17751/6)
+  
  ## Great development starts in the beginning of sunny saturdays - 2021-03-27
  ##### Read
  - Git: [A Tutorial for Tagging Releases in Git](https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e)
