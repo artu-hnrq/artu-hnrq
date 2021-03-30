@@ -8,72 +8,79 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
- ## After full moon midnight enverything glitters - 2021-03-28
- ##### Read
- - CircleCI: [Docs - Python language](https://circleci.com/docs/2.0/language-python/)
- - Github: [Actions cheat sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf)
+## At an orange cabin - 2021-03-30
+##### Read
+- 12Factor: [How I Use the Twelve-Factor App Methodology for Building SaaS Applications with Java & Scala](https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908)
 
- ##### Checked
- - [Sharing steps between jobs and jobs between workflows](https://github.community/t/sharing-steps-between-jobs-and-jobs-between-workflows/17751/6)
-  
- ## Great development starts in the beginning of sunny saturdays - 2021-03-27
- ##### Read
- - Git: [A Tutorial for Tagging Releases in Git](https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e)
- - PyPA: [Building and Uploading to PyPI](https://python-packaging-tutorial.readthedocs.io/en/latest/uploading_pypi.html)
- - Github: [Creating github actions in python](https://jacobtomlinson.dev/posts/2019/creating-github-actions-in-python/)
- - Github: [Using Github Actions to Automate Our Release Process](https://riggaroo.dev/using-github-actions-to-automate-our-release-process/)
- - OOP: [5 Principles to write SOLID Code](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
- - Python: [5 Python Debugging Tools That Are Better Than “Print”](https://towardsdatascience.com/5-python-debugging-tools-that-are-better-than-print-1aa02eba35)
+##### Sourced
+- GoogleCloudPlatform / [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus
 
- ##### Checked
- - [Github action to release when tagged](https://stackoverflow.com/a/63932790/2989289)
-  
- ## Nomad workspace set up - 2021-03-26
- ##### Read
- - Django: [Class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/)
- - Django: [Introduction to class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/intro/)
- - Django: [Built-in class-based generic views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/)
- - Django: [Built-in class-based views API](https://docs.djangoproject.com/en/3.1/ref/class-based-views/)
+## After full moon midnight enverything glitters - 2021-03-28
+##### Read
+- CircleCI: [Docs - Python language](https://circleci.com/docs/2.0/language-python/)
+- Github: [Actions cheat sheet](https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.pdf)
 
- ##### Sourced
- - [action-gh-release](https://github.com/softprops/action-gh-release): GitHub Action for creating GitHub Releases
-  
- ## Getting colder - 2021-03-25
- ##### Read
- - [Tudo sobre a Plataforma Binamik](https://binamiktecnologia.medium.com/tudo-sobre-a-plataforma-binamik-3b442820ab0c)
- 
- ##### Answered
- - [How to start using automatically generated changelog with old commit history present](https://stackoverflow.com/a/66803485/2989289)
+##### Checked
+- [Sharing steps between jobs and jobs between workflows](https://github.community/t/sharing-steps-between-jobs-and-jobs-between-workflows/17751/6)
 
- ## Got in Urubici - 2021-03-24
- ##### Read
- - Firebase: [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe)
- - Firebase: [Django Authentication Project with Firebase](https://www.google.com/amp/s/www.geeksforgeeks.org/django-authentication-project-with-firebase/amp/)
- - Firebase: [Pyrebase — Firebase in Flask](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
+## Great development starts in the beginning of sunny saturdays - 2021-03-27
+##### Read
+- Git: [A Tutorial for Tagging Releases in Git](https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e)
+- PyPA: [Building and Uploading to PyPI](https://python-packaging-tutorial.readthedocs.io/en/latest/uploading_pypi.html)
+- Github: [Creating github actions in python](https://jacobtomlinson.dev/posts/2019/creating-github-actions-in-python/)
+- Github: [Using Github Actions to Automate Our Release Process](https://riggaroo.dev/using-github-actions-to-automate-our-release-process/)
+- OOP: [5 Principles to write SOLID Code](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
+- Python: [5 Python Debugging Tools That Are Better Than “Print”](https://towardsdatascience.com/5-python-debugging-tools-that-are-better-than-print-1aa02eba35)
 
- ## She talked to me out of nowhere - 2021-03-23
- ##### Read
- - PyPA: [The Internal Structure of Python Eggs](https://setuptools.readthedocs.io/en/latest/deprecated/python_eggs.html)
- - PyPA: [Setuptools - Command Reference](https://setuptools.readthedocs.io/en/latest/userguide/commands.html)
- 
- ## Got in sharkcity - 2021-03-22
- ##### Read
- - PyPA: [pip install](https://pip.pypa.io/en/latest/reference/pip_install/)
+##### Checked
+- [Github action to release when tagged](https://stackoverflow.com/a/63932790/2989289)
+
+## Nomad workspace set up - 2021-03-26
+##### Read
+- Django: [Class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/)
+- Django: [Introduction to class-based views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/intro/)
+- Django: [Built-in class-based generic views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/)
+- Django: [Built-in class-based views API](https://docs.djangoproject.com/en/3.1/ref/class-based-views/)
+
+##### Sourced
+- [action-gh-release](https://github.com/softprops/action-gh-release): GitHub Action for creating GitHub Releases
+
+## Getting colder - 2021-03-25
+##### Read
+- [Tudo sobre a Plataforma Binamik](https://binamiktecnologia.medium.com/tudo-sobre-a-plataforma-binamik-3b442820ab0c)
+
+##### Answered
+- [How to start using automatically generated changelog with old commit history present](https://stackoverflow.com/a/66803485/2989289)
+
+## Got in Urubici - 2021-03-24
+##### Read
+- Firebase: [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe)
+- Firebase: [Django Authentication Project with Firebase](https://www.google.com/amp/s/www.geeksforgeeks.org/django-authentication-project-with-firebase/amp/)
+- Firebase: [Pyrebase — Firebase in Flask](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
+
+## She talked to me out of nowhere - 2021-03-23
+##### Read
+- PyPA: [The Internal Structure of Python Eggs](https://setuptools.readthedocs.io/en/latest/deprecated/python_eggs.html)
+- PyPA: [Setuptools - Command Reference](https://setuptools.readthedocs.io/en/latest/userguide/commands.html)
+
+## Got in sharkcity - 2021-03-22
+##### Read
+- PyPA: [pip install](https://pip.pypa.io/en/latest/reference/pip_install/)
 
 ##### Checked
 - PyPA: [Why does “python setup.py sdist” create unwanted “PROJECT-egg.info” in project root directory?](https://stackoverflow.com/a/3780822/2989289)
 - PyPA: [Allow to customize location of .eggs directory](https://github.com/pypa/setuptools/issues/1854)
- 
- ## Every day is precious - 2021-03-21
- ##### Read
- - Postman: [Data driven testing per request without using data file](https://praveendavidmathew.medium.com/data-driven-testing-per-request-without-using-data-file-aeb573b4f63a)
- - Github: [Stop re-writing pipelines! Why GitHub Actions drive the future of CI/CD](https://blog.codecentric.de/en/2021/03/github-actions-nextgen-cicd/)
- - Medium: [When To and When Not To Use Functional Programming](https://betterprogramming.pub/when-and-when-not-to-use-functional-programming-73dbcb5d0a85)
- 
- ## Camping day - 2021-03-20
- ###### Published
- - [generic-tree/python-package](https://pypi.org/project/generic-tree/0.0.1/)
-  
+
+## Every day is precious - 2021-03-21
+##### Read
+- Postman: [Data driven testing per request without using data file](https://praveendavidmathew.medium.com/data-driven-testing-per-request-without-using-data-file-aeb573b4f63a)
+- Github: [Stop re-writing pipelines! Why GitHub Actions drive the future of CI/CD](https://blog.codecentric.de/en/2021/03/github-actions-nextgen-cicd/)
+- Medium: [When To and When Not To Use Functional Programming](https://betterprogramming.pub/when-and-when-not-to-use-functional-programming-73dbcb5d0a85)
+
+## Camping day - 2021-03-20
+###### Published
+- [generic-tree/python-package](https://pypi.org/project/generic-tree/0.0.1/)
+
 ## Pissed of not fulfilling a commit a day - 2021-03-19
 ##### Read
 - Git: [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
@@ -275,7 +282,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 
 ##### Read
 - Medium: [Microservice Principles: Decentrilized Data Management](https://medium.com/@nathankpeck/microservice-principles-decentralized-data-management-4adaceea173f)
-  
+
 ## Detaching concepts, but gathering purpose - 2021-02-21
 ##### Sourced
 - [sendgrid-Python](https://github.com/sendgrid/sendgrid-python): The Official Twilio SendGrid Led, Community Driven Python API Library
@@ -335,7 +342,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Thinking further on documenting - 2021-02-15
 ##### Read
 - Python: [Implementing an Interface in Python](https://realpython.com/python-interface/)
- 
+
 ##### Checked
 - ReStructuredText: [Quickstart](https://docutils.sourceforge.io/docs/user/rst/quickstart.html)
 - Sphinx: [Getting started](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
