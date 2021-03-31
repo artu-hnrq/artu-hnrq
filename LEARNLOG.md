@@ -13,7 +13,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - 12Factor: [How I Use the Twelve-Factor App Methodology for Building SaaS Applications with Java & Scala](https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908)
 
 ##### Sourced
-- GoogleCloudPlatform / [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus
+- [GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus
 
 ## After full moon midnight enverything glitters - 2021-03-28
 ##### Read
