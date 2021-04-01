@@ -7,6 +7,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## To consecrate ayahuasca - 2021-04-01
+##### Read
+- Django: [Writing your first Django app, part 3](https://docs.djangoproject.com/en/3.1/intro/tutorial03/)
+
+---
 
 ## Finishing pripessoaink flashday service - 2021-03-30
 ##### Read
