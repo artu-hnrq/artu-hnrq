@@ -7,7 +7,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Finishing pripessoaink flashday service - 2021-03-30
+##### Read
+- Git: [3 reasons I use the Git cherry-pick command](https://opensource.com/article/21/3/git-cherry-pick)
+- Git: [Managing Git projects with submodules and subtrees](https://opensource.com/article/20/5/git-submodules-subtrees)
+
 ## At an orange cabin - 2021-03-30
 ##### Read
 - 12Factor: [How I Use the Twelve-Factor App Methodology for Building SaaS Applications with Java & Scala](https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908)
