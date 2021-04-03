@@ -11,6 +11,16 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## All is well - 2021-04-02
 ##### Read
 - GCP: [Installing Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
+- Make: [3.3 Including Other Makefiles](https://www.gnu.org/software/make/manual/html_node/Include.html)
+
+##### Sourced
+- [python-decouple](https://github.com/henriquebastos/python-decouple/): Strict separation of config from code
+
+##### Checked
+- [Check if a makefile exists before including it](https://stackoverflow.com/questions/8346118/check-if-a-makefile-exists-before-including-it/8346208)
+- [Accessing dict/object from Django template](https://stackoverflow.com/questions/19444929/accessing-dict-object-from-django-template)
+- [How to make a reusable template in Django?](https://stackoverflow.com/questions/9472034/how-to-make-a-reusable-template-in-django)
+- [Creating .env file on the root of the project](https://stackoverflow.com/questions/43416029/creating-env-file-on-the-root-of-the-project?noredirect=1&lq=1)
 
 ## To consecrate ayahuasca - 2021-04-01
 ##### Read
