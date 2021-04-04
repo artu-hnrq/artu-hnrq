@@ -8,6 +8,16 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## The end of work - 2021-04-03
+##### Read
+- Django: [Admin actions](https://docs.djangoproject.com/en/3.1/ref/contrib/admin/actions/)
+- Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.1/howto/custom-management-commands/)
+- PyPA: [Installing Python packages locally](https://www.depts.ttu.edu/hpcc/userguides/application_guides/python.packages.local_installation.php)
+
+##### Checked
+- [Python argparse regex expression](https://stackoverflow.com/questions/41881002/python-argparse-regex-expression)
+- [Version number in Django applications](https://stackoverflow.com/questions/14590292/version-number-in-django-applications)
+
 ## All is well - 2021-04-02
 ##### Read
 - GCP: [Installing Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
