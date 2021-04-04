@@ -8,8 +8,24 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Open your heart - 2021-04-04
+##### Read
+- Django: [Splitting up the settings file](https://code.djangoproject.com/wiki/SplitSettings)
+- Webpack: [Using Webpack transparently with Django](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
+- Django: [Applications](https://docs.djangoproject.com/en/2.2/ref/applications/)
+- Django: [Managing Django’s settings](https://sobolevn.me/2017/04/managing-djangos-settings)
+
+##### Sourced
+- [django-split-settings](https://github.com/sobolevn/django-split-settings): Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files
+
+##### Checked
+- [Django settings per application - best practice?](https://stackoverflow.com/questions/22386580/django-settings-per-application-best-practice)
+- [Check if a template exists within a Django template](https://stackoverflow.com/a/18951166/2989289)
+
 ## The end of work - 2021-04-03
 ##### Read
+- Django: [Writing your first Django app, part 6](https://docs.djangoproject.com/en/3.1/intro/tutorial06/)
+- Django: [Writing your first Django app, part 7](https://docs.djangoproject.com/en/3.1/intro/tutorial07/)
 - Django: [Admin actions](https://docs.djangoproject.com/en/3.1/ref/contrib/admin/actions/)
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.1/howto/custom-management-commands/)
 - PyPA: [Installing Python packages locally](https://www.depts.ttu.edu/hpcc/userguides/application_guides/python.packages.local_installation.php)
@@ -17,6 +33,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Checked
 - [Python argparse regex expression](https://stackoverflow.com/questions/41881002/python-argparse-regex-expression)
 - [Version number in Django applications](https://stackoverflow.com/questions/14590292/version-number-in-django-applications)
+- [How to get an ImageField URL within a template?](https://stackoverflow.com/questions/8850535/how-to-get-an-imagefield-url-within-a-template)
 
 ## All is well - 2021-04-02
 ##### Read
