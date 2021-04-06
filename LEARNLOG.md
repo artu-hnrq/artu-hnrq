@@ -8,10 +8,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Nelogica first day of work - 2021-05-05
+## Nelogica's first day of work - 2021-05-05
 ##### Read
 - Django: [Custom template tags and filters](https://docs.djangoproject.com/en/3.1/howto/custom-template-tags/)
 - Django: [Building a Custom Block Template Tag](https://www.caktusgroup.com/blog/2017/05/01/building-custom-block-template-tag/)
+
+##### Checked
+- Django: [Inclusion_tag with multiple arguments](https://stackoverflow.com/questions/12338882/django-inclusion-tag-with-multiple-arguments)
 
 
 ## Open your heart - 2021-04-04
