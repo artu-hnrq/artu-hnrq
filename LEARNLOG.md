@@ -8,7 +8,20 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Nelogica's first day of work - 2021-05-05
+## Maybe the last dawn working in Flashday - 2021-04-06
+##### Read
+- Django: [Signals](https://docs.djangoproject.com/en/3.1/topics/signals/)
+- Django: [Signals - master pre_save and post_save](https://medium.com/@singhgautam7/django-signals-master-pre-save-and-post-save-422889b2839)
+
+##### Sourced
+- [python-stringcase](https://github.com/okunishinishi/python-stringcase): String case converter for python
+- [inflection](https://github.com/jpvanhal/inflection): A port of Ruby on Rails' inflector to Python
+
+##### Checked
+- Django: [Can I use a custom tag inside an Django if block?](https://stackoverflow.com/a/36765084/2989289)
+- Django: (https://stackoverflow.com/a/1176023/2989289)
+
+## Nelogica's first day of work - 2021-04-05
 ##### Read
 - Django: [Custom template tags and filters](https://docs.djangoproject.com/en/3.1/howto/custom-template-tags/)
 - Django: [Building a Custom Block Template Tag](https://www.caktusgroup.com/blog/2017/05/01/building-custom-block-template-tag/)
