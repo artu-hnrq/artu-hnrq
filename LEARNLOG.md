@@ -12,6 +12,8 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Read
 - Django: [Signals](https://docs.djangoproject.com/en/3.1/topics/signals/)
 - Django: [Signals - master pre_save and post_save](https://medium.com/@singhgautam7/django-signals-master-pre-save-and-post-save-422889b2839)
+- Django: [Many-to-one relationships](https://docs.djangoproject.com/en/3.1/topics/db/examples/many_to_one/)
+- Django: [Many-to-many relationships](https://docs.djangoproject.com/en/3.1/topics/db/examples/many_to_many/)
 
 ##### Sourced
 - [python-stringcase](https://github.com/okunishinishi/python-stringcase): String case converter for python
@@ -19,7 +21,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 
 ##### Checked
 - Django: [Can I use a custom tag inside an Django if block?](https://stackoverflow.com/a/36765084/2989289)
-- Django: (https://stackoverflow.com/a/1176023/2989289)
+- Django: [Elegant Python function to convert CamelCase to snake_case?](https://stackoverflow.com/a/1176023/2989289)
 
 ## Nelogica's first day of work - 2021-04-05
 ##### Read
