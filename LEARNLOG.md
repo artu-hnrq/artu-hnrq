@@ -7,6 +7,14 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Yesterday I was wrong - 2021-04-07
+##### Read
+- GCP: [Running Django on the App Engine standard environment](https://cloud.google.com/python/django/appengine)
+- GCP: [Deploying a Django Application to Google App Engine](https://bennettgarner.medium.com/deploying-a-django-application-to-google-app-engine-f9c91a30bd35)
+
+##### Checked
+- Linux: [How to find a directory on linux?](https://superuser.com/questions/327762/how-to-find-a-directory-on-linux)
 
 ## Maybe the last dawn working in Flashday - 2021-04-06
 ##### Read
