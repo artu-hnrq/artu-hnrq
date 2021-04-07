@@ -14,8 +14,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - GCP: [Deploying a Django Application to Google App Engine](https://bennettgarner.medium.com/deploying-a-django-application-to-google-app-engine-f9c91a30bd35)
 
 ##### Whatched
+- Git: [What is Interactive Rebase](https://youtu.be/JkpYvXdbnfQ) - GitKraken
 - Git: [What is Git Rebase?](https://youtu.be/_UZEXUrj-Ds) - GitKraken
 - Git: [Git Cherry Pick Example](https://youtu.be/WkCnqBhCy4o) - GitKraken
+- Git: [Merge vs Rebase](https://youtu.be/xot40u-_1FI) - GitKraken
 
 ##### Checked
 - Linux: [How to find a directory on linux?](https://superuser.com/questions/327762/how-to-find-a-directory-on-linux)
