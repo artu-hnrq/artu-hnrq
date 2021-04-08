@@ -7,13 +7,17 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Cloudy-rainy-enchanting day - 2021-04-08
+##### Checked
+- GCP: [How to set up a staging environment on Google App Engine](https://stackoverflow.com/questions/3793860/how-to-set-up-a-staging-environment-on-google-app-engine)
+
 ## Yesterday I was wrong - 2021-04-07
 ##### Read
 - GCP: [Running Django on the App Engine standard environment](https://cloud.google.com/python/django/appengine)
 - GCP: [Deploying a Django Application to Google App Engine](https://bennettgarner.medium.com/deploying-a-django-application-to-google-app-engine-f9c91a30bd35)
 
-##### Whatched
+##### Watched
 - Git: [What is Interactive Rebase](https://youtu.be/JkpYvXdbnfQ) - GitKraken
 - Git: [What is Git Rebase?](https://youtu.be/_UZEXUrj-Ds) - GitKraken
 - Git: [Git Cherry Pick Example](https://youtu.be/WkCnqBhCy4o) - GitKraken
