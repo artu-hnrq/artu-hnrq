@@ -8,7 +8,18 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## What a wanderful fridayed world - 2021-04-09
+##### Discovered
+-SSG: [hugo-book](https://themes.gohugo.io//theme/hugo-book/)
+
+##### Sourced
+[hugo-book](https://github.com/alex-shpak/hugo-book): Hugo documentation theme as simple as plain book
+
 ## Cloudy-rainy-enchanting day - 2021-04-08
+##### Read
+- SSG: [Using Gitbook to document an open source project](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba)
+- SSG: [Setup and Installation of GitBook](https://snowdreams1006.github.io/gitbook-official/en/setup.html)
+
 ##### Checked
 - GCP: [How to set up a staging environment on Google App Engine](https://stackoverflow.com/questions/3793860/how-to-set-up-a-staging-environment-on-google-app-engine)
 
