@@ -15,10 +15,16 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Sourced
 [hugo-book](https://github.com/alex-shpak/hugo-book): Hugo documentation theme as simple as plain book
 
+##### Checked
+- [How to import a markdown file from github into local gitbook](https://stackoverflow.com/questions/42248880/how-to-import-a-markdown-file-from-github-into-local-gitbook)
+
 ## Cloudy-rainy-enchanting day - 2021-04-08
 ##### Read
 - SSG: [Using Gitbook to document an open source project](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba)
 - SSG: [Setup and Installation of GitBook](https://snowdreams1006.github.io/gitbook-official/en/setup.html)
+
+##### Sourced
+[gitbook-cli](https://github.com/GitbookIO/gitbook-cli): GitBook's command line interface
 
 ##### Checked
 - GCP: [How to set up a staging environment on Google App Engine](https://stackoverflow.com/questions/3793860/how-to-set-up-a-staging-environment-on-google-app-engine)
