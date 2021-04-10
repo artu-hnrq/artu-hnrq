@@ -8,9 +8,16 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## There's calm, connection and abundance- 2021-04-10
+##### Checked
+- PyCharm: [Launch Pycharm from command line (terminal)](https://stackoverflow.com/a/27163648/2989289)
+- SaaS: [Possible to host a django site on github pages?](https://stackoverflow.com/a/32541919/2989289)
+- Linux: [What is the difference between “#!/usr/bin/env bash” and “#!/usr/bin/bash”?](https://stackoverflow.com/q/16365130/2989289)
+- Delphi: [What is the easiest/most effective way to learn Delphi?](https://stackoverflow.com/a/4305608/2989289)
+
 ## What a wanderful fridayed world - 2021-04-09
 ##### Discovered
--SSG: [hugo-book](https://themes.gohugo.io//theme/hugo-book/)
+- SSG: [hugo-book](https://themes.gohugo.io//theme/hugo-book/)
 
 ##### Sourced
 [hugo-book](https://github.com/alex-shpak/hugo-book): Hugo documentation theme as simple as plain book
