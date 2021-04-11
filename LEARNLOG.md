@@ -12,6 +12,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Sourced
 - [mkdocs](https://github.com/mkdocs/mkdocs/): Project documentation with Markdown
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material): https://github.com/squidfunk/mkdocs-material
+- [fastapi](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ##### Checked
 - PyCharm: [Launch Pycharm from command line (terminal)](https://stackoverflow.com/a/27163648/2989289)
