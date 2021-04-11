@@ -9,6 +9,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## There's calm, connection and abundance- 2021-04-10
+##### Sourced
+- [mkdocs](https://github.com/mkdocs/mkdocs/): Project documentation with Markdown
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material): https://github.com/squidfunk/mkdocs-material
+
 ##### Checked
 - PyCharm: [Launch Pycharm from command line (terminal)](https://stackoverflow.com/a/27163648/2989289)
 - SaaS: [Possible to host a django site on github pages?](https://stackoverflow.com/a/32541919/2989289)
