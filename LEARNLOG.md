@@ -7,6 +7,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Publishing my first (Git)book - 2021-04-11
+##### Read
+- [Using Gitbook to document an open source project](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba)
+- [Create your eBook with Gitbook](https://www.programmersought.com/article/85231725575/)
 
 ## There's calm, connection and abundance- 2021-04-10
 ##### Sourced
