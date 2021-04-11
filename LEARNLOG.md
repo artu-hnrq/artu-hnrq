@@ -13,6 +13,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - [Using Gitbook to document an open source project](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba)
 - [Create your eBook with Gitbook](https://www.programmersought.com/article/85231725575/)
 
+#### Checked
+- Gnome: [find out the size of open terminal](https://unix.stackexchange.com/q/197160/364080)
+- Gnome: [Set default terminal size and screen position?](https://superuser.com/questions/72176/linux-set-default-terminal-size-and-screen-position)
+- Gnome: [How can I set the position that terminal opens at?](https://unix.stackexchange.com/q/48984/364080)
+
 ## There's calm, connection and abundance- 2021-04-10
 ##### Sourced
 - [mkdocs](https://github.com/mkdocs/mkdocs/): Project documentation with Markdown
