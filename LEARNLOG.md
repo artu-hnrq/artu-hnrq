@@ -8,6 +8,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Powershelling out loud - 2021-04-12
+##### Checked
+- [How to copy text from PowerShell](https://superuser.com/a/302034/1063603)
+- [Is it possible to open a Windows Explorer window from PowerShell?](https://stackoverflow.com/a/321092/2989289)
+- [Terminating a script in PowerShell](https://stackoverflow.com/a/2022469/2989289)
+  
 ## Publishing my first (Git)book - 2021-04-11
 ##### Read
 - [Using Gitbook to document an open source project](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba)
