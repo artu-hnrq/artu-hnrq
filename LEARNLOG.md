@@ -7,7 +7,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## My dad's birthday - 2021-04-13
+
 ## Powershelling out loud - 2021-04-12
 ##### Sourced
 - [django-graphql-auth](https://github.com/PedroBern/django-graphql-auth): Django registration and authentication with GraphQL
