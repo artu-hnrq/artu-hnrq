@@ -9,6 +9,8 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## My dad's birthday - 2021-04-13
+##### Checked
+- Windows: [GNOME-like workspaces for Windows](https://superuser.com/q/568403/1063603)
 
 ## Powershelling out loud - 2021-04-12
 ##### Sourced
