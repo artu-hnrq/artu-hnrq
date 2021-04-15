@@ -8,6 +8,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Business dinner night - 2021-04-15
+##### Read
+- Powershell: [Customizing your PowerShell Profile](https://www.howtogeek.com/50236/customizing-your-powershell-profile/)
+
+##### Checked
+- Powershell: [Creating hard and soft links using PowerShell'](https://stackoverflow.com/a/34905638/2989289)
+
 ## My dad's birthday - 2021-04-13
 ##### Checked
 - Windows: [GNOME-like workspaces for Windows](https://superuser.com/q/568403/1063603)
