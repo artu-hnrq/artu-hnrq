@@ -8,6 +8,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Another work friday - 2021-04-16
+##### Sourced
+- [pynput](https://github.com/moses-palmer/pynput): Sends virtual input commands
+
+##### Checked
+- Python: [Key Listeners in python?](https://stackoverflow.com/a/43106497/2989289)
+
 ## Business dinner night - 2021-04-15
 ##### Read
 - Powershell: [Customizing your PowerShell Profile](https://www.howtogeek.com/50236/customizing-your-powershell-profile/)
