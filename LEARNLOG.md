@@ -10,8 +10,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 
 
 ## I missed commit daily continuity - 2021-04-19
+##### Read
+- Django: [Applications](https://docs.djangoproject.com/en/3.2/ref/applications/)
+
 ##### Checked
 - Git: [How to “git clone” including submodules?](https://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules)
+- Git: [How can I add a specific folder from a git repo as a git submodule?](https://stackoverflow.com/a/3158819/2989289)
+- Git: [How to change a git submodule to point to a subfolder?](https://stackoverflow.com/questions/5303496/how-to-change-a-git-submodule-to-point-to-a-subfolder#comment5984147_5303496)
 
 ## Another work friday - 2021-04-16
 ##### Sourced
