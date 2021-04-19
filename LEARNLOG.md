@@ -8,6 +8,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+
+## I missed commit daily continuity - 2021-04-19
+##### Checked
+- Git: [How to “git clone” including submodules?](https://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules)
+
 ## Another work friday - 2021-04-16
 ##### Sourced
 - [pynput](https://github.com/moses-palmer/pynput): Sends virtual input commands
