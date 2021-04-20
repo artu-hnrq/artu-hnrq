@@ -11,6 +11,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Ikigai sprint morning - 2021-04-20
 ##### Read
 - Django: [Localizing your app with translations](http://django-standalone-apps.com/part3/translate.html)
+- Django: [Configurable Applications](https://djangopatterns.readthedocs.io/en/latest/configuration/configure_app.html)
 
 ## I missed commit daily continuity - 2021-04-19
 ##### Read
