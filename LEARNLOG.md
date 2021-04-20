@@ -8,6 +8,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Ikigai sprint morning - 2021-04-20
+##### Read
+- Django: [Localizing your app with translations](http://django-standalone-apps.com/part3/translate.html)
 
 ## I missed commit daily continuity - 2021-04-19
 ##### Read
