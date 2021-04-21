@@ -11,11 +11,18 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Unexpected holiday - 2021-04-21
 ##### Read
 - Git: [Git subtree basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
+- Python: [The easy way to deal with file paths on Windows, Mac and Linux](https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f)
+- Django: [How to set up environment variables in Django](https://alicecampkin.medium.com/how-to-set-up-environment-variables-in-django-f3c4db78c55f)
 
-#### Sourced
+##### Study
+- Python: [pathlib](https://docs.python.org/3/library/pathlib.html): Object-oriented filesystem paths
+
+##### Sourced
 - [django-allauth](https://github.com/pennersr/django-allauth): Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication
+- [django-environ](https://github.com/joke2k/django-environ): Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application
 
 ##### Checked
+- Django: [dynamically loading django apps at runtime](https://stackoverflow.com/a/56328505/2989289)
 - Git: [Syntax for Git aliases with multiple commands](https://stackoverflow.com/a/21630891/2989289)
 
 ## Ikigai sprint morning - 2021-04-20
