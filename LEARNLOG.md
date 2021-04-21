@@ -12,12 +12,18 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Read
 - Git: [Git subtree basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
 
+#### Sourced
+- [django-allauth](https://github.com/pennersr/django-allauth): Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication
+
+##### Checked
+- Git: [Syntax for Git aliases with multiple commands](https://stackoverflow.com/a/21630891/2989289)
+
 ## Ikigai sprint morning - 2021-04-20
 ##### Read
 - PythonAnywhere: [Deploying an existing Django project](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/)
 - Django: [Localizing your app with translations](http://django-standalone-apps.com/part3/translate.html)
 - Django: [Configurable Applications](https://djangopatterns.readthedocs.io/en/latest/configuration/configure_app.html)
-- Django: [](https://docs.djangoproject.com/en/3.2/ref/applications/)
+- Django: [Aplications](https://docs.djangoproject.com/en/3.2/ref/applications/)
 
 ##### Sourced
 - [django-appconf](https://github.com/django-compressor/django-appconf): An app to handle configuration defaults of packaged Django apps gracefully
