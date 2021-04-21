@@ -8,11 +8,23 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Unexpected holiday - 2021-04-21
+##### Read
+- Git: [Git subtree basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
+
 ## Ikigai sprint morning - 2021-04-20
 ##### Read
 - PythonAnywhere: [Deploying an existing Django project](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/)
 - Django: [Localizing your app with translations](http://django-standalone-apps.com/part3/translate.html)
 - Django: [Configurable Applications](https://djangopatterns.readthedocs.io/en/latest/configuration/configure_app.html)
+- Django: [](https://docs.djangoproject.com/en/3.2/ref/applications/)
+
+##### Sourced
+- [django-appconf](https://github.com/django-compressor/django-appconf): An app to handle configuration defaults of packaged Django apps gracefully
+
+##### Checked
+- Django: [App specific default settings in Django?](https://stackoverflow.com/q/21162074/2989289)
+- Django: [Django default settings convention for pluggable app?](https://stackoverflow.com/a/47154840/2989289)
 
 ## I missed commit daily continuity - 2021-04-19
 ##### Read
