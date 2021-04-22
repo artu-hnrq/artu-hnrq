@@ -15,6 +15,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 - Django: [django.urls functions for use in URLconf](https://docs.djangoproject.com/en/3.2/ref/urls/)
 - Git: [.gitconfig](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
+##### Checked
+- Powershell: [bash aliases equivalent for powershell?](https://superuser.com/a/516704/1063603)
+
 ## Unexpected holiday - 2021-04-21
 ##### Read
 - Git: [Git subtree basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
@@ -32,7 +35,6 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Checked
 - Django: [dynamically loading django apps at runtime](https://stackoverflow.com/a/56328505/2989289)
 - Git: [Syntax for Git aliases with multiple commands](https://stackoverflow.com/a/21630891/2989289)
-- Powershell: [bash aliases equivalent for powershell?](https://superuser.com/a/516704/1063603)
 
 ## Ikigai sprint morning - 2021-04-20
 ##### Read
