@@ -8,13 +8,18 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Resuming energies - 2021-04-22
+##### Studied
+PyPA: [Creating and discovering plugins](https://packaging.python.org/guides/creating-and-discovering-plugins/)
+
 ## Unexpected holiday - 2021-04-21
 ##### Read
 - Git: [Git subtree basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
+- Python: [weakref](https://docs.python.org/3/library/weakref.html): Weak references
 - Python: [The easy way to deal with file paths on Windows, Mac and Linux](https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f)
 - Django: [How to set up environment variables in Django](https://alicecampkin.medium.com/how-to-set-up-environment-variables-in-django-f3c4db78c55f)
 
-##### Study
+##### Studied
 - Python: [pathlib](https://docs.python.org/3/library/pathlib.html): Object-oriented filesystem paths
 
 ##### Sourced
