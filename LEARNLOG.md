@@ -11,6 +11,8 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Resuming energies - 2021-04-22
 ##### Studied
 PyPA: [Creating and discovering plugins](https://packaging.python.org/guides/creating-and-discovering-plugins/)
+Django: [URL dispatcher](https://docs.djangoproject.com/en/3.2/topics/http/urls/)
+django: [django.urls functions for use in URLconf](https://docs.djangoproject.com/en/3.2/ref/urls/)
 
 ## Unexpected holiday - 2021-04-21
 ##### Read
