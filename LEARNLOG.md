@@ -32,6 +32,7 @@ Git: [.gitconfig](https://www.atlassian.com/git/tutorials/setting-up-a-repositor
 ##### Checked
 - Django: [dynamically loading django apps at runtime](https://stackoverflow.com/a/56328505/2989289)
 - Git: [Syntax for Git aliases with multiple commands](https://stackoverflow.com/a/21630891/2989289)
+- Powershell: [bash aliases equivalent for powershell?](https://superuser.com/a/516704/1063603)
 
 ## Ikigai sprint morning - 2021-04-20
 ##### Read
