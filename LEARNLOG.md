@@ -8,6 +8,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Another friday in calendar - 2021-04-23
+##### Studied
+- Git: [A git guide from Github](https://github.com/git-guides/)
+
+##### Checked
+- Git: [Git cheat sheet](https://www.atlassian.com/br/git/tutorials/atlassian-git-cheatsheet)
+
 ## Resuming energies - 2021-04-22
 ##### Studied
 - PyPA: [Creating and discovering plugins](https://packaging.python.org/guides/creating-and-discovering-plugins/)
