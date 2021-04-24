@@ -8,6 +8,19 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Opening space to more oriented dedication - 2021-04-24
+##### Read
+- Python: [List Modules, Search Path, Loaded Modules](http://xahlee.info/python/standard_modules.html)
+
+##### Studied
+- Python: [inspect](https://docs.python.org/3/library/inspect.html)
+- Python: [The import system](https://docs.python.org/3/reference/import.html)
+
+##### Sourced
+- [django-tinymce4-lite](https://github.com/romanvm/django-tinymce4-lite): TinyMCE 4 editor widget for Django
+- [django-tables2](https://github.com/jieter/django-tables2): An app for creating HTML tables
+- [python-decouple](https://github.com/henriquebastos/python-decouple/): Strict separation of config from code.
+
 ## Another friday in calendar - 2021-04-23
 ##### Read
 - Python: [reflection - how to list modules and inspect functions](https://tomassetti.me/python-reflection-how-to-list-modules-and-inspect-functions/)
