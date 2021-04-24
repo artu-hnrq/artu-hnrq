@@ -9,7 +9,8 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Another friday in calendar - 2021-04-23
-##### Studied
+##### Read
+- Python: [reflection - how to list modules and inspect functions](https://tomassetti.me/python-reflection-how-to-list-modules-and-inspect-functions/)
 - Git: [A git guide from Github](https://github.com/git-guides/)
 
 ##### Checked
