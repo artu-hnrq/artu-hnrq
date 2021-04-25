@@ -8,6 +8,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Sunday say ow what a blue sky - 2021-05-25
+- PyCharm: [Named URL tags in Django templates](https://www.jetbrains.com/help/pycharm/cutting-copying-and-pasting.html/completion-and-navigation-for-named-url-tags-in-django-templates.html)
+
 ## Opening space to more oriented dedication - 2021-04-24
 ##### Read
 - Python: [List Modules, Search Path, Loaded Modules](http://xahlee.info/python/standard_modules.html)
