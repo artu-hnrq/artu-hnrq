@@ -9,7 +9,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Sunday say ow what a blue sky - 2021-05-25
+##### Read
 - PyCharm: [Named URL tags in Django templates](https://www.jetbrains.com/help/pycharm/cutting-copying-and-pasting.html/completion-and-navigation-for-named-url-tags-in-django-templates.html)
+
+##### Sourced
+- [django-bulma](https://github.com/timonweb/django-bulma): Bulma theme for Django
+- [django-overextends](https://github.com/stephenmcd/django-overextends): Circular template inheritance for Django
+- [django-ttag](https://github.com/lincolnloop/django-ttag): A template tag constructor library for Django
 
 ## Opening space to more oriented dedication - 2021-04-24
 ##### Read
