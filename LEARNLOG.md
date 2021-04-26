@@ -9,6 +9,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## The increase in targeting begin - 2021-04-26
+##### Discover
+- Code: [Open Source definition](https://opensource.org/docs/osd)
+ 
 ##### Listened
 - PyCharm: [PyCharm and Django](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDg2N2UwMC9wb2RjYXN0L3Jzcw/episode/YmM0MDE2NTAtZTdjYi00NDVhLTgxZGQtYTc0NTRjZWI2ZWFm?sa=X&ved=0CAYQkfYCahcKEwjI2ITB15zwAhUAAAAAHQAAAAAQQw): 
 
