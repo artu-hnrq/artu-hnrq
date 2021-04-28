@@ -11,10 +11,18 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Taking the reins of my professional destiny - 2021-04-28
 ##### Read
 - Atom [Search and Replace with RegEx components in Atom editor](https://stackoverflow.com/a/22367119/2989289)
+- SSG: [How to Publish a Book with GitBook CLI and GitHub Pages](https://hackernoon.com/how-to-publish-a-book-with-gitbook-cli-and-github-pages-in-7-minutes-i61w3wjn)
+
+##### Checked
+- Python: [How to import a module in Python with importlib.import_module](https://stackoverflow.com/a/10675081/2989289)
+- Python: [How to detect method overloading in subclasses in python?](https://stackoverflow.com/questions/9436681/how-to-detect-method-overloading-in-subclasses-in-python)
 
 ## Many doors get opened, beside the windows - 2021-04-27
 ##### Read
 - Git: [Inspecting a repository](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
+
+##### Consulted
+- Python: [importlib](https://docs.python.org/3.10/library/importlib.html#importlib.import_module)
 
 ## The increase in targeting begin - 2021-04-26
 ##### Discover
