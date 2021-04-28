@@ -7,7 +7,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Taking the reins of my professional destiny - 2021-04-28
+##### Read
+- Atom [Search and Replace with RegEx components in Atom editor](https://stackoverflow.com/a/22367119/2989289)
+
 ## Many doors get opened, beside the windows - 2021-04-27
 ##### Read
 - Git: [Inspecting a repository](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
