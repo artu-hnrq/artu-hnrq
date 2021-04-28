@@ -16,6 +16,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Checked
 - Python: [How to import a module in Python with importlib.import_module](https://stackoverflow.com/a/10675081/2989289)
 - Python: [How to detect method overloading in subclasses in python?](https://stackoverflow.com/questions/9436681/how-to-detect-method-overloading-in-subclasses-in-python)
+- Python: [How do I get the filepath for a class in Python?](https://stackoverflow.com/a/697395/2989289)
 
 ## Many doors get opened, beside the windows - 2021-04-27
 ##### Read
