@@ -8,6 +8,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Workforce-selling free again - 2021-04-29
+##### (Re)sourced
+- [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing
+
 ## Taking the reins of my professional destiny - 2021-04-28
 ##### Read
 - Atom [Search and Replace with RegEx components in Atom editor](https://stackoverflow.com/a/22367119/2989289)
