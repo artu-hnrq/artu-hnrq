@@ -9,6 +9,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Should I stay or should I go? - 2021-04-30
+##### Read
+- Django: [Custom Django Management Commands](https://devcenter.heroku.com/articles/scheduling-custom-django-management-commands)
+- Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
+
 ##### Checked
 - Python: [Define a lambda expression that raises an Exception](https://stackoverflow.com/a/9547687/2989289)
 
