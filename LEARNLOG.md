@@ -8,6 +8,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Should I stay or should I go? - 2021-04-30
+##### Checked
+- Python: [Define a lambda expression that raises an Exception](https://stackoverflow.com/a/9547687/2989289)
+
 ## Workforce-selling free again - 2021-04-29
 ##### Read
 - Python: [Exceptions: An Introduction](https://realpython.com/python-exceptions/)
