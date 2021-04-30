@@ -9,6 +9,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Workforce-selling free again - 2021-04-29
+##### Read
+- Python: [Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+
 ##### (Re)sourced
 - [semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing
 
