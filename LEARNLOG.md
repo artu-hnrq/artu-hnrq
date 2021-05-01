@@ -8,6 +8,14 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## [Sábado de sol, aluguei um caminhão 🎵][2021-05-01] - 2021-05-01
+[2021-05-01]: https://music.youtube.com/watch?v=dVXLtwMqJAo&feature=share
+
+##### Checked
+- [Git]: [Fork a git repo on github into same organization](https://stackoverflow.com/q/22767617/2989289)
+
+---
+
 ## Should I stay or should I go? - 2021-04-30
 ##### Read
 - Django: [Custom Django Management Commands](https://devcenter.heroku.com/articles/scheduling-custom-django-management-commands)
@@ -51,7 +59,9 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Listened
 - PyCharm: [PyCharm and Django](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDg2N2UwMC9wb2RjYXN0L3Jzcw/episode/YmM0MDE2NTAtZTdjYi00NDVhLTgxZGQtYTc0NTRjZWI2ZWFm?sa=X&ved=0CAYQkfYCahcKEwjI2ITB15zwAhUAAAAAHQAAAAAQQw): 
 
-## Sunday say ow what a blue sky - 2021-04-25
+## [Sunday say ow what a blue sky 🎵][2021-04-25] - 2021-04-25
+[2021-04-25]: https://music.youtube.com/watch?v=M7eaMLKaBHo&feature=share
+
 ##### Read
 - PyCharm: [Named URL tags in Django templates](https://www.jetbrains.com/help/pycharm/cutting-copying-and-pasting.html/completion-and-navigation-for-named-url-tags-in-django-templates.html)
 - Python: [Python Global Keyword](https://www.programiz.com/python-programming/global-keyword)
