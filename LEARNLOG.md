@@ -12,9 +12,13 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ##### Read
 - Django: [Custom Django Management Commands](https://devcenter.heroku.com/articles/scheduling-custom-django-management-commands)
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
+- Git: [Subdirectory Tracking](https://gist.github.com/tswaters/542ba147a07904b1f3f5)
 
 ##### Checked
 - Python: [Define a lambda expression that raises an Exception](https://stackoverflow.com/a/9547687/2989289)
+- Code: [What is Component-Driven Development?](https://stackoverflow.com/a/960839/2989289)
+- Git: [Differences between git submodule and subtree](https://stackoverflow.com/a/31770145/2989289)
+- Git: [Detach (move) subdirectory into separate Git repository](https://stackoverflow.com/a/17864475/2989289)
 
 ## Workforce-selling free again - 2021-04-29
 ##### Read
