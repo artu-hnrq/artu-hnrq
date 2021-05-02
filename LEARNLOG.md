@@ -11,8 +11,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## [Sábado de sol, aluguei um caminhão 🎵][2021-05-01] - 2021-05-01
 [2021-05-01]: https://music.youtube.com/watch?v=dVXLtwMqJAo&feature=share
 
+##### Read
+- Github: [Workflow syntax for GitHub Actions](https://docs.github.com/pt/actions/reference/workflow-syntax-for-github-actions)
+
 ##### Checked
-- [Git]: [Fork a git repo on github into same organization](https://stackoverflow.com/q/22767617/2989289)
+- Git: [Fork a git repo on github into same organization](https://stackoverflow.com/q/22767617/2989289)
+- YAML: [YAML Multi-Line Arrays](https://stackoverflow.com/a/33136212/2989289)
 
 ---
 
