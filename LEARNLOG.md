@@ -7,6 +7,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Traveling to Sharkcity - 2021-05-03
+##### Checked
+- Django: [django include template from another app](https://stackoverflow.com/a/4571777/2989289)
 
 ## Last day to delivery projects - 2021-05-02
 ##### Checked
