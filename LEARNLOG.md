@@ -10,10 +10,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 
 ## Last day to delivery projects - 2021-05-02
 ##### Checked
-- [PyCharm]: [How do I share IntelliJ Run/Debug configurations between projects?](https://stackoverflow.com/a/46058224/2989289)
-- [Git]: [Should I use past or present tense in git commit messages?](https://stackoverflow.com/a/3580764/2989289)
-- [Bash]: [How to delete directories based on `find` output?](https://unix.stackexchange.com/a/89937/364080)
-- [Github]: [Is there an overview of what can go into a .github directory?](https://stackoverflow.com/a/61301254/2989289)
+- PyCharm: [How do I share IntelliJ Run/Debug configurations between projects?](https://stackoverflow.com/a/46058224/2989289)
+- Git: [Should I use past or present tense in git commit messages?](https://stackoverflow.com/a/3580764/2989289)
+- Git: [Pull remote branch into local repo with different name?](https://stackoverflow.com/a/12043256/2989289)
+- Bash: [How to delete directories based on `find` output?](https://unix.stackexchange.com/a/89937/364080)
+- Github: [Is there an overview of what can go into a .github directory?](https://stackoverflow.com/a/61301254/2989289)
 
 ## [Sábado de sol, aluguei um caminhão 🎵][2021-05-01] - 2021-05-01
 [2021-05-01]: https://music.youtube.com/watch?v=dVXLtwMqJAo&feature=share
