@@ -9,8 +9,14 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [3]: https://semver.org/spec/v2.0.0.html
   
 ## Traveling to Sharkcity - 2021-05-03
+##### Read
+- Django: [Writing custom model fields](https://docs.djangoproject.com/en/3.2/howto/custom-model-fields/)
+
 ##### Checked
 - Django: [django include template from another app](https://stackoverflow.com/a/4571777/2989289)
+
+##### Precticed
+- Django: Mozzila's Tutorial Part 6 - [Generic list and detail views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)
 
 ## Last day to delivery projects - 2021-05-02
 ##### Checked
