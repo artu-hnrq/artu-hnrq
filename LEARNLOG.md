@@ -11,9 +11,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Traveling to Sharkcity - 2021-05-03
 ##### Read
 - Django: [Writing custom model fields](https://docs.djangoproject.com/en/3.2/howto/custom-model-fields/)
+- Django: [ModelForms](https://docs.djangoproject.com/en/3.2/topics/forms/modelforms/)
 
 ##### Checked
 - Django: [django include template from another app](https://stackoverflow.com/a/4571777/2989289)
+- Django: [Django Queryset for substr matching that starts from the beginning of a string](https://stackoverflow.com/a/35279078/2989289)
+- Django: [How do I do a not equal in Django queryset filtering?](https://stackoverflow.com/a/1155013/2989289)
 
 ##### Precticed
 - Django: Mozzila's Tutorial Part 6 - [Generic list and detail views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)
