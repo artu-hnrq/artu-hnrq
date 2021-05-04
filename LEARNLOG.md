@@ -20,6 +20,7 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 
 ##### Precticed
 - Django: Mozzila's Tutorial Part 6 - [Generic list and detail views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)
+- Django: Mozzila's Tutorial Part 9 - [Working with forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
 
 ## Last day to delivery projects - 2021-05-02
 ##### Checked
