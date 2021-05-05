@@ -7,7 +7,11 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Tuesday deliverys - 2021-05-04
+##### Checked
+- Django: [Setting Django up to use MySQL](https://stackoverflow.com/a/19189930/2989289)
+
 ## Traveling to Sharkcity - 2021-05-03
 ##### Read
 - Django: [Writing custom model fields](https://docs.djangoproject.com/en/3.2/howto/custom-model-fields/)
