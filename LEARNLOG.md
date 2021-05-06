@@ -7,6 +7,15 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+  
+## Eve of unemployment - 2021-05-05
+##### Read
+- Git: [Checkout command](https://www.atlassian.com/git/tutorials/using-branches/git-checkout) - Atlassian
+
+##### Checked
+- Git: [What is HEAD in Git?](https://stackoverflow.com/a/4381549/2989289)
+- Git: [What is the difference between a commit(s) and a revision(s)](https://stackoverflow.com/a/11792712/2989289)
 
 ## Tuesday deliverys - 2021-05-04
 ##### Checked
