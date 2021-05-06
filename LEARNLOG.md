@@ -8,7 +8,10 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
-  
+## Delay, but not fail - 2021-05-06
+##### Read
+- Git: [Merge conflits](https://www.atlassian.com/br/git/tutorials/using-branches/merge-conflicts) - Atlasssian
+
 ## Eve of unemployment - 2021-05-05
 ##### Read
 - Git: [Checkout command](https://www.atlassian.com/git/tutorials/using-branches/git-checkout) - Atlassian
