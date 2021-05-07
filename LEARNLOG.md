@@ -7,7 +7,12 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Let the vacation begin - 2021-05-07
+##### Read 
+- Git: [git restore and git switch](https://www.alura.com.br/artigos/git-os-novos-comandos-git-restore-e-git-switch)
+- Git: [git internals for people who are not scared by words like Directed Acyclic Graph](https://eagain.net/articles/git-for-computer-scientists/)
+
 ## Delay, but not fail - 2021-05-06
 ##### Read
 - Git: [Merge conflits](https://www.atlassian.com/br/git/tutorials/using-branches/merge-conflicts) - Atlasssian
