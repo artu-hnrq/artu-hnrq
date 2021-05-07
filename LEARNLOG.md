@@ -1,8 +1,8 @@
 # Learnlog
 
-> Since I'm offten looking up to learn, I used to fell it would be nice to have a history of the readings, videos, practices, ensights or any other content I passed through during my study times. I've tried other tools, but them I realized that a changelog-kind file could do the work without any burocracy; Here is it!
+Since I'm offten looking up to learn, I used to fell it would be nice to have a history of the readings, videos, practices, ensights or any other content I passed through during my study times. I've tried other tools, but them I realized that a changelog-kind file could do the work without any burocracy; Here is it!
 
-This file format is inspired on [Keep a Changelog][1], however it adheres to [Sentimental Versioning][2] instead of [Semantic][3] one. 
+> This file format is inspired on [Keep a Changelog][1], however it adheres to [Sentimental Versioning][2] instead of [Semantic][3] one. 
 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
@@ -11,7 +11,6 @@ This file format is inspired on [Keep a Changelog][1], however it adheres to [Se
 ## Let the vacation begin - 2021-05-07
 ##### Read 
 - Git: [git restore and git switch](https://www.alura.com.br/artigos/git-os-novos-comandos-git-restore-e-git-switch)
-- Git: [git internals for people who are not scared by words like Directed Acyclic Graph](https://eagain.net/articles/git-for-computer-scientists/)
 
 ## Delay, but not fail - 2021-05-06
 ##### Read
