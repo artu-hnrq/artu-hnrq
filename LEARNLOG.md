@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Let the vacation begin - 2021-05-07
 ##### Read 
 - Git: [git restore and git switch](https://www.alura.com.br/artigos/git-os-novos-comandos-git-restore-e-git-switch)
+- Github: [Creating a Dynamic Github Profile](https://jrtechs.net/open-source/creating-a-dynamic-github-profile)
 
 ## Delay, but not fail - 2021-05-06
 ##### Read
