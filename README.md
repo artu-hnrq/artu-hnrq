@@ -10,7 +10,7 @@ I also very interested about slackline, chess, street art and open-source commun
 
 [1]: https://en.wikipedia.org/wiki/Federal_University_of_Santa_Catarina
 
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artu-hnrq)](https://git.io/streak-stats) -->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=artu-hnrq&show_icons=true&count_private=true&hide_border=true&hide=stars" />
 
 <div align="center">
