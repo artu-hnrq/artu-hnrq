@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Family meeting - 2021-05-08
+##### Checked
+- HTML: [how to make a whole row in a table clickable as a link?](https://stackoverflow.com/a/61017577/2989289)
+
 ## Let the vacation begin - 2021-05-07
 ##### Read 
 - Git: [git restore and git switch](https://www.alura.com.br/artigos/git-os-novos-comandos-git-restore-e-git-switch)
