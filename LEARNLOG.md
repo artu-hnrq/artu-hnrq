@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [git restore and git switch](https://www.alura.com.br/artigos/git-os-novos-comandos-git-restore-e-git-switch)
 - Github: [Creating a Dynamic Github Profile](https://jrtechs.net/open-source/creating-a-dynamic-github-profile)
 
+##### Checked
+- Django: [How to add an model instance to a django queryset?](https://stackoverflow.com/a/43544410/2989289)
+
 ## Delay, but not fail - 2021-05-06
 ##### Read
 - Git: [Merge conflits](https://www.atlassian.com/br/git/tutorials/using-branches/merge-conflicts) - Atlasssian
