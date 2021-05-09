@@ -14,10 +14,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Use Django's Class-Based Views with Bootstrap Modals](https://dmorgan.info/posts/django-views-bootstrap-modals/)
 
 ##### Sourced
-- [django-fm](https://github.com/django-fm/django-fm): Modal AJAX form to create, update and delete Django objects with ease. Looking for maintainer
+- [django-fm](https://github.com/django-fm/django-fm): Modal AJAX form to create, update and delete Django objects with ease
+- [django-bootstrap-modal-forms](https://github.com/trco/django-bootstrap-modal-forms): A Django plugin for creating AJAX driven forms in Bootstrap modal
 
 ##### Checked
 - HTML: [how to make a whole row in a table clickable as a link?](https://stackoverflow.com/a/61017577/2989289)
+- Django: [Django CreateView messes up bootstrap-modal](https://stackoverflow.com/a/47107064/2989289)
 
 ## Let the vacation begin - 2021-05-07
 ##### Read 
