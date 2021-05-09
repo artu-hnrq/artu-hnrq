@@ -9,6 +9,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Family meeting - 2021-05-08
+##### Read
+- Django: [Form handling with class-based views](https://docs.djangoproject.com/en/3.2/topics/class-based-views/generic-editing/)
+- Django: [Use Django's Class-Based Views with Bootstrap Modals](https://dmorgan.info/posts/django-views-bootstrap-modals/)
+
 ##### Checked
 - HTML: [how to make a whole row in a table clickable as a link?](https://stackoverflow.com/a/61017577/2989289)
 
