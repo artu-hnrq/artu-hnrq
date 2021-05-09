@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Form handling with class-based views](https://docs.djangoproject.com/en/3.2/topics/class-based-views/generic-editing/)
 - Django: [Use Django's Class-Based Views with Bootstrap Modals](https://dmorgan.info/posts/django-views-bootstrap-modals/)
 
+##### Sourced
+- [django-fm](https://github.com/django-fm/django-fm): Modal AJAX form to create, update and delete Django objects with ease. Looking for maintainer
+
 ##### Checked
 - HTML: [how to make a whole row in a table clickable as a link?](https://stackoverflow.com/a/61017577/2989289)
 
@@ -23,6 +26,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Django: [How to add an model instance to a django queryset?](https://stackoverflow.com/a/43544410/2989289)
+- Django: [Django - Ajax modal login/registration](https://stackoverflow.com/q/13394057/2989289)
 
 ## Delay, but not fail - 2021-05-06
 ##### Read
