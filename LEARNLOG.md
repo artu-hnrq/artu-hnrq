@@ -12,6 +12,14 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Displaying a message as a popup/alert in Django?](https://stackoverflow.com/a/58863474/2989289)
 - Javascript: [Bootstrap Alert Auto Close](https://stackoverflow.com/a/25319333/2989289)
+- Javascript: [How to make <tr> clickable as a link instead of cell?](https://stackoverflow.com/a/54452133/2989289)
+- GCP: [How to change the project in GCP using CLI commands](https://stackoverflow.com/a/46771888/2989289)
+
+##### Read
+- GCP: [Connecting using the Cloud SQL Auth proxy](https://cloud.google.com/sql/docs/postgres/connect-admin-proxy)
+
+##### Deployed
+- [system-location](https://system-location.rj.r.appspot.com)
 
 ## Family meeting - 2021-05-08
 ##### Read
