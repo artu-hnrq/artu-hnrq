@@ -8,6 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## A new week begin - 2021-05-10
+##### Checked
+- Django: [Displaying a message as a popup/alert in Django?](https://stackoverflow.com/a/58863474/2989289)
+- Javascript: [Bootstrap Alert Auto Close](https://stackoverflow.com/a/25319333/2989289)
+
 ## Family meeting - 2021-05-08
 ##### Read
 - Django: [Form handling with class-based views](https://docs.djangoproject.com/en/3.2/topics/class-based-views/generic-editing/)
