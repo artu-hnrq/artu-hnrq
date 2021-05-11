@@ -13,8 +13,13 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - PyCharm: [Connect to Google Cloud SQL instances](https://www.jetbrains.com/help/datagrip/connect-to-google-cloud-sql-instances.html#step-1-run-the-cloud-sql-proxy-client)
 
+##### Discover
+- [OpenColletive](https://opencollective.com/): 
+
 ##### Checked
 - Django: [ordering numerical value with order_by](https://stackoverflow.com/a/2969983/2989289)
+- Django: [How to enable https in Django-auth generated pages?](https://stackoverflow.com/a/10669603/2989289)
+- Bootstrap: [Sort table rows In Bootstrap](https://stackoverflow.com/a/31911215/2989289)
 
 ## A new week begin - 2021-05-10
 ##### Checked
