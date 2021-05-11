@@ -8,6 +8,14 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## [The age of Aquarius][2021-05-11] - 2021-05-11
+[2021-05-11]: https://music.youtube.com/watch?v=6c7Q4hjcBjA
+##### Read
+- PyCharm: [Connect to Google Cloud SQL instances](https://www.jetbrains.com/help/datagrip/connect-to-google-cloud-sql-instances.html#step-1-run-the-cloud-sql-proxy-client)
+
+##### Checked
+- Django: [ordering numerical value with order_by](https://stackoverflow.com/a/2969983/2989289)
+
 ## A new week begin - 2021-05-10
 ##### Checked
 - Django: [Displaying a message as a popup/alert in Django?](https://stackoverflow.com/a/58863474/2989289)
