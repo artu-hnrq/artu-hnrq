@@ -12,6 +12,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 [2021-05-11]: https://music.youtube.com/watch?v=6c7Q4hjcBjA
 ##### Read
 - PyCharm: [Connect to Google Cloud SQL instances](https://www.jetbrains.com/help/datagrip/connect-to-google-cloud-sql-instances.html#step-1-run-the-cloud-sql-proxy-client)
+- Job: [How to Ace Your Coding Interview – Advice from a Senior Software Engineer](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16207771676637&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=Fonte%3A%20%251%24s&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-acing-your-coding-interview-advice-from-senior-software-engineer%2F)
+- Web: [How to Deploy HTTPS Correctly](https://www.eff.org/https-everywhere/deploying-https)
 
 ##### Discover
 - [OpenColletive](https://opencollective.com/): 
