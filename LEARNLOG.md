@@ -7,6 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Getting into learning as if there wasn't tomorrow - 2021-05-12
+##### Read
+- Bash: [How-to: Setup Prompt Statement variables](https://ss64.com/bash/syntax-prompt.html)
+- Bash: [Explain Shell - Command definition](https://explainshell.com/explain?cmd=%3A%28%29%7B%20%3A%7C%3A%26%20%7D%3B%3A)
 
 ## [The age of Aquarius][2021-05-11] - 2021-05-11
 [2021-05-11]: https://music.youtube.com/watch?v=6c7Q4hjcBjA
