@@ -12,6 +12,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Bash: [How-to: Setup Prompt Statement variables](https://ss64.com/bash/syntax-prompt.html)
 - Bash: [Explain Shell - Command definition](https://explainshell.com/explain?cmd=%3A%28%29%7B%20%3A%7C%3A%26%20%7D%3B%3A)
+- Bash: [bind command in Linux with Examples](https://www.geeksforgeeks.org/bind-command-in-linux-with-examples/)
+
+##### Watched
+- Computer Science: [How Computers Work: What Makes a Computer, a Computer?](https://youtu.be/mCq8-xTH7jA)
+- Git: [Usando Git Direito | Limpando seus Commits](https://youtu.be/6OokP-NE49k)
 
 ## [The age of Aquarius][2021-05-11] - 2021-05-11
 [2021-05-11]: https://music.youtube.com/watch?v=6c7Q4hjcBjA
