@@ -14,6 +14,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Explain Shell - Command definition](https://explainshell.com/explain?cmd=%3A%28%29%7B%20%3A%7C%3A%26%20%7D%3B%3A)
 - Bash: [bind command in Linux with Examples](https://www.geeksforgeeks.org/bind-command-in-linux-with-examples/)
 - Django: [Configuring Django Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
+- HTTP: [Errors: 404](https://www.codecademy.com/articles/http-errors-404)
+- JavaScript: [CodeCademy - Introduction](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
 ##### Watched
 - Computer Science: [How Computers Work: What Makes a Computer, a Computer?](https://youtu.be/mCq8-xTH7jA)
@@ -21,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Sourced
 - [django-environ](https://github.com/joke2k/django-environ): Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application
+- [envparse](https://github.com/rconradharris/envparse): Environment Variable Parsing for Python
 
 ## [The age of Aquarius][2021-05-11] - 2021-05-11
 [2021-05-11]: https://music.youtube.com/watch?v=6c7Q4hjcBjA
