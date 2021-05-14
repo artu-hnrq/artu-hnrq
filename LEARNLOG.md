@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Job-researching - 2021-05-14
+##### Read
+- Python: [Guide To Python Context Managers - Beyond Files](https://analyticsindiamag.com/guide-to-python-context-managers-beyond-files/)
+
 ## First day of [Cambly][cambly] - 2021-05-12
 [cambly]: https://www.cambly.com/
 ##### Read
