@@ -8,6 +8,16 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## First day of [Cambly][cambly] - 2021-05-12
+[cambly]: https://www.cambly.com/
+##### Read
+- Dev: [Top 10 GitHub Repos To Bookmark Right Now](https://towardsdatascience.com/top-10-github-repos-to-bookmark-right-now-b0bc62436ffc)
+- Carrer: [4 conselhos de um professor do MIT para você nunca deixar de aprender](https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2021/05/10/conselhos-aprender-professor-mit-charles-e-leiserson.htm)
+- Git: [How To Create a Compelling Github Portfolio](https://towardsdatascience.com/how-to-create-a-compelling-github-portfolio-a229e7472a92)
+
+##### Watched
+- Web: [A História do Front-End para Iniciantes em Programação](https://youtu.be/VKmPGmFY7H4) - Fabio Akita
+  
 ## Getting into learning as if there wasn't tomorrow - 2021-05-12
 ##### Read
 - Bash: [How-to: Setup Prompt Statement variables](https://ss64.com/bash/syntax-prompt.html)
@@ -18,8 +28,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - JavaScript: [CodeCademy - Introduction](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
 ##### Watched
-- Computer Science: [How Computers Work: What Makes a Computer, a Computer?](https://youtu.be/mCq8-xTH7jA)
-- Git: [Usando Git Direito | Limpando seus Commits](https://youtu.be/6OokP-NE49k)
+- Computer Science: [How Computers Work: What Makes a Computer, a Computer?](https://youtu.be/mCq8-xTH7jA) - Code.org
+- Git: [Usando Git Direito | Limpando seus Commits](https://youtu.be/6OokP-NE49k) - Fabio Akita
 
 ##### Sourced
 - [django-environ](https://github.com/joke2k/django-environ): Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application
