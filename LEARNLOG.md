@@ -8,6 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Shopping mall tour with mom - 2021-05-15
+##### Read
+- JavaScript: [Mozilla Documentation - String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- JavaScript: [Mozilla Documentation - Keywords](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#keywords)
+
 ## Job-researching - 2021-05-14
 ##### Read
 - Python: [Guide To Python Context Managers - Beyond Files](https://analyticsindiamag.com/guide-to-python-context-managers-beyond-files/)
