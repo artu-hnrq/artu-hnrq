@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Gravatal natural beauties visit - 2021-05-17
+##### Study
+- [pre-commit documentation](https://pre-commit.com/)
+
 ## Shopping mall tour with mom - 2021-05-15
 ##### Read
 - JavaScript: [Mozilla Documentation - String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
