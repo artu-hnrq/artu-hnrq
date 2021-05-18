@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Lost smartphone - 2021-05-18
+##### Listen
+- English: [Cambly Podcast #186 - Do a full 180](https://open.spotify.com/episode/5aPqxLp3vHQtrPXSXBTltY?si=eMZEUFyBR0SZjJ9o4LpdWg)
+
 ## Gravatal natural beauties visit - 2021-05-17
 ##### Study
 - [pre-commit documentation](https://pre-commit.com/)
