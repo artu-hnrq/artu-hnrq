@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - English: [Cambly Podcast #186 - Do a full 180](https://open.spotify.com/episode/5aPqxLp3vHQtrPXSXBTltY?si=eMZEUFyBR0SZjJ9o4LpdWg) - Spotify
 - English: [Why did english become the international language?](https://youtu.be/iqDFPU9YeQM) - YouTube
 
+##### Coursed
+- CodeCademy: [Learn JavaScript - Conditionals](https://www.codecademy.com/learn/introduction-to-javascript)
+
 ## Gravatal natural beauties visit - 2021-05-17
 ##### Study
 - [pre-commit documentation](https://pre-commit.com/)
