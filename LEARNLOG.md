@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Coursed
 - CodeCademy: [Learn JavaScript - Conditionals](https://www.codecademy.com/learn/introduction-to-javascript)
 
+##### Read
+- Carreer: [Programmer Vs Developer Vs Engineer](https://medium.com/shakuro/programmer-vs-developer-vs-engineer-91ef374e5033
+
 ## Gravatal natural beauties visit - 2021-05-17
 ##### Study
 - [pre-commit documentation](https://pre-commit.com/)
