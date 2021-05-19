@@ -8,6 +8,13 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Going back home - 2021-05-19
+##### Read 
+- Career: [Why top software companies ask CS fundamentals in tech interviews?](https://link.medium.com/6yvo6UUnogb)
+
+##### Subscribed
+- Next.js: [Next Conf_](https://nextjs.org/conf) - A special edition of Next.js Conf, presented by Vercel and Google Chrome
+
 ## Lost smartphone - 2021-05-18
 ##### Watched
 - English: [Cambly Podcast #186 - Do a full 180](https://open.spotify.com/episode/5aPqxLp3vHQtrPXSXBTltY?si=eMZEUFyBR0SZjJ9o4LpdWg) - Spotify
