@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read 
 - Career: [Why top software companies ask CS fundamentals in tech interviews?](https://link.medium.com/6yvo6UUnogb)
 
+##### Watched
+- English: [Where did English come from?](https://youtu.be/YEaSxhcns7Y)
+
 ##### Subscribed
 - Next.js: [Next Conf_](https://nextjs.org/conf) - A special edition of Next.js Conf, presented by Vercel and Google Chrome
 
