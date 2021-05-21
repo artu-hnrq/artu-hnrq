@@ -8,6 +8,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Basically nothing today - 2021-05-20
+
 ## Going back home - 2021-05-19
 ##### Read 
 - Career: [Why top software companies ask CS fundamentals in tech interviews?](https://link.medium.com/6yvo6UUnogb)
