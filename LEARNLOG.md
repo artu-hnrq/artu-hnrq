@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Resuming paused habits - 2021-05-26
 ##### Read
 - Unix: [Unix-like](https://en.wikipedia.org/wiki/Unix-like)
+- Unix: [List of Unix commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 - Writing: [AIDA (Atenção, Interesse, Desejo e Ação)](https://resultadosdigitais.com.br/blog/aida/)
 
 ## Going back home - 2021-05-19
