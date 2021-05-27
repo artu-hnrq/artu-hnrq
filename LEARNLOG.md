@@ -8,6 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Reheating engines - 2021-05-27
+##### Checked
+- Git: [Automatic display of git status in Linux fiesta](https://stackoverflow.com/q/44237255/2989289)
+- Git: [How can I check in a Bash script if my local Git repository has changes?](https://stackoverflow.com/q/5143795/2989289)
+
 ## Resuming paused habits - 2021-05-26
 ##### Read
 - Unix: [Unix-like](https://en.wikipedia.org/wiki/Unix-like)
