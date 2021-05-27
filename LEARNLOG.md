@@ -8,7 +8,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Basically nothing today - 2021-05-20
+## Resuming paused habits - 2021-05-26
+- Writing: [AIDA (Atenção, Interesse, Desejo e Ação)](https://resultadosdigitais.com.br/blog/aida/)
 
 ## Going back home - 2021-05-19
 ##### Read 
