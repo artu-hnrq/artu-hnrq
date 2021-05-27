@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Unix: [List of Unix commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 - Writing: [AIDA (Atenção, Interesse, Desejo e Ação)](https://resultadosdigitais.com.br/blog/aida/)
 
+##### Checked
+- Unix: [Why are most Linux distributions not POSIX-compliant?](https://unix.stackexchange.com/a/522415/364080)
+
 ## Going back home - 2021-05-19
 ##### Read 
 - Career: [Why top software companies ask CS fundamentals in tech interviews?](https://link.medium.com/6yvo6UUnogb)
