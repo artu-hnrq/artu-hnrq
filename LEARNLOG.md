@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Unix: [Why are most Linux distributions not POSIX-compliant?](https://unix.stackexchange.com/a/522415/364080)
 
+##### Subscribed
+- MongoDB: [Building Modern Microservices Apps with MongoDB on Google Cloud](https://www.mongodb.com/webinar/building-modern-microservices-apps-with-mongodb-on-gcp) - Webnar
+
 ## Going back home - 2021-05-19
 ##### Read 
 - Career: [Why top software companies ask CS fundamentals in tech interviews?](https://link.medium.com/6yvo6UUnogb)
