@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Github: [How I got the Github username of my dreams](https://dev.to/lucis/how-i-got-the-github-username-of-my-dreams-5db5)
 
+##### Checked:
+- Open-source: [Is Stack Overflow open source?](https://meta.stackoverflow.com/q/313483/2989289)
+
 ## Reheating engines - 2021-05-27
 ##### Checked
 - Git: [Automatic display of git status in Linux fiesta](https://stackoverflow.com/q/44237255/2989289)
