@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## SoulCode video presentation - 2021-05-28
+##### Read
+- Github: [How I got the Github username of my dreams](https://dev.to/lucis/how-i-got-the-github-username-of-my-dreams-5db5)
+
 ## Reheating engines - 2021-05-27
 ##### Checked
 - Git: [Automatic display of git status in Linux fiesta](https://stackoverflow.com/q/44237255/2989289)
