@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## SoulCode video presentation - 2021-05-28
 ##### Read
 - Github: [How I got the Github username of my dreams](https://dev.to/lucis/how-i-got-the-github-username-of-my-dreams-5db5)
+- Github: [How to claim an Inactive GitHub Account](https://blog.anasmazouni.dev/claiming-inactive-github-accounts/)
 
 ##### Checked:
 - Open-source: [Is Stack Overflow open source?](https://meta.stackoverflow.com/q/313483/2989289)
