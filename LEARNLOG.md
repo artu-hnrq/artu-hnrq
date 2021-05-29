@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## By blablacar to Urubici - 2021-05-29
+##### Read
+- Flask: [What's new in Flask 2.0](https://auth0.com/blog/whats-new-in-flask-2/)
 
 ## SoulCode video presentation - 2021-05-28
 ##### Read
