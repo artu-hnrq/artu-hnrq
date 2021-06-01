@@ -9,15 +9,16 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Documenting business analysis artifacts of system-location
-##### Read
-- Node.js: [](https://docs.npmjs.com/cli/v6/commands/npm-install/) 
-
-Checked:
+##### Checked:
 - GitBook: [TypeError: cb.apply is not a function](https://stackoverflow.com/q/63214997/2989289)
+- Node.js: [How do I update Node.js?](https://stackoverflow.com/a/32756898/2989289)
 
-Sourced:
+##### Sourced:
 - [honkit](https://github.com/honkit/honkit): HonKit is building beautiful books using Markdown - Fork of GitBook
 - [DjangoGirls / tutorial](https://github.com/DjangoGirls/tutorial): This is a tutorial we are using for Django Girls workshops 
+
+##### Watched
+- GitHub: [Supercharge your GitHub Flow](https://youtu.be/cP0I9w2coGU)
 
 ## Workspace installed in ant Angela's - 2021-05-31
 ##### Watched
