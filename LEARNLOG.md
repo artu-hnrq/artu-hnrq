@@ -9,11 +9,15 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Documenting business analysis artifacts of system-location
+##### Read
+- Node.js: [](https://docs.npmjs.com/cli/v6/commands/npm-install/) 
+
 Checked:
 - GitBook: [TypeError: cb.apply is not a function](https://stackoverflow.com/q/63214997/2989289)
 
 Sourced:
 - [honkit](https://github.com/honkit/honkit): HonKit is building beautiful books using Markdown - Fork of GitBook
+- [DjangoGirls / tutorial](https://github.com/DjangoGirls/tutorial): This is a tutorial we are using for Django Girls workshops 
 
 ## Workspace installed in ant Angela's - 2021-05-31
 ##### Watched
