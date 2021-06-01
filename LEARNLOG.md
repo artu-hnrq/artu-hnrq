@@ -8,6 +8,13 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Documenting business analysis artifacts of system-location
+Checked:
+- GitBook: [TypeError: cb.apply is not a function](https://stackoverflow.com/q/63214997/2989289)
+
+Sourced:
+- [honkit](https://github.com/honkit/honkit): HonKit is building beautiful books using Markdown - Fork of GitBook
+
 ## Workspace installed in ant Angela's - 2021-05-31
 ##### Watched
 - [Tutorial de Diagrama de Classe UML](https://youtu.be/UI6lqHOVHic) - YouTube
