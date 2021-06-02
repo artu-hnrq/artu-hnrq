@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - SSG: [Github List](https://github.com/collections/static-site-generators)
 - SSG: [Jamstack](https://jamstack.org/generators/)
 
+##### Checked
+- Chrome: [Clear cache for specific domain name in chrome](https://superuser.com/q/278948/1063603)
+
 ## Documenting business analysis artifacts of system-location - 2021-06-01
 ##### Read
 - Node.js: [Creating Node.js modules](https://docs.npmjs.com/creating-node-js-modules)
