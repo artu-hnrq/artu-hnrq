@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Documenting business analysis artifacts of system-location
+##### Read
+- Node.js: [Creating Node.js modules](https://docs.npmjs.com/creating-node-js-modules)
+
 ##### Checked:
 - GitBook: [TypeError: cb.apply is not a function](https://stackoverflow.com/q/63214997/2989289)
 - Node.js: [How do I update Node.js?](https://stackoverflow.com/a/32756898/2989289)
@@ -19,6 +22,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Watched
 - GitHub: [Supercharge your GitHub Flow](https://youtu.be/cP0I9w2coGU)
+
+##### Coded
+- [Generic-Tree/gitbook](https://github.com/Generic-Tree/gitbook): Honkit's Gitbook starting-point template
 
 ## Workspace installed in ant Angela's - 2021-05-31
 ##### Watched
