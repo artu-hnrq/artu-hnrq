@@ -8,7 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Documenting business analysis artifacts of system-location
+## Half-a-day without electric energy - 2021-06-02
+##### Discover
+- SSG: [Github List](https://github.com/collections/static-site-generators)
+- SSG: [Jamstack](https://jamstack.org/generators/)
+
+## Documenting business analysis artifacts of system-location - 2021-06-01
 ##### Read
 - Node.js: [Creating Node.js modules](https://docs.npmjs.com/creating-node-js-modules)
 
@@ -25,6 +30,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Coded
 - [Generic-Tree/gitbook](https://github.com/Generic-Tree/gitbook): Honkit's Gitbook starting-point template
+
+---
 
 ## Workspace installed in ant Angela's - 2021-05-31
 ##### Watched
