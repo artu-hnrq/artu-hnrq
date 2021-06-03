@@ -17,6 +17,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Chrome: [Clear cache for specific domain name in chrome](https://superuser.com/q/278948/1063603)
 - Git: [How to list all the files in a commit](https://stackoverflow.com/a/424142/2989289)
 - Unix: [How do I compress a directory?](https://askubuntu.com/a/27369/689894)
+- Django: [How to properly use the “choices” field option in Django](https://stackoverflow.com/a/18676319/2989289)
+- MongoDB: [Enums in MongoDB](https://stackoverflow.com/q/13443228/2989289)
 
 ##### Released
 - [Simple Generic Gitbook Repo Template](https://github.com/Generic-Tree/gitbook/releases/tag/1.0.0)
