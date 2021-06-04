@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Trying against universe will - 2021-06-03
+##### Read
+- Django: [URL dispatcher](https://docs.djangoproject.com/en/3.2/topics/http/urls/)
+
 ##### Checked
 - Django: ['/' only homepage url error](https://stackoverflow.com/q/48064071/2989289)
 - Django: [Django redirect to root from a view](https://stackoverflow.com/q/7284952/2989289)
