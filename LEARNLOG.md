@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - MongoDB: [Using PyMongo with MongoDB Atlas](https://pymongo.readthedocs.io/en/stable/atlas.html)
 - MongoDB: [PyMongo Tutorial](https://pymongo.readthedocs.io/en/stable/tutorial.html)
+- Django: [Settings](https://docs.djangoproject.com/en/3.2/ref/settings/)
 
 ##### Checked
 - MongoDB: [pymongo - mongodb+srv “dnspython must be installed” error](https://stackoverflow.com/q/52930341/2989289)
