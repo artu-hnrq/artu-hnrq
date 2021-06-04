@@ -8,6 +8,14 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Going on head to achieve goals - 2021-06-04
+##### Read
+- MongoDB: [Using PyMongo with MongoDB Atlas](https://pymongo.readthedocs.io/en/stable/atlas.html)
+- MongoDB: [PyMongo Tutorial](https://pymongo.readthedocs.io/en/stable/tutorial.html)
+
+##### Checked
+- MongoDB: [pymongo - mongodb+srv “dnspython must be installed” error](https://stackoverflow.com/q/52930341/2989289)
+
 ## Trying against universe will - 2021-06-03
 ##### Read
 - Django: [URL dispatcher](https://docs.djangoproject.com/en/3.2/topics/http/urls/)
