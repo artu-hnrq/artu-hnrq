@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Trying against universe will - 2021-06-03
+##### Checked
+- Django: ['/' only homepage url error](https://stackoverflow.com/q/48064071/2989289)
+
 ## Half-a-day without electric energy - 2021-06-02
 ##### Discover
 - SSG: [Github List](https://github.com/collections/static-site-generators)
