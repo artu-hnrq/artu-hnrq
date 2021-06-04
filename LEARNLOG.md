@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Trying against universe will - 2021-06-03
 ##### Checked
 - Django: ['/' only homepage url error](https://stackoverflow.com/q/48064071/2989289)
+- Django: [Django redirect to root from a view](https://stackoverflow.com/q/7284952/2989289)
 
 ## Half-a-day without electric energy - 2021-06-02
 ##### Discover
