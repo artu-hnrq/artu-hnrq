@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Sunny and could work-away Saturday - 2021-06-05
+##### checked
+- Unix: [Change folder permissions and ownership](https://askubuntu.com/a/6727/689894)
 
 ## Going on head to achieve goals - 2021-06-04
 ##### Read
