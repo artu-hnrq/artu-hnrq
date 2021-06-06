@@ -13,6 +13,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html)
 - PyCharm: [Compare files from the command line](https://www.jetbrains.com/help/pycharm/command-line-differences-viewer.html)
 
+##### Watched
+- Django: [Connect to a MongoDB to Django Using Djongo](https://youtu.be/MiS6y9kffBs)
+
+##### Sourced
+- [python-decouple](https://github.com/henriquebastos/python-decouple/): Strict separation of config from code
+
 ##### Checked
 - PyCharm: [How to use PyCharm as a GIT diff tool from the command line](https://stackoverflow.com/a/47712453/2989289)
 
