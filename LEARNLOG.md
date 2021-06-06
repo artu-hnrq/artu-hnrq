@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - PyCharm: [How to use PyCharm as a GIT diff tool from the command line](https://stackoverflow.com/a/47712453/2989289)
+
+##### Released
+- [Django at AppEngine template](https://github.com/Generic-Tree/django-at-appengine/releases/tag/1.0.0)
   
 ## Sunny and could work-away Saturday - 2021-06-05
 ##### Checked
