@@ -13,7 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html)
 
 ##### Checked
-- PyCharm: [How to use PyCharm as a GIT diff tool from the command line?(https://stackoverflow.com/a/47712453/2989289)
+- PyCharm: [How to use PyCharm as a GIT diff tool from the command line](https://stackoverflow.com/a/47712453/2989289)
   
 ## Sunny and could work-away Saturday - 2021-06-05
 ##### Checked
