@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Typical with-family work Sunday - 2021-06-06
+##### Read
+- PyCharm: [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html)
+  
 ## Sunny and could work-away Saturday - 2021-06-05
 ##### Checked
 - Unix: [Change folder permissions and ownership](https://askubuntu.com/a/6727/689894)
