@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Unix: [Change folder permissions and ownership](https://askubuntu.com/a/6727/689894)
 - Git: [Is it possible to cherry-pick a commit from another git repository?](https://stackoverflow.com/a/5120074/2989289)
+- Git: [How do you get the Git repository's name in some Git repository?](https://stackoverflow.com/a/15716016/2989289)
 
 ## Going on head to achieve goals - 2021-06-04
 ##### Read
