@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Claimed to be heard - 2021-06-08
+##### Read
+- Docker: [Introduction to Docker and Container-based development](https://medium.com/geekculture/introduction-to-docker-and-container-based-development-microservices-part-1-f41522e91d4a)
+
 ## Typical with-family work Sunday - 2021-06-06
 ##### Read
 - PyCharm: [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html)
