@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Cheked
 - Django: [How can I change Django admin language?](https://stackoverflow.com/a/32872393/2989289)
+- Django: [Change field name in django admin](https://stackoverflow.com/a/64247430/2989289)
 
 ## Typical with-family work Sunday - 2021-06-06
 ##### Read
