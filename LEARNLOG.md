@@ -36,6 +36,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - PyCharm: [How to use PyCharm as a GIT diff tool from the command line](https://stackoverflow.com/a/47712453/2989289)
 - Django: [Django restrict data that can be given to model field](https://stackoverflow.com/a/48040079/2989289)
+- Django: [Changing the name of automatic primary key field in Django](https://stackoverflow.com/a/42793614/2989289)
+- Django: [Auto-create primary key used when not defining a primary key type warning in Django](https://stackoverflow.com/a/66971803/2989289)
 
 ##### Released
 - [Django at AppEngine template](https://github.com/Generic-Tree/django-at-appengine/releases/tag/1.0.0)
