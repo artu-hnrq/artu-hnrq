@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Docker: [Introduction to Docker and Container-based development](https://medium.com/geekculture/introduction-to-docker-and-container-based-development-microservices-part-1-f41522e91d4a)
 - Python: [Python decouple e Travis CI](https://medium.com/@gilsondev/python-decouple-e-travis-ci-d9cbcd08c20f)
+- Python: [How to Use Python Decouple](https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html)
 
 ## Typical with-family work Sunday - 2021-06-06
 ##### Read
