@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - MongoDB: [db.dropDatabase()](https://docs.mongodb.com/manual/reference/method/db.dropDatabase/)
 
+##### Cheked
+- Django: [How can I change Django admin language?](https://stackoverflow.com/a/32872393/2989289)
+
 ## Typical with-family work Sunday - 2021-06-06
 ##### Read
 - PyCharm: [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html)
