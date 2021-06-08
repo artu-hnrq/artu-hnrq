@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Python decouple e Travis CI](https://medium.com/@gilsondev/python-decouple-e-travis-ci-d9cbcd08c20f)
 - Python: [How to Use Python Decouple](https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html)
 
+##### Consulted
+- MongoDB: [db.dropDatabase()](https://docs.mongodb.com/manual/reference/method/db.dropDatabase/)
+
 ## Typical with-family work Sunday - 2021-06-06
 ##### Read
 - PyCharm: [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html)
