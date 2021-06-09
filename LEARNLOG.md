@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Confident with what is comming - 2021-06-09
+##### Asked
+- [Using Djongo's ArrayField at Django Admin](https://stackoverflow.com/q/67895534/2989289)
+
 ## Claimed to be heard - 2021-06-08
 ##### Read
 - Docker: [Introduction to Docker and Container-based development](https://medium.com/geekculture/introduction-to-docker-and-container-based-development-microservices-part-1-f41522e91d4a)
