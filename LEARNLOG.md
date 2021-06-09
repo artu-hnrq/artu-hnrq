@@ -12,8 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Asked
 - [Using Djongo's ArrayField at Django Admin](https://stackoverflow.com/q/67895534/2989289)
 
-##### Read
+##### Consulted
 - Django: [django-admin and manage.py](https://docs.djangoproject.com/en/3.2/ref/django-admin/)
+- Django: [Proxy Models](https://docs.djangoproject.com/en/dev/topics/db/models/#proxy-models)
 
 ## Claimed to be heard - 2021-06-08
 ##### Read
