@@ -15,6 +15,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [ForeignKey field related to abstract model in Django](https://stackoverflow.com/q/30343212/2989289)
 - Django: [Understanding Django GenericForeignKey and GenericRelation](https://stackoverflow.com/a/40150127/2989289)
+- Django: [In a Django admin, add an inline of a generic relation](https://stackoverflow.com/q/46920460/2989289)
+- Django: [Can “list_display” in a Django ModelAdmin display attributes of ForeignKey fields?](https://stackoverflow.com/a/164631/2989289)
 
 ##### Consulted
 - Django: [django-admin and manage.py](https://docs.djangoproject.com/en/3.2/ref/django-admin/)
