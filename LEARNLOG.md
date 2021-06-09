@@ -23,6 +23,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [django.contrib.message Translation](https://stackoverflow.com/a/56324013/2989289)
 - Django: [Auto-create primary key used when not defining a primary key type warning in Django](https://stackoverflow.com/a/66971803/2989289)
 
+##### Sourced
+- [django-address](https://github.com/furious-luke/django-address): A Django address model and field. Addresses may be specified by address components or by performing an automatic Google Maps lookup.
+
 ## Typical with-family work Sunday - 2021-06-06
 ##### Read
 - PyCharm: [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html)
