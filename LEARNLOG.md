@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [django-admin and manage.py](https://docs.djangoproject.com/en/3.2/ref/django-admin/)
 - Django: [Proxy Models](https://docs.djangoproject.com/en/dev/topics/db/models/#proxy-models)
+- PyCharm: [Find and replace text using regular expressions](https://www.jetbrains.com/help/pycharm/tutorial-finding-and-replacing-text-using-regular-expressions.html)
 
 ##### Read
 - Django: [Como usamos Relações Genéricas do Django para adicionar comentários em instâncias de diferentes modelos](https://medium.com/@leportella/como-usamos-rela%C3%A7%C3%B5es-gen%C3%A9ricas-do-django-para-adicionar-coment%C3%A1rios-em-inst%C3%A2ncias-de-diferentes-59a80aa6a7b#)
