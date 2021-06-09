@@ -20,6 +20,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [django-admin and manage.py](https://docs.djangoproject.com/en/3.2/ref/django-admin/)
 - Django: [Proxy Models](https://docs.djangoproject.com/en/dev/topics/db/models/#proxy-models)
 
+##### Read
+- Django: [Como usamos Relações Genéricas do Django para adicionar comentários em instâncias de diferentes modelos](https://medium.com/@leportella/como-usamos-rela%C3%A7%C3%B5es-gen%C3%A9ricas-do-django-para-adicionar-coment%C3%A1rios-em-inst%C3%A2ncias-de-diferentes-59a80aa6a7b#)
+
 ## Claimed to be heard - 2021-06-08
 ##### Read
 - Docker: [Introduction to Docker and Container-based development](https://medium.com/geekculture/introduction-to-docker-and-container-based-development-microservices-part-1-f41522e91d4a)
