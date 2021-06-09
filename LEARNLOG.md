@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Asked
 - [Using Djongo's ArrayField at Django Admin](https://stackoverflow.com/q/67895534/2989289)
 
+##### Read
+- Django: [django-admin and manage.py](https://docs.djangoproject.com/en/3.2/ref/django-admin/)
+
 ## Claimed to be heard - 2021-06-08
 ##### Read
 - Docker: [Introduction to Docker and Container-based development](https://medium.com/geekculture/introduction-to-docker-and-container-based-development-microservices-part-1-f41522e91d4a)
