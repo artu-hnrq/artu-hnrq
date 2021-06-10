@@ -5,7 +5,7 @@
 </h3>
 
 I'm **Arthur Henrique**, from Brazil 🇧🇷 How are you there? I'm a **computer scientist**, from [UFSC][1], driven by the excitement of learning! <br>
-I have been coding in Python since a while, mainly focused in web applications, cloud infrastructure and development tools, as well as working with people to figure out software solutions for their challenges. <br>
+I have been coding in Python since a while, mainly focused in web applications, cloud infrastructure and tools development, as well as working with people to figure out software solutions for their challenges. <br>
 I also very interested about slackline, chess, street art and open-source communities!
 
 [1]: https://en.wikipedia.org/wiki/Federal_University_of_Santa_Catarina
