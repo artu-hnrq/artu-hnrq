@@ -25,6 +25,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Django: [Como usamos Relações Genéricas do Django para adicionar comentários em instâncias de diferentes modelos](https://medium.com/@leportella/como-usamos-rela%C3%A7%C3%B5es-gen%C3%A9ricas-do-django-para-adicionar-coment%C3%A1rios-em-inst%C3%A2ncias-de-diferentes-59a80aa6a7b#)
+- Python: [What’s New In Python 3.10–4 Amazing Features You Should Try](https://towardsdatascience.com/whats-new-in-python-3-10-4-amazing-features-you-should-try-4f3044871476)
+- SQL: [Take your SQL from Good to Great: Part 3](https://towardsdatascience.com/take-your-sql-from-good-to-great-part-3-687d797d1ede)
 
 ## Claimed to be heard - 2021-06-08
 ##### Read
