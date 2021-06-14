@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Heading for the new - 2021-06-14
+###### Read
+Dev: (The Scrum Master as the Leader of the Future)[https://medium.com/serious-scrum/the-scrum-master-as-the-leader-of-the-future-aca1fedf0bd4]
+
 ## Confident with what is comming - 2021-06-09
 ##### Asked
 - [Using Djongo's ArrayField at Django Admin](https://stackoverflow.com/q/67895534/2989289)
