@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Heading for the new - 2021-06-14
 ###### Read
-Dev: (The Scrum Master as the Leader of the Future)[https://medium.com/serious-scrum/the-scrum-master-as-the-leader-of-the-future-aca1fedf0bd4]
+Dev: [The Scrum Master as the Leader of the Future](https://medium.com/serious-scrum/the-scrum-master-as-the-leader-of-the-future-aca1fedf0bd4)
+Linux: [University of Minnesota Linux Ban Prompts Questions About Open Source](https://www.toptal.com/linux/university-of-minnesota-linux-open-source-security)
 
 ## Confident with what is comming - 2021-06-09
 ##### Asked
