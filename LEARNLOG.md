@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Sourced
 - [git-changelog](https://github.com/pawamoy/git-changelog): Automatic Changelog generator using Jinja2 templates
 - [conventional-changelog / standard-version](https://github.com/conventional-changelog/standard-version): Automate versioning and CHANGELOG generation, with semver and conventionalcommits
+- [auto-changelog](https://github.com/KeNaCo/auto-changelog): A small program that will generate a changelog from git repos using "conventional style" commit messages
 
 ## Confident with what is comming - 2021-06-09
 ##### Asked
