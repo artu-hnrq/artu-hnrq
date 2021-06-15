@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - OS: [How do ASLR and DEP work?](https://security.stackexchange.com/q/18556)
+- UNIX: [How to move all files and folders via mv command](https://unix.stackexchange.com/a/50488/364080)
 
 ##### Read
 - UNIX: [Diferenças do Shell Bash no Linux para o Mac OS X](https://terminalroot.com.br/2017/04/diferencas-do-shell-bash-no-linux-para-o-mac-os-x.html)
