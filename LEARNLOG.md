@@ -15,6 +15,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - OS: [How do ASLR and DEP work?](https://security.stackexchange.com/q/18556)
 
+##### Read
+- UNIX: [Diferenças do Shell Bash no Linux para o Mac OS X](https://terminalroot.com.br/2017/04/diferencas-do-shell-bash-no-linux-para-o-mac-os-x.html)
+- UNIX: [Sobre scripts de shell no Terminal do Mac](https://support.apple.com/pt-br/guide/terminal/apd53500956-7c5b-496b-a362-2845f2aab4bc/mac)
+
 ## Heading for the new - 2021-06-14
 ##### Read
 - Dev: [The Scrum Master as the Leader of the Future](https://medium.com/serious-scrum/the-scrum-master-as-the-leader-of-the-future-aca1fedf0bd4)
