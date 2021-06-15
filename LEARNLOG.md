@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Linux: [University of Minnesota Linux Ban Prompts Questions About Open Source](https://www.toptal.com/linux/university-of-minnesota-linux-open-source-security)
 - Dev: [Automate Semantic Versioning with Conventional Commits](https://medium.com/@jsilvax/automate-semantic-versioning-with-conventional-commits-d76a9f45f2fa)
 
+##### Sourced
+- [git-changelog](https://github.com/pawamoy/git-changelog): Automatic Changelog generator using Jinja2 templates
+
 ## Confident with what is comming - 2021-06-09
 ##### Asked
 - [Using Djongo's ArrayField at Django Admin](https://stackoverflow.com/q/67895534/2989289)
