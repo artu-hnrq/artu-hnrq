@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - Dev: [Só Precisamos de 640 kB de Memória? | 16-bits até 64-bits](https://www.youtube.com/watch?v=cTVXKfYOYxo&t=1424s) - Fabio Akita
 
+##### Checked
+- OS: [How do ASLR and DEP work?](https://security.stackexchange.com/q/18556)
+
 ## Heading for the new - 2021-06-14
 ##### Read
 - Dev: [The Scrum Master as the Leader of the Future](https://medium.com/serious-scrum/the-scrum-master-as-the-leader-of-the-future-aca1fedf0bd4)
