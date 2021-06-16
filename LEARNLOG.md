@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [Permissions and Authorization](https://docs.djangoproject.com/en/dev/topics/auth/default/#permissions-and-authorization)
+- Django: [REST Framework - Authentication](https://www.django-rest-framework.org/api-guide/authentication/)
 
 ##### Practiced
 - Django: Mozzila's Tutorial Part 8 - [User authentication and permissions](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)
