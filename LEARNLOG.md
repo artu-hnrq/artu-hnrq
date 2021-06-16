@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Open-source: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - Open-source: [Your Project is Great, So Let’s Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
 - Django: [How to Implement Token Authentication using Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
+- Django: [How to use PostgreSQL with Django](https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django)
 
 ##### Checked
 - Django: [API Root doesn't have has_permissions with JWT_Authentication](https://stackoverflow.com/a/63631631/2989289)
