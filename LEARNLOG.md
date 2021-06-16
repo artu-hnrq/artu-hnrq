@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Open-source: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - Open-source: [Your Project is Great, So Let’s Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
+- Django: [How to Implement Token Authentication using Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
 ##### Consulted
 - Django: [Permissions and Authorization](https://docs.djangoproject.com/en/dev/topics/auth/default/#permissions-and-authorization)
