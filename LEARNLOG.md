@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Permissions and Authorization](https://docs.djangoproject.com/en/dev/topics/auth/default/#permissions-and-authorization)
 - Django: [REST Framework - Authentication](https://www.django-rest-framework.org/api-guide/authentication/)
 - Django: [REST Framework - Documenting your API](https://www.django-rest-framework.org/topics/documenting-your-api/)
+- Django: [how long is token valid? Django REST Framework](https://stackoverflow.com/a/22948161/2989289)
 - Django: [Token Authentication for RESTful API: should the token be periodically changed?](https://stackoverflow.com/q/14567586/2989289)
 
 ##### Practiced
