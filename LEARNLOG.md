@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Open-source: [Your Project is Great, So Let’s Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
 - Django: [How to Implement Token Authentication using Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
+##### Checked
+- Django: [API Root doesn't have has_permissions with JWT_Authentication](https://stackoverflow.com/a/63631631/2989289)
+
 ##### Consulted
 - Django: [Permissions and Authorization](https://docs.djangoproject.com/en/dev/topics/auth/default/#permissions-and-authorization)
 - Django: [REST Framework - Authentication](https://www.django-rest-framework.org/api-guide/authentication/)
