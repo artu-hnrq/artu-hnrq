@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - OS: [How do ASLR and DEP work?](https://security.stackexchange.com/q/18556)
 - UNIX: [How to move all files and folders via mv command](https://unix.stackexchange.com/a/50488/364080)
 - UNIX: [How to get Bash version number in OS X](https://stackoverflow.com/q/29060076/2989289)
+- Make: [How to set child process' environment variable in Makefile](https://stackoverflow.com/a/49524393/2989289)
 
 ##### Read
 - UNIX: [Diferenças do Shell Bash no Linux para o Mac OS X](https://terminalroot.com.br/2017/04/diferencas-do-shell-bash-no-linux-para-o-mac-os-x.html)
