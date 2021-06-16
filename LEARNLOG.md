@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [API Root doesn't have has_permissions with JWT_Authentication](https://stackoverflow.com/a/63631631/2989289)
 - Django: [How to check if a user is logged in (how to properly use user.is_authenticated)?](https://stackoverflow.com/a/3644910/2989289)
+- Python: [How to pretty print nested dictionaries?](https://stackoverflow.com/q/3229419/2989289)
 
 ##### Consulted
 - Django: [Permissions and Authorization](https://docs.djangoproject.com/en/dev/topics/auth/default/#permissions-and-authorization)
