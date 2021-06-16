@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Code-challeging once for all - 2021-06-16
+##### Read
+- Maintainance: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+
 ## The talk day - 2021-06-15
 ##### Watched
 - Dev: [Só Precisamos de 640 kB de Memória? | 16-bits até 64-bits](https://www.youtube.com/watch?v=cTVXKfYOYxo&t=1424s) - Fabio Akita
