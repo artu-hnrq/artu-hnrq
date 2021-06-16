@@ -27,6 +27,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [how long is token valid? Django REST Framework](https://stackoverflow.com/a/22948161/2989289)
 - Django: [Token Authentication for RESTful API: should the token be periodically changed?](https://stackoverflow.com/q/14567586/2989289)
 - Django: [REST Framework - Metadata](https://www.django-rest-framework.org/api-guide/metadata/)
+- Postman: [Importing Postman data](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-postman-data)
 
 ##### Practiced
 - Django: Mozzila's Tutorial Part 8 - [User authentication and permissions](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)
