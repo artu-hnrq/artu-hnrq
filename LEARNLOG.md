@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Open-source: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - Open-source: [Your Project is Great, So Let’s Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
 
+##### Practiced
+- Django: Mozzila's Tutorial Part 8 - [User authentication and permissions](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)
+
 ## The talk day - 2021-06-15
 ##### Watched
 - Dev: [Só Precisamos de 640 kB de Memória? | 16-bits até 64-bits](https://www.youtube.com/watch?v=cTVXKfYOYxo&t=1424s) - Fabio Akita
