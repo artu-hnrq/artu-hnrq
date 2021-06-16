@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How to check if a user is logged in (how to properly use user.is_authenticated)?](https://stackoverflow.com/a/3644910/2989289)
 - Python: [How to pretty print nested dictionaries?](https://stackoverflow.com/q/3229419/2989289)
 - Django: [Django Rest Framework Custom Endpoints](https://stackoverflow.com/q/59667603/2989289)
+- Postgres: [how to drop all databases except few ones in postgres](https://stackoverflow.com/q/24548297/2989289)
 
 ##### Consulted
 - Django: [Permissions and Authorization](https://docs.djangoproject.com/en/dev/topics/auth/default/#permissions-and-authorization)
