@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Code-challeging once for all - 2021-06-16
 ##### Read
-- Maintainance: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+- Open-source: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+- Open-source: [Your Project is Great, So Let’s Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
 
 ## The talk day - 2021-06-15
 ##### Watched
