@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Practiced
 - Django: Mozzila's Tutorial Part 8 - [User authentication and permissions](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)
+- Python: [Performing an HTTP Request in Python](https://www.datacamp.com/community/tutorials/making-http-requests-in-python)
 
 ## The talk day - 2021-06-15
 ##### Watched
