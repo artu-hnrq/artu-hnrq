@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Postgres: [How to List Databases and Tables in PostgreSQL Using psql](https://chartio.com/resources/tutorials/how-to-list-databases-and-tables-in-postgresql-using-psql/)
 - Django: [Integrando Django com PostgreSQL](https://medium.com/@lucas_souto/integrando-django-com-postgresql-58b3520ddf6e)
 - Django: [How To Use PostgreSQL with your Django Application on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04)
+- Postgres: [Creating user, database and adding access on PostgreSQL](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 
 ## Code-challeging once for all - 2021-06-16
 ##### Read
