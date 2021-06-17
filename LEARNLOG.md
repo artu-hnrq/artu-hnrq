@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Keeping going the great work - 2021-06-17
+##### Read
+- Postgres: [How to List Databases and Tables in PostgreSQL Using psql](https://chartio.com/resources/tutorials/how-to-list-databases-and-tables-in-postgresql-using-psql/)
+
 ## Code-challeging once for all - 2021-06-16
 ##### Read
 - Open-source: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
