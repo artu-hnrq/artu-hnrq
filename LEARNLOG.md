@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How To Use PostgreSQL with your Django Application on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04)
 - Postgres: [Creating user, database and adding access on PostgreSQL](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 
+##### Checked
+- Bash: [Setting an environment variable before a command in Bash is not working for the second command in a pipe](https://stackoverflow.com/q/10856129/2989289)
+
 ## Code-challeging once for all - 2021-06-16
 ##### Read
 - Open-source: [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
