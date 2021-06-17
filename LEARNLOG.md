@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Bash: [Setting an environment variable before a command in Bash is not working for the second command in a pipe](https://stackoverflow.com/q/10856129/2989289)
+- Docker: [How to use environment variables in docker compose](https://stackoverflow.com/a/50201232/2989289)
 
 ## Code-challeging once for all - 2021-06-16
 ##### Read
