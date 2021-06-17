@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Keeping going the great work - 2021-06-17
 ##### Read
 - Postgres: [How to List Databases and Tables in PostgreSQL Using psql](https://chartio.com/resources/tutorials/how-to-list-databases-and-tables-in-postgresql-using-psql/)
+- Django: [Integrando Django com PostgreSQL](https://medium.com/@lucas_souto/integrando-django-com-postgresql-58b3520ddf6e)
 
 ## Code-challeging once for all - 2021-06-16
 ##### Read
