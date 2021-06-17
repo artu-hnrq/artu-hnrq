@@ -17,10 +17,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Postgres: [How to Start Django Project with a Database(PostgreSQL)](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
 - Docker: [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
 - Docker: [Declare default environment variables in file](https://docs.docker.com/compose/env-file/)
+- Docker: [How to Run PostgreSQL Using Docker](https://towardsdatascience.com/how-to-run-postgresql-using-docker-15bf87b452d4)
 
 ##### Checked
 - Bash: [Setting an environment variable before a command in Bash is not working for the second command in a pipe](https://stackoverflow.com/q/10856129/2989289)
 - Docker: [How to use environment variables in docker compose](https://stackoverflow.com/a/50201232/2989289)
+- Docker: [How to delete all local Docker images](https://stackoverflow.com/questions/44785585/docker-how-to-delete-all-local-docker-images)
 
 ## Code-challeging once for all - 2021-06-16
 ##### Read
