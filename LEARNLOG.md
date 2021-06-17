@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
 - Docker: [Declare default environment variables in file](https://docs.docker.com/compose/env-file/)
 - Docker: [How to Run PostgreSQL Using Docker](https://towardsdatascience.com/how-to-run-postgresql-using-docker-15bf87b452d4)
+- Docker: [Django Development with Docker Compose and Machine](https://realpython.com/django-development-with-docker-compose-and-machine/#docker-compose)
 
 ##### Checked
 - Bash: [Setting an environment variable before a command in Bash is not working for the second command in a pipe](https://stackoverflow.com/q/10856129/2989289)
