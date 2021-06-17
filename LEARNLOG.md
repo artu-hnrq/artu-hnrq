@@ -15,6 +15,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How To Use PostgreSQL with your Django Application on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04)
 - Postgres: [Creating user, database and adding access on PostgreSQL](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 - Postgres: [How to Start Django Project with a Database(PostgreSQL)](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
+- Docker: [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+- Docker: [Declare default environment variables in file](https://docs.docker.com/compose/env-file/)
 
 ##### Checked
 - Bash: [Setting an environment variable before a command in Bash is not working for the second command in a pipe](https://stackoverflow.com/q/10856129/2989289)
