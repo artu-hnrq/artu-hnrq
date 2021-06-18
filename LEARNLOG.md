@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Sourced
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 
+##### Checked
+- Ubuntu: [How to update Python to the latest version on Ubuntu 16.04](https://askubuntu.com/q/1212114/689894)
+
 ## Keeping going the great work - 2021-06-17
 ##### Read
 - Postgres: [How to List Databases and Tables in PostgreSQL Using psql](https://chartio.com/resources/tutorials/how-to-list-databases-and-tables-in-postgresql-using-psql/)
