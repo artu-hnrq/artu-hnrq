@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Docker: [Building Docker Images with Dockerfiles](https://codefresh.io/docker-tutorial/build-docker-image-dockerfiles/)
+- Docker: [Understanding Docker Build Args, Environment Variables and Docker Compose Variables](https://vsupalov.com/docker-env-vars/) 
 
 ##### Checked
 - Ubuntu: [How to update Python to the latest version on Ubuntu 16.04](https://askubuntu.com/q/1212114/689894)
