@@ -12,8 +12,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Sourced
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 
+##### Read
+- Docker: [Building Docker Images with Dockerfiles](https://codefresh.io/docker-tutorial/build-docker-image-dockerfiles/)
+
 ##### Checked
 - Ubuntu: [How to update Python to the latest version on Ubuntu 16.04](https://askubuntu.com/q/1212114/689894)
+- Ubuntu: [Updating Python on Ubuntu system](https://superuser.com/q/241865/1063603)
 
 ## Keeping going the great work - 2021-06-17
 ##### Read
