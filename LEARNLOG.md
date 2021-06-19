@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Docker: [Get environment variable value in Dockerfile](https://stackoverflow.com/q/19537645/2989289)
 
+##### Consulted
+- Docker: [Run](https://docs.docker.com/engine/reference/commandline/run/)
+
 ## Untying knots - 2021-06-18
 ##### Sourced
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
