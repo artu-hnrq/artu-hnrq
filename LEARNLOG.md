@@ -13,7 +13,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Get environment variable value in Dockerfile](https://stackoverflow.com/q/19537645/2989289)
 
 ##### Consulted
-- Docker: [Run](https://docs.docker.com/engine/reference/commandline/run/)
+- Docker: [run](https://docs.docker.com/engine/reference/commandline/run/)
+- Docker: [image prune](https://docs.docker.com/engine/reference/commandline/image_prune/)
 
 ## Untying knots - 2021-06-18
 ##### Sourced
