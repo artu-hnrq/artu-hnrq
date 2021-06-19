@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Rainy work Saturday- 2021-06-19
+##### Checked
+- Docker: [Get environment variable value in Dockerfile](https://stackoverflow.com/q/19537645/2989289)
+
 ## Untying knots - 2021-06-18
 ##### Sourced
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
