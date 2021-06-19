@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Postgres: [Cannot install psycopg2 Ubuntu](https://stackoverflow.com/a/47318374/2989289)
 - Docker: ['make' command not found in docker container](https://stackoverflow.com/a/59628589/2989289)
 - Docker: [Failing to install psycopg2-binary on new docker container](https://stackoverflow.com/a/67404591/2989289)
+- Docker: [Can dockerfile be put in .dockerignore?](https://stackoverflow.com/a/47580591/2989289)
 
 ##### Consulted
 - Docker: [run](https://docs.docker.com/engine/reference/commandline/run/)
@@ -21,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Docker: [Hello Whale: Docker Basics- Getting Started with Docker](https://codefresh.io/docker-tutorial/hello-whale-docker-basics-getting-started-docker/)
+- Docker: [Do not ignore .dockerignore](https://codefresh.io/docker-tutorial/not-ignore-dockerignore-2/)
 
 ## Untying knots - 2021-06-18
 ##### Sourced
