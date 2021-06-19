@@ -26,6 +26,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Docker: [Hello Whale: Docker Basics- Getting Started with Docker](https://codefresh.io/docker-tutorial/hello-whale-docker-basics-getting-started-docker/)
 - Docker: [Do not ignore .dockerignore](https://codefresh.io/docker-tutorial/not-ignore-dockerignore-2/)
+- Docker: [Containerize a Python App in 5 Minutes](https://www.wintellect.com/containerize-python-app-5-minutes/)
 
 ## Untying knots - 2021-06-18
 ##### Sourced
