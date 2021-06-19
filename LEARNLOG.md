@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [run](https://docs.docker.com/engine/reference/commandline/run/)
 - Docker: [image prune](https://docs.docker.com/engine/reference/commandline/image_prune/)
 
+##### Read
+- Docker: [Hello Whale: Docker Basics- Getting Started with Docker](https://codefresh.io/docker-tutorial/hello-whale-docker-basics-getting-started-docker/)
+
 ## Untying knots - 2021-06-18
 ##### Sourced
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
