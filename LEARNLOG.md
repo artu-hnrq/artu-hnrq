@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Docker: [Get environment variable value in Dockerfile](https://stackoverflow.com/q/19537645/2989289)
 - Postgres: [Cannot install psycopg2 Ubuntu](https://stackoverflow.com/a/47318374/2989289)
+- Docker: ['make' command not found in docker container](https://stackoverflow.com/a/59628589/2989289)
 
 ##### Consulted
 - Docker: [run](https://docs.docker.com/engine/reference/commandline/run/)
