@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Failing to install psycopg2-binary on new docker container](https://stackoverflow.com/a/67404591/2989289)
 - Docker: [Can dockerfile be put in .dockerignore?](https://stackoverflow.com/a/47580591/2989289)
 - Docker: [Docker cannot access Webserver on host](https://serverfault.com/q/757646/584569)
+- Docker: [How to rebuild docker container in docker-compose.yml?](https://stackoverflow.com/q/36884991/2989289)
 
 ##### Consulted
 - Docker: [run](https://docs.docker.com/engine/reference/commandline/run/)
