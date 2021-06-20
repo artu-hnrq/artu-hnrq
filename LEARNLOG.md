@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Jurerê's barbecue day - 2021-06-20
 ##### Checked
-- Docker: [What is the difference between “expose” and “publish” in Docker?](https://stackoverflow.com/a/22150099/2989289))
+- Docker: [What is the difference between “expose” and “publish” in Docker?](https://stackoverflow.com/a/22150099/2989289)
+- Django: [stoping django dev server gracefully inside docker container](https://stackoverflow.com/q/49875322/2989289)
 
 ## Rainy work Saturday- 2021-06-19
 ##### Checked
