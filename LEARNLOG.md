@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Docker: [Let’s make your Docker Image better than 90% of existing ones](https://medium.com/@chamilad/lets-make-your-docker-image-better-than-90-of-existing-ones-8b1e5de950d)
 - Docker: [Containerizing a simple Django application with Docker and Docker Compose](https://blog.logrocket.com/containerizing-a-simple-django-application-with-docker-and-docker-compose/)
+- Docker: [Docker Compose: Conditional Services](https://billglover.me/2020/02/21/docker-compose-conditional-services/)
 
 ## Rainy work Saturday- 2021-06-19
 ##### Checked
