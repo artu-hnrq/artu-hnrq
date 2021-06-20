@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Building docker images from a source directory using different dockerfiles](https://stackoverflow.com/q/29409310/2989289)
 - Make: [If conditions in a Makefile, inside a target](https://stackoverflow.com/q/15977796/2989289)
 
+##### Read
+- Docker: [Let’s make your Docker Image better than 90% of existing ones](https://medium.com/@chamilad/lets-make-your-docker-image-better-than-90-of-existing-ones-8b1e5de950d)
+
 ## Rainy work Saturday- 2021-06-19
 ##### Checked
 - Docker: [Get environment variable value in Dockerfile](https://stackoverflow.com/q/19537645/2989289)
