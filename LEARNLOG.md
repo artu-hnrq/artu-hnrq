@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Celebrating the splendid life I have - 2021-06-21
+##### Read
+- Docker: [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#leverage-build-cache)
+
 ##### Checked
 - Docker: [Set container name inside Dockerfile](https://stackoverflow.com/a/37444346/2989289)
 
