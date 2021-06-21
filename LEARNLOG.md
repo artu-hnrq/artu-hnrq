@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Celebrating the splendid life I have - 2021-06-21
+##### Checked
+- Docker: [Set container name inside Dockerfile](https://stackoverflow.com/a/37444346/2989289)
+
 ## Jurerê's barbecue day - 2021-06-20
 ##### Checked
 - Docker: [What is the difference between “expose” and “publish” in Docker?](https://stackoverflow.com/a/22150099/2989289)
