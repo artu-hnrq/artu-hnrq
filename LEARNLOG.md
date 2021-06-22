@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Docker: [Compose CLI environment variables](https://docs.docker.com/compose/reference/envvars/)
+- Docker: [Networking in Compose](https://docs.docker.com/compose/networking/)
 
 ##### Checked
 - Docker: [Set container name inside Dockerfile](https://stackoverflow.com/a/37444346/2989289)
