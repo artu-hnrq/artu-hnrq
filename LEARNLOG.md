@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Do not stop programming - 2021-06-22
 ##### Checked
 - Django: [Why does DEBUG=False setting make my django Static Files Access fail?](https://stackoverflow.com/a/5836728/2989289)
+- Django: [Loading fixtures in django unit tests](https://stackoverflow.com/a/2937349/2989289)
 
 ##### Coded
 - [jungle-dev](https://github.com/artu-hnrq/jungle-devs/commit/369d32807ab3a5546386f61c9a3e69edf32b70a5) - A containerized Django REST API code challenge
