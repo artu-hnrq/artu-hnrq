@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Practiced
 - Django: [Django REST Framework - Tutorial 1: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
+- Django: [Django REST Framework Tutorial 2: Requests and Responses](https://www.django-rest-framework.org/tutorial/2-requests-and-responses/)
 
 ##### Read
 TDD: [Test Driven Development of a Django RESTful API](https://realpython.com/test-driven-development-of-a-django-restful-api/)
