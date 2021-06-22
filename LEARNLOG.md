@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Coded
 - [jungle-dev](https://github.com/artu-hnrq/jungle-devs/commit/369d32807ab3a5546386f61c9a3e69edf32b70a5) - A containerized Django REST API code challenge
 
+##### Read
+TDD: [Test Driven Development of a Django RESTful API](https://realpython.com/test-driven-development-of-a-django-restful-api/)
+
 ## Celebrating the splendid life I have - 2021-06-21
 ##### Read
 - Docker: [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#leverage-build-cache)
