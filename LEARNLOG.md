@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [using APITestCase with django-rest-framework](https://stackoverflow.com/q/28221754/2989289)
 - HTTP: [What is the correct JSON content type?](https://stackoverflow.com/a/477819/2989289)
 - Django: [how to retrieve password in django](https://stackoverflow.com/a/10622220/2989289)
+- Django: [How to create a user in Django?](https://stackoverflow.com/a/23482284/2989289)
 
 ##### Coded
 - [jungle-dev](https://github.com/artu-hnrq/jungle-devs/commit/369d32807ab3a5546386f61c9a3e69edf32b70a5) - A containerized Django REST API code challenge
