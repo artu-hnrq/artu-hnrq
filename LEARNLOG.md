@@ -17,12 +17,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - [jungle-dev](https://github.com/artu-hnrq/jungle-devs/commit/369d32807ab3a5546386f61c9a3e69edf32b70a5) - A containerized Django REST API code challenge
 
 ##### Practiced
-- Django: [Django REST Framework - Tutorial 1: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
-- Django: [Django REST Framework - Tutorial 2: Requests and Responses](https://www.django-rest-framework.org/tutorial/2-requests-and-responses/)
-- Django: [Django REST Framework - Tutorial 3: Class-based Views](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
-- Django: [Django REST Framework - Tutorial 4: Authentication & Permissions](https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/)
-- Django: [Django REST Framework - Tutorial 5: Relationships & Hyperlinked APIs](https://www.django-rest-framework.org/tutorial/5-relationships-and-hyperlinked-apis/)
-- Django: [Django REST Framework - Tutorial 6: ViewSets & Routers](https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/)
+- Django: [REST Framework - Tutorial 1: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
+- Django: [REST Framework - Tutorial 2: Requests and Responses](https://www.django-rest-framework.org/tutorial/2-requests-and-responses/)
+- Django: [REST Framework - Tutorial 3: Class-based Views](https://www.django-rest-framework.org/tutorial/3-class-based-views/)
+- Django: [REST Framework - Tutorial 4: Authentication & Permissions](https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/)
+- Django: [REST Framework - Tutorial 5: Relationships & Hyperlinked APIs](https://www.django-rest-framework.org/tutorial/5-relationships-and-hyperlinked-apis/)
+- Django: [REST Framework - Tutorial 6: ViewSets & Routers](https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/)
 
 ##### Read
 TDD: [Test Driven Development of a Django RESTful API](https://realpython.com/test-driven-development-of-a-django-restful-api/)
