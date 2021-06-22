@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Docker: [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#leverage-build-cache)
 
+##### Consulted
+- Docker: [Compose CLI environment variables](https://docs.docker.com/compose/reference/envvars/)
+
 ##### Checked
 - Docker: [Set container name inside Dockerfile](https://stackoverflow.com/a/37444346/2989289)
 - Django: [Invalid HTTP_HOST header: '127.0.0.1:8000' error when using python-decouple to set ALLOWED_HOSTS](https://stackoverflow.com/a/49050461/2989289)
