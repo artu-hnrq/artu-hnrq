@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Learning deeper and deeper - 2021-06-23
+##### Read
+- Nginx: [The Right Way to serve static files when using Django with Gunicorn](https://dev.to/prahladyeri/the-right-way-to-serve-static-files-when-using-django-with-gunicorn-4g2i)
+
 ##### Checked
 - Django: [How to make Django serve static files with Gunicorn?](https://stackoverflow.com/a/12801140/2989289)
 
