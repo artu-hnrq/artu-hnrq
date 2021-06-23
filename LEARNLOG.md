@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Learning deeper and deeper - 2021-06-23
 ##### Read
 - Nginx: [The Right Way to serve static files when using Django with Gunicorn](https://dev.to/prahladyeri/the-right-way-to-serve-static-files-when-using-django-with-gunicorn-4g2i)
+- Django: [A Guide To Creating An API Endpoint With Django Rest Framework](https://www.caktusgroup.com/blog/2019/02/01/creating-api-endpoint-django-rest-framework/)
 
 ##### Checked
 - Django: [How to make Django serve static files with Gunicorn?](https://stackoverflow.com/a/12801140/2989289)
