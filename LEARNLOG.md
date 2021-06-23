@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Coursed
 - [Learning Nginx](https://www.linkedin.com/learning/learning-nginx/) - Linkedin Learning
 
+##### Practiced
+- Nginx: [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04)
+
 ## Do not stop programming - 2021-06-22
 ##### Checked
 - Django: [Why does DEBUG=False setting make my django Static Files Access fail?](https://stackoverflow.com/a/5836728/2989289)
