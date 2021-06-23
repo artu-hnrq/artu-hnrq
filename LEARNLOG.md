@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [How to get a Docker container's IP address from the host](https://stackoverflow.com/a/20686101/2989289)
 - Docker: [Docker Compose wait for container X before starting Y](https://stackoverflow.com/a/41854997/2989289)
 
+##### Consulted
+- Docker: [Control startup and shutdown order in Compose](https://docs.docker.com/compose/startup-order/)
+
 ##### Coursed
 - [Learning Nginx](https://www.linkedin.com/learning/learning-nginx/) - Linkedin Learning
 
