@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [How to make Django serve static files with Gunicorn?](https://stackoverflow.com/a/12801140/2989289)
 
+##### Coursed
+- [Learning Nginx](https://www.linkedin.com/learning/learning-nginx/) - Linkedin Learning
+
 ## Do not stop programming - 2021-06-22
 ##### Checked
 - Django: [Why does DEBUG=False setting make my django Static Files Access fail?](https://stackoverflow.com/a/5836728/2989289)
