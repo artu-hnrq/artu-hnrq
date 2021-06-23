@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Learning deeper and deeper - 2021-06-23
+##### Checked
+- Django: [How to make Django serve static files with Gunicorn?](https://stackoverflow.com/a/12801140/2989289)
+
 ## Do not stop programming - 2021-06-22
 ##### Checked
 - Django: [Why does DEBUG=False setting make my django Static Files Access fail?](https://stackoverflow.com/a/5836728/2989289)
