@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Docker: [Control startup and shutdown order in Compose](https://docs.docker.com/compose/startup-order/)
+- Docker: [Frequently asked questions](https://docs.docker.com/compose/faq/)
 
 ##### Coursed
 - [Learning Nginx](https://www.linkedin.com/learning/learning-nginx/) - Linkedin Learning
