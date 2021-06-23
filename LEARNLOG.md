@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How to create a user in Django?](https://stackoverflow.com/a/23482284/2989289)
 - Django: [What's the proper way to test token-based auth using APIRequestFactory?](https://stackoverflow.com/a/25534992/2989289)
 - Django: [Using a UUID as a primary key in Django models (generic relations impact)](https://stackoverflow.com/a/28469575/2989289)
+- Django: [What's the difference between django OneToOneField and ForeignKey?](https://stackoverflow.com/a/5891861/2989289)
 
 ##### Coded
 - [jungle-dev](https://github.com/artu-hnrq/jungle-devs/commit/369d32807ab3a5546386f61c9a3e69edf32b70a5) - A containerized Django REST API code challenge
