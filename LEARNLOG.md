@@ -37,6 +37,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 TDD: [Test Driven Development of a Django RESTful API](https://realpython.com/test-driven-development-of-a-django-restful-api/)
+API: [Your data model is not an API](https://tyk.io/your-data-model-is-not-an-api/)
 
 ## Celebrating the splendid life I have - 2021-06-21
 ##### Read
