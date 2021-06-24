@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Nginx: [Docker Hub description](https://hub.docker.com/_/nginx)
 - Nginx: [Server Block Examples](https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/)
 
+##### Sourced
+- [nginx-intellij-plugin](https://github.com/meanmail-dev/nginx-intellij-plugin): Intellij Plugin for Nginx configuration file
+
 ##### Practiced
 - Nginx: [Packaging a Django App Using Docker, NGINX, and Gunicorn](https://www.pluralsight.com/guides/packaging-a-django-app-using-docker-nginx-and-gunicorn)
 
