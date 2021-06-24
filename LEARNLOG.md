@@ -11,6 +11,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Funny night - 2021-06-24
 ##### Read
 - Nginx: [Deploying a Django application in Docker with Nginx](https://medium.com/@cloudcleric/deploying-a-django-application-in-docker-with-nginx-beeed45bebb8)
+- Nginx: [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
+
 ##### Practiced
 - Nginx: [Packaging a Django App Using Docker, NGINX, and Gunicorn](https://www.pluralsight.com/guides/packaging-a-django-app-using-docker-nginx-and-gunicorn)
 
