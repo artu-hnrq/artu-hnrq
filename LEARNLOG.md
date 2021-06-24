@@ -12,7 +12,6 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Nginx: [Deploying a Django application in Docker with Nginx](https://medium.com/@cloudcleric/deploying-a-django-application-in-docker-with-nginx-beeed45bebb8)
 - Nginx: [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
-- Nginx: [Docker Hub description](https://hub.docker.com/_/nginx)
 - Nginx: [Server Block Examples](https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/)
 - Docker: [Processes In Containers Should Not Run As Root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 
@@ -24,6 +23,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Docker: [Using profiles with Compose](https://docs.docker.com/compose/profiles/)
+- Postgres: [Docker Hub description](https://hub.docker.com/_/postgres)
+- Nginx: [Docker Hub description](https://hub.docker.com/_/nginx)
 
 ##### Checked
 - Django: [Serving static files through nginx](https://stackoverflow.com/a/2452883/2989289)
