@@ -21,6 +21,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Practiced
 - Nginx: [Packaging a Django App Using Docker, NGINX, and Gunicorn](https://www.pluralsight.com/guides/packaging-a-django-app-using-docker-nginx-and-gunicorn)
 
+##### Checked
+- Django: [Serving static files through nginx](https://stackoverflow.com/a/2452883/2989289)
+
 ## Learning deeper and deeper - 2021-06-23
 ##### Read
 - Nginx: [The Right Way to serve static files when using Django with Gunicorn](https://dev.to/prahladyeri/the-right-way-to-serve-static-files-when-using-django-with-gunicorn-4g2i)
