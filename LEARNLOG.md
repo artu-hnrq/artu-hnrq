@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Nginx: [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
 - Nginx: [Server Block Examples](https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/)
 - Docker: [Processes In Containers Should Not Run As Root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
+- Postgres: [Run PostgreSQL comtainer as a non-root user](https://suedbroecker.net/2020/06/23/run-a-postgressql-container-as-a-non-root-user-in-openshift/)
 
 ##### Sourced
 - [nginx-intellij-plugin](https://github.com/meanmail-dev/nginx-intellij-plugin): Intellij Plugin for Nginx configuration file
