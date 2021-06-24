@@ -31,6 +31,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Serving static files through nginx](https://stackoverflow.com/a/2452883/2989289)
 - Nginx: [serving Django static files with Docker, nginx and gunicorn](https://stackoverflow.com/a/50687407/2989289)
 - UNIX: [What does/will the directory /srv contain?](https://askubuntu.com/a/1166559/689894)
+- Postegres: [Permission issue with PostgreSQL in docker container](https://stackoverflow.com/a/66502465/2989289)
 
 ## Learning deeper and deeper - 2021-06-23
 ##### Read
