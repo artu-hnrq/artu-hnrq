@@ -22,6 +22,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Practiced
 - Nginx: [Packaging a Django App Using Docker, NGINX, and Gunicorn](https://www.pluralsight.com/guides/packaging-a-django-app-using-docker-nginx-and-gunicorn)
 
+##### Consulted
+- Docker: [Using profiles with Compose](https://docs.docker.com/compose/profiles/)
+
 ##### Checked
 - Django: [Serving static files through nginx](https://stackoverflow.com/a/2452883/2989289)
 - Nginx: [serving Django static files with Docker, nginx and gunicorn](https://stackoverflow.com/a/50687407/2989289)
