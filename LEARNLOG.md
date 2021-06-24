@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Django: [Serving static files through nginx](https://stackoverflow.com/a/2452883/2989289)
+- Nginx: [serving Django static files with Docker, nginx and gunicorn](https://stackoverflow.com/a/50687407/2989289)
 
 ## Learning deeper and deeper - 2021-06-23
 ##### Read
