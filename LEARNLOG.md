@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Midnight development - 2021-06-25
+##### Read
+- Docker: [How to SSH into a Running Docker Container and Run Commands](https://phoenixnap.com/kb/how-to-ssh-into-docker-container)
+
 ##### Checked
 - Nginx: [how to make static files works using django docker nginx and postgresql since its not serving them](https://stackoverflow.com/a/66777142/2989289)
 
