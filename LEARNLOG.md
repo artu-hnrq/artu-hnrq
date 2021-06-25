@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Midnight development - 2021-06-25
+##### Checked
+- Nginx: [how to make static files works using django docker nginx and postgresql since its not serving them](https://stackoverflow.com/a/66777142/2989289)
+
 ## Funny night - 2021-06-24
 ##### Read
 - Nginx: [Deploying a Django application in Docker with Nginx](https://medium.com/@cloudcleric/deploying-a-django-application-in-docker-with-nginx-beeed45bebb8)
