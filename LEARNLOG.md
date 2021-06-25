@@ -33,6 +33,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - UNIX: [What does/will the directory /srv contain?](https://askubuntu.com/a/1166559/689894)
 - Postegres: [Permission issue with PostgreSQL in docker container](https://stackoverflow.com/a/66502465/2989289)
 - Docker: [Error response from daemon: linux spec user: unable to find user myuser: no matching entries in passwd file](https://stackoverflow.com/a/48507386/2989289)
+- UNIX: [Is mkdir -p totally safe when creating folder already exists](https://unix.stackexchange.com/a/242997/364080)
 
 ## Learning deeper and deeper - 2021-06-23
 ##### Read
