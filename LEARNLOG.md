@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Processes In Containers Should Not Run As Root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 - Postgres: [Run PostgreSQL comtainer as a non-root user](https://suedbroecker.net/2020/06/23/run-a-postgressql-container-as-a-non-root-user-in-openshift/)
 - Nginx: [Dockerizing a Django application](https://blog.logrocket.com/dockerizing-a-django-app/)
+- Docker: [Docker Compose Default Environment Variables](https://keyes.ie/docker-compose-default-environment-variables/)
 
 ##### Sourced
 - [nginx-intellij-plugin](https://github.com/meanmail-dev/nginx-intellij-plugin): Intellij Plugin for Nginx configuration file
