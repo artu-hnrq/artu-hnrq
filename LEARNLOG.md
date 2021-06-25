@@ -27,6 +27,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Using profiles with Compose](https://docs.docker.com/compose/profiles/)
 - Postgres: [Docker Hub description](https://hub.docker.com/_/postgres)
 - Nginx: [Docker Hub description](https://hub.docker.com/_/nginx)
+- Docker: [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 
 ##### Checked
 - Django: [Serving static files through nginx](https://stackoverflow.com/a/2452883/2989289)
