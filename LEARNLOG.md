@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [Are multiple `.gitignore`s frowned on?](https://stackoverflow.com/a/3307252/2989289)
 - Bash: [Can I export a variable to the environment from a Bash script without sourcing it?
 ](https://stackoverflow.com/a/16619261/2989289)
+- Shell: [How can I make environment variables “exported” in a shell script stick around?](https://unix.stackexchange.com/a/30192/364080)
 
 ## Funny night - 2021-06-24
 ##### Read
