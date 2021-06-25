@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Nginx: [how to make static files works using django docker nginx and postgresql since its not serving them](https://stackoverflow.com/a/66777142/2989289)
+- Django: [django change default runserver port](https://stackoverflow.com/a/38319452/2989289)
 
 ## Funny night - 2021-06-24
 ##### Read
