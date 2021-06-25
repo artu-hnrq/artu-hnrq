@@ -37,6 +37,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [How to configure docker-compose.yml to up a container as root](https://stackoverflow.com/a/48730146/2989289)
 - Nginx: [Configuring DNS for nginx and confirming load balancing.](https://www.digitalocean.com/community/questions/configuring-dns-for-nginx-and-confirming-load-balancing)
 - Docker: [How do I access a server on localhost with nginx docker container?](https://stackoverflow.com/a/27814576/2989289)
+- Docker: [What is the point of WORKDIR on Dockerfile?](https://stackoverflow.com/a/51066379/2989289)
 
 ## Learning deeper and deeper - 2021-06-23
 ##### Read
