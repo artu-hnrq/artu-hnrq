@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Can I export a variable to the environment from a Bash script without sourcing it?
 ](https://stackoverflow.com/a/16619261/2989289)
 - Shell: [How can I make environment variables “exported” in a shell script stick around?](https://unix.stackexchange.com/a/30192/364080)
+- Python: [python unittest inheritance - abstract test class](https://stackoverflow.com/a/35304339/2989289)
 
 ## Funny night - 2021-06-24
 ##### Read
