@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [How can i pass ENV variables between make targets](https://stackoverflow.com/a/38928143/2989289)
 - Compose: [Using Variables in Docker-Compose](https://betterprogramming.pub/using-variables-in-docker-compose-265a604c2006)
 - Compose: [Is there any way to use extension fields in docker-compose with docker secrets?](https://stackoverflow.com/a/54561841/2989289)
+- Docker: [How can I override CMD when running a docker image?](https://serverfault.com/a/594486/584569)
   
 ##### Consulted
 - Docker: [How to remove <none> images after building](https://docs.docker.com/develop/develop-images/multistage-build/)
