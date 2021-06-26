@@ -18,6 +18,7 @@ Docker: [Docker: Label Image on Build (Dockerfile) – Example](https://www.shel
   Docker: [Docker build leaves intemediate images](https://stackoverflow.com/a/52337859/2989289)
   Docker: [Specify service label in docker-compose file](https://stackoverflow.com/a/56739366/2989289)
   Docker: [How to use multiple image tags with docker-compose](https://stackoverflow.com/a/49037416/2989289)
+  Docker: [Multiple images, one Dockerfile](https://stackoverflow.com/a/49754996/2989289)
   
 ##### Consulted
 - Docker: [https://docs.docker.com/develop/develop-images/multistage-build/](How to remove <none> images after building)
