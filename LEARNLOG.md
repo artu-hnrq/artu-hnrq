@@ -11,6 +11,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Not finish yet - 2021-06-26
 ##### Checked
 - Docker: [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050/3)
+  
+##### Consulted
+- Docker: [https://docs.docker.com/develop/develop-images/multistage-build/](How to remove <none> images after building)
 
 ## Midnight development - 2021-06-25
 ##### Read
