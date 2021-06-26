@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [How to use multiple image tags with docker-compose](https://stackoverflow.com/a/49037416/2989289)
 - Docker: [Multiple images, one Dockerfile](https://stackoverflow.com/a/49754996/2989289)
 - Make: [How can i pass ENV variables between make targets](https://stackoverflow.com/a/38928143/2989289)
+- Compose:  [Using Variables in Docker-Compose](https://betterprogramming.pub/using-variables-in-docker-compose-265a604c2006)
   
 ##### Consulted
 - Docker: [How to remove <none> images after building](https://docs.docker.com/develop/develop-images/multistage-build/)
