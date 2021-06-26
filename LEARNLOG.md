@@ -10,19 +10,20 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Not finish yet - 2021-06-26
 ##### Read
-Docker: [Docker: Label Image on Build (Dockerfile) – Example](https://www.shellhacks.com/docker-label-image-build-dockerfile-example/)
+- Docker: [Docker: Label Image on Build (Dockerfile) – Example](https://www.shellhacks.com/docker-label-image-build-dockerfile-example/)
 
 ##### Checked
 - Docker: [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050/3)
-  Docker: [How to add labels to intermediate images in a multi-stage docker build?](https://stackoverflow.com/a/61825814/2989289)
-  Docker: [Docker build leaves intemediate images](https://stackoverflow.com/a/52337859/2989289)
-  Docker: [Specify service label in docker-compose file](https://stackoverflow.com/a/56739366/2989289)
-  Docker: [How to use multiple image tags with docker-compose](https://stackoverflow.com/a/49037416/2989289)
-  Docker: [Multiple images, one Dockerfile](https://stackoverflow.com/a/49754996/2989289)
+- Docker: [How to add labels to intermediate images in a multi-stage docker build?](https://stackoverflow.com/a/61825814/2989289)
+- Docker: [Docker build leaves intemediate images](https://stackoverflow.com/a/52337859/2989289)
+- Docker: [Specify service label in docker-compose file](https://stackoverflow.com/a/56739366/2989289)
+- Docker: [How to use multiple image tags with docker-compose](https://stackoverflow.com/a/49037416/2989289)
+- Docker: [Multiple images, one Dockerfile](https://stackoverflow.com/a/49754996/2989289)
+- Make: [How can i pass ENV variables between make targets](https://stackoverflow.com/a/38928143/2989289)
   
 ##### Consulted
 - Docker: [How to remove <none> images after building](https://docs.docker.com/develop/develop-images/multistage-build/)
-  Docker: [docker tag](https://docs.docker.com/engine/reference/commandline/tag/)
+- Docker: [docker tag](https://docs.docker.com/engine/reference/commandline/tag/)
 
 ## Midnight development - 2021-06-25
 ##### Read
