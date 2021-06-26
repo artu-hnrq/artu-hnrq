@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   
 ##### Consulted
 - Docker: [https://docs.docker.com/develop/develop-images/multistage-build/](How to remove <none> images after building)
+  Docker: [https://docs.docker.com/engine/reference/commandline/tag/](docker tag)
 
 ## Midnight development - 2021-06-25
 ##### Read
