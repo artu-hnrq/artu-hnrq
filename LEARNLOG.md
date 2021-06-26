@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050/3)
   Docker: [How to add labels to intermediate images in a multi-stage docker build?](https://stackoverflow.com/a/61825814/2989289)
   Docker: [Docker build leaves intemediate images](https://stackoverflow.com/a/52337859/2989289)
+  Docker: [Specify service label in docker-compose file](https://stackoverflow.com/a/56739366/2989289)
   
 ##### Consulted
 - Docker: [https://docs.docker.com/develop/develop-images/multistage-build/](How to remove <none> images after building)
