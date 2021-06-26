@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Not finish yet - 2021-06-26
+##### Read
+Docker: [Docker: Label Image on Build (Dockerfile) – Example](https://www.shellhacks.com/docker-label-image-build-dockerfile-example/)
+
 ##### Checked
 - Docker: [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050/3)
   Docker: [How to add labels to intermediate images in a multi-stage docker build?](https://stackoverflow.com/a/61825814/2989289)
