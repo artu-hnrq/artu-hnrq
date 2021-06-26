@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Not finish yet - 2021-06-26
+##### Checked
+- Docker: [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050/3)
+
 ## Midnight development - 2021-06-25
 ##### Read
 - Docker: [How to SSH into a Running Docker Container and Run Commands](https://phoenixnap.com/kb/how-to-ssh-into-docker-container)
