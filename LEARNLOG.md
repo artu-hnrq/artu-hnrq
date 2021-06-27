@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Complex conditions check in Makefile](https://stackoverflow.com/a/5586785/2989289)
 - Make: [Using ifeq and ifndef in GNU Make](https://stackoverflow.com/q/8071493/2989289)
 
+##### Consulted
+- Make: [5.3.1 Using One Shell](https://www.gnu.org/software/make/manual/html_node/One-Shell.html)
+
 ## Not finish yet - 2021-06-26
 ##### Read
 - Docker: [Docker: Label Image on Build (Dockerfile) – Example](https://www.shellhacks.com/docker-label-image-build-dockerfile-example/)
