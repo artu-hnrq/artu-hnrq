@@ -25,6 +25,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Compose: [Is there any way to use extension fields in docker-compose with docker secrets?](https://stackoverflow.com/a/54561841/2989289)
 - Docker: [How can I override CMD when running a docker image?](https://serverfault.com/a/594486/584569)
   Docker: [When to use --hostname in docker?](https://stackoverflow.com/a/43033828/2989289)
+  Make: [Pass an option to a makefile](https://unix.stackexchange.com/a/389719/364080)
   
 ##### Consulted
 - Docker: [How to remove <none> images after building](https://docs.docker.com/develop/develop-images/multistage-build/)
