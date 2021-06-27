@@ -21,7 +21,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Make: [5.3.1 Using One Shell](https://www.gnu.org/software/make/manual/html_node/One-Shell.html)
 - Make: [10.1 Using Implicit Rules](https://www.gnu.org/software/make/manual/html_node/Using-Implicit.html)
-- Make: [10.8 Implicit Rule Search Algorithm](https://www.gnu.org/software/make/manual/html_node/Implicit-Rule-Search.html#Implicit-Rule-Search)
+- Make: [10.8 Implicit Rule Search Algorithm](https://www.gnu.org/software/make/manual/html_node/Implicit-Rule-Search.html)
+- Make: [6.8 Defining Multi-Line Variables](https://www.gnu.org/software/make/manual/html_node/Multi_002dLine.html)
 
 ## Not finish yet - 2021-06-26
 ##### Read
