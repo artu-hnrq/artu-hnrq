@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Not finish yet - 2021-06-26
 ##### Read
 - Docker: [Docker: Label Image on Build (Dockerfile) – Example](https://www.shellhacks.com/docker-label-image-build-dockerfile-example/)
+- Docker: [Multiple Image Tags with Docker Compose](https://www.back2code.me/2020/01/multiple-image-tags-with-docker-compose/)
 
 ##### Checked
 - Docker: [How to remove <none> images after building](https://forums.docker.com/t/how-to-remove-none-images-after-building/7050/3)
