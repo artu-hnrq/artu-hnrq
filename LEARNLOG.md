@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## One more midnight development - 2021-06-27
+##### Checked
+- Make: [Complex conditions check in Makefile](https://stackoverflow.com/a/5586785/2989289)
+
 ## Not finish yet - 2021-06-26
 ##### Read
 - Docker: [Docker: Label Image on Build (Dockerfile) – Example](https://www.shellhacks.com/docker-label-image-build-dockerfile-example/)
