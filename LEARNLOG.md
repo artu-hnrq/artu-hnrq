@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Using ifeq and ifndef in GNU Make](https://stackoverflow.com/q/8071493/2989289)
 - Make: [How to check if a variable is set in Bash?](https://stackoverflow.com/q/3601515/2989289)
 - Make: [How do I check if a variable exists in an 'if' statement?](https://unix.stackexchange.com/a/212192/364080)
+- Compose: [In docker-compose how to create an alias / link to localhost?](https://stackoverflow.com/a/43579846/2989289)
 
 ##### Consulted
 - Make: [5.3.1 Using One Shell](https://www.gnu.org/software/make/manual/html_node/One-Shell.html)
