@@ -28,6 +28,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [4.2 Rule Syntax](https://www.gnu.org/software/make/manual/html_node/Rule-Syntax.html)
 - Make: [10.5.3 Automatic Variables](Automatic-Variables)
 - Make: [9.7 Summary of Options](https://www.gnu.org/software/make/manual/html_node/Options-Summary.html)
+- Make: [5.7.3 Communicating Options to a Sub-make](https://www.gnu.org/software/make/manual/html_node/Options_002fRecursion.html)
 
 ## Not finish yet - 2021-06-26
 ##### Read
