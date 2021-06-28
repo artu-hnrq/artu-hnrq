@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## The beginning of a new era - 2021-06-28
 ##### Read
 - Django: [Django REST Framework Read & Write Serializers](https://www.vinta.com.br/blog/2018/django-rest-framework-read-write-serializers/)
+- Django: [Add Confirm Password Field to UserSerializer in Django Rest Framework](https://aaronpresley.com/writing/add-confirm-password-field-to-userserializer-in-django-rest-framework)
 
 ##### Checked
 - Django: [Django fixtures save with default value](https://stackoverflow.com/a/25725567/2989289)
