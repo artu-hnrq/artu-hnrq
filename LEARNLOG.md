@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [makefile target specific variables as prerequisites](https://stackoverflow.com/a/62350453/2989289)
 - Make: [Allow space in target of GCC makefile](https://stackoverflow.com/a/28338127/2989289)
 - Nginx: [Guide on how to use regex in Nginx location block section?](https://stackoverflow.com/a/59846239/2989289)
+- Bash: [Go from a String to an Array of “words” in Bash](https://unix.stackexchange.com/q/214664/364080)
 
 ##### Consulted
 - Make: [5.3.1 Using One Shell](https://www.gnu.org/software/make/manual/html_node/One-Shell.html)
