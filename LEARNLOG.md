@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
+- Django: [REST Framework - Routers](https://www.django-rest-framework.org/api-guide/routers/)
 
 ##### Tracked
 - Django: [UUID in loaddata fixture raise ValidationError on objects having OneToOne relationship (uuid as FK)](https://code.djangoproject.com/ticket/29747)
