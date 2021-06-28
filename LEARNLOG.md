@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Django fixtures save with default value](https://stackoverflow.com/a/25725567/2989289)
 
+##### Tracked
+- Django: [UUID in loaddata fixture raise ValidationError on objects having OneToOne relationship (uuid as FK)](https://code.djangoproject.com/ticket/29747)
+
 ## One more midnight development - 2021-06-27
 ##### Checked
 - Make: [Complex conditions check in Makefile](https://stackoverflow.com/a/5586785/2989289)
