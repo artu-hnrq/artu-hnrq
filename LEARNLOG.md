@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## The beginning of a new era - 2021-06-28
 ##### Checked
 - Django: [Django fixtures save with default value](https://stackoverflow.com/a/25725567/2989289)
+- Django: [How to get Request.User in Django-Rest-Framework serializer?](https://stackoverflow.com/a/34975314/2989289)
 
 ##### Consulted
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
