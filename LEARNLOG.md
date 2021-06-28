@@ -19,6 +19,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Makefile: silence the “make[N]:” line specifically](https://stackoverflow.com/a/27319144/2989289)
 - Make: [makefile target specific variables as prerequisites](https://stackoverflow.com/a/62350453/2989289)
 - Make: [Allow space in target of GCC makefile](https://stackoverflow.com/a/28338127/2989289)
+- Make: [
+](ENTRYPOINT)
 
 ##### Consulted
 - Make: [5.3.1 Using One Shell](https://www.gnu.org/software/make/manual/html_node/One-Shell.html)
