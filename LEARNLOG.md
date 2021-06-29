@@ -25,6 +25,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Special Variables](https://www.gnu.org/software/make/manual/html_node/Special-Targets.html)
 - PyCharm: [Docker Compose](https://www.jetbrains.com/help/pycharm/docker.html#using-docker-compose)
 - Git: [3.2 Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- Docker: [Configure GitHub Actions](https://docs.docker.com/ci-cd/github-actions/)
 
 ##### Teacked
 - Compose: [docker-compose complains about invalid TLS configuration #3937](https://github.com/docker/compose/issues/3937)
