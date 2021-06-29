@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [What is Serializers to_internal_value method used for in Django](https://stackoverflow.com/a/38606711/2989289)
 - Django: [remove authentication and permission for specific url path](https://stackoverflow.com/q/60666418/2989289)
 - Github: [How do I use Docker with GitHub Actions?](https://stackoverflow.com/a/58521709/2989289)
+- Bash: [How do I repeat the last command without using the arrow keys?](https://unix.stackexchange.com/a/147787/364080)
 
 ##### Consulted
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
