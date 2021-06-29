@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Going further even after all - 2021-06-29
 ##### Checked
 - Bash: [How to invoke bash, run commands inside the new shell, and then give control back to user?](https://stackoverflow.com/a/18756584/2989289)
+- PyCharm: [How to make IntelliJ IDEA insert a new line at every end of file?](https://stackoverflow.com/a/16761228/2989289)
 
 ##### Consulted
 - Make: [Special Variables](https://www.gnu.org/software/make/manual/html_node/Special-Targets.html)
