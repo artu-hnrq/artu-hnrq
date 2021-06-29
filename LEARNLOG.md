@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html[
-  
+
+## Going further even after all - 2021-06-29
+##### Checked
+- Bash: [How to invoke bash, run commands inside the new shell, and then give control back to user?](https://stackoverflow.com/a/18756584/2989289)
+
 ## The beginning of a new era - 2021-06-28
 ##### Read
 - Django: [Django REST Framework Read & Write Serializers](https://www.vinta.com.br/blog/2018/django-rest-framework-read-write-serializers/)
