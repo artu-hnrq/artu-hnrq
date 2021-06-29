@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django [Dynamically include/exclude fields to Django Rest Framwork serializers based on user requests](https://django.cowhite.com/blog/dynamically-includeexclude-fields-to-django-rest-framwork-serializers-based-on-user-requests/)
 - Github: [Deploy Docker Image to AWS ECR through GitHub Actions](https://www.jetbrains.com/pycharm/guide/tutorials/django-aws/github-actions/)
 - Bash: [Bash History: Correct / Repeat The Last Command With a Substitution](https://www.cyberciti.biz/faq/bash-history-repeat-substitution-command-syntax/)
+- Django:  [ModelSerializer in serializers](https://www.geeksforgeeks.org/modelserializer-in-serializers-django-rest-framework/)
 
 ##### Checked
 - Django: [Django fixtures save with default value](https://stackoverflow.com/a/25725567/2989289)
