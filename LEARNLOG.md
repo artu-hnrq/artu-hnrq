@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [How to make IntelliJ IDEA insert a new line at every end of file?](https://stackoverflow.com/a/16761228/2989289)
 - Make: [ignoring at (@) symbol in makefiles](https://stackoverflow.com/a/3864117/2989289)
 - Django: [Saving a extended user profile](https://stackoverflow.com/a/45932700/2989289)
+- Django: [How do I share IntelliJ Run/Debug configurations between projects?](https://stackoverflow.com/a/24642246/2989289)
 
 ##### Consulted
 - Make: [Special Variables](https://www.gnu.org/software/make/manual/html_node/Special-Targets.html)
