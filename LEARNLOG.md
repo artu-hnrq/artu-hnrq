@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Make: [Special Variables](https://www.gnu.org/software/make/manual/html_node/Special-Targets.html)
 
+##### Teacked
+- Compose: [docker-compose complains about invalid TLS configuration #3937](https://github.com/docker/compose/issues/3937)
+
 ## The beginning of a new era - 2021-06-28
 ##### Read
 - Django: [Django REST Framework Read & Write Serializers](https://www.vinta.com.br/blog/2018/django-rest-framework-read-write-serializers/)
