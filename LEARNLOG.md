@@ -15,7 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django [Dynamically include/exclude fields to Django Rest Framwork serializers based on user requests](https://django.cowhite.com/blog/dynamically-includeexclude-fields-to-django-rest-framwork-serializers-based-on-user-requests/)
 - Github: [Deploy Docker Image to AWS ECR through GitHub Actions](https://www.jetbrains.com/pycharm/guide/tutorials/django-aws/github-actions/)
 - Bash: [Bash History: Correct / Repeat The Last Command With a Substitution](https://www.cyberciti.biz/faq/bash-history-repeat-substitution-command-syntax/)
-- Django:  [ModelSerializer in serializers](https://www.geeksforgeeks.org/modelserializer-in-serializers-django-rest-framework/)
+- Django: [ModelSerializer in serializers](https://www.geeksforgeeks.org/modelserializer-in-serializers-django-rest-framework/)
 
 ##### Checked
 - Django: [Django fixtures save with default value](https://stackoverflow.com/a/25725567/2989289)
@@ -26,6 +26,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How do I repeat the last command without using the arrow keys?](https://unix.stackexchange.com/a/147787/364080)
 - Docker: [How to copy files from host to Docker container?](https://stackoverflow.com/a/31971697/2989289)
 - Docker: [How to set PS1 in Docker Container](https://stackoverflow.com/a/53647602/2989289)
+- Django: [How to save a model without sending a signal?](https://stackoverflow.com/a/63921774/2989289) 
 
 ##### Consulted
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
