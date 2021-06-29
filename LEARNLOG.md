@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Saving a extended user profile](https://stackoverflow.com/a/45932700/2989289)
 - Django: [How do I share IntelliJ Run/Debug configurations between projects?](https://stackoverflow.com/a/24642246/2989289)
 - Git: [How to unstash only certain files?](https://stackoverflow.com/a/15264717/2989289)
+- Git: [How to add a changed file to an older (not last) commit in Git](https://stackoverflow.com/a/2719636/2989289)
 
 ##### Consulted
 - Make: [Special Variables](https://www.gnu.org/software/make/manual/html_node/Special-Targets.html)
