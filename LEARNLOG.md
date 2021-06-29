@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Github: [How do I use Docker with GitHub Actions?](https://stackoverflow.com/a/58521709/2989289)
 - Bash: [How do I repeat the last command without using the arrow keys?](https://unix.stackexchange.com/a/147787/364080)
 - Docker: [How to copy files from host to Docker container?](https://stackoverflow.com/a/31971697/2989289)
+- Docker: [How to set PS1 in Docker Container](https://stackoverflow.com/a/53647602/2989289)
 
 ##### Consulted
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
