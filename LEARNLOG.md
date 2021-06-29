@@ -26,7 +26,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How do I repeat the last command without using the arrow keys?](https://unix.stackexchange.com/a/147787/364080)
 - Docker: [How to copy files from host to Docker container?](https://stackoverflow.com/a/31971697/2989289)
 - Docker: [How to set PS1 in Docker Container](https://stackoverflow.com/a/53647602/2989289)
-- Django: [How to save a model without sending a signal?](https://stackoverflow.com/a/63921774/2989289) 
+- Django: [How to save a model without sending a signal?](https://stackoverflow.com/a/63921774/2989289)
+- Python: [Split string using a newline delimiter with Python](https://stackoverflow.com/a/22043027/2989289)
 
 ##### Consulted
 - Django: [Writing custom django-admin commands](https://docs.djangoproject.com/en/3.2/howto/custom-management-commands/)
