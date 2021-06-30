@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Github Actions: [Python in GitHub Actions](https://hynek.me/articles/python-github-actions/)
 - Nginx: [Serving Static Content](https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/)
 - Nginx: [Setting up reverse proxies with NGINX](https://www.redhat.com/sysadmin/setting-reverse-proxies-nginx)
+- Nginx: [Local domains through nginx-proxy and Docker](https://medium.com/@juan_cortes/local-domains-through-nginx-proxy-and-docker-13d97ee8c010)
 
 ##### Consulted
 - MKdocs: [Configuration](https://www.mkdocs.org/user-guide/configuration/)
