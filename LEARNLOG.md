@@ -22,6 +22,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - Github Actions: [Configurando CI de uma aplicação Django com Github Actions](https://youtu.be/KpSlY8leYFY)
 
+##### Sourced
+-  [pyyaml-include](https://github.com/tanbro/pyyaml-include) - yaml include other yaml
+
 ##### Tracked
 - Mkdocs: [Ignore broken symlinks in mkdocs serve. #639](use_directory_urls: false)
 - Mkdocs: [Environment variables in config file #1954](https://github.com/mkdocs/mkdocs/issues/1954)
