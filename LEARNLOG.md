@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Github Actions: [How to restrict execution of GitHub Actions workflow on tags creation only](https://github.community/t/how-to-restrict-execution-of-github-actions-workflow-on-tags-creation-only/16041)
 - Github Actions: [How do I set an env var with a bash expression in GitHub Actions?](https://stackoverflow.com/a/57969570/2989289)
 - Git: [Telling git to ignore symlinks](https://stackoverflow.com/q/8650871/2989289)
+- UNIX: [How can I symlink a file in Linux?](Telling git to ignore symlinks)
 
 ##### Read
 - Github Actions: [Python in GitHub Actions](https://hynek.me/articles/python-github-actions/)
