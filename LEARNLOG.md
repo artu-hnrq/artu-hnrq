@@ -6,8 +6,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
-  [3]: https://semver.org/spec/v2.0.0.html[
-
+  [3]: https://semver.org/spec/v2.0.0.html
+ 
+## The half-year is about to turn - 2021-06-30
+##### Checked
+- Github Actions: [How to restrict execution of GitHub Actions workflow on tags creation only](https://github.community/t/how-to-restrict-execution-of-github-actions-workflow-on-tags-creation-only/16041)
+  
 ## Going further even after all - 2021-06-29
 ##### Checked
 - Bash: [How to invoke bash, run commands inside the new shell, and then give control back to user?](https://stackoverflow.com/a/18756584/2989289)
