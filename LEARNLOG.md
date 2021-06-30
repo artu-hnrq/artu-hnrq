@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Github Actions: [Python in GitHub Actions](https://hynek.me/articles/python-github-actions/)
+- Nginx: [Serving Static Content](https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/)
 
 ##### Consulted
 - MKdocs: [Configuration](https://www.mkdocs.org/user-guide/configuration/)
