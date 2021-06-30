@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Github Actions: [How to restrict execution of GitHub Actions workflow on tags creation only](https://github.community/t/how-to-restrict-execution-of-github-actions-workflow-on-tags-creation-only/16041)
 - Github Actions: [How do I set an env var with a bash expression in GitHub Actions?](https://stackoverflow.com/a/57969570/2989289)
 
+##### Read
+- Github Actions: [Python in GitHub Actions](https://hynek.me/articles/python-github-actions/)
+
 ##### Watched
 - Github Actions: [Configurando CI de uma aplicação Django com Github Actions](https://youtu.be/KpSlY8leYFY)
   
