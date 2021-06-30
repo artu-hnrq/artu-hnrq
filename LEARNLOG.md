@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Tracked
 - Mkdocs: [Ignore broken symlinks in mkdocs serve. #639](use_directory_urls: false)
+- Mkdocs: [Environment variables in config file #1954](https://github.com/mkdocs/mkdocs/issues/1954)
   
 ## Going further even after all - 2021-06-29
 ##### Checked
