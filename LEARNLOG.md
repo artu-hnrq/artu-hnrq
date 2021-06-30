@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - MKdocs: [Configuration](https://www.mkdocs.org/user-guide/configuration/)
+- MKdocs: [Writing your docs](https://www.mkdocs.org/user-guide/writing-your-docs/)
 
 ##### Watched
 - Github Actions: [Configurando CI de uma aplicação Django com Github Actions](https://youtu.be/KpSlY8leYFY)
