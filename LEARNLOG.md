@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Github Actions: [Python in GitHub Actions](https://hynek.me/articles/python-github-actions/)
 
+##### Consulted
+- MKdocs: [Configuration](https://www.mkdocs.org/user-guide/configuration/)
+
 ##### Watched
 - Github Actions: [Configurando CI de uma aplicação Django com Github Actions](https://youtu.be/KpSlY8leYFY)
 
