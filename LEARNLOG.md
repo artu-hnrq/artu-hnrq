@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [Telling git to ignore symlinks](https://stackoverflow.com/q/8650871/2989289)
 - UNIX: [How can I symlink a file in Linux?](Telling git to ignore symlinks)
 - YAML: [How can I include a YAML file inside another?](https://stackoverflow.com/a/9577670/2989289)
+- Django: [Hosting API docs generated with mkdocs at a URL within a Django project](https://stackoverflow.com/a/32533484/2989289)
 
 ##### Read
 - Github Actions: [Python in GitHub Actions](https://hynek.me/articles/python-github-actions/)
