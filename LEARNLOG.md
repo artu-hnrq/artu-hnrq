@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Compose: [Auto remove container with docker-compose.yml](https://stackoverflow.com/a/55359155/2989289)
 - Compose: [docker-compose: option to automaticaly remove container after run in docker-compose.yml](https://serverfault.com/a/941314/584569)
 - Bash: [How to break out of a loop in Bash?](https://docs.docker.com/compose/reference/rm/)
+- Docker: [Understanding “VOLUME” instruction in DockerFile](https://stackoverflow.com/a/46992367/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
