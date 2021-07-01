@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## We are gettin where we planed - 2021-07-01
 ##### Read
 - Docker: [Creating multiple images from a single Dockerfile](https://adilsoncarvalho.com/creating-multiple-images-from-a-single-dockerfile-3f69254b6137)
+- Docker: [Docker Pattern: The Build Container](https://medium.com/@alexeiled/docker-pattern-the-build-container-b0d0e86ad601)
  
 ## The half-year is about to turn - 2021-06-30
 ##### Checked
