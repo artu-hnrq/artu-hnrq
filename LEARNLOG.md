@@ -30,6 +30,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Who generates the default page of django welcome page?](https://stackoverflow.com/a/55387865/2989289)
 - Django: [Per Field Permission in Django REST Framework](https://stackoverflow.com/a/26046633/2989289)
 - Django: [How can I create a partial search filter in Django REST framework?](https://stackoverflow.com/q/45296939/2989289)
+- Django: [Filtering using viewsets in django rest framework](https://stackoverflow.com/a/42631209/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
