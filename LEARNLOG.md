@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Creating multiple images from a single Dockerfile](https://adilsoncarvalho.com/creating-multiple-images-from-a-single-dockerfile-3f69254b6137)
 - Docker: [Docker Pattern: The Build Container](https://medium.com/@alexeiled/docker-pattern-the-build-container-b0d0e86ad601)
 - Docker: [How To Share Data Between the Docker Container and the Host](https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host)
+- Docker: [Docker ARG, ENV and .env - a Complete Guide](https://vsupalov.com/docker-arg-env-variable-guide/)
 
 ##### Checked
 - Compose: [How do I mount a host directory as a volume in docker compose](https://stackoverflow.com/a/48442262/2989289)
