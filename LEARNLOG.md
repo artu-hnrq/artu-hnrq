@@ -15,8 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [How To Share Data Between the Docker Container and the Host](https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host)
 
 ##### Checked
-- Docker: [How do I mount a host directory as a volume in docker compose](https://stackoverflow.com/a/48442262/2989289)
-- Docker: [Auto remove container with docker-compose.yml](https://stackoverflow.com/a/55359155/2989289)
+- Compose: [How do I mount a host directory as a volume in docker compose](https://stackoverflow.com/a/48442262/2989289)
+- Compose: [Auto remove container with docker-compose.yml](https://stackoverflow.com/a/55359155/2989289)
+- Compose [docker-compose: option to automaticaly remove container after run in docker-compose.yml](https://serverfault.com/a/941314/584569)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
