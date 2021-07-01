@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Understanding “VOLUME” instruction in DockerFile](https://stackoverflow.com/a/46992367/2989289)
 - Python: [Get virtualenv's bin folder path from script](https://stackoverflow.com/a/22004069/2989289)
 - Django: [Django serve static index.html with view at '/' url](https://stackoverflow.com/a/21805592/2989289)
+- Django: [How to serve static files with django that has hardcoded relative paths on Heroku/OpenShift/etc?](https://stackoverflow.com/a/40525157/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
