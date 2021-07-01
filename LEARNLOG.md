@@ -14,8 +14,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Docker Pattern: The Build Container](https://medium.com/@alexeiled/docker-pattern-the-build-container-b0d0e86ad601)
 - Docker: [How To Share Data Between the Docker Container and the Host](https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host)
 
-##### Read
+##### Checked
 - Docker: [How do I mount a host directory as a volume in docker compose](https://stackoverflow.com/a/48442262/2989289)
+
+##### Consulted
+- Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
  
 ## The half-year is about to turn - 2021-06-30
 ##### Checked
