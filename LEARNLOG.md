@@ -32,6 +32,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Per Field Permission in Django REST Framework](https://stackoverflow.com/a/26046633/2989289)
 - Django: [How can I create a partial search filter in Django REST framework?](https://stackoverflow.com/q/45296939/2989289)
 - Django: [Filtering using viewsets in django rest framework](https://stackoverflow.com/a/42631209/2989289)
+- Django: [OrderingFilter has no attribute 'filter_queryset'](https://stackoverflow.com/a/40585846/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
