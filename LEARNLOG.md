@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## We are gettin where we planed - 2021-07-01
+##### Read
+- Docker: [Creating multiple images from a single Dockerfile](https://adilsoncarvalho.com/creating-multiple-images-from-a-single-dockerfile-3f69254b6137)
  
 ## The half-year is about to turn - 2021-06-30
 ##### Checked
