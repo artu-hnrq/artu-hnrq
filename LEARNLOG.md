@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How to break out of a loop in Bash?](https://docs.docker.com/compose/reference/rm/)
 - Docker: [Understanding “VOLUME” instruction in DockerFile](https://stackoverflow.com/a/46992367/2989289)
 - Python: [Get virtualenv's bin folder path from script](https://stackoverflow.com/a/22004069/2989289)
+- Django: [Django serve static index.html with view at '/' url](https://stackoverflow.com/a/21805592/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
