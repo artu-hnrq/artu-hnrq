@@ -27,6 +27,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [check for modeladmin for a given model](https://stackoverflow.com/a/57099721/2989289)
 - Django: [Styling multi-line conditions in 'if' statements?](https://stackoverflow.com/questions/181530/styling-multi-line-conditions-in-if-statements)
 - Django: [Catch multiple exceptions in one line (except block)](https://stackoverflow.com/a/6470452/2989289)
+- Django: [Who generates the default page of django welcome page?](https://stackoverflow.com/a/55387865/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
