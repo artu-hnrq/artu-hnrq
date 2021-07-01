@@ -30,7 +30,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [3.3 Including Other Makefiles](https://www.gnu.org/software/make/manual/html_node/Include.html)
 
 ##### Sourced
--  [django-spa](https://github.com/metakermit/django-spa): Simple Django configuration to serve a single-page app
+- [django-spa](https://github.com/metakermit/django-spa): Simple Django configuration to serve a single-page app
+- [django-storages](https://github.com/jschneier/django-storages): 
  
 ## The half-year is about to turn - 2021-06-30
 ##### Checked
