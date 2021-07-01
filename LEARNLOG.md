@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Compose: [How do I mount a host directory as a volume in docker compose](https://stackoverflow.com/a/48442262/2989289)
 - Compose: [Auto remove container with docker-compose.yml](https://stackoverflow.com/a/55359155/2989289)
 - Compose: [docker-compose: option to automaticaly remove container after run in docker-compose.yml](https://serverfault.com/a/941314/584569)
+- Bash: [How to break out of a loop in Bash?](https://docs.docker.com/compose/reference/rm/)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
