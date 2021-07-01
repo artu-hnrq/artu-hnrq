@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Docker: [How do I mount a host directory as a volume in docker compose](https://stackoverflow.com/a/48442262/2989289)
+- Docker: [Auto remove container with docker-compose.yml](https://stackoverflow.com/a/55359155/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
