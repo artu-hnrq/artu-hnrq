@@ -25,6 +25,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Django serve static index.html with view at '/' url](https://stackoverflow.com/a/21805592/2989289)
 - Django: [How to serve static files with django that has hardcoded relative paths on Heroku/OpenShift/etc?](https://stackoverflow.com/a/40525157/2989289)
 - Django: [check for modeladmin for a given model](https://stackoverflow.com/a/57099721/2989289)
+- Django: [Styling multi-line conditions in 'if' statements? [closed]]
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
