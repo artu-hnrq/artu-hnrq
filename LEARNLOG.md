@@ -34,6 +34,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Filtering using viewsets in django rest framework](https://stackoverflow.com/a/42631209/2989289)
 - Django: [OrderingFilter has no attribute 'filter_queryset'](https://stackoverflow.com/a/40585846/2989289)
 - Django: [Logout not working](https://stackoverflow.com/a/22369689/2989289)
+- Django: [using django permissions.IsAuthenticatedOrReadOnly with token authentication](https://stackoverflow.com/a/58929382/2989289)
 
 ##### Consulted
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
