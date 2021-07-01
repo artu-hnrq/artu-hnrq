@@ -27,6 +27,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Use volumes](https://docs.docker.com/storage/volumes/)
 - Compose: [docker-compose rm](docker-compose: option to automaticaly remove container after run in docker-compose.yml)
 - Make: [3.3 Including Other Makefiles](https://www.gnu.org/software/make/manual/html_node/Include.html)
+
+##### Sourced
+-  [django-spa](https://github.com/metakermit/django-spa): Simple Django configuration to serve a single-page app
  
 ## The half-year is about to turn - 2021-06-30
 ##### Checked
