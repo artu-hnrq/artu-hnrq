@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ###### Read
 - Git: [Git Subtree Basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
 - Git: [How to Use Git Subtrees](https://betterprogramming.pub/git-subtree-usage-6aaba8b5d947)
+- Git: [What is a bare git repository?](https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
 
 ###### Checked
 - Git: [Git Subtree only one file or directory](https://stackoverflow.com/a/22335955/2989289)
