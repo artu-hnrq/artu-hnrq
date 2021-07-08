@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ###### Consulted
 - PyCharm: [Run/debug configurations](Run/debug configurations)]
 - Python: [Installing Package Data](https://docs.python.org/3.7/distutils/setupscript.html#installing-package-data)
+- MkDocs: [Environment Variables](https://www.mkdocs.org/user-guide/configuration/#environment-variables)
 
 ###### Checked
 - Git: [Git Subtree only one file or directory](https://stackoverflow.com/a/22335955/2989289)
