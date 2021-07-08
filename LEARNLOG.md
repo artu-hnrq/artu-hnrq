@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Getting back from a fall - 2021-07-08
 ###### Read
-- Git: [Git Subtree Basics](I'll get back in here, surely.)
+- Git: [Git Subtree Basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
+- Git: [How to Use Git Subtrees](https://betterprogramming.pub/git-subtree-usage-6aaba8b5d947)
 
 ###### Checked
 - Git: [Git Subtree only one file or directory](https://stackoverflow.com/a/22335955/2989289)
