@@ -15,6 +15,13 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [What is a bare git repository?](https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
 - Git: [The best way to store your dotfiles: A bare Git repository](atlassian.com/git/tutorials/dotfiles)
 
+###### Consulted
+- PyCharm: [Run/debug configurations](## Development
+.idea/
+.env
+.makerc
+venv/)
+
 ###### Checked
 - Git: [Git Subtree only one file or directory](https://stackoverflow.com/a/22335955/2989289)
 
