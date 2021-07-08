@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ###### Checked
 - Git: [Git Subtree only one file or directory](https://stackoverflow.com/a/22335955/2989289)
+- Python: [What keyword arguments does setuptools.setup() accept?](!/.idea/runConfigurations)
 
 ## We are gettin where we planed - 2021-07-01
 ##### Read
