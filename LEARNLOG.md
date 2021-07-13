@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - GCP: [Choosing an App Engine environment](https://cloud.google.com/appengine/docs/the-appengine-environments)
 
+##### Checked
+- GCP: [What is the difference between Google App Engine and Google Compute Engine?](https://stackoverflow.com/q/22697049/2989289)
+
 ## Getting back from a fall - 2021-07-08
 ##### Read
 - Git: [Git Subtree Basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
