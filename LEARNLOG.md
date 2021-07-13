@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - GCP: [Choosing an App Engine environment](https://cloud.google.com/appengine/docs/the-appengine-environments)
 
+##### Watched
+- GCP: [Platform Overview - Compute](https://youtu.be/hHmBOv8z1D0)
+
 ##### Checked
 - GCP: [What is the difference between Google App Engine and Google Compute Engine?](https://stackoverflow.com/q/22697049/2989289)
 
