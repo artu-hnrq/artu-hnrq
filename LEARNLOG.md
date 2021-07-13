@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - GCP: [Google Cloud Pricing vs AWS: A Fair Comparison?](https://cloud.netapp.com/blog/google-cloud-pricing-vs-aws-a-fair-comparison-gcp-aws-cvo-blg)
 
+##### Consulted
+- GCP: [Choosing an App Engine environment](https://cloud.google.com/appengine/docs/the-appengine-environments)
+
 ## Getting back from a fall - 2021-07-08
 ##### Read
 - Git: [Git Subtree Basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
