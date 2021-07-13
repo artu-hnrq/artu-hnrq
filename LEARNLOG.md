@@ -8,19 +8,23 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Well, let's get into it again - 2021-07-13
+##### Read
+- GCP: [Google Cloud Pricing vs AWS: A Fair Comparison?](https://cloud.netapp.com/blog/google-cloud-pricing-vs-aws-a-fair-comparison-gcp-aws-cvo-blg)
+
 ## Getting back from a fall - 2021-07-08
-###### Read
+##### Read
 - Git: [Git Subtree Basics](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
 - Git: [How to Use Git Subtrees](https://betterprogramming.pub/git-subtree-usage-6aaba8b5d947)
 - Git: [What is a bare git repository?](https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
 - Git: [The best way to store your dotfiles: A bare Git repository](atlassian.com/git/tutorials/dotfiles)
 
-###### Consulted
+##### Consulted
 - PyCharm: [Run/debug configurations](Run/debug configurations)]
 - Python: [Installing Package Data](https://docs.python.org/3.7/distutils/setupscript.html#installing-package-data)
 - MkDocs: [Environment Variables](https://www.mkdocs.org/user-guide/configuration/#environment-variables)
 
-###### Checked
+##### Checked
 - Git: [Git Subtree only one file or directory](https://stackoverflow.com/a/22335955/2989289)
 - Python: [What keyword arguments does setuptools.setup() accept?](https://stackoverflow.com/a/58534041/2989289)
 
