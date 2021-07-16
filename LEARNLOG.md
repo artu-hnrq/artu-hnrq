@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Struggling to make it continuous again - 2021-07-16
 ##### Consulted
 - GCP: [App Engine Flexible Environment for Users of App Engine Standard Environment](https://cloud.google.com/appengine/docs/flexible/python/flexible-for-standard-users)
+- GCP: [Firebase - pricing](https://firebase.google.com/pricing)
 
 ## Well, let's get into it again - 2021-07-13
 ##### Read
