@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Struggling to make it continuous again - 2021-07-16
+##### Consulted
+- GCP: [App Engine Flexible Environment for Users of App Engine Standard Environment](https://cloud.google.com/appengine/docs/flexible/python/flexible-for-standard-users)
+
 ## Well, let's get into it again - 2021-07-13
 ##### Read
 - GCP: [Google Cloud Pricing vs AWS: A Fair Comparison?](https://cloud.netapp.com/blog/google-cloud-pricing-vs-aws-a-fair-comparison-gcp-aws-cvo-blg)
