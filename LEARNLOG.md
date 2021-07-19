@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Linux: [how to reset ~/.profile to default](https://askubuntu.com/q/381340/689894)
+- Python:: [Entry Points and Console Scripts Without 'pkg_resources'?](https://stackoverflow.com/q/50843354/2989289)
 
 ## Struggling to make it continuous again - 2021-07-16
 ##### Consulted
