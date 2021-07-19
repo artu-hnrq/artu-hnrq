@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## A new week comes with new energy - 2021-07-19
+##### Read
+- GCP: [Three Simple Steps to Save Costs when Prototyping with App Engine Flexible Environment](https://medium.com/google-cloud/three-simple-steps-to-save-costs-when-prototyping-with-app-engine-flexible-environment-104fc6736495)
 
 ## Struggling to make it continuous again - 2021-07-16
 ##### Consulted
