@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - GPC: [Cloud Run](https://cloud.google.com/run/)
 
+##### Checked
+- Linux: [how to reset ~/.profile to default](https://askubuntu.com/q/381340/689894)
+
 ## Struggling to make it continuous again - 2021-07-16
 ##### Consulted
 - GCP: [App Engine Flexible Environment for Users of App Engine Standard Environment](https://cloud.google.com/appengine/docs/flexible/python/flexible-for-standard-users)
