@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - GCP: [Three Simple Steps to Save Costs when Prototyping with App Engine Flexible Environment](https://medium.com/google-cloud/three-simple-steps-to-save-costs-when-prototyping-with-app-engine-flexible-environment-104fc6736495)
 - GCP: [Cloud Run, a managed Knative service, is GA](Using community-contributed builders and custom builders)
+- GCP: [Cloud Run vs App Engine: a head-to-head comparison using facts and science](https://dev.to/pcraig3/cloud-run-vs-app-engine-a-head-to-head-comparison-using-facts-and-science-1225)
 
 ##### Consulted
 - GPC: [Cloud Run](https://cloud.google.com/run/)
