@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Django: [Django in signal signals is simply used](https://www.codestudyblog.com/cnb08/0816232906.html)
 
+##### Watched
+- GCP: [Develop for Cloud Run in the IDE with Cloud Code](https://youtu.be/bOWsRGGO5xk)
+
 ## A new week comes with new energy - 2021-07-19
 ##### Read
 - GCP: [Three Simple Steps to Save Costs when Prototyping with App Engine Flexible Environment](https://medium.com/google-cloud/three-simple-steps-to-save-costs-when-prototyping-with-app-engine-flexible-environment-104fc6736495)
