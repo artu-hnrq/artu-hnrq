@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## That classic the early bird catches the worm - 2021-07-20
+##### Read
+- Django: [Django in signal signals is simply used](https://www.codestudyblog.com/cnb08/0816232906.html)
+
 ## A new week comes with new energy - 2021-07-19
 ##### Read
 - GCP: [Three Simple Steps to Save Costs when Prototyping with App Engine Flexible Environment](https://medium.com/google-cloud/three-simple-steps-to-save-costs-when-prototyping-with-app-engine-flexible-environment-104fc6736495)
