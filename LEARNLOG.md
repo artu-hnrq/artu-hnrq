@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## A new week comes with new energy - 2021-07-19
 ##### Read
 - GCP: [Three Simple Steps to Save Costs when Prototyping with App Engine Flexible Environment](https://medium.com/google-cloud/three-simple-steps-to-save-costs-when-prototyping-with-app-engine-flexible-environment-104fc6736495)
+- GCP: [Cloud Run, a managed Knative service, is GA](Using community-contributed builders and custom builders)
 
 ##### Consulted
 - GPC: [Cloud Run](https://cloud.google.com/run/)
