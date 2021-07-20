@@ -18,7 +18,6 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## A new week comes with new energy - 2021-07-19
 ##### Read
 - GCP: [Three Simple Steps to Save Costs when Prototyping with App Engine Flexible Environment](https://medium.com/google-cloud/three-simple-steps-to-save-costs-when-prototyping-with-app-engine-flexible-environment-104fc6736495)
-- GCP: [Cloud Run, a managed Knative service, is GA](Using community-contributed builders and custom builders)
 - GCP: [Cloud Run vs App Engine: a head-to-head comparison using facts and science](https://dev.to/pcraig3/cloud-run-vs-app-engine-a-head-to-head-comparison-using-facts-and-science-1225)
 - Celery: [Asynchronous Task Queue with Django, Celery and AWS SQS](https://cheesecakelabs.com/blog/asynchronous-task-queue-django-celery-aws-sqs/)
 
@@ -33,6 +32,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Watched
 - GCP: [Hosting a static web app on Google Cloud using GCS](https://youtu.be/HkJxy22P5gk)
+
 ##### Checked
 - Linux: [how to reset ~/.profile to default](https://askubuntu.com/q/381340/689894)
 - Python:: [Entry Points and Console Scripts Without 'pkg_resources'?](https://stackoverflow.com/q/50843354/2989289)
