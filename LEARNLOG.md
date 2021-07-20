@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GPC: [Cloud Run](https://cloud.google.com/run/)
 - GCP: [Cloud Code](https://cloud.google.com/code)
 - GCP: [Cloud Build](https://cloud.google.com/build)
+- GCP: [Build configuration file schema](https://cloud.google.com/build/docs/build-config-file-schema)
 
 ##### Checked
 - Linux: [how to reset ~/.profile to default](https://askubuntu.com/q/381340/689894)
