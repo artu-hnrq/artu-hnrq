@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [Build configuration file schema](https://cloud.google.com/build/docs/build-config-file-schema)
 - GCP: [Deploying to Cloud Run](https://cloud.google.com/build/docs/deploying-builds/deploy-cloud-run)
 - GCP: [Creating GitHub App triggers](https://cloud.google.com/build/docs/automating-builds/create-github-app-triggers)
+- GCP: [Using community-contributed builders and custom builders](https://cloud.google.com/build/docs/configuring-builds/use-community-and-custom-builders)
 
 ##### Checked
 - Linux: [how to reset ~/.profile to default](https://askubuntu.com/q/381340/689894)
