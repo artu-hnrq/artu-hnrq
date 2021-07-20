@@ -23,6 +23,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [Creating GitHub App triggers](https://cloud.google.com/build/docs/automating-builds/create-github-app-triggers)
 - GCP: [Using community-contributed builders and custom builders](https://cloud.google.com/build/docs/configuring-builds/use-community-and-custom-builders)
 
+##### Watched
+- GCP: [Hosting a static web app on Google Cloud using GCS](https://youtu.be/HkJxy22P5gk)
 ##### Checked
 - Linux: [how to reset ~/.profile to default](https://askubuntu.com/q/381340/689894)
 - Python:: [Entry Points and Console Scripts Without 'pkg_resources'?](https://stackoverflow.com/q/50843354/2989289)
