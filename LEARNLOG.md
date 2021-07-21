@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Code interview day - 2021-07-21
+##### Watched
+- Carrer: [Whiteboard Coding Interviews: 6 Steps to Solve Any Problem](https://youtu.be/DIR_rxusO8Q)
+  
 ## That classic the early bird catches the worm - 2021-07-20
 ##### Read
 - Django: [Django in signal signals is simply used](https://www.codestudyblog.com/cnb08/0816232906.html)
