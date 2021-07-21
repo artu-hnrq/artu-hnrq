@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Code interview day - 2021-07-21
 ##### Watched
 - Carrer: [Whiteboard Coding Interviews: 6 Steps to Solve Any Problem](https://youtu.be/DIR_rxusO8Q)
+- Carrer: [Python Coding Interview Preparation - For Beginners](https://youtu.be/RNRmh9hMmtA)
   
 ## That classic the early bird catches the worm - 2021-07-20
 ##### Read
