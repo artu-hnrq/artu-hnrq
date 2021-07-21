@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - GCP: [Develop for Cloud Run in the IDE with Cloud Code](https://youtu.be/bOWsRGGO5xk)
 
+##### Checked
+- Python: [How do I remove a substring from the end of a string?](https://stackoverflow.com/a/1038845/2989289)
+
 ## A new week comes with new energy - 2021-07-19
 ##### Read
 - GCP: [Three Simple Steps to Save Costs when Prototyping with App Engine Flexible Environment](https://medium.com/google-cloud/three-simple-steps-to-save-costs-when-prototyping-with-app-engine-flexible-environment-104fc6736495)
