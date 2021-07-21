@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Python: [How do I remove a substring from the end of a string?](https://stackoverflow.com/a/1038845/2989289)
+- Python: [Python extract pattern matches](https://stackoverflow.com/a/15340666/2989289)
 
 ## A new week comes with new energy - 2021-07-19
 ##### Read
