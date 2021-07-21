@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
   
 ## Code interview day - 2021-07-21
+##### Read
+- Carrer: [How to be Effective During a Code Interview](https://medium.com/quintoandar-tech-blog/how-to-be-effective-during-a-code-interview-ddc790243d70)
+
 ##### Watched
 - Carrer: [Whiteboard Coding Interviews: 6 Steps to Solve Any Problem](https://youtu.be/DIR_rxusO8Q)
 - Carrer: [Python Coding Interview Preparation - For Beginners](https://youtu.be/RNRmh9hMmtA)
