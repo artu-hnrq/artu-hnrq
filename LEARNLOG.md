@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - GCP: [Configuring Cloud Shell](https://cloud.google.com/shell/docs/configuring-cloud-shell)
 
+##### Read
+- GCP: [Google Cloud launches Apigee X, the next generation of its API management platform](https://techcrunch.com/2021/02/04/google-cloud-launches-apigee-x-the-next-generation-of-its-api-management-platform/)
+
 ##### Watched
 - GCP: [Hosting a web app on Google Cloud using GCE](https://youtu.be/nnXi0ABwSXA)
 
