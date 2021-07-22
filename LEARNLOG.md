@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - GCP: Cloud Shell - [Change a Directory user's name or email address](https://support.google.com/cloudidentity/answer/182084?hl=en)
 
+###### Consulted
+- GCP: [Configuring Cloud Shell](https://cloud.google.com/shell/docs/configuring-cloud-shell)
+
 ## Code interview day - 2021-07-21
 ##### Read
 - Carrer: [How to be Effective During a Code Interview](https://medium.com/quintoandar-tech-blog/how-to-be-effective-during-a-code-interview-ddc790243d70)
