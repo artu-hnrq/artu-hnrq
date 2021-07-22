@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## A new day a new dollar - 2021-07-22
 ##### Checked
 - GCP: Cloud Shell - [Change a Directory user's name or email address](https://support.google.com/cloudidentity/answer/182084?hl=en)
+- GCP: [How to delete a project from Google Cloud Console](https://stackoverflow.com/a/40825783/2989289)
 
 ###### Consulted
 - GCP: [Configuring Cloud Shell](https://cloud.google.com/shell/docs/configuring-cloud-shell)
