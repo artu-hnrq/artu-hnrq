@@ -14,8 +14,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [How to delete a project from Google Cloud Console](https://stackoverflow.com/a/40825783/2989289)
 - GCP: [How to delete GCP project immediately?](https://stackoverflow.com/q/51426489/2989289)
 
-###### Consulted
+##### Consulted
 - GCP: [Configuring Cloud Shell](https://cloud.google.com/shell/docs/configuring-cloud-shell)
+
+##### Watched
+- GCP: [Hosting a web app on Google Cloud using GCE](https://youtu.be/nnXi0ABwSXA)
 
 ## Code interview day - 2021-07-21
 ##### Read
