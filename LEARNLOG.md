@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## A new day a new dollar - 2021-07-22
+##### Checked
+- GCP: Cloud Shell - [Change a Directory user's name or email address](https://support.google.com/cloudidentity/answer/182084?hl=en)
+
 ## Code interview day - 2021-07-21
 ##### Read
 - Carrer: [How to be Effective During a Code Interview](https://medium.com/quintoandar-tech-blog/how-to-be-effective-during-a-code-interview-ddc790243d70)
