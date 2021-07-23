@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## It has begun - 2021-07-23
+##### Planed
+- Leadership - [Solution architecture](https://app.diagrams.net/?splash=0&libs=gcp)
 
 ## A new day a new dollar - 2021-07-22
 ##### Checked
