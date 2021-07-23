@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [Configuring Cloud Shell](https://cloud.google.com/shell/docs/configuring-cloud-shell)
 - GCP: [Quickstart - Build](https://cloud.google.com/build/docs/quickstart-build)
 - GCP: [Build and deploy a Python service](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/python)
+- GCP: [Deploying a service to Cloud Run](https://cloud.google.com/code/docs/intellij/deploying-a-cloud-run-service)
 
 ##### Read
 - GCP: [Google Cloud launches Apigee X, the next generation of its API management platform](https://techcrunch.com/2021/02/04/google-cloud-launches-apigee-x-the-next-generation-of-its-api-management-platform/)
