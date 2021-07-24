@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Looking forward to distributed-globally development - 2021-07-24
 ##### Read
 - WWW: [What is an SSL certificate?](https://www.cloudflare.com/pt-br/learning/ssl/what-is-an-ssl-certificate/)
+- WWW: [What is SSL? | SSL definition](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/)
 
 ## It has begun - 2021-07-23
 ##### Planed
