@@ -1,6 +1,6 @@
 # Learnlog
 
-Since I'm offten looking up to learn, I used to fell it would be nice to have a history of the readings, videos, practices, ensights or any other content I passed through during my study times. I've tried other tools, but them I realized that a changelog-kind file could do the work without any burocracy; Here is it!
+Since I'm offten looking up to learn, I used to fell it would be nice to have a history of the readings, videos, practices, ensights or any other content I passed through during my study times. I've tried other tools, but them I realized that a changelog-kind file could do the work without any burocracy: [https://www.mkdocs.org/dev-guide/themes/](supernovax); Here is it!
 
 > This file format is inspired on [Keep a Changelog][1], however it adheres to [Sentimental Versioning][2] instead of [Semantic][3] one. 
 
@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - WWW: [What is an SSL certificate?](https://www.cloudflare.com/pt-br/learning/ssl/what-is-an-ssl-certificate/)
 - WWW: [What is SSL? | SSL definition](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/)
+
+##### Consulted
+- MkDocs: [Plugins](https://www.mkdocs.org/dev-guide/plugins/)
 
 ## It has begun - 2021-07-23
 ##### Planed
