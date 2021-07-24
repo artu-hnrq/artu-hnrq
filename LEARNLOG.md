@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Looking forward to distributed-globally development - 2021-07-24
+##### Read
+- WWW: [What is an SSL certificate?](https://www.cloudflare.com/pt-br/learning/ssl/what-is-an-ssl-certificate/)
+
 ## It has begun - 2021-07-23
 ##### Planed
 - Leadership - [Solution architecture](https://app.diagrams.net/?splash=0&libs=gcp)
