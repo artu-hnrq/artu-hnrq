@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Olimpic games running on - 2021-07-26
+##### Read
+- PyCharm: [Running a python script using Docker, Pycharm & Google Cloud Platform](https://medium.com/@jankrynauw/running-a-python-script-using-docker-pycharm-google-cloud-platform-2bc7ba999916)
+
 ## Looking forward to distributed-globally development - 2021-07-24
 ##### Read
 - WWW: [What is an SSL certificate?](https://www.cloudflare.com/pt-br/learning/ssl/what-is-an-ssl-certificate/)
@@ -16,7 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - MkDocs: [Plugins](https://www.mkdocs.org/dev-guide/plugins/)
 
-## It has begun - 2021-07-23
+## It has begun - 2021-07- 23
 ##### Planed
 - Leadership - [Solution architecture](https://app.diagrams.net/?splash=0&libs=gcp)
 
