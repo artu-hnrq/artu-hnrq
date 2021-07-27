@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - PyCharm: [JetBrains Student Program: How to Renew & Graduation Discount](https://blog.jetbrains.com/blog/2015/12/11/jetbrains-student-program-how-to-renew-graduation-discount/)
+- PyCharm: [Renewing Subscriptions](https://sales.jetbrains.com/hc/en-gb/articles/115001327130-Renewing-Subscriptions)
 
 ## Olimpic games running on - 2021-07-26
 ##### Read
