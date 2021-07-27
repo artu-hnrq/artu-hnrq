@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Doing interviews - 2021-07-27
+##### Practiced
+- GCP: [Build a Website on Google Cloud](https://www.qwiklabs.com/quests/115)
 
 ## Olimpic games running on - 2021-07-26
 ##### Read
