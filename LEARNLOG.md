@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Doing interviews - 2021-07-27
 ##### Practiced
 - GCP: [Build a Website on Google Cloud](https://www.qwiklabs.com/quests/115)
+- GCP: [Hosting a static web app on Google Cloud using GCS](https://youtu.be/HkJxy22P5gk)
 
 ## Olimpic games running on - 2021-07-26
 ##### Read
