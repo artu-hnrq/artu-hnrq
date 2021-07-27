@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [Build a Website on Google Cloud](https://www.qwiklabs.com/quests/115)
 - GCP: [Hosting a static web app on Google Cloud using GCS](https://youtu.be/HkJxy22P5gk)
 
+##### Read
+- PyCharm: [JetBrains Student Program: How to Renew & Graduation Discount](https://blog.jetbrains.com/blog/2015/12/11/jetbrains-student-program-how-to-renew-graduation-discount/)
+
 ## Olimpic games running on - 2021-07-26
 ##### Read
 - PyCharm: [Running a python script using Docker, Pycharm & Google Cloud Platform](https://medium.com/@jankrynauw/running-a-python-script-using-docker-pycharm-google-cloud-platform-2bc7ba999916)
