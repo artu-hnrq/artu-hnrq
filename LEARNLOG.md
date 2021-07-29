@@ -7,10 +7,13 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
 ## Getting back for a brand new code challenge - 2021-07-28
 ##### Checked
 - Git: [Is it possible to make .gitignore configurable based on environment variables?](https://stackoverflow.com/a/49812786/2989289)
+
+##### Watched
+- Terraform: [Terraform in 100 Seconds](https://youtu.be/tomUWcQ0P3k)
   
 ## Doing interviews - 2021-07-27
 ##### Practiced
