@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Watched
 - Terraform: [Terraform in 100 Seconds](https://youtu.be/tomUWcQ0P3k)
+- GCP: [7 Ways to Deploy a Node.js App](https://www.youtube.com/watch?v=uEVmD6n8Il0&t=45s)
   
 ## Doing interviews - 2021-07-27
 ##### Practiced
