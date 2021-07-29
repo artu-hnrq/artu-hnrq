@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Interviews still going on - 2021-07-29
+##### Consulted
+- PyCharm: [Update PyCharm](https://www.jetbrains.com/help/pycharm/update.html#update-settings)
+
 ## Getting back for a brand new code challenge - 2021-07-28
 ##### Checked
 - Git: [Is it possible to make .gitignore configurable based on environment variables?](https://stackoverflow.com/a/49812786/2989289)
