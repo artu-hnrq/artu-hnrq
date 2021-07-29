@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - PyCharm: [Update PyCharm](https://www.jetbrains.com/help/pycharm/update.html#update-settings)
 
+##### Read
+- UNIX: [Check if a directory exists in Linux or Unix shell](https://www.cyberciti.biz/faq/check-if-a-directory-exists-in-linux-or-unix-shell/)
+
 ## Getting back for a brand new code challenge - 2021-07-28
 ##### Checked
 - Git: [Is it possible to make .gitignore configurable based on environment variables?](https://stackoverflow.com/a/49812786/2989289)
