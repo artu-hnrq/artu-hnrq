@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - UNIX: [Check if a directory exists in Linux or Unix shell](https://www.cyberciti.biz/faq/check-if-a-directory-exists-in-linux-or-unix-shell/)
+- UNIX: [How To Bash Shell Find Out If a Variable Is Empty Or Not](https://www.cyberciti.biz/faq/unix-linux-bash-script-check-if-variable-is-empty/)
 
 ## Getting back for a brand new code challenge - 2021-07-28
 ##### Checked
