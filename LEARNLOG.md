@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Make: [Conditional expression in Makefile](https://stackoverflow.com/a/17982151/2989289)
+- BASH: [How can I check if a directory exists in a Bash shell script?](https://stackoverflow.com/a/59839/2989289)
 
 ## Getting back for a brand new code challenge - 2021-07-28
 ##### Checked
