@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - GCP: [Cloud Load Balancing overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
 - GCP: [Hosting a static website](https://cloud.google.com/storage/docs/hosting-static-website)
+- GCP: [Serving websites](https://cloud.google.com/architecture/web-serving-overview)
 
 ##### Read
 - GCP: [Hosting a static website on Google Cloud using Google Cloud Storage](https://medium.com/google-cloud/hosting-a-static-website-on-google-cloud-using-google-cloud-storage-ddebcdcc8d5b)
