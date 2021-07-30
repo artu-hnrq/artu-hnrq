@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - GCP: [Hosting a static website on Google Cloud using Google Cloud Storage](https://medium.com/google-cloud/hosting-a-static-website-on-google-cloud-using-google-cloud-storage-ddebcdcc8d5b)
+- GCP: [Google Cloud Website Hosting with Google Cloud Storage](https://cloud.netapp.com/blog/google-cloud-website-hosting-on-google-cloud-storage-gcp-cvo-blg)
 
 ##### Tracked
 - GCP: [Question: is running a reverse proxy or API gateway on Cloud Run a Bad Idea?](https://github.com/ahmetb/cloud-run-faq/issues/41)
