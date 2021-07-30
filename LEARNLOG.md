@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Challenging myself to got forward - 2021-07-30
+##### Practiced
+- GCP: [Running Docker Compose with Docker](https://cloud.google.com/community/tutorials/docker-compose-on-container-optimized-os)
+
 ##### Checked
 - GCP: [Setting up a forward proxy on Google cloud run](https://stackoverflow.com/a/66165329/2989289)
 - GCP: [How to deploy container using docker-compose to google cloud?](https://stackoverflow.com/a/63712522/2989289)
