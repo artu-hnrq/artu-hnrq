@@ -17,7 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - GCP: [Hosting a static website on Google Cloud using Google Cloud Storage](https://medium.com/google-cloud/hosting-a-static-website-on-google-cloud-using-google-cloud-storage-ddebcdcc8d5b)
 - GCP: [Google Cloud Website Hosting with Google Cloud Storage](https://cloud.netapp.com/blog/google-cloud-website-hosting-on-google-cloud-storage-gcp-cvo-blg)
-- BASH: [How to Set and List Environment Variables in Linux](https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/)
+- Bash: [How to Set and List Environment Variables in Linux](https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/)
 
 ##### Tracked
 - GCP: [Question: is running a reverse proxy or API gateway on Cloud Run a Bad Idea?](https://github.com/ahmetb/cloud-run-faq/issues/41)
@@ -34,7 +34,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [How to deploy container using docker-compose to google cloud?](https://stackoverflow.com/a/63712522/2989289)
 - GCP: [How to setup nginx in front of node in docker for Cloud Run?](https://stackoverflow.com/a/56896397/2989289)
 - GCP: [Set up an HTTPS reverse proxy](https://www.reddit.com/r/googlecloud/comments/mejoes/set_up_an_https_reverse_proxy/)
-- BASH: [Check of multiple environment variables and list all missing](https://stackoverflow.com/a/51561909/2989289)
+- Bash: [Check of multiple environment variables and list all missing](https://stackoverflow.com/a/51561909/2989289)
+- Bash: [How to check if multiple variables are defined or not in bash](https://stackoverflow.com/a/65396324/2989289)
 
 ## Interviews still going on - 2021-07-29
 ##### Consulted
@@ -46,8 +47,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Make: [Conditional expression in Makefile](https://stackoverflow.com/a/17982151/2989289)
-- BASH: [How can I check if a directory exists in a Bash shell script?](https://stackoverflow.com/a/59839/2989289)
-- BASH: [An “and” operator for an “if” statement in Bash](https://stackoverflow.com/a/13408590/2989289)
+- Bash: [How can I check if a directory exists in a Bash shell script?](https://stackoverflow.com/a/59839/2989289)
+- Bash: [An “and” operator for an “if” statement in Bash](https://stackoverflow.com/a/13408590/2989289)
 
 ## Getting back for a brand new code challenge - 2021-07-28
 ##### Checked
