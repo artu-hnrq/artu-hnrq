@@ -33,6 +33,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [How to deploy container using docker-compose to google cloud?](https://stackoverflow.com/a/63712522/2989289)
 - GCP: [How to setup nginx in front of node in docker for Cloud Run?](https://stackoverflow.com/a/56896397/2989289)
 - GCP: [Set up an HTTPS reverse proxy](https://www.reddit.com/r/googlecloud/comments/mejoes/set_up_an_https_reverse_proxy/)
+- BASH: [Check of multiple environment variables and list all missing](https://stackoverflow.com/a/51561909/2989289)
 
 ## Interviews still going on - 2021-07-29
 ##### Consulted
