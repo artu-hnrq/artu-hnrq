@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Challenging myself to got forward - 2021-07-30
+##### Checked
+- GCP: [Setting up a forward proxy on Google cloud run](https://stackoverflow.com/a/66165329/2989289)
+
 ## Interviews still going on - 2021-07-29
 ##### Consulted
 - PyCharm: [Update PyCharm](https://www.jetbrains.com/help/pycharm/update.html#update-settings)
