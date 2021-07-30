@@ -1,6 +1,6 @@
 # Learnlog
 
-Since I'm offten looking up to learn, I used to fell it would be nice to have a history of the readings, videos, practices, ensights or any other content I passed through during my study times. I've tried other tools, but them I realized that a changelog-kind file could do the work without any burocracy: [https://www.mkdocs.org/dev-guide/themes/](supernovax); Here is it!
+Since I'm offten looking up to learn, I used to fell it would be nice to have a history of the readings, videos, practices, ensights or any other content I passed through during my study times. I've tried other tools, but them I realized that a changelog-kind file could do the work without any burocracy; Here is it!
 
 > This file format is inspired on [Keep a Changelog][1], however it adheres to [Sentimental Versioning][2] instead of [Semantic][3] one. 
 
@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - GCP: [Cloud Load Balancing overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
 - GCP: [Hosting a static website](https://cloud.google.com/storage/docs/hosting-static-website)
+
+##### Read
+- GCP: [Hosting a static website on Google Cloud using Google Cloud Storage](https://medium.com/google-cloud/hosting-a-static-website-on-google-cloud-using-google-cloud-storage-ddebcdcc8d5b)
 
 ##### Tracked
 - GCP: [Question: is running a reverse proxy or API gateway on Cloud Run a Bad Idea?](https://github.com/ahmetb/cloud-run-faq/issues/41)
