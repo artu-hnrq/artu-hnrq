@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Challenging myself to got forward - 2021-07-30
 ##### Checked
 - GCP: [Setting up a forward proxy on Google cloud run](https://stackoverflow.com/a/66165329/2989289)
+- GCP: [How to deploy container using docker-compose to google cloud?](https://stackoverflow.com/a/63712522/2989289)
 
 ## Interviews still going on - 2021-07-29
 ##### Consulted
