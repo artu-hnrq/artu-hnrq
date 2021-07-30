@@ -36,6 +36,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - GCP: [Set up an HTTPS reverse proxy](https://www.reddit.com/r/googlecloud/comments/mejoes/set_up_an_https_reverse_proxy/)
 - Bash: [Check of multiple environment variables and list all missing](https://stackoverflow.com/a/51561909/2989289)
 - Bash: [How to check if multiple variables are defined or not in bash](https://stackoverflow.com/a/65396324/2989289)
+- Bash: [Test if multiple variables are set](https://unix.stackexchange.com/a/121383/364080)
 
 ## Interviews still going on - 2021-07-29
 ##### Consulted
