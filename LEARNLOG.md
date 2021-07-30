@@ -30,6 +30,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - GCP: [Architecture: Web Application](https://youtu.be/pxp7uYUjH_M)
 - GCP: [Hosting a web app on Google Cloud using Cloud Run](https://youtu.be/h4X_omdCqO0)
+- GCP: [Choosing the right load balancer](https://youtu.be/gdeOeu4E7eQ)
 
 ##### Checked
 - GCP: [Setting up a forward proxy on Google cloud run](https://stackoverflow.com/a/66165329/2989289)
