@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Challenging myself to got forward - 2021-07-30
+##### Consulted
+- GCP: [Cloud Load Balancing overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
+
 ##### Tracked
 - GCP: [Question: is running a reverse proxy or API gateway on Cloud Run a Bad Idea?](https://github.com/ahmetb/cloud-run-faq/issues/41)
 
