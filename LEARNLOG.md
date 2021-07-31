@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## What a moment to be alive - 2021-07-31
+##### Checked
+- GCP: [Google Cloud Platform and Nginx reverse proxy](https://serverfault.com/a/894913/584569)
 
 ## Challenging myself to got forward - 2021-07-30
 ##### Consulted
