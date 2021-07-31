@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - GCP: [Google Cloud Platform and Nginx reverse proxy](https://serverfault.com/a/894913/584569)
 
+##### Read
+- Web: [Zero Trust with Reverse Proxy](https://medium.com/google-cloud/zero-trust-with-reverse-proxy-c744d8956f21)
+
 ## Challenging myself to got forward - 2021-07-30
 ##### Consulted
 - GCP: [Cloud Load Balancing overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
