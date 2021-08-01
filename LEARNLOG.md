@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Schead's barbucue - 2021-08-01
+##### Watched
+- GCP: Cloud Run - [Experience a fully managed, serverless environment](https://youtu.be/cL4zK_OajE8)
+  
+---
+  
 ## What a moment to be alive - 2021-07-31
 ##### Checked
 - GCP: [Google Cloud Platform and Nginx reverse proxy](https://serverfault.com/a/894913/584569)
