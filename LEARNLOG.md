@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Download and Install Python 3 Latest Version](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/#linux)
 - Git: [Please don't commit .env](https://dev.to/somedood/please-dont-commit-env-3o9h)
 - Bash: For begginers - [7.1. Introduction to if](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html)
+- UNIX: [An Introduction to Environment Variables and How to Use Them](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
 
 ##### Checked
 - Bash: [How do I unset a variable at the command line?](https://unix.stackexchange.com/a/103578/364080)
