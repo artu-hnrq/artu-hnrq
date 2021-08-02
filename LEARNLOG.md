@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Bash: [How do I unset a variable at the command line?](https://unix.stackexchange.com/a/103578/364080)
+- Bash: [How do I tell if a regular file does not exist in Bash?](https://stackoverflow.com/a/638980/2989289)
 
 ##### Watched
 - React: [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
