@@ -11,6 +11,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Schead's barbucue - 2021-08-01
 ##### Watched
 - GCP: Cloud Run - [Experience a fully managed, serverless environment](https://youtu.be/cL4zK_OajE8)
+
+##### Read
+- Bash: [How to determine if a bash variable is empty?](https://serverfault.com/a/7509/584569)
   
 ---
   
