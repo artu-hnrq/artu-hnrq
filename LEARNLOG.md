@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Afternoon sleep - 2021-08-02
 ##### Watched
 - React: [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+- React: [React in 100 Seconds](https://youtu.be/Tn6-PIqc4UM)
 
 ## Schead's barbucue - 2021-08-01
 ##### Watched
