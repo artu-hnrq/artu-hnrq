@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Bash: [How to determine if a bash variable is empty?](https://serverfault.com/a/7509/584569)
+- Bash: [OR operator in bash scripting](https://unix.stackexchange.com/a/167528/364080)
   
 ---
   
