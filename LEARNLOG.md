@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Afternoon sleep - 2021-08-02
+##### Watched
+- React: [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+
 ## Schead's barbucue - 2021-08-01
 ##### Watched
 - GCP: Cloud Run - [Experience a fully managed, serverless environment](https://youtu.be/cL4zK_OajE8)
