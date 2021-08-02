@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Afternoon sleep - 2021-08-02
 ##### Read
 - React: [Make a simple Shopping Cart App using React & Redux](https://medium.com/@ayabellazreg/make-a-simple-shopping-cart-app-using-react-redux-part-2-88117cf1c069)
+- Python: [What’s New In Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
 
 ##### Checked
 - Bash: [How do I unset a variable at the command line?](https://unix.stackexchange.com/a/103578/364080)
