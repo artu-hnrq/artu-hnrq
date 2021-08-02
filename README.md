@@ -86,7 +86,7 @@ I also very interested about slackline, chess, street art and open-source commun
         <img alt="Twitter" height="24" src="https://raw.githubusercontent.com/artu-hnrq/artu-hnrq/master/logos/Twitter.png"/>
     </a>
     <br>
-    <a href="https://stackexchange.com/cv/artu-hnrq">
+    <a href="https://stackoverflow.com/cv/artu-hnrq">
         <img src="https://stackexchange.com/users/flair/3581081.png?theme=dark" height="64" alt="Stack Exchange" title="profile for artu-hnrq on Stack Exchange" />
     </a>
 </div>
