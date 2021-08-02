@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - React: [Make a simple Shopping Cart App using React & Redux](https://medium.com/@ayabellazreg/make-a-simple-shopping-cart-app-using-react-redux-part-2-88117cf1c069)
 
+##### Checked
+- Bash: [How do I unset a variable at the command line?](https://unix.stackexchange.com/a/103578/364080)
+
 ##### Watched
 - React: [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - React: [React in 100 Seconds](https://youtu.be/Tn6-PIqc4UM)
