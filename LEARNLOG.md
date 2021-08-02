@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Afternoon sleep - 2021-08-02
+##### Read
+- React: [Make a simple Shopping Cart App using React & Redux](https://medium.com/@ayabellazreg/make-a-simple-shopping-cart-app-using-react-redux-part-2-88117cf1c069)
+
 ##### Watched
 - React: [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - React: [React in 100 Seconds](https://youtu.be/Tn6-PIqc4UM)
