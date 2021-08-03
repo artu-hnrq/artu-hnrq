@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Discovered
 - [Cable](https://cables.gl/) - Interactive visuals
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) - create diagrams and visualizations using text and code
+- [DreamHost](https://www.dreamhost.com/) - Web Hosting with Purpose
 
 ##### Checked
 - Make: [How to define global shell functions in a Makefile?](https://stackoverflow.com/a/53094919/2989289)
