@@ -18,6 +18,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - UNIX: [An Introduction to Environment Variables and How to Use Them](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
 - Bash: [If Statements!](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)
 
+##### Sourced
+- [mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf): Generate a single PDF file from MkDocs repository
+
 ##### Checked
 - Bash: [How do I unset a variable at the command line?](https://unix.stackexchange.com/a/103578/364080)
 - Bash: [How do I tell if a regular file does not exist in Bash?](https://stackoverflow.com/a/638980/2989289)
