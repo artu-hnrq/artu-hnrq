@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Bash: [Bash Loop Through a List of Strings](https://linuxhint.com/bash_loop_list_strings/)
+- MkDocs: [The best MkDocs plugins and customizations](https://chrieke.medium.com/the-best-mkdocs-plugins-and-customizations-fc820eb19759)
 
 ## Afternoon sleep - 2021-08-02
 ##### Read
