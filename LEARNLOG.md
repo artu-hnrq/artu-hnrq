@@ -28,6 +28,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Sourced
 - [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
+- [mknotebooks](https://github.com/greenape/mknotebooks) - A plugin for mkdocs to help you include Jupyter notebooks in your projects
 
 ## Afternoon sleep - 2021-08-02
 ##### Read
