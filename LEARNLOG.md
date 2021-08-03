@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Make: [How to define global shell functions in a Makefile?](https://stackoverflow.com/a/53094919/2989289)
 - Make: [Makefile include env file](https://unix.stackexchange.com/a/348432/364080)
+- Make: [Cannot call bash function inside makefile](https://stackoverflow.com/a/39914492/2989289)
 
 ## Afternoon sleep - 2021-08-02
 ##### Read
