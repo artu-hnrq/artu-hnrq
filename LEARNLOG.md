@@ -26,6 +26,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Bash Loop Through a List of Strings](https://linuxhint.com/bash_loop_list_strings/)
 - MkDocs: [The best MkDocs plugins and customizations](https://chrieke.medium.com/the-best-mkdocs-plugins-and-customizations-fc820eb19759)
 - MkDocs: Macros plugin - [Advanced usage](https://mkdocs-macros-plugin.readthedocs.io/en/latest/advanced.html)
+- MkDocs: [Documenting a Python package with mkdocs-material](https://chrieke.medium.com/documenting-a-python-package-with-code-reference-via-mkdocs-material-b4a45197f95b)
 
 ##### Sourced
 - [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
