@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Cannot call bash function inside makefile](https://stackoverflow.com/a/39914492/2989289)
 - Make: [Makefile call function. How to get all arguments](https://stackoverflow.com/a/38922443/2989289)
 - Bash: [How to concatenate string variables in Bash](https://stackoverflow.com/a/4182643/2989289)
+- Make: [How to ensure Makefile variable is set as a prerequisite?](https://stackoverflow.com/a/49619321/2989289)
 
 ##### Read
 - Bash: [Bash Loop Through a List of Strings](https://linuxhint.com/bash_loop_list_strings/)
