@@ -25,6 +25,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Bash Loop Through a List of Strings](https://linuxhint.com/bash_loop_list_strings/)
 - MkDocs: [The best MkDocs plugins and customizations](https://chrieke.medium.com/the-best-mkdocs-plugins-and-customizations-fc820eb19759)
 
+##### Sourced
+- [mkdocs-autolinks-plugin](https://github.com/midnightprioriem/mkdocs-autolinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
+
 ## Afternoon sleep - 2021-08-02
 ##### Read
 - React: [Make a simple Shopping Cart App using React & Redux](https://medium.com/@ayabellazreg/make-a-simple-shopping-cart-app-using-react-redux-part-2-88117cf1c069)
