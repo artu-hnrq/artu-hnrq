@@ -27,6 +27,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Copy file to current directory?](https://askubuntu.com/a/835658/689894)
 - Make: [Shell conditional in makefile](https://stackoverflow.com/a/32039158/2989289)
 
+##### Consulted
+- MkDocs: Material theme - [Getting started](https://squidfunk.github.io/mkdocs-material/getting-started/)
+
 ##### Watched
 - React: [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - React: [React in 100 Seconds](https://youtu.be/Tn6-PIqc4UM)
