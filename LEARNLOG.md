@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Going through that challenge - 2021-08-03
+##### Discovered
+- [Cable](https://cables.gl/) - Interactive visuals
+
 ##### Checked
 - Make: [How to define global shell functions in a Makefile?](https://stackoverflow.com/a/53094919/2989289)
 - Make: [Makefile include env file](https://unix.stackexchange.com/a/348432/364080)
