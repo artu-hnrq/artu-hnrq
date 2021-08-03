@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Going through that challenge - 2021-08-03
 ##### Checked
 - Make: [How to define global shell functions in a Makefile?](https://stackoverflow.com/a/53094919/2989289)
+- Make: [Makefile include env file](https://unix.stackexchange.com/a/348432/364080)
 
 ## Afternoon sleep - 2021-08-02
 ##### Read
