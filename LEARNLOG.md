@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Makefile include env file](https://unix.stackexchange.com/a/348432/364080)
 - Make: [Cannot call bash function inside makefile](https://stackoverflow.com/a/39914492/2989289)
 - Make: [Makefile call function. How to get all arguments](https://stackoverflow.com/a/38922443/2989289)
+- Bash: [How to concatenate string variables in Bash](https://stackoverflow.com/a/4182643/2989289)
 
 ## Afternoon sleep - 2021-08-02
 ##### Read
