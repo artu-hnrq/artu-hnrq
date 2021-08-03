@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Going through that challenge - 2021-08-03
+##### Checked
+- Make: [How to define global shell functions in a Makefile?](https://stackoverflow.com/a/53094919/2989289)
+
 ## Afternoon sleep - 2021-08-02
 ##### Read
 - React: [Make a simple Shopping Cart App using React & Redux](https://medium.com/@ayabellazreg/make-a-simple-shopping-cart-app-using-react-redux-part-2-88117cf1c069)
