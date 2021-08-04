@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Late return - 2021-08-04
 ##### Checked
 - Docker: [Login to Docker Hub by command line](https://stackoverflow.com/a/57108557/2989289)
+- Make: [How to get current relative directory of your Makefile?](https://stackoverflow.com/a/23324703/2989289)
 
 ## Going through that challenge - 2021-08-03
 ##### Discovered
