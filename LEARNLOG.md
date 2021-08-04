@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Docker: [Login to Docker Hub by command line](https://stackoverflow.com/a/57108557/2989289)
 - Make: [How to get current relative directory of your Makefile?](https://stackoverflow.com/a/23324703/2989289)
+- Git: [How to use git bisect?](https://stackoverflow.com/a/4714297/2989289)
 
 ##### Consulted
 - Make: [8.3 Functions for File Names](https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html)
