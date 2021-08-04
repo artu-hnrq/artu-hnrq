@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Late return - 2021-08-04
+##### Checked
+- Docker: [Login to Docker Hub by command line](https://stackoverflow.com/a/57108557/2989289)
+
 ## Going through that challenge - 2021-08-03
 ##### Discovered
 - [Cable](https://cables.gl/) - Interactive visuals
