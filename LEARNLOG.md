@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [Login to Docker Hub by command line](https://stackoverflow.com/a/57108557/2989289)
 - Make: [How to get current relative directory of your Makefile?](https://stackoverflow.com/a/23324703/2989289)
 
+##### Consulted
+- Make: [8.3 Functions for File Names](https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html)
+
 ## Going through that challenge - 2021-08-03
 ##### Discovered
 - [Cable](https://cables.gl/) - Interactive visuals
