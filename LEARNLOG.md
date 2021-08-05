@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [How to use git bisect?](https://stackoverflow.com/a/4714297/2989289)
 - Make: [dirname and basename vs parameter expansion](https://unix.stackexchange.com/a/253753/364080)
 - Make: [Understanding a Makefile with $(basename $(notdir $@))](https://stackoverflow.com/q/16727021/2989289)
+- Make: [How do I check if file exists in Makefile so I can delete it?](https://stackoverflow.com/a/20566812/2989289)
 
 ##### Consulted
 - Make: [8.3 Functions for File Names](https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html)
