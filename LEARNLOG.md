@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Learning about Estonian e-Residency
 ##### Consulted
 - Carrer: Estonian e-Residency - [Costs & fees](https://learn.e-resident.gov.ee/hc/en-us/articles/360000625118-Costs-fees)
+- Carrer: Estonian e-Residency - [Share capital contribution](https://learn.e-resident.gov.ee/hc/en-us/articles/360000798017-Share-capital-contribution)
 
 ## Late return - 2021-08-04
 ##### Checked
