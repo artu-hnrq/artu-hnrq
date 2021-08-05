@@ -20,6 +20,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [8.3 Functions for File Names](https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html)
 - Make: [8.2 Functions for String Substitution and Analysis](https://www.gnu.org/software/make/manual/html_node/Text-Functions.html)
 
+##### Watched
+- GCP: [Point-and-click continuous deployment with Cloud Run](ifneq (,$(wildcard ./.makerc)))
+
 ## Going through that challenge - 2021-08-03
 ##### Discovered
 - [Cable](https://cables.gl/) - Interactive visuals
