@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Understanding a Makefile with $(basename $(notdir $@))](https://stackoverflow.com/q/16727021/2989289)
 - Make: [How do I check if file exists in Makefile so I can delete it?](https://stackoverflow.com/a/20566812/2989289)
 - Make: [Printing in Makefiles: @echo vs $(info )](https://stackoverflow.com/a/47367937/2989289)
+- Bash: [How to append multiple lines to a file](https://unix.stackexchange.com/a/147469/364080)
 
 ##### Consulted
 - Make: [8.3 Functions for File Names](https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html)
