@@ -23,6 +23,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - GCP: [Point-and-click continuous deployment with Cloud Run](ifneq (,$(wildcard ./.makerc)))
 
+#### Read
+ Make: [Writing Makefiles](https://web.mit.edu/gnu/doc/html/make_3.html)
+
 ## Going through that challenge - 2021-08-03
 ##### Discovered
 - [Cable](https://cables.gl/) - Interactive visuals
