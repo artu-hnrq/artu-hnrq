@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Carrer: Estonian e-Residency - [Costs & fees](https://learn.e-resident.gov.ee/hc/en-us/articles/360000625118-Costs-fees)
 - Carrer: Estonian e-Residency - [Share capital contribution](https://learn.e-resident.gov.ee/hc/en-us/articles/360000798017-Share-capital-contribution)
 
+##### Watched
+- Carrer: Estonian e-Residency - [How to manage a global business with e-Residency in Estonia](https://youtu.be/1IxLHLEDY0Y)
+
 ## Late return - 2021-08-04
 ##### Checked
 - Docker: [Login to Docker Hub by command line](https://stackoverflow.com/a/57108557/2989289)
