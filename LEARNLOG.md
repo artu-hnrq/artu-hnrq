@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [8.3 Functions for File Names](https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html)
 - Make: [8.2 Functions for String Substitution and Analysis](https://www.gnu.org/software/make/manual/html_node/Text-Functions.html)
 - Make: [10.6 Defining Last-Resort Default Rules](https://www.gnu.org/software/make/manual/html_node/Last-Resort.html)
+- Make: [5.2 Recipe Echoing](https://www.gnu.org/software/make/manual/html_node/Echoing.html)
 
 ##### Watched
 - GCP: [Point-and-click continuous deployment with Cloud Run](ifneq (,$(wildcard ./.makerc)))
