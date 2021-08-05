@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [How to get current relative directory of your Makefile?](https://stackoverflow.com/a/23324703/2989289)
 - Git: [How to use git bisect?](https://stackoverflow.com/a/4714297/2989289)
 - Make: [dirname and basename vs parameter expansion](https://unix.stackexchange.com/a/253753/364080)
+- Make: [Understanding a Makefile with $(basename $(notdir $@))](https://stackoverflow.com/q/16727021/2989289)
 
 ##### Consulted
 - Make: [8.3 Functions for File Names](https://www.gnu.org/software/make/manual/html_node/File-Name-Functions.html)
