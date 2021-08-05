@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Learning about Estonian e-Residency
+##### Consulted
+- Carrer: Estonian e-Residency - [Costs & fees](https://learn.e-resident.gov.ee/hc/en-us/articles/360000625118-Costs-fees)
 
 ## Late return - 2021-08-04
 ##### Checked
