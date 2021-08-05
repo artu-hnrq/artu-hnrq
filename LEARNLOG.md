@@ -30,6 +30,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 #### Read
  Make: [Writing Makefiles](https://web.mit.edu/gnu/doc/html/make_3.html)
+ Make: [The one line you should add to every makefile](https://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 
 ## Going through that challenge - 2021-08-03
 ##### Discovered
