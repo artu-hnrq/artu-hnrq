@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Watched
 - Carrer: Estonian e-Residency - [How to manage a global business with e-Residency in Estonia](https://youtu.be/1IxLHLEDY0Y)
+- PyCharm: [Run and Debug Configurations](https://youtu.be/pNRAow0nW1w)
 
 ##### Read
 - PyCharm: [How to share run configurations in IntelliJ IDEA](https://www.vojtechruzicka.com/idea-sharing-run-configurations/#importing-configuration)
