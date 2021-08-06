@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - Carrer: Estonian e-Residency - [How to manage a global business with e-Residency in Estonia](https://youtu.be/1IxLHLEDY0Y)
 
+##### Read
+- PyCharm: [How to share run configurations in IntelliJ IDEA](https://www.vojtechruzicka.com/idea-sharing-run-configurations/#importing-configuration)
+
 ##### Checked
 - PyCharm: [Export/Import Run Configurations?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206600965-Export-Import-Run-Configurations-)
 - PyCharm: [how to persist and import run configurations](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206905825-how-to-persist-and-import-run-configurations)
