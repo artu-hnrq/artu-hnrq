@@ -35,6 +35,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - PyCharm: [How to share run configurations in IntelliJ IDEA](https://www.vojtechruzicka.com/idea-sharing-run-configurations/#importing-configuration)
+- Make: [Setting a Makefile Variable From Outside the Makefile](https://www.cmcrossroads.com/article/setting-makefile-variable-outside-makefile)
 
 ##### Checked
 - PyCharm: [Export/Import Run Configurations?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206600965-Export-Import-Run-Configurations-)
