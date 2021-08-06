@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [What is the best method to test if a program exists for a shell script?](https://unix.stackexchange.com/a/404147/364080)
 - Bash: [How can I check if a program exists from a Bash script?](https://stackoverflow.com/a/26759734/2989289)
 - Bash: [How can I check if a command exists in a shell script?](https://stackoverflow.com/a/7522726/2989289)
+- Bash: [How do I test to see if an application exists in $PATH?](https://unix.stackexchange.com/a/4991/364080)
 
 ## Learning about Estonian e-Residency - 2021-08-05
 ##### Consulted
