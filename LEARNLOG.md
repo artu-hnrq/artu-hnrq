@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - PyCharm: [Export/Import Run Configurations?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206600965-Export-Import-Run-Configurations-)
+- PyCharm: [how to persist and import run configurations](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206905825-how-to-persist-and-import-run-configurations)
 
 ## Late return - 2021-08-04
 ##### Checked
