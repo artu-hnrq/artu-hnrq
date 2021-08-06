@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - Carrer: Estonian e-Residency - [How to manage a global business with e-Residency in Estonia](https://youtu.be/1IxLHLEDY0Y)
 
+##### Checked
+- PyCharm: [Export/Import Run Configurations?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206600965-Export-Import-Run-Configurations-)
+
 ## Late return - 2021-08-04
 ##### Checked
 - Docker: [Login to Docker Hub by command line](https://stackoverflow.com/a/57108557/2989289)
