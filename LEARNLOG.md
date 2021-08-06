@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [On save new line added to end of file. How stop this?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/207071445/comments/207471069)
 - GCP: [I thought e2 micro in Oregon was free?](https://www.reddit.com/r/googlecloud/comments/oyzjp4/am_i_missing_something_i_thought_e2_micro_in/)
 - Bash: [What is the best method to test if a program exists for a shell script?](https://unix.stackexchange.com/a/404147/364080)
+- Bash: [How can I check if a program exists from a Bash script?](https://stackoverflow.com/a/26759734/2989289)
 
 ## Learning about Estonian e-Residency - 2021-08-05
 ##### Consulted
