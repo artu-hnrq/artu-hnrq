@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Keep doing your thing - 2021-08-06
 ##### Checked
 - Dev: [How to properly structure full-stack project which use React?](https://stackoverflow.com/questions/57874890/how-to-properly-structure-full-stack-project-which-use-react)
+- Make: [Obtaining directory makefile resides in](https://stackoverflow.com/a/4590779/2989289)
 
 ## Learning about Estonian e-Residency - 2021-08-05
 ##### Consulted
