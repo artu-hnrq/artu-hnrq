@@ -7,8 +7,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
-## Learning about Estonian e-Residency
+
+## Keep doing your thing - 2021-08-06
+##### Checked
+- Dev: [How to properly structure full-stack project which use React?](https://stackoverflow.com/questions/57874890/how-to-properly-structure-full-stack-project-which-use-react)
+
+## Learning about Estonian e-Residency - 2021-08-05
 ##### Consulted
 - Carrer: Estonian e-Residency - [Costs & fees](https://learn.e-resident.gov.ee/hc/en-us/articles/360000625118-Costs-fees)
 - Carrer: Estonian e-Residency - [Share capital contribution](https://learn.e-resident.gov.ee/hc/en-us/articles/360000798017-Share-capital-contribution)
