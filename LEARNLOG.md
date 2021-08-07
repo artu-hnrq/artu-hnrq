@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Test command in unix doesn't print an output](https://unix.stackexchange.com/questions/50558/test-command-in-unix-doesnt-print-an-output)
 - Make: [Makefile ifeq with Bash commands on OS X](https://stackoverflow.com/a/23711540/2989289)
 - Make: [How to get exit status of a shell command used in GNU Makefile?](https://stackoverflow.com/a/44324918/2989289)
+- Make: [Select “Use Unicode Character Set” in Gnu Makefile](https://stackoverflow.com/a/9832593/2989289)
 
 ## Keep doing your thing - 2021-08-06
 ##### Checked
