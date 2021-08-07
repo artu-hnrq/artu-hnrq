@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Make: [How to check if a command succeeded?](https://askubuntu.com/a/29379/689894)
 - Git: [How can I delete all of my Git stashes at once?](https://stackoverflow.com/a/11369406/2989289)
+- Git: [I ran into a merge conflict. How can I abort the merge?](https://stackoverflow.com/a/102309/2989289)
 - Markdown: [Creating an image link in Markdown format](https://meta.stackexchange.com/a/38917/712835)
 
 ## Keep doing your thing - 2021-08-06
