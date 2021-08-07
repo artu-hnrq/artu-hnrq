@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [I ran into a merge conflict. How can I abort the merge?](https://stackoverflow.com/a/102309/2989289)
 - Git: [git stash apply version](https://stackoverflow.com/a/1910142/2989289)
 - Markdown: [Creating an image link in Markdown format](https://meta.stackexchange.com/a/38917/712835)
+- Bash: [Checking if output of a command contains a certain string in a shell script](https://stackoverflow.com/a/16931282/2989289)
 
 ## Keep doing your thing - 2021-08-06
 ##### Checked
