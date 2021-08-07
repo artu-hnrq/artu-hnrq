@@ -28,6 +28,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [Run/debug configurations](https://www.jetbrains.com/help/pycharm/run-debug-configuration.html)
 - PyCharm: [Configure a Python interpreter](https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html)
 - MkDocs: [Configuration](https://www.mkdocs.org/user-guide/configuration/)
+- Make: [8.9 The eval Function](https://www.gnu.org/software/make/manual/html_node/Eval-Function.html)
 
 ##### Watched
 - Carrer: Estonian e-Residency - [How to manage a global business with e-Residency in Estonia](https://youtu.be/1IxLHLEDY0Y)
