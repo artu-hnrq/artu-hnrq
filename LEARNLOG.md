@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Markdown: [Creating an image link in Markdown format](https://meta.stackexchange.com/a/38917/712835)
 - Bash: [Checking if output of a command contains a certain string in a shell script](https://stackoverflow.com/a/16931282/2989289)
 - Bash: [Test command in unix doesn't print an output](https://unix.stackexchange.com/questions/50558/test-command-in-unix-doesnt-print-an-output)
+- Make: [Makefile ifeq with Bash commands on OS X](https://stackoverflow.com/a/23711540/2989289)
 
 ## Keep doing your thing - 2021-08-06
 ##### Checked
