@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How do I test to see if an application exists in $PATH?](https://unix.stackexchange.com/a/4991/364080)
 - Make: [Check if a program exists from a Makefile](https://stackoverflow.com/a/25668869/2989289)
 - Make: [Makefile If-Then Else and Loops](https://stackoverflow.com/a/180775/2989289)
+- Make: [How to conditionally set Makefile variable to something if it is empty?](https://stackoverflow.com/a/38832692/2989289)
 
 ## Learning about Estonian e-Residency - 2021-08-05
 ##### Consulted
