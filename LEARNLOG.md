@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [15 Practical Examples of ‘echo’ command in Linux](https://www.tecmint.com/echo-command-in-linux/)
 - Bash: [Shell Scripting Tutorial - Test](https://www.shellscript.sh/test.html)
 
+##### Checked
+- Make: [How to check if a command succeeded?](https://askubuntu.com/a/29379/689894)
+
 ## Keep doing your thing - 2021-08-06
 ##### Checked
 - Dev: [How to properly structure full-stack project which use React?](https://stackoverflow.com/questions/57874890/how-to-properly-structure-full-stack-project-which-use-react)
