@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Coding while watching flow - 2021-08-07
 ##### Read
 - Bash: [15 Practical Examples of ‘echo’ command in Linux](https://www.tecmint.com/echo-command-in-linux/)
+- Bash: [Shell Scripting Tutorial - Test](https://www.shellscript.sh/test.html)
 
 ## Keep doing your thing - 2021-08-06
 ##### Checked
