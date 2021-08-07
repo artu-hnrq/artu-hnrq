@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Coding while watching flow - 2021-08-07
+##### Read
+- Bash: [15 Practical Examples of ‘echo’ command in Linux](https://www.tecmint.com/echo-command-in-linux/)
+
 ## Keep doing your thing - 2021-08-06
 ##### Checked
 - Dev: [How to properly structure full-stack project which use React?](https://stackoverflow.com/questions/57874890/how-to-properly-structure-full-stack-project-which-use-react)
