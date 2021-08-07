@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Bash: [15 Practical Examples of ‘echo’ command in Linux](https://www.tecmint.com/echo-command-in-linux/)
 - Bash: [Shell Scripting Tutorial - Test](https://www.shellscript.sh/test.html)
+- Git: [How to Recover a Deleted Git Stash](https://mobilejazz.com/blog/how-to-recover-a-deleted-git-stash/)
 
 ##### Checked
 - Make: [How to check if a command succeeded?](https://askubuntu.com/a/29379/689894)
