@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 Web: [What is Image CDN And Why Should You Care](https://www.cincopa.com/blog/what-is-image-cdn-and-why-should-you-care/)
+Django: [Handling Model Relationships in Django Rest Framework](https://medium.com/@krishnaregmi/handling-model-relationships-in-django-rest-framework-e0dfbcf1d83e)
 
 ##### Consulted
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
