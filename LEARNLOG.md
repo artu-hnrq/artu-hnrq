@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Loop through a list and select a specific value](https://stackoverflow.com/a/7114364/2989289)
 - Make: [Iterating over lists in Makefiles?](https://stackoverflow.com/a/978304/2989289)
 - Bash: [How do I grab an INI value within a shell script?](https://stackoverflow.com/a/28794976/2989289)
+- Bash: [How to parse and convert ini file into bash array variables?](https://serverfault.com/a/351092/584569)
 
 ##### Consulted
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
