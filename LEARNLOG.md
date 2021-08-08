@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [How Can I Disable Authentication in Django REST Framework](https://stackoverflow.com/a/27086121/2989289)
 - Django: [Django rest framework permission_classes of ViewSet method](https://stackoverflow.com/a/61675657/2989289)
+- Make: [Loop through a list and select a specific value](https://stackoverflow.com/a/7114364/2989289)
 
 ##### Consulted
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
