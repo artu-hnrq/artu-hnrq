@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Django rest framework permission_classes of ViewSet method](https://stackoverflow.com/a/61675657/2989289)
 - Make: [Loop through a list and select a specific value](https://stackoverflow.com/a/7114364/2989289)
 - Make: [Iterating over lists in Makefiles?](https://stackoverflow.com/a/978304/2989289)
+- Bash: [How do I grab an INI value within a shell script?](https://stackoverflow.com/a/28794976/2989289)
 
 ##### Consulted
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
