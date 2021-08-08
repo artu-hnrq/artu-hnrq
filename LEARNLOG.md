@@ -26,6 +26,7 @@ Web: [What is Image CDN And Why Should You Care](https://www.cincopa.com/blog/wh
 
 ##### Consulted
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
+- Django: [Serializer relations](http://www.tomchristie.com/rest-framework-2-docs/api-guide/relations)
 
 ## Coding while watching flow - 2021-08-07
 ##### Read
