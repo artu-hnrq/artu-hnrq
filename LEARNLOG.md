@@ -18,6 +18,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How to parse and convert ini file into bash array variables?](https://serverfault.com/a/351092/584569)
 - Web: [How to effectively use the Azure CDN with a WebApp front-end project for images](https://stackoverflow.com/a/38737726/2989289)
 
+##### Read
+Web: [What is Image CDN And Why Should You Care](https://www.cincopa.com/blog/what-is-image-cdn-and-why-should-you-care/)
+
 ##### Consulted
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
 
