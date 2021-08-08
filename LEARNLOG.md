@@ -31,6 +31,7 @@ Django: [Handling Model Relationships in Django Rest Framework](https://medium.c
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
 - Django: [Serializer relations](http://www.tomchristie.com/rest-framework-2-docs/api-guide/relations)
 - Web: [OSI model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_Layer)
+- Javascript: [Spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 ## Coding while watching flow - 2021-08-07
 ##### Read
