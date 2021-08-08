@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How do I grab an INI value within a shell script?](https://stackoverflow.com/a/28794976/2989289)
 - Bash: [How to parse and convert ini file into bash array variables?](https://serverfault.com/a/351092/584569)
 - Web: [How to effectively use the Azure CDN with a WebApp front-end project for images](https://stackoverflow.com/a/38737726/2989289)
+- Git: [How do I rename a Git repository?](https://stackoverflow.com/a/2042020/2989289)
 
 ##### Read
 Web: [What is Image CDN And Why Should You Care](https://www.cincopa.com/blog/what-is-image-cdn-and-why-should-you-care/)
