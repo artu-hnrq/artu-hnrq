@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Django fix Admin plural](https://stackoverflow.com/a/57156867/2989289)
 - Django: [What is `related_name` used for in Django?](https://stackoverflow.com/a/2642645/2989289)
 - Django: [How to change field name in Django REST Framework](https://stackoverflow.com/a/33323621/2989289)
+- Django: [How do I include related model fields using Django Rest Framework?](https://stackoverflow.com/a/14581826/2989289)
 - Make: [Loop through a list and select a specific value](https://stackoverflow.com/a/7114364/2989289)
 - Make: [Iterating over lists in Makefiles?](https://stackoverflow.com/a/978304/2989289)
 - Bash: [How do I grab an INI value within a shell script?](https://stackoverflow.com/a/28794976/2989289)
