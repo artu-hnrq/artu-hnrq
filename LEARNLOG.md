@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How Can I Disable Authentication in Django REST Framework](https://stackoverflow.com/a/27086121/2989289)
 - Django: [Django rest framework permission_classes of ViewSet method](https://stackoverflow.com/a/61675657/2989289)
 
+##### Consulted
+- Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
+
 ## Coding while watching flow - 2021-08-07
 ##### Read
 - Bash: [15 Practical Examples of ‘echo’ command in Linux](https://www.tecmint.com/echo-command-in-linux/)
