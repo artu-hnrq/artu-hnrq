@@ -8,7 +8,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Another they looking further for dollars - 2021-08-07
+## Another they looking further for dollars - 2021-08-08
 ##### Checked
 - Django: [How Can I Disable Authentication in Django REST Framework](https://stackoverflow.com/a/27086121/2989289)
 - Django: [Django rest framework permission_classes of ViewSet method](https://stackoverflow.com/a/61675657/2989289)
@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Iterating over lists in Makefiles?](https://stackoverflow.com/a/978304/2989289)
 - Bash: [How do I grab an INI value within a shell script?](https://stackoverflow.com/a/28794976/2989289)
 - Bash: [How to parse and convert ini file into bash array variables?](https://serverfault.com/a/351092/584569)
+- Web: [How to effectively use the Azure CDN with a WebApp front-end project for images](https://stackoverflow.com/a/38737726/2989289)
 
 ##### Consulted
 - Django: [Managing files](https://docs.djangoproject.com/en/3.2/topics/files/)
