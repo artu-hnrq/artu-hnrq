@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - React: [Online Food Ordering App](https://dev.to/the22mastermind/online-food-ordering-app-7-5ka)
+- React: [Getting Started](https://reactjs.org/docs/getting-started.html)
 - Node: [Scripting inside package.json](https://krishankantsinghal.medium.com/scripting-inside-package-json-4b06bea74c0e)
 - Bash: [Read a JSON Value in Bash](http://dailyraisin.com/read-json-value-in-bash/)
 
