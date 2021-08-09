@@ -37,6 +37,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Node: [Running bash scripts with npm](https://stackoverflow.com/q/34937724/2989289)
 - Node: [How can I get npm start at a different directory?](https://stackoverflow.com/a/41772105/2989289)
 - Bash: [Grep the name from package.json file](https://unix.stackexchange.com/a/480488/364080)
+- Django: [Django + nginx + gunicorn - Media Files Not Working](https://www.digitalocean.com/community/questions/django-nginx-gunicorn-media-files-not-working?utm_content=django-nginx-gunicorn-media-files-not-working&utm_medium=community&utm_source=linkshare)
 
 ##### Consulted
 - Make: [10.5.3 Automatic Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
