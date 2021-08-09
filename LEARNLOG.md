@@ -37,6 +37,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Node: [Running bash scripts with npm](https://stackoverflow.com/q/34937724/2989289)
 - Node: [How can I get npm start at a different directory?](https://stackoverflow.com/a/41772105/2989289)
 - Bash: [Grep the name from package.json file](https://unix.stackexchange.com/a/480488/364080)
+- Git: [Git Cherry-Pick and Conflicts](https://stackoverflow.com/a/19832564/2989289)
 - Django: [Django + nginx + gunicorn - Media Files Not Working](https://www.digitalocean.com/community/questions/django-nginx-gunicorn-media-files-not-working?utm_content=django-nginx-gunicorn-media-files-not-working&utm_medium=community&utm_source=linkshare)
 - Django: [How to put static and media setting at the same time in Django](https://stackoverflow.com/a/60958868/2989289)
 - Django: [How can I get the domain name of my site within a Django template?](https://stackoverflow.com/a/1454986/2989289)
