@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Sourced
 - React: [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command
 
+##### Read
+- React: [Online Food Ordering App](https://dev.to/the22mastermind/online-food-ordering-app-7-5ka)
+
 ## Another they looking further for dollars - 2021-08-08
 ##### Checked
 - Django: [How Can I Disable Authentication in Django REST Framework](https://stackoverflow.com/a/27086121/2989289)
