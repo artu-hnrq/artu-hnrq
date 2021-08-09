@@ -12,6 +12,18 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Sourced
 - React: [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command
 
+##### Discovered
+- : [mockable.io]("dependencies": {
+    // ...
+  },
++ "lint-staged": {
++   "src/**/*.{js,jsx,json,css}": [
++     "prettier --single-quote --write",
++     "git add"
++   ]
++ },
+  "scripts": {)
+
 ##### Read
 - React: [Online Food Ordering App](https://dev.to/the22mastermind/online-food-ordering-app-7-5ka)
 
