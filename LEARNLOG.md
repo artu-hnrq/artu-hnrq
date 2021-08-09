@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - React: [Online Food Ordering App](https://dev.to/the22mastermind/online-food-ordering-app-7-5ka)
 
+##### Checked
+- Node: [How to update Node.js to the long term support version on Ubuntu 20.04?](https://askubuntu.com/a/1291854/689894)
+
 ## Another they looking further for dollars - 2021-08-08
 ##### Checked
 - Django: [How Can I Disable Authentication in Django REST Framework](https://stackoverflow.com/a/27086121/2989289)
