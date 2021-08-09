@@ -39,6 +39,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Grep the name from package.json file](https://unix.stackexchange.com/a/480488/364080)
 - Django: [Django + nginx + gunicorn - Media Files Not Working](https://www.digitalocean.com/community/questions/django-nginx-gunicorn-media-files-not-working?utm_content=django-nginx-gunicorn-media-files-not-working&utm_medium=community&utm_source=linkshare)
 - Django: [How to put static and media setting at the same time in Django](https://stackoverflow.com/a/60958868/2989289)
+- Django: [How can I get the domain name of my site within a Django template?](https://stackoverflow.com/a/1454986/2989289)
 
 ##### Consulted
 - Make: [10.5.3 Automatic Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
