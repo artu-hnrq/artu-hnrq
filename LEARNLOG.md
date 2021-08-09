@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Watched
 - PyCharm: [Step 1 - React tutorial: Project Setup](https://youtu.be/ZP2dCeESF5A)
+- PyCharm: [Step 9 - React tutorial: Class components with propos](https://youtu.be/MkgbUcJ25GY)
 
 ##### Checked
 - Node: [How to update Node.js to the long term support version on Ubuntu 20.04?](https://askubuntu.com/a/1291854/689894)
