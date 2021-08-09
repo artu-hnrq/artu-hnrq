@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - React: [Material Design with ReactJS using Material UI](https://uxdesign.cc/material-design-with-reactjs-using-material-ui-9f7e81a955f7)
 - Node: [Scripting inside package.json](https://krishankantsinghal.medium.com/scripting-inside-package-json-4b06bea74c0e)
 - Bash: [Read a JSON Value in Bash](http://dailyraisin.com/read-json-value-in-bash/)
+- Web: [4 Common pitfalls in front-end web development and how to avoid them](Git Cherry-Pick and Conflicts)
 
 ##### Watched
 - PyCharm: [Step 1 - React tutorial: Project Setup](https://youtu.be/ZP2dCeESF5A)
