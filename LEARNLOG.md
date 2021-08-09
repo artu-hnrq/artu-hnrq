@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Node: [How to update Node.js to the long term support version on Ubuntu 20.04?](https://askubuntu.com/a/1291854/689894)
+- Node: [Is it possible to consume environment variables inside of npm / package.json?](https://stackoverflow.com/a/32980126/2989289)
 
 ## Another they looking further for dollars - 2021-08-08
 ##### Checked
