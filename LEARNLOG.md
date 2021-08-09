@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - React: [Getting Started](https://reactjs.org/docs/getting-started.html)
 - React: [Creating a React App with Create-React-App and Material-UI](https://medium.com/@martink_rsa/creating-a-react-app-with-create-react-app-and-material-ui-380985fc2b19)
 - React: [Getting Started With Material-UI For React (Material Design For React)](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555)
+- React: [Material Design with ReactJS using Material UI](https://uxdesign.cc/material-design-with-reactjs-using-material-ui-9f7e81a955f7)
 - Node: [Scripting inside package.json](https://krishankantsinghal.medium.com/scripting-inside-package-json-4b06bea74c0e)
 - Bash: [Read a JSON Value in Bash](http://dailyraisin.com/read-json-value-in-bash/)
 
