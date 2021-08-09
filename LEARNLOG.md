@@ -33,6 +33,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Node: [How can I get npm start at a different directory?](https://stackoverflow.com/a/41772105/2989289)
 - Bash: [Grep the name from package.json file](https://unix.stackexchange.com/a/480488/364080)
 
+##### Consulted
+- Make: [10.5.3 Automatic Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
+
 ## Another they looking further for dollars - 2021-08-08
 ##### Checked
 - Django: [How Can I Disable Authentication in Django REST Framework](https://stackoverflow.com/a/27086121/2989289)
