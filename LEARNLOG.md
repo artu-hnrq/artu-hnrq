@@ -44,6 +44,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [React](https://www.jetbrains.com/help/pycharm/react.html)
 - Node: [Uninstalling packages and dependencies](https://docs.npmjs.com/uninstalling-packages-and-dependencies)
 - React: [MaterialUI - Getting Started](https://material.io/develop/web/getting-started)
+- Python: [Gunicorn - Deployment](https://gunicorn.org/index.html#deployment)
 
 ## Another they looking further for dollars - 2021-08-08
 ##### Checked
