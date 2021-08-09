@@ -41,6 +41,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [10.5.3 Automatic Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
 - PyCharm: [React](https://www.jetbrains.com/help/pycharm/react.html)
 - Node: [Uninstalling packages and dependencies](https://docs.npmjs.com/uninstalling-packages-and-dependencies)
+- React: [MaterialUI - Getting Started](https://material.io/develop/web/getting-started)
 
 ## Another they looking further for dollars - 2021-08-08
 ##### Checked
