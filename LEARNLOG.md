@@ -27,6 +27,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Node: [Is it possible to consume environment variables inside of npm / package.json?](https://stackoverflow.com/a/32980126/2989289)
 - Node: [Should the package-lock.json file be added to .gitignore?](https://stackoverflow.com/a/48524475/2989289)
 - Node: [Do I commit the package-lock.json file created by npm 5?](https://stackoverflow.com/a/44210813/2989289)
+- Node: [Running bash scripts with npm](https://stackoverflow.com/q/34937724/2989289)
 
 ## Another they looking further for dollars - 2021-08-08
 ##### Checked
