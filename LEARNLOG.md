@@ -7,7 +7,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+ 
+## Keeping going - 2021-08-11
+##### Read
+- Computer Science: [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
+
+
 ## Building my first truly production-ready frontend application - 2021-08-09
 ##### Sourced
 - React: [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command
