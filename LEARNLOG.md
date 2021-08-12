@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## A wanderful day beginning in my place - 2021-08-12
 ##### Read
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
+- Hardware: [Checking Your Motherboard](https://www.wikihow.tech/Find-Out-the-Maximum-RAM-Capacity-for-Your-Computer)
 
 ## Keeping going - 2021-08-11
 ##### Read
