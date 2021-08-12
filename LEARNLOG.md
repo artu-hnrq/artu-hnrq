@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
 - Hardware: [Checking Your Motherboard](https://www.wikihow.tech/Find-Out-the-Maximum-RAM-Capacity-for-Your-Computer)
 
+##### Checked
+- Linux: [https://askubuntu.com/a/673409/689894](https://askubuntu.com/a/673409/689894)
+
 ## Keeping going - 2021-08-11
 ##### Read
 - Computer Science: [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
