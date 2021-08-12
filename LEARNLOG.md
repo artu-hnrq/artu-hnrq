@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
 - Hardware: [Checking Your Motherboard](https://www.wikihow.tech/Find-Out-the-Maximum-RAM-Capacity-for-Your-Computer)
 - Linux: [How To Find Maximum Supported RAM By Your System](https://www.unixmen.com/linux-basics-how-to-find-maximum-supported-ram-by-your-system/)
+- Linux: [How to find out maximum supported RAM in Ubuntu/ArchLinux](https://en.proft.me/2016/10/7/how-find-out-maximum-supported-ram-ubuntuarchlinux/)
 
 ##### Checked
 - Linux: [command to check RAM slots in motherboard?](https://askubuntu.com/questions/673408/command-to-check-ram-slots-in-motherboard)
