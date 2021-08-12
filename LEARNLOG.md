@@ -7,11 +7,14 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
- 
+
+## A wanderful day beginning in my place - 2021-08-12
+##### Read
+- Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
+
 ## Keeping going - 2021-08-11
 ##### Read
 - Computer Science: [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
-
 
 ## Building my first truly production-ready frontend application - 2021-08-09
 ##### Sourced
