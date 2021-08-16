@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Now from Lages - 2021-08-16
 ##### Read
 - Linux: [5 Ways to Check Available Memory in Ubuntu 20.04](https://vitux.com/5-ways-to-check-available-memory-in-ubuntu/)
+- Hardware: [O que é Memória ECC e como funciona?](https://www.oficinadanet.com.br/post/12404-o-que-e-memoria-ecc-e-como-funciona)
 
 ## A wanderful day beginning in my place - 2021-08-12
 ##### Read
