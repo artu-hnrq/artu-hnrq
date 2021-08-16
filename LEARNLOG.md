@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Now from Lages - 2021-08-16
+##### Read
+- Linux: [5 Ways to Check Available Memory in Ubuntu 20.04](https://vitux.com/5-ways-to-check-available-memory-in-ubuntu/)
+
 ## A wanderful day beginning in my place - 2021-08-12
 ##### Read
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
