@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Hardware: [Qual memória RAM comprar?](https://www.zoom.com.br/memoria-ram/deumzoom/qual-memoria-ram-comprar-guia-de-compras)
 - Hardware: [5 Biggest Myths About RAM That are Still Out There](https://medium.com/level-up-web/5-biggest-myths-about-ram-that-are-still-out-there-38cbe57ffbc4)
 - Hardware: [Is It Okay to Use Different RAM Brands and Sizes Together?](https://linuxhint.com/use-different-ram-brands-and-sizes-together/)
+- Hardware: [5 RAM Myths and Misconceptions That Really Aren't True](https://www.makeuseof.com/tag/myths-misconceptions-about-ram/)
 
 ##### Checked
 - Hardware: [Can I have two different capacity RAM sticks?](https://superuser.com/q/696433/1063603)
