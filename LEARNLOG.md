@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Hardware: [O que é Memória ECC e como funciona?](https://www.oficinadanet.com.br/post/12404-o-que-e-memoria-ecc-e-como-funciona)
 - Hardware: [Qual memória RAM comprar?](https://www.zoom.com.br/memoria-ram/deumzoom/qual-memoria-ram-comprar-guia-de-compras)
 
+##### Checked
+- Hardware: [Can I have two different capacity RAM sticks?](https://superuser.com/q/696433/1063603)
+
 ## A wanderful day beginning in my place - 2021-08-12
 ##### Read
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
