@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - PyCharm: [Configuring Docker Compose as a remote interpreter](https://www.jetbrains.com/help/pycharm/using-docker-compose-as-a-remote-interpreter.html#docker-compose-remote)
 
+##### Checked
+PyCharm: [Debugging with docker-compose](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010340779-Debugging-with-docker-compose)
+
 ## Now from Lages - 2021-08-16
 ##### Read
 - Linux: [5 Ways to Check Available Memory in Ubuntu 20.04](https://vitux.com/5-ways-to-check-available-memory-in-ubuntu/)
