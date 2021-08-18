@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [how to recursively get the modified date from a model and its related models and their related models](https://stackoverflow.com/questions/53019627/django-how-to-recursively-get-the-modified-date-from-a-model-and-its-related-mo)
 - Django: [Difference between auto_now and auto_now_add](https://stackoverflow.com/a/51389274/2989289)
 - Django: [How to select a record and update it, with a single queryset in Django?](https://stackoverflow.com/a/37929486/2989289)
+- Django: [Django request get parameters](https://stackoverflow.com/a/4162731/2989289)
 
 ## Defining Reveillon accommodation - 2021-08-17
 ##### Consulted
