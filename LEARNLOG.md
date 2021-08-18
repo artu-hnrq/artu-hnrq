@@ -8,12 +8,16 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Vaccinated - 2021-08-18
+##### Read
+- Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
+
 ## Defining Reveillon accommodation - 2021-08-17
 ##### Consulted
 - PyCharm: [Configuring Docker Compose as a remote interpreter](https://www.jetbrains.com/help/pycharm/using-docker-compose-as-a-remote-interpreter.html#docker-compose-remote)
 
 ##### Checked
-PyCharm: [Debugging with docker-compose](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010340779-Debugging-with-docker-compose)
+- PyCharm: [Debugging with docker-compose](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010340779-Debugging-with-docker-compose)
 
 ## Now from Lages - 2021-08-16
 ##### Read
@@ -29,7 +33,7 @@ PyCharm: [Debugging with docker-compose](https://intellij-support.jetbrains.com/
 
 ## A wanderful day beginning in my place - 2021-08-12
 ##### Read
-- Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
+- Carrer: [](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
 - Hardware: [Checking Your Motherboard](https://www.wikihow.tech/Find-Out-the-Maximum-RAM-Capacity-for-Your-Computer)
 - Linux: [How To Find Maximum Supported RAM By Your System](https://www.unixmen.com/linux-basics-how-to-find-maximum-supported-ram-by-your-system/)
 - Linux: [How to find out maximum supported RAM in Ubuntu/ArchLinux](https://en.proft.me/2016/10/7/how-find-out-maximum-supported-ram-ubuntuarchlinux/)
