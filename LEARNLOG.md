@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Django: [how to recursively get the modified date from a model and its related models and their related models](https://stackoverflow.com/questions/53019627/django-how-to-recursively-get-the-modified-date-from-a-model-and-its-related-mo)
+- Django: [Difference between auto_now and auto_now_add](https://stackoverflow.com/a/51389274/2989289)
 
 ## Defining Reveillon accommodation - 2021-08-17
 ##### Consulted
