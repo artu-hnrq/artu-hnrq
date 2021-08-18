@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
 
+##### Checked
+- Django: [https://stackoverflow.com/questions/53019627/django-how-to-recursively-get-the-modified-date-from-a-model-and-its-related-mo](https://stackoverflow.com/questions/53019627/django-how-to-recursively-get-the-modified-date-from-a-model-and-its-related-mo)
+
 ## Defining Reveillon accommodation - 2021-08-17
 ##### Consulted
 - PyCharm: [Configuring Docker Compose as a remote interpreter](https://www.jetbrains.com/help/pycharm/using-docker-compose-as-a-remote-interpreter.html#docker-compose-remote)
