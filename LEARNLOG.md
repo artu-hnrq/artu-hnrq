@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Hardware: [How to check the physical health of a USB stick in Linux?](https://superuser.com/a/376278/1063603)
+- Hardware: [Detect and mount devices](https://askubuntu.com/a/290883/689894)
 
 ## Vaccinated - 2021-08-18
 ##### Read
