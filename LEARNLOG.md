@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Last weekday in Lages - 2021-08-20
 ##### Read
 - Python: [When and Why to Use := Over = in Python](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
+- Hardware: [Linux check the physical health of a USB stick](https://www.cyberciti.biz/faq/linux-check-the-physical-health-of-a-usb-stick-flash-drive/)
 
 ##### Consulted
 - Django: [QueryDict objects](https://docs.djangoproject.com/en/3.2/ref/request-response/#querydict-objects)
