@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [QueryDict objects](https://docs.djangoproject.com/en/3.2/ref/request-response/#querydict-objects)
 
+##### Checked
+- Hardware: [How to check the physical health of a USB stick in Linux?](https://superuser.com/a/376278/1063603)
+
 ## Vaccinated - 2021-08-18
 ##### Read
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
