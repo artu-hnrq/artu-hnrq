@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Last weekday in Lages - 2021-08-20
+##### Read
+- Python: [https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
+
 ## Vaccinated - 2021-08-18
 ##### Read
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
