@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Python: [When and Why to Use := Over = in Python](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
 
+##### Consulted
+- Django: [QueryDict objects](https://docs.djangoproject.com/en/3.2/ref/request-response/#querydict-objects)
+
 ## Vaccinated - 2021-08-18
 ##### Read
 - Carrer: [10+ Important LinkedIn Best Practices for Remote Software Developers](https://arc.dev/blog/linkedin-best-practices-for-remote-developers-cgfdcxissf)
