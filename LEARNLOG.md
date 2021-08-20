@@ -10,7 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Last weekday in Lages - 2021-08-20
 ##### Read
-- Python: [https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
+- Python: [When and Why to Use := Over = in Python](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
 
 ## Vaccinated - 2021-08-18
 ##### Read
