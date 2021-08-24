@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Now from Urubuci - 2021-08-24
+##### Read
+- Carrer: [Não trabalho mais nas sextas; o hack das 600 milhões de visualizações e outras brisas](https://www.linkedin.com/pulse/n%25C3%25A3o-trabalho-mais-nas-sextas-o-hack-das-600-milh%25C3%25B5es-de-de-souza/)
+
 ## Last weekday in Lages - 2021-08-20
 ##### Read
 - Python: [When and Why to Use := Over = in Python](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
