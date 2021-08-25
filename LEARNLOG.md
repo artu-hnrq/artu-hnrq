@@ -11,7 +11,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Now from Urubuci - 2021-08-24
 ##### Read
 - Carrer: [Não trabalho mais nas sextas; o hack das 600 milhões de visualizações e outras brisas](https://www.linkedin.com/pulse/n%25C3%25A3o-trabalho-mais-nas-sextas-o-hack-das-600-milh%25C3%25B5es-de-de-souza/)
+
+##### Consulted
 - PyCharm: [Docker-Compose: Adding a Database Service](https://blog.jetbrains.com/pycharm/2017/04/docker-compose-adding-a-database-service/)
+- PyCharm: [Connect to the PostgreSQL server](https://www.jetbrains.com/help/idea/running-a-dbms-image.html#c5257ee5)
 
 ## Last weekday in Lages - 2021-08-20
 ##### Read
