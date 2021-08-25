@@ -13,7 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [I lose my bookmarks every time when swith branch](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360008403679-I-lose-my-bookmarks-every-time-when-swith-branch)
 
 ##### Checked
-- Web: [escaping special character in a url](https://stackoverflow.com/a/10772079/2989289)
+- Javascript: [escaping special character in a url](https://stackoverflow.com/a/10772079/2989289)
 
 ## Now from Urubuci - 2021-08-24
 ##### Read
