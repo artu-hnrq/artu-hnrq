@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Work done - 2021-08-26
+##### Checked
+- Python: [Python “extend” for a dictionary](https://stackoverflow.com/q/577234/2989289)
+
 ## Work accumulating - 2021-08-25
 ##### Tracked
 - PyCharm: [I lose my bookmarks every time when swith branch](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360008403679-I-lose-my-bookmarks-every-time-when-swith-branch)
