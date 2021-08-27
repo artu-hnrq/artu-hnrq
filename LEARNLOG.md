@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How do I rename a local Git branch?](https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch)
 - Python: [List comprehension as substitute for reduce() in Python](https://stackoverflow.com/a/34586159/2989289)
 
+##### Consulted
+- Python: [functools.reduce](https://docs.python.org/3/library/functools.html#functools.reduce)
+
 ## Work done - 2021-08-26
 ##### Checked
 - Python: [Python “extend” for a dictionary](https://stackoverflow.com/q/577234/2989289)
