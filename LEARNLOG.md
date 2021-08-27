@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Moving forward - 2021-08-27
 ##### Checked
 - Python: [How do I rename a local Git branch?](https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch)
+- Python: [List comprehension as substitute for reduce() in Python](https://stackoverflow.com/a/34586159/2989289)
 
 ## Work done - 2021-08-26
 ##### Checked
