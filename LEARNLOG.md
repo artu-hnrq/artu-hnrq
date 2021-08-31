@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - PyCharm: [Pycharm Can't retrieve image ID from build stream](https://stackoverflow.com/a/61407257/2989289)
 - Pycharm: [Couldn't refresh skeletons for remote interpreter](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000129510-Couldn-t-refresh-skeletons-for-remote-interpreter-Docker)
+- Linux: [How to stop docker under Linux](https://stackoverflow.com/a/57568419/2989289)
 
 ## Moving forward - 2021-08-27
 ##### Checked
