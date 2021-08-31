@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## New week begin - 2021-08-30
+##### Checked
+- PyCharm: [Pycharm Can't retrieve image ID from build stream](https://stackoverflow.com/a/61407257/2989289)
+
 ## Moving forward - 2021-08-27
 ##### Checked
 - Python: [How do I rename a local Git branch?](https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch)
