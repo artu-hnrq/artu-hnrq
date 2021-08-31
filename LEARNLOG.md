@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+### Midnighting around - 2021-08-31
+##### Checked
+- PyCharm: [Connection to Python debugger failed: Accept timed out](https://askubuntu.com/a/1345946/689894)
+
+---
+
 ## New week begin - 2021-08-30
 ##### Checked
 - PyCharm: [Pycharm Can't retrieve image ID from build stream](https://stackoverflow.com/a/61407257/2989289)
