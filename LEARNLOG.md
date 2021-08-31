@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## New week begin - 2021-08-30
 ##### Checked
 - PyCharm: [Pycharm Can't retrieve image ID from build stream](https://stackoverflow.com/a/61407257/2989289)
+- Pycharm: [Couldn't refresh skeletons for remote interpreter](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000129510-Couldn-t-refresh-skeletons-for-remote-interpreter-Docker)
 
 ## Moving forward - 2021-08-27
 ##### Checked
