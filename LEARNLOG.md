@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## That kiss aniversary - 2021-09-01
 ##### Consulted
 - PyCharm: [Increase the memory heap of the IDE](https://www.jetbrains.com/help/pycharm/increasing-memory-heap.html)
+- PyCharm: [Advanced configuration](https://www.jetbrains.com/help/pycharm/tuning-the-ide.html)
 
 
 ## Midnighting around - 2021-08-31
