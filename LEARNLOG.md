@@ -8,13 +8,16 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-### Midnighting around - 2021-08-31
+## That kiss aniversary - 2021-09-01
+##### Consulted
+- PyCharm: [Increase the memory heap of the IDE](https://www.jetbrains.com/help/pycharm/increasing-memory-heap.html)
+
+
+## Midnighting around - 2021-08-31
 ##### Checked
 - PyCharm: [Connection to Python debugger failed: Accept timed out](https://askubuntu.com/a/1345946/689894)
 - Pycharm: [My PyCharm run is working but debugging is failing](https://superuser.com/a/1386136/1063603)
 - PyCharm: [How to connect PyCharm to a python interpreter located inside a Docker container?](https://stackoverflow.com/a/29547428/2989289)
-
----
 
 ## New week begin - 2021-08-30
 ##### Checked
