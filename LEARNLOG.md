@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Web: [Open link always in same tab](https://stackoverflow.com/a/42806280)
 - Web: [How to force Chrome to open all links in the current tab?](https://superuser.com/q/440623/1063603)
+- Web: [How to make links open in same tab?](https://support.google.com/chrome/thread/17211390/how-to-make-links-open-in-same-tab?hl=en&msgid=17668838)
 
 ## That kiss aniversary - 2021-09-01
 ##### Consulted
