@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - PyCharm: [Favorites](https://www.jetbrains.com/help/idea/managing-your-project-favorites.html)
 
+##### Checked
+- Web: [Open link always in same tab](https://stackoverflow.com/a/42806280)
+
 ## That kiss aniversary - 2021-09-01
 ##### Consulted
 - PyCharm: [Increase the memory heap of the IDE](https://www.jetbrains.com/help/pycharm/increasing-memory-heap.html)
