@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Tracked
 - Docker: [Docker build is not running cause the permission of one folder not used in the build process](https://github.com/moby/moby/issues/6521#issuecomment-165374298)
 
+##### Consulted
+- PyCharm: [Pytest](https://stackoverflow.com/a/40906766/2989289)
+
 ## The crossing into a new era - 2021-09-03
 ##### Consulted
 - PyCharm: [Favorites](https://www.jetbrains.com/help/idea/managing-your-project-favorites.html)
