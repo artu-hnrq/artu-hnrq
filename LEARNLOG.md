@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Purchased new airline tickets - 2021-09-08
 ##### Checked
 - Pytest: [Unable to debug in pycharm with pytest](https://stackoverflow.com/a/40906766/2989289)
+- Docker: [docker build question no permission to read from](https://stackoverflow.com/a/60128193/2989289)
 
 ## The crossing into a new era - 2021-09-03
 ##### Consulted
