@@ -24,6 +24,7 @@ Git: [How to Use Git Aliases to Increase Your Productivity](Grouping files in Gi
 - PyCharm: [Pytest](https://stackoverflow.com/a/40906766/2989289)
 - PyCharm: [Run tests](https://www.jetbrains.com/help/pycharm/performing-tests.html)
 - PyCharm: [Run/Debug Configuration: pytest](https://www.jetbrains.com/help/pycharm/run-debug-configuration-py-test.html)
+- Git: [Configuration file](https://git-scm.com/docs/git-config#_configuration_file)
 
 ## The crossing into a new era - 2021-09-03
 ##### Consulted
