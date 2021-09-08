@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - PyCharm: [Pytest](https://stackoverflow.com/a/40906766/2989289)
+- PyCharm: [Run tests](https://www.jetbrains.com/help/pycharm/performing-tests.html)
 
 ## The crossing into a new era - 2021-09-03
 ##### Consulted
