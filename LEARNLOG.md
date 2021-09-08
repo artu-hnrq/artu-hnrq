@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Purchased new airline tickets - 2021-09-08
+##### Checked
+- Pytest: [Unable to debug in pycharm with pytest](https://stackoverflow.com/a/40906766/2989289)
+
 ## The crossing into a new era - 2021-09-03
 ##### Consulted
 - PyCharm: [Favorites](https://www.jetbrains.com/help/idea/managing-your-project-favorites.html)
