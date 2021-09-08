@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Pytest: [Unable to debug in pycharm with pytest](https://stackoverflow.com/a/40906766/2989289)
 - Docker: [docker build question no permission to read from](https://stackoverflow.com/a/60128193/2989289)
+- Git: [Grouping files in Git when staging](https://stackoverflow.com/q/9794969/2989289)
 
 ##### Tracked
 - Docker: [Docker build is not running cause the permission of one folder not used in the build process](https://github.com/moby/moby/issues/6521#issuecomment-165374298)
