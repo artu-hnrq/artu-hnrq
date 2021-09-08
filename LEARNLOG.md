@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [docker build question no permission to read from](https://stackoverflow.com/a/60128193/2989289)
 - Git: [Grouping files in Git when staging](https://stackoverflow.com/q/9794969/2989289)
 - PyCharm: [How to set environment variables in PyCharm?](https://stackoverflow.com/a/42708480/2989289)
+- PyCharm: [How to check if python unit test started in PyCharm or not?](https://stackoverflow.com/a/29782618/2989289)
 
 ##### Read
 - Git: [How to Use Git Aliases to Increase Your Productivity](Grouping files in Git when staging)
