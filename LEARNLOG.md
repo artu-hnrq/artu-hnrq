@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Pytest: [Unable to debug in pycharm with pytest](https://stackoverflow.com/a/40906766/2989289)
 - Docker: [docker build question no permission to read from](https://stackoverflow.com/a/60128193/2989289)
 
+##### Tracked
+- Docker: [Docker build is not running cause the permission of one folder not used in the build process](https://github.com/moby/moby/issues/6521#issuecomment-165374298)
+
 ## The crossing into a new era - 2021-09-03
 ##### Consulted
 - PyCharm: [Favorites](https://www.jetbrains.com/help/idea/managing-your-project-favorites.html)
