@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [How to set environment variables in PyCharm?](https://stackoverflow.com/a/42708480/2989289)
 - PyCharm: [How to check if python unit test started in PyCharm or not?](https://stackoverflow.com/a/29782618/2989289)
 - PyCharm: [How to determine if Python script was run via command line?](https://stackoverflow.com/a/9839287/2989289)
+- PyCharm: [How to detect if a Python script is executed from inside IDEA/PyCharm ?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206590275-How-to-detect-if-a-Python-script-is-executed-from-inside-IDEA-PyCharm-)
 
 ##### Read
 - Git: [How to Use Git Aliases to Increase Your Productivity](Grouping files in Git when staging)
