@@ -13,13 +13,13 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Pytest: [Unable to debug in pycharm with pytest](https://stackoverflow.com/a/40906766/2989289)
 - Docker: [docker build question no permission to read from](https://stackoverflow.com/a/60128193/2989289)
 - Docker: [Docker build failed - Error checking context](https://forums.docker.com/t/docker-build-failed-error-checking-context/13647/3?u=artuhnrq)
+- Docker: [docker build Error checking context: 'can't stat '\\?\C:\Users\username\AppData\Local\Application Data'](https://stackoverflow.com/a/62014907/2989289)
 - Git: [Grouping files in Git when staging](https://stackoverflow.com/q/9794969/2989289)
 - PyCharm: [How to set environment variables in PyCharm?](https://stackoverflow.com/a/42708480/2989289)
 - PyCharm: [How to check if python unit test started in PyCharm or not?](https://stackoverflow.com/a/29782618/2989289)
 - PyCharm: [How to determine if Python script was run via command line?](https://stackoverflow.com/a/9839287/2989289)
 - PyCharm: [How to detect if a Python script is executed from inside IDEA/PyCharm ?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206590275-How-to-detect-if-a-Python-script-is-executed-from-inside-IDEA-PyCharm-)
 - Python: [How to detect if the console does support ANSI escape codes in Python?](https://stackoverflow.com/a/22254892/2989289)
-
 
 ##### Read
 - Git: [How to Use Git Aliases to Increase Your Productivity](https://www.freecodecamp.org/news/how-to-use-git-aliases/)
