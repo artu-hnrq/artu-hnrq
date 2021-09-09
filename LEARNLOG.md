@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Tracked
 - Docker: [Docker build is not running cause the permission of one folder not used in the build process](https://github.com/moby/moby/issues/6521#issuecomment-165374298)
+- PyCharm: [PyCharm should set and environment variable by default in order to allow executed scripts to detect it](https://youtrack.jetbrains.com/issue/PY-4853)
 
 ##### Consulted
 - PyCharm: [Pytest](https://stackoverflow.com/a/40906766/2989289)
