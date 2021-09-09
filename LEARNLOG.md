@@ -20,7 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How to detect if the console does support ANSI escape codes in Python?](https://stackoverflow.com/a/22254892/2989289)
 
 ##### Read
-- Git: [How to Use Git Aliases to Increase Your Productivity](Grouping files in Git when staging)
+- Git: [How to Use Git Aliases to Increase Your Productivity](https://www.freecodecamp.org/news/how-to-use-git-aliases/)
 
 ##### Tracked
 - Docker: [Docker build is not running cause the permission of one folder not used in the build process](https://github.com/moby/moby/issues/6521#issuecomment-165374298)
