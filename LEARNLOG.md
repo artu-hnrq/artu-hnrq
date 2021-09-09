@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Listening Racionais and coding - 2021-09-09
 ##### Checked
 - PyCharm: [How to create two editor panes for the same file?](https://stackoverflow.com/a/14322146/2989289)
+- PyCharm: [Debugging two instances of the same project simultaneously](https://intellij-support.jetbrains.com/hc/en-us/community/posts/205416830-Debugging-two-instances-of-the-same-project-simultaneously)
 
 ##### Consulted
 - PyCharm: [Run/Debug Configuration: Compound](https://www.jetbrains.com/help/pycharm/run-debug-configuration-compound-run-configuration.html)
