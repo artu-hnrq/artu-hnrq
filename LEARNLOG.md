@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - PyCharm: [Run/Debug Configuration: Compound](https://www.jetbrains.com/help/pycharm/run-debug-configuration-compound-run-configuration.html)
+- PyCharm: [Keymap](https://www.jetbrains.com/help/pycharm/2021.2/settings-keymap.html)
 
 ## Purchased new airline tickets - 2021-09-08
 ##### Checked
