@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Ubuntu: [How can I record my screen?](https://askubuntu.com/q/4428/689894)
 - Java: [How can I start/run .jnlp on linux?](https://superuser.com/a/1403708/1063603)
+- Python: [Create an empty list in Python with certain size](https://stackoverflow.com/a/10712044/2989289)
 
 ## Listening Racionais and coding - 2021-09-09
 ##### Checked
