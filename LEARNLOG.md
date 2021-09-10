@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Listening Tim Maia and coding - 2021-09-10
+##### Checked
+- Ubuntu: [How can I record my screen?](https://askubuntu.com/q/4428/689894)
+
 ## Listening Racionais and coding - 2021-09-09
 ##### Checked
 - PyCharm: [How to create two editor panes for the same file?](https://stackoverflow.com/a/14322146/2989289)
