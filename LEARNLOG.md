@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Listening Tim Maia and coding - 2021-09-10
 ##### Checked
 - Ubuntu: [How can I record my screen?](https://askubuntu.com/q/4428/689894)
+- Java: [How can I start/run .jnlp on linux?](https://superuser.com/a/1403708/1063603)
 
 ## Listening Racionais and coding - 2021-09-09
 ##### Checked
