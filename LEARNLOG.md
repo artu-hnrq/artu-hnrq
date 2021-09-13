@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [Check if Array/List Contains Element/Value](https://stackabuse.com/python-check-if-array-or-list-contains-element-or-value/)
+- Python: [Collections](https://python-textbok.readthedocs.io/en/1.0/Collections.html)
 
 ## Listening Tim Maia and coding - 2021-09-10
 ##### Checked
