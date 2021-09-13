@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Weekend with Gabriel in island - 2021-09-13
+##### Consulted
+- PyCharm: [Bookmarks dialog](https://www.jetbrains.com/help/pycharm/bookmarks-dialog.html)
+
 ## Listening Tim Maia and coding - 2021-09-10
 ##### Checked
 - Ubuntu: [How can I record my screen?](https://askubuntu.com/q/4428/689894)
