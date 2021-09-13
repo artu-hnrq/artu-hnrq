@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [Bookmarks dialog](https://www.jetbrains.com/help/pycharm/bookmarks-dialog.html)
 - PyCharm: [Where are bookmarks stored? How do I keep them if I copy the script file elsewhere? How do I add them to version control?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360007607519-Where-are-bookmarks-stored-How-do-I-keep-them-if-I-copy-the-script-file-elsewhere-How-do-I-add-them-to-version-control-)
 
+##### Checked
+- Python: [How to check if an element of a list is a list (in Python)?](https://stackoverflow.com/a/9760003/2989289)
+
 ## Listening Tim Maia and coding - 2021-09-10
 ##### Checked
 - Ubuntu: [How can I record my screen?](https://askubuntu.com/q/4428/689894)
