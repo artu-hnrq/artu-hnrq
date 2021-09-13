@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Python: [How to check if an element of a list is a list (in Python)?](https://stackoverflow.com/a/9760003/2989289)
+- Python: [A suitable 'do nothing' lambda expression in python?](https://stackoverflow.com/a/22739217/2989289)
 
 ##### Read
 - Python: [Check if Array/List Contains Element/Value](https://stackabuse.com/python-check-if-array-or-list-contains-element-or-value/)
