@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - PyCharm: [Configure profiles](https://www.jetbrains.com/help/pycharm/customizing-profiles.html)
 - PyCharm: [Arrange tool windows](https://www.jetbrains.com/help/pycharm/manipulating-the-tool-windows.html)
+- PyCharm: [Optimize your code using profilers](https://www.jetbrains.com/help/pycharm/profiler.html)
 
 ## Weekend with Gabriel in island - 2021-09-13
 ##### Consulted
