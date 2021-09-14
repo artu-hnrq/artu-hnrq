@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [Arrange tool windows](https://www.jetbrains.com/help/pycharm/manipulating-the-tool-windows.html)
 - PyCharm: [Optimize your code using profilers](https://www.jetbrains.com/help/pycharm/profiler.html)
 
+##### Discovered
+- PyCharm: [Window Layout Manager](Optimize your code using profilers)
+
 ##### Tracked
 - PyCharm: [Way to save several window layouts](https://youtrack.jetbrains.com/issue/IDEA-93140?_ga=2.6627126.525950950.1631634772-336071644.1628770234)
 
