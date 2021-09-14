@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Nicz Dance night - 2021-09-14
+##### Checked
+- PyCharm: [Any way to force a refresh of external libraries on a remote interpreter?](https://intellij-support.jetbrains.com/hc/zh-cn/community/posts/205813579-Any-way-to-force-a-refresh-of-external-libraries-on-a-remote-interpreter-?page=2#community_comment_360002118020)
+
 ## Weekend with Gabriel in island - 2021-09-13
 ##### Consulted
 - PyCharm: [Bookmarks dialog](https://www.jetbrains.com/help/pycharm/bookmarks-dialog.html)
