@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Python: [Documenting Python](https://realpython.com/documenting-python-code/)
 
+##### Checked
+- Sphinx: [Link to class method in python docstring](https://stackoverflow.com/a/21296279/2989289)
+
 ## Nicz Dance night - 2021-09-14
 ##### Checked
 - PyCharm: [Any way to force a refresh of external libraries on a remote interpreter?](https://intellij-support.jetbrains.com/hc/zh-cn/community/posts/205813579-Any-way-to-force-a-refresh-of-external-libraries-on-a-remote-interpreter-?page=2#community_comment_360002118020)
