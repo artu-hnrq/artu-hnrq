@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Documenting Python](https://devguide.python.org/documenting/)
 - Sphinx: [Cross-referencing syntax](https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#cross-referencing-syntax)
 
+##### Read
+- Python: [Documenting Python](https://realpython.com/documenting-python-code/)
+
 ## Nicz Dance night - 2021-09-14
 ##### Checked
 - PyCharm: [Any way to force a refresh of external libraries on a remote interpreter?](https://intellij-support.jetbrains.com/hc/zh-cn/community/posts/205813579-Any-way-to-force-a-refresh-of-external-libraries-on-a-remote-interpreter-?page=2#community_comment_360002118020)
