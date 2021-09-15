@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Meet Marina Txupē again - 2021-09-15
 ##### Consulted
+- Python: [Documenting Python](https://devguide.python.org/documenting/)
 - Sphinx: [Cross-referencing syntax](https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#cross-referencing-syntax)
 
 ## Nicz Dance night - 2021-09-14
