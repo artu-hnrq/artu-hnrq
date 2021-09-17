@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Renewed - 2021-09-16
+##### Read
+- Dev: Stackshare - [Celebrating One Million Developers](https://stackshare.io/one-million-developers)
+
 ## Meet Marina Txupē again - 2021-09-15
 ##### Consulted
 - Python: [Documenting Python](https://devguide.python.org/documenting/)
