@@ -18,6 +18,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - PyCharm: [Debugging - Stop on Unhandled Exceptions](https://joelmccune.com/pycharm-debugging-stop-on-unhandled-exceptions/)
 
+##### Consulted
+- Django: [The pk property](https://docs.djangoproject.com/en/3.2/ref/models/instances/#the-pk-property)
+
 ## Renewed - 2021-09-16
 ##### Read
 - Dev: Stackshare - [Celebrating One Million Developers](https://stackshare.io/one-million-developers)
