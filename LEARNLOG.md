@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [What's best practice to check if an object is part of a ManyToMany relationship in Django](https://stackoverflow.com/a/2449514/2989289)
 - Django: [django values_list of all fields in foreign key](https://stackoverflow.com/a/27635921/2989289)
 - Django: [Get Foreign key objects in single query?](Sh)
+- Django: [Check for related objects and whether it contains data](https://stackoverflow.com/a/23126859/2989289)
 - PyCharm: [Break on unhandled exception in pycharm](https://stackoverflow.com/a/5841327/2989289)
 - PyCharm: [Is there a way to list subclasses of the class being viewed?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206607235-Is-there-a-way-to-list-subclasses-of-the-class-being-viewed-)
 - Python: [Why dict.get(key) instead of dict[key]?](https://stackoverflow.com/a/11041421/2989289)
