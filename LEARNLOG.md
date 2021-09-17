@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Dev: Stackshare - [Celebrating One Million Developers](https://stackshare.io/one-million-developers)
 
+##### Checked
+- Django: [How to test custom django-admin commands](https://docs.djangoproject.com/en/dev/howto/custom-management-commands/#testing)
+
 ## Meet Marina Txupē again - 2021-09-15
 ##### Consulted
 - Python: [Documenting Python](https://devguide.python.org/documenting/)
