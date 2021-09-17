@@ -18,8 +18,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [Shortcut to navigate between highlighted usages](https://stackoverflow.com/q/6198687/2989289)
 - Python: [Simple way to group items into buckets](https://stackoverflow.com/a/12720386/2989289)
 
-###### Sourced
+##### Sourced
 - Django: [BaseCommand](https://github.com/django/django/blob/main/django/core/management/base.py#L159)
+
+##### Tracked
+- PyCharm: [Next Occurrence of highlighted identifier?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206847435-Next-Occurrence-of-highlighted-identifier-)
 
 ## Meet Marina Txupē again - 2021-09-15
 ##### Consulted
