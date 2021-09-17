@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [django values_list of all fields in foreign key](https://stackoverflow.com/a/27635921/2989289)
 - PyCharm: [Break on unhandled exception in pycharm](https://stackoverflow.com/a/5841327/2989289)
 - Python: [Why dict.get(key) instead of dict[key]?](https://stackoverflow.com/a/11041421/2989289)
+- PyCharm: [Is there a way to list subclasses of the class being viewed?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206607235-Is-there-a-way-to-list-subclasses-of-the-class-being-viewed-)
 
 ##### Read
 - PyCharm: [Debugging - Stop on Unhandled Exceptions](https://joelmccune.com/pycharm-debugging-stop-on-unhandled-exceptions/)
