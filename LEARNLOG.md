@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Check for related objects and whether it contains data](https://stackoverflow.com/a/23126859/2989289)
 - Django: ['RelatedManager' object is not iterable Django](https://stackoverflow.com/a/50578770/2989289)
 - Django: [check if a related object exists error: RelatedObjectDoesNotExist](https://stackoverflow.com/a/40743258/2989289)
+- Django: [How to use custom manager with related objects?](https://stackoverflow.com/questions/7489635/how-to-use-custom-manager-with-related-objects)
 - PyCharm: [Break on unhandled exception in pycharm](https://stackoverflow.com/a/5841327/2989289)
 - PyCharm: [Is there a way to list subclasses of the class being viewed?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206607235-Is-there-a-way-to-list-subclasses-of-the-class-being-viewed-)
 - Python: [Why dict.get(key) instead of dict[key]?](https://stackoverflow.com/a/11041421/2989289)
