@@ -31,6 +31,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Managers](https://docs.djangoproject.com/en/3.2/topics/db/managers/)
 - Python: [Easier to ask for forgiveness than permission](https://docs.python.org/3/glossary.html#term-eafp)
 - Python: [Look before you leap](https://docs.python.org/3/glossary.html#term-lbyl)
+- Python: [collections — Container datatypes](https://docs.python.org/3/library/collections.html)
 
 ## Renewed - 2021-09-16
 ##### Read
