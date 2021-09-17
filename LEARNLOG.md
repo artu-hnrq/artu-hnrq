@@ -25,6 +25,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [The pk property](https://docs.djangoproject.com/en/3.2/ref/models/instances/#the-pk-property)
 - Django: [Related objects reference](https://docs.djangoproject.com/en/3.2/ref/models/relations/)
+- Python: [Easier to ask for forgiveness than permission](https://docs.python.org/3/glossary.html#term-eafp)
 
 ## Renewed - 2021-09-16
 ##### Read
