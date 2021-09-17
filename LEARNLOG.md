@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [How to test custom django-admin commands](https://docs.djangoproject.com/en/dev/howto/custom-management-commands/#testing)
 
+###### Checked
+- Django: [BaseCommand](https://github.com/django/django/blob/main/django/core/management/base.py#L159)
+
 ## Meet Marina Txupē again - 2021-09-15
 ##### Consulted
 - Python: [Documenting Python](https://devguide.python.org/documenting/)
