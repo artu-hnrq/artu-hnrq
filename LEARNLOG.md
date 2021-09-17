@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Late night development - 2021-09-17
 ##### Checked
 - Django: [What's best practice to check if an object is part of a ManyToMany relationship in Django](https://stackoverflow.com/a/2449514/2989289)
+- Django: [django values_list of all fields in foreign key](https://stackoverflow.com/a/27635921/2989289)
 
 ## Renewed - 2021-09-16
 ##### Read
