@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Dev: Stackshare - [Celebrating One Million Developers](https://stackshare.io/one-million-developers)
 
 ##### Checked
+- Django: [Django OneToOneField with possible blank field](https://stackoverflow.com/a/47804082/2989289)
 - Django: [How to test custom django-admin commands](https://docs.djangoproject.com/en/dev/howto/custom-management-commands/#testing)
 - PyCharm: [Shortcut to navigate between highlighted usages](https://stackoverflow.com/q/6198687/2989289)
 - Python: [Simple way to group items into buckets](https://stackoverflow.com/a/12720386/2989289)
