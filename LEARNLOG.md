@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Late night development - 2021-09-17
+##### Checked
+- Django: [What's best practice to check if an object is part of a ManyToMany relationship in Django](https://stackoverflow.com/a/2449514/2989289)
+
 ## Renewed - 2021-09-16
 ##### Read
 - Dev: Stackshare - [Celebrating One Million Developers](https://stackshare.io/one-million-developers)
