@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Custom Django management command](https://stackoverflow.com/a/59305770/2989289)
 
+##### Read
+- Python: [Partial Functions](https://www.pythontutorial.net/python-basics/python-partial-functions/)
+
 ## Late night development - 2021-09-17
 ##### Checked
 - Django: [What's best practice to check if an object is part of a ManyToMany relationship in Django](https://stackoverflow.com/a/2449514/2989289)
