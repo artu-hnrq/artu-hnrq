@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Cozy Friday at home before another travel
 ##### Checked
 - Django: [Custom Django management command](https://stackoverflow.com/a/59305770/2989289)
+- Python: [Python: check if an object is a sequence](https://stackoverflow.com/a/2937122/2989289)
 
 ##### Read
 - Python: [Partial Functions](https://www.pythontutorial.net/python-basics/python-partial-functions/)
