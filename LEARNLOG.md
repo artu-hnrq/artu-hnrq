@@ -18,6 +18,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Python: [Partial Functions](https://www.pythontutorial.net/python-basics/python-partial-functions/)
 
+##### Consulted
+- Python: [functools.wraps](https://docs.python.org/pt-br/3/library/functools.html#functools.wraps)
+
 ## Late night development - 2021-09-17
 ##### Checked
 - Django: [What's best practice to check if an object is part of a ManyToMany relationship in Django](https://stackoverflow.com/a/2449514/2989289)
