@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Eve of trip - 2021-09-20
+##### Checked
+- PyCharm: [Any way to force a refresh of external libraries on a remote interpreter?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/205813579-Any-way-to-force-a-refresh-of-external-libraries-on-a-remote-interpreter-)
+
 ## Cozy Friday at home before another travel - 2021-09-18
 ##### Checked
 - Django: [Custom Django management command](https://stackoverflow.com/a/59305770/2989289)
