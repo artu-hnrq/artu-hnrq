@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Now from Salvador - 2021-09-22
+##### Read
+- Carrer: [Como se planejar financeiramente para se tornar um nômade digital](https://www.linkedin.com/pulse/como-se-planejar-financeiramente-para-tornar-um-n%25C3%25B4made-de-souza/)
+
 ## Eve of trip - 2021-09-20
 ##### Checked
 - PyCharm: [Any way to force a refresh of external libraries on a remote interpreter?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/205813579-Any-way-to-force-a-refresh-of-external-libraries-on-a-remote-interpreter-)
