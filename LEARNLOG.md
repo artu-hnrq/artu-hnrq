@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Coding with espresso display - 2021-09-23
 ##### Checked
 - Django: [select_related on chained foreign keys](https://stackoverflow.com/a/52410930/2989289)
+- Django: [select_related with reverse foreign keys](https://stackoverflow.com/a/23121954/2989289)
 
 ## Now from Salvador - 2021-09-22
 ##### Read
