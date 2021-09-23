@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [select_related on chained foreign keys](https://stackoverflow.com/a/52410930/2989289)
 - Django: [select_related with reverse foreign keys](https://stackoverflow.com/a/23121954/2989289)
 - Django: [limiting query results](https://stackoverflow.com/a/68251220/2989289)
+- Django: [queries: how to filter objects to exclude id which is in a list?](https://stackoverflow.com/a/2354313/2989289)
 - Python: [argparse default option based on another option](https://stackoverflow.com/a/24196585/2989289)
 - Python: [Argparse: How to accept any number of optional arguments](https://stackoverflow.com/a/31424996/2989289)
 - Python: [Argparse: how to handle variable number of arguments](https://stackoverflow.com/a/20167038/2989289)
