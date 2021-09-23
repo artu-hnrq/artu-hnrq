@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [select_related on chained foreign keys](https://stackoverflow.com/a/52410930/2989289)
 - Django: [select_related with reverse foreign keys](https://stackoverflow.com/a/23121954/2989289)
 
+##### Consulted
+- Django: [prefetch_related](https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related)
+
 ## Now from Salvador - 2021-09-22
 ##### Read
 - Carrer: [Como se planejar financeiramente para se tornar um nômade digital](https://www.linkedin.com/pulse/como-se-planejar-financeiramente-para-tornar-um-n%25C3%25B4made-de-souza/)
