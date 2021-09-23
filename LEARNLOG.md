@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Linux: [Enable / Disable Touchscreen](https://ubuntuforums.org/showthread.php?t=2100744)
 - Linux: [Espresso Displays makes the gorgeous external touchscreen your MacBook needs](https://www.cultofmac.com/711645/espresso-displays-makes-the-gorgeous-external-touchscreen-your-macbook-needs-review/)
 - Linux: [How to Configure a Touchscreen on Linux](Espresso Displays makes the gorgeous external touchscreen your MacBook needs)
+- Linux: [Enable/Disable Touch Screen with Ubuntu](https://datainfer.wordpress.com/2013/12/05/enabledisable-touch-screen-with-ubuntu/)
 
 ##### Watched
 - Linux: [How To Fix The Touch Screen Problem On Ubuntu Linux](https://youtu.be/PQD89_NJp80)
