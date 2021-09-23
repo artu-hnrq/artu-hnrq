@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [prefetch_related](https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related)
+- Python: [Intermixed parsing](https://docs.python.org/3/library/argparse.html#intermixed-parsing)
 
 ##### Read
 - Python: [Argument Parsing in Python](https://www.datacamp.com/community/tutorials/argument-parsing-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377095&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1001533&gclid=Cj0KCQjwqKuKBhCxARIsACf4XuF5CINAX5tWkbPN4FSM3-fJWkdXkmfGZvFYk-PwC7uVdVLyUY1P32kaAnn2EALw_wcB)
