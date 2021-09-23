@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [argparse default option based on another option](https://stackoverflow.com/a/24196585/2989289)
 - Python: [Argparse: How to accept any number of optional arguments](https://stackoverflow.com/a/31424996/2989289)
 - Python: [Argparse: how to handle variable number of arguments](https://stackoverflow.com/a/20167038/2989289)
+- Python: [argparse treat arguments in different ways](https://stackoverflow.com/a/25873028/2989289)
 
 ##### Consulted
 - Django: [prefetch_related](https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related)
