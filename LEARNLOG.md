@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Now from Salvador - 2021-09-22
 ##### Read
 - Carrer: [Como se planejar financeiramente para se tornar um nômade digital](https://www.linkedin.com/pulse/como-se-planejar-financeiramente-para-tornar-um-n%25C3%25B4made-de-souza/)
+- Linux: [Ubuntu – How to enable Multitouch features on My Desktop Touch Screen](https://itectec.com/ubuntu/ubuntu-how-to-enable-multitouch-features-on-my-desktop-touch-screen/)
 
 ##### Watched
 - Linux: [How To Fix The Touch Screen Problem On Ubuntu Linux](https://youtu.be/PQD89_NJp80)
