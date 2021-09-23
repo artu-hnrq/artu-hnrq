@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Coding with espresso display - 2021-09-23
+##### Checked
+- Django: [select_related on chained foreign keys](https://stackoverflow.com/a/52410930/2989289)
+
 ## Now from Salvador - 2021-09-22
 ##### Read
 - Carrer: [Como se planejar financeiramente para se tornar um nômade digital](https://www.linkedin.com/pulse/como-se-planejar-financeiramente-para-tornar-um-n%25C3%25B4made-de-souza/)
