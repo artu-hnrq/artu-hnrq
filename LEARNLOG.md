@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Watched
 - Linux: [How To Fix The Touch Screen Problem On Ubuntu Linux](https://youtu.be/PQD89_NJp80)
 
+##### Checked
+- Linux: [How do I disable the touchscreen drivers?](https://askubuntu.com/a/232808/689894)
+
 ## Eve of trip - 2021-09-20
 ##### Checked
 - PyCharm: [Any way to force a refresh of external libraries on a remote interpreter?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/205813579-Any-way-to-force-a-refresh-of-external-libraries-on-a-remote-interpreter-)
