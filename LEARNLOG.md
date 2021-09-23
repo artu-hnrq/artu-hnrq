@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [select_related with reverse foreign keys](https://stackoverflow.com/a/23121954/2989289)
 - Django: [limiting query results](https://stackoverflow.com/a/68251220/2989289)
 - Python: [argparse default option based on another option](https://stackoverflow.com/a/24196585/2989289)
+- Python: [Argparse: How to accept any number of optional arguments](https://stackoverflow.com/a/31424996/2989289)
 
 ##### Consulted
 - Django: [prefetch_related](https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related)
