@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [select_related on chained foreign keys](https://stackoverflow.com/a/52410930/2989289)
 - Django: [select_related with reverse foreign keys](https://stackoverflow.com/a/23121954/2989289)
+- Django: [limiting query results](https://stackoverflow.com/a/68251220/2989289)
 
 ##### Consulted
 - Django: [prefetch_related](https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related)
