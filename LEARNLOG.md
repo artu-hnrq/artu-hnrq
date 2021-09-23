@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Carrer: [Como se planejar financeiramente para se tornar um nômade digital](https://www.linkedin.com/pulse/como-se-planejar-financeiramente-para-tornar-um-n%25C3%25B4made-de-souza/)
 - Linux: [Ubuntu – How to enable Multitouch features on My Desktop Touch Screen](https://itectec.com/ubuntu/ubuntu-how-to-enable-multitouch-features-on-my-desktop-touch-screen/)
 - Linux: [Enable / Disable Touchscreen](https://ubuntuforums.org/showthread.php?t=2100744)
+- Linux: [Espresso Displays makes the gorgeous external touchscreen your MacBook needs](https://www.cultofmac.com/711645/espresso-displays-makes-the-gorgeous-external-touchscreen-your-macbook-needs-review/)
 
 ##### Watched
 - Linux: [How To Fix The Touch Screen Problem On Ubuntu Linux](https://youtu.be/PQD89_NJp80)
