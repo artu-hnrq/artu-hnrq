@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Watched
 - Linux: [How To Fix The Touch Screen Problem On Ubuntu Linux](https://youtu.be/PQD89_NJp80)
+- Linux: [Veja o GNOME rodando em um Notebook Touch Screen (Ubuntu 17.10)](https://youtu.be/JliOWLQtCyM)
 
 ##### Checked
 - Linux: [How do I disable the touchscreen drivers?](https://askubuntu.com/a/232808/689894)
