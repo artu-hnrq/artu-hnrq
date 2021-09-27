@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [python argparse to handle arbitrary numeric options](https://stackoverflow.com/questions/10027242/python-argparse-to-handle-arbitrary-numeric-options-like-head1)
 - Python: [Splitting on last delimiter in Python string?](https://stackoverflow.com/a/15012237/2989289)
+- Python: [argparse argument order](https://stackoverflow.com/a/9505627/2989289)
 
 ##### Read
 - Stack Overflow: [Updates to Privacy Policy (September 2021)](https://meta.stackexchange.com/a/370224/712835)
