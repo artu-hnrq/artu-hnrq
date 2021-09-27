@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Getting back to the hard work again - 2021-09-27
+##### Checked
+- Python: [python argparse to handle arbitrary numeric options](https://stackoverflow.com/questions/10027242/python-argparse-to-handle-arbitrary-numeric-options-like-head1)
+
 ## Coding with espresso display - 2021-09-23
 ##### Checked
 - Django: [select_related on chained foreign keys](https://stackoverflow.com/a/52410930/2989289)
