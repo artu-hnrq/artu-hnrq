@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [python argparse to handle arbitrary numeric options](https://stackoverflow.com/questions/10027242/python-argparse-to-handle-arbitrary-numeric-options-like-head1)
 
+##### Read
+- Stack Overflow: [Updates to Privacy Policy (September 2021)](https://meta.stackexchange.com/a/370224/712835)
+
 ## Coding with espresso display - 2021-09-23
 ##### Checked
 - Django: [select_related on chained foreign keys](https://stackoverflow.com/a/52410930/2989289)
