@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [Model field reference](https://docs.djangoproject.com/en/3.2/ref/models/fields/)
 - PyCharm: [Schemas](https://www.jetbrains.com/help/pycharm/schemas.html)
+- PyCharm: [Database diagrams](https://www.jetbrains.com/help/pycharm/creating-diagrams.html)
 
 ##### Checked
 - Python: [How to dynamically load a Python class](https://stackoverflow.com/a/24815361/2989289)
