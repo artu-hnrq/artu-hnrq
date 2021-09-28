@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Stack Overflow: [Updates to Privacy Policy (September 2021)](https://meta.stackexchange.com/a/370224/712835)
+- Dev: [RAID - Redundant Array of Inexpensive Drives](https://pt.wikipedia.org/wiki/RAID)
 
 ## Coding with espresso display - 2021-09-23
 ##### Checked
