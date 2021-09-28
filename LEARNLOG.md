@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [Import Python Module by String Name](https://www.devdungeon.com/content/import-python-module-string-name)
+- Python: [Working with text](https://pymotw.com/2/string/)
 
 ## Getting back to the hard work again - 2021-09-27
 ##### Checked
