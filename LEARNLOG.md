@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Several things to be compensate - 2021-09-28
+##### Consulted
+- Django: [Model field reference](https://docs.djangoproject.com/en/3.2/ref/models/fields/)
+
 ## Getting back to the hard work again - 2021-09-27
 ##### Checked
 - Python: [python argparse to handle arbitrary numeric options](https://stackoverflow.com/questions/10027242/python-argparse-to-handle-arbitrary-numeric-options-like-head1)
