@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [Model field reference](https://docs.djangoproject.com/en/3.2/ref/models/fields/)
 
+##### Checked
+- Python: [How to dynamically load a Python class](https://stackoverflow.com/a/24815361/2989289)
+
 ## Getting back to the hard work again - 2021-09-27
 ##### Checked
 - Python: [python argparse to handle arbitrary numeric options](https://stackoverflow.com/questions/10027242/python-argparse-to-handle-arbitrary-numeric-options-like-head1)
