@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Several things to be compensate - 2021-09-28
 ##### Consulted
 - Django: [Model field reference](https://docs.djangoproject.com/en/3.2/ref/models/fields/)
+- PyCharm: [Schemas](https://www.jetbrains.com/help/pycharm/schemas.html)
 
 ##### Checked
 - Python: [How to dynamically load a Python class](https://stackoverflow.com/a/24815361/2989289)
