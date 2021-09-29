@@ -10,8 +10,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Working at night - 2021-09-29
 ##### Consulted
-PyCharm: [View data](https://www.jetbrains.com/help/pycharm/tables-view-data.html)
-DataGrip: [Data Views](https://www.jetbrains.com/help/datagrip/settings-tools-database-data-views.html)
+- PyCharm: [View data](https://www.jetbrains.com/help/pycharm/tables-view-data.html)
+- DataGrip: [Data Views](https://www.jetbrains.com/help/datagrip/settings-tools-database-data-views.html)
+
+##### Checked
+- PyCharm: [set transpose as default](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000613844-set-transpose-as-default)
 
 ## Several things to be compensate - 2021-09-28
 ##### Consulted
