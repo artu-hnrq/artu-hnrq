@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Django: [ForeignKey's on_delete handlers](https://jilles.me/django-foreignkeys-on_delete-handlers/)
 - Django: [Django FK on_delete defaults to CASCADE](https://ajrbyers.medium.com/django-fk-on-delete-defaults-to-cascade-1c1506aae7c7)
+- Django: [Check if element from list is inside another list in django template](https://stackoverflow.com/a/55850589/2989289)
 
 ## Several things to be compensate - 2021-09-28
 ##### Consulted
