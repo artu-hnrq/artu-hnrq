@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - PyCharm: [set transpose as default](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000613844-set-transpose-as-default)
+- Django: [What is related_name used for?](https://stackoverflow.com/a/62675850/2989289)
 
 ##### Discovered
 - PyCharm: [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink)
