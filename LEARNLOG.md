@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - PyCharm: [set transpose as default](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000613844-set-transpose-as-default)
 
+##### Read
+- Django: [ForeignKey's on_delete handlers](https://jilles.me/django-foreignkeys-on_delete-handlers/)
+
 ## Several things to be compensate - 2021-09-28
 ##### Consulted
 - Django: [Model field reference](https://docs.djangoproject.com/en/3.2/ref/models/fields/)
