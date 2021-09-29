@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - PyCharm: [View data](https://www.jetbrains.com/help/pycharm/tables-view-data.html)
 - DataGrip: [Data Views](https://www.jetbrains.com/help/datagrip/settings-tools-database-data-views.html)
+- Django: [on_delete](https://docs.djangoproject.com/en/3.2/ref/models/fields/#django.db.models.ForeignKey.on_delete)
 
 ##### Checked
 - PyCharm: [set transpose as default](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000613844-set-transpose-as-default)
