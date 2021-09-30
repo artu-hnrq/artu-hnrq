@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Reaching the deadline - 2021-09-30
+##### Checked
+- Django: [Troubleshooting "Related Field has invalid lookup: icontains"](https://stackoverflow.com/a/11961681/2989289)
+
 ## Working at night - 2021-09-29
 ##### Consulted
 - PyCharm: [View data](https://www.jetbrains.com/help/pycharm/tables-view-data.html)
