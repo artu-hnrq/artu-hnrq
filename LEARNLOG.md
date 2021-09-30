@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Reaching the deadline - 2021-09-30
 ##### Checked
 - Django: [Troubleshooting "Related Field has invalid lookup: icontains"](https://stackoverflow.com/a/11961681/2989289)
+- Django: [Related Field got invalid lookup: icontains](https://stackoverflow.com/a/35013091/2989289)
 
 ## Working at night - 2021-09-29
 ##### Consulted
