@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Last Friday in Salvador - 2021-10-01
+##### Read
+- Dev: [A Day in the Life: Hailey Robledo, Codecademy Software Engineer II](https://discuss.codecademy.com/t/a-day-in-the-life-hailey-robledo-codecademy-software-engineer-ii/614958)
+
+---
+
 ## Reaching the deadline - 2021-09-30
 ##### Checked
 - Django: [Troubleshooting "Related Field has invalid lookup: icontains"](https://stackoverflow.com/a/11961681/2989289)
