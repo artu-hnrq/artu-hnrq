@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Dev: [A Day in the Life: Hailey Robledo, Codecademy Software Engineer II](https://discuss.codecademy.com/t/a-day-in-the-life-hailey-robledo-codecademy-software-engineer-ii/614958)
 - Machine Learning: [Ensemble Methods: The Kaggle Machine Learning Champion](https://www.toptal.com/machine-learning/ensemble-methods-kaggle-machine-learn?utm_campaign=Toptal%20Engineering%20Blog&utm_medium=email&_hsmi=165044456&_hsenc=p2ANqtz-9zcllIPNuVJsuQ1iT7frifgyXYZMpTV7A7tXDvqTFDbmiSUgsOnAmEpusEN_xJ5YFGtbT65GdyZ-UcnWKumkn4r3p3H-TolJ1VqvFKmd--3fRyGNQ&utm_content=165044456&utm_source=hs_email)
+- Github: [Why are my contributions not showing up on my profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 
 ---
 
