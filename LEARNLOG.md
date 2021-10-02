@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Salvador, October second - 2021-10-02
+##### Checked
+- PyCharm: [How to rebuild Docker remote interpreter](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000138704-How-to-rebuild-Docker-remote-interpreter)
+
 ## Last Friday in Salvador - 2021-10-01
 ##### Checked
 - Django: [Spurious newlines added in Django management commands](https://stackoverflow.com/a/39926171/2989289)
