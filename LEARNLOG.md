@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Salvador, October second - 2021-10-02
 ##### Checked
 - PyCharm: [How to rebuild Docker remote interpreter](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000138704-How-to-rebuild-Docker-remote-interpreter)
+- PyCharm: [Executing multiple lines of input in pycharm console from first line](https://stackoverflow.com/a/63314760/2989289)
 
 ## Last Friday in Salvador - 2021-10-01
 ##### Checked
