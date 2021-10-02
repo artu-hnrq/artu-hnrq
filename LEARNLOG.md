@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [How to rebuild Docker remote interpreter](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000138704-How-to-rebuild-Docker-remote-interpreter)
 - PyCharm: [Executing multiple lines of input in pycharm console from first line](https://stackoverflow.com/a/63314760/2989289)
 
+##### Read
+- Django: [Understanding Django's cached_property Decorator](http://ericplumb.com/blog/understanding-djangos-cached_property-decorator.html)
+
 ## Last Friday in Salvador - 2021-10-01
 ##### Checked
 - Django: [Spurious newlines added in Django management commands](https://stackoverflow.com/a/39926171/2989289)
