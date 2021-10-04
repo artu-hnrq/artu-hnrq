@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [Meta.managed](https://docs.djangoproject.com/en/3.2/ref/models/options/#managed)
 
+##### Watched
+- [Empreendendo com Software do JEITO ERRADO!](https://us02web.zoom.us/j/81820699431?pwd=RDQwRC9obE05c21JWFBLWkgrYkNoQT09&from=addon#success) - Fabio Akita
+
 ## Ant Meire's lunch - 2021-10-03
 ##### Read
 - Python: [JetBrains Academy - Python for beginners](https://hyperskill.org/tracks/6)
