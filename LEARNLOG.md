@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Python: [A Simple Guide To Command Line Arguments With ArgParse](https://towardsdatascience.com/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3)
 
+##### Checked
+- Django: [Utility of managed=False option in Django models](https://stackoverflow.com/a/7625872/2989289)
+
 ##### Consulted
 - Django: [Meta.managed](https://docs.djangoproject.com/en/3.2/ref/models/options/#managed)
 
