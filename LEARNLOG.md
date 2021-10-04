@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Ant Meire's lunch - 2021-10-03
+##### Read
+- Python: [JetBrains Academy - Python for beginners](https://hyperskill.org/tracks/6)
+
 ## Salvador, October second - 2021-10-02
 ##### Checked
 - PyCharm: [How to rebuild Docker remote interpreter](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000138704-How-to-rebuild-Docker-remote-interpreter)
