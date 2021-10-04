@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Wise up live course is about to begin - 2021-10-04
 ##### Read
 - Python: [A Simple Guide To Command Line Arguments With ArgParse](https://towardsdatascience.com/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3)
+- Django: [How to Move a Django Model to Another App](https://realpython.com/move-django-model/)
 
 ##### Checked
 - Django: [Utility of managed=False option in Django models](https://stackoverflow.com/a/7625872/2989289)
