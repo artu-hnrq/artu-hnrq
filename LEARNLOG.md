@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Checked
 - Python: [Getting yesterdays date with time zone](https://stackoverflow.com/a/14400155/2989289)
+- Python: [Replacements for switch statement in Python?](https://stackoverflow.com/a/60211/2989289)
 
 ## Wise up live course is about to begin - 2021-10-04
 ##### Read
