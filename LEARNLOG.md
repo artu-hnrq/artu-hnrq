@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Donner with and Gal
+###### Discover
+- [CoderPad](https://coderpad.io/getting-started-candidates/) - Platform for doing technical phone screens or remote interviews in the browser
+
 ## Wise up live course is about to begin - 2021-10-04
 ##### Read
 - Python: [A Simple Guide To Command Line Arguments With ArgParse](https://towardsdatascience.com/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3)
