@@ -9,8 +9,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Donner with and Gal
-###### Discover
+##### Discover
 - [CoderPad](https://coderpad.io/getting-started-candidates/) - Platform for doing technical phone screens or remote interviews in the browser
+
+##### Checked
+- Python: [Getting yesterdays date with time zone](https://stackoverflow.com/a/14400155/2989289)
 
 ## Wise up live course is about to begin - 2021-10-04
 ##### Read
