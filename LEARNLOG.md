@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [How do I get the object if it exists, or None if it does not exist in Django?](https://stackoverflow.com/a/29455777/2989289)
 
+##### Consulted
+- Django: [EmailValidator](https://docs.djangoproject.com/en/3.2/ref/validators/)
+
 ## Dinner with and Gal - 2021-10-05
 ##### Discover
 - [CoderPad](https://coderpad.io/getting-started-candidates/) - Platform for doing technical phone screens or remote interviews in the browser
