@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [EmailValidator](https://docs.djangoproject.com/en/3.2/ref/validators/)
 - PyCharm: [Parameter info](https://www.jetbrains.com/help/pycharm/viewing-reference-information.html#view-parameter-info)
 
+##### Read
+- Python: [Write Pythonic and Clean Code With namedtuple](https://realpython.com/python-namedtuple/)
+
 ## Dinner with and Gal - 2021-10-05
 ##### Discover
 - [CoderPad](https://coderpad.io/getting-started-candidates/) - Platform for doing technical phone screens or remote interviews in the browser
