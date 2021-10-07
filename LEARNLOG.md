@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [EmailValidator](https://docs.djangoproject.com/en/3.2/ref/validators/)
+- PyCharm: [Parameter info](https://www.jetbrains.com/help/pycharm/viewing-reference-information.html#view-parameter-info)
 
 ## Dinner with and Gal - 2021-10-05
 ##### Discover
