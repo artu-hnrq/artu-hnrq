@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [How do I get the object if it exists, or None if it does not exist in Django?](https://stackoverflow.com/a/29455777/2989289)
 - Django: [Checking validity of email in django/python](https://stackoverflow.com/a/19222468/2989289)
+- Regex: [How can I validate an email address using a regular expression?](https://stackoverflow.com/a/201378/2989289)
 
 ##### Consulted
 - Django: [EmailValidator](https://docs.djangoproject.com/en/3.2/ref/validators/)
