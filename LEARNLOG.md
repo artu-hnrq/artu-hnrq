@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [How to debug Django commands in PyCharm](https://stackoverflow.com/a/17355385/2989289)
 - Python: [How to make a flat list out of a list of lists](https://stackoverflow.com/a/953097/2989289)
 - Python: [What exactly does += do in python?](https://stackoverflow.com/a/4845327/2989289)
+- Python: [Are Python sets mutable?](https://stackoverflow.com/a/14193473/2989289)
 
 ##### Read
 - Django: [prefetch_related](https://www.kite.com/python/docs/django.db.models.QuerySet.prefetch_related)
