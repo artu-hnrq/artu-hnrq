@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - PyCharm: [Run tasks of manage.py](https://www.jetbrains.com/help/pycharm/running-manage-py.html)
+- Django: [ForeignKey.related_name](https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.related_name)
 
 ## Now from Palmares, Pernambuco - 2021-10-07
 ##### Checked
