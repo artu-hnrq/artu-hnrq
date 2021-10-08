@@ -32,6 +32,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - PyCharm: [Run tasks of manage.py](https://www.jetbrains.com/help/pycharm/running-manage-py.html)
+- PyCharm: [Python Interpreters](https://www.jetbrains.com/help/pycharm/python-interpreters.html#available)
 - Django: [ForeignKey.related_name](https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.related_name)
 - Python: [7.2. Reading and Writing Files](/code/simplelegal/matter_teams.csv)
 - Python: [8.3. Handling Exceptions](https://docs.python.org/3/tutorial/errors.html#handling-exceptions)
