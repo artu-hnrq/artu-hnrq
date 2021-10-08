@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [prefetch_related](https://www.kite.com/python/docs/django.db.models.QuerySet.prefetch_related)
 - PyCharm: [Debugging a Containerized Django App in PyCharm](https://testdriven.io/blog/django-debugging-pycharm/)
 
+##### Consulted
+- PyCharm: [Run tasks of manage.py](https://www.jetbrains.com/help/pycharm/running-manage-py.html)
+
 ## Now from Palmares, Pernambuco - 2021-10-07
 ##### Checked
 - Django: [How do I get the object if it exists, or None if it does not exist in Django?](https://stackoverflow.com/a/29455777/2989289)
