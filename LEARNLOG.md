@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Bulking actions - 2021-10-08
+##### Checked
+- Django: [how to bulk delete](https://stackoverflow.com/a/37663469/2989289)
+
 ## Now from Palmares, Pernambuco - 2021-10-07
 ##### Checked
 - Django: [How do I get the object if it exists, or None if it does not exist in Django?](https://stackoverflow.com/a/29455777/2989289)
