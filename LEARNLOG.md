@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [how to bulk delete](https://stackoverflow.com/a/37663469/2989289)
 - Django: [QuerySet evaluation on .all()](https://stackoverflow.com/a/42693541/2989289)
 - Django: [Joining ManyToMany fields with prefetch_related in Django](https://stackoverflow.com/a/33113284/2989289)
+- Django: [use of related_name '+'?](https://stackoverflow.com/a/58086105/2989289)
 - PyCharm: [How to debug Django commands in PyCharm](https://stackoverflow.com/a/17355385/2989289)
 
 ##### Read
