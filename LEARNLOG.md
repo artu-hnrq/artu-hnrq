@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Possible to use more than one argument on __getitem__?](https://stackoverflow.com/q/1685389/2989289)
 - Python: [objects as keys in python dictionaries](https://stackoverflow.com/a/4950215/2989289)
 - Python: [Overriding "+=" in Python? (__iadd__() method)](https://stackoverflow.com/a/1047034/2989289)
+- Python: [Python open() requires full path](https://stackoverflow.com/a/44426646/2989289)
 
 ##### Read
 - Django: [prefetch_related](https://www.kite.com/python/docs/django.db.models.QuerySet.prefetch_related)
