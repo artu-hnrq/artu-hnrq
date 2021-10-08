@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [how to bulk delete](https://stackoverflow.com/a/37663469/2989289)
 - Django: [QuerySet evaluation on .all()](https://stackoverflow.com/a/42693541/2989289)
+- Django: [Joining ManyToMany fields with prefetch_related in Django](https://stackoverflow.com/a/33113284/2989289)
 
 ## Now from Palmares, Pernambuco - 2021-10-07
 ##### Checked
