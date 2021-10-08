@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Django: [prefetch_related](https://www.kite.com/python/docs/django.db.models.QuerySet.prefetch_related)
+- PyCharm: [Debugging a Containerized Django App in PyCharm](https://testdriven.io/blog/django-debugging-pycharm/)
 
 ## Now from Palmares, Pernambuco - 2021-10-07
 ##### Checked
