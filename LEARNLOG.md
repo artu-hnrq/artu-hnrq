@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [QuerySet evaluation on .all()](https://stackoverflow.com/a/42693541/2989289)
 - Django: [Joining ManyToMany fields with prefetch_related in Django](https://stackoverflow.com/a/33113284/2989289)
 
+##### Read
+- Django: [prefetch_related](https://www.kite.com/python/docs/django.db.models.QuerySet.prefetch_related)
+
 ## Now from Palmares, Pernambuco - 2021-10-07
 ##### Checked
 - Django: [How do I get the object if it exists, or None if it does not exist in Django?](https://stackoverflow.com/a/29455777/2989289)
