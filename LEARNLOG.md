@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Get name of argument instead of dest in argparse.Action's __call__()](https://stackoverflow.com/a/17555029/2989289)
 - Python: [4.4. break and continue Statements, and else Clauses on Loops](https://docs.python.org/3/tutorial/controlflow.html)
 - Python: [How to raise an exception for illegal argument combinations in Python](https://www.kite.com/python/answers/how-to-raise-an-exception-for-illegal-argument-combinations-in-python)
+- Python: [Is it bad form to raise exceptions within __init__?](https://stackoverflow.com/a/1507127/2989289)
 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
