@@ -4,6 +4,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 > This file format is inspired on [Keep a Changelog][1], however it adheres to [Sentimental Versioning][2] instead of [Semantic][3] one. 
 
+## Now from SJCG - 2021-10-11
+##### Checked
+- Python: [How to use argparse subparsers correctly?](https://stackoverflow.com/a/17074215/2989289)
+
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
