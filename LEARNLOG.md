@@ -4,6 +4,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 > This file format is inspired on [Keep a Changelog][1], however it adheres to [Sentimental Versioning][2] instead of [Semantic][3] one. 
 
+  [1]: https://keepachangelog.com/en/1.0.0/
+  [2]: http://sentimentalversioning.org/
+  [3]: https://semver.org/spec/v2.0.0.html
+
+
 ## Now from SJCG - 2021-10-11
 ##### Checked
 - Python: [How to use argparse subparsers correctly?](https://stackoverflow.com/a/17074215/2989289)
@@ -11,13 +16,15 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Create variable key/value pairs with argparse](https://stackoverflow.com/a/52014520/2989289)
 - Python: [How does argparse store all of the added argument? Is there a way to access their names, and help strings?](https://stackoverflow.com/a/18920903/2989289)
 - Python: [Get name of argument instead of dest in argparse.Action's __call__()](https://stackoverflow.com/a/17555029/2989289)
-- Python: [4.4. break and continue Statements, and else Clauses on Loops](https://docs.python.org/3/tutorial/controlflow.html)
-- Python: [How to raise an exception for illegal argument combinations in Python](https://www.kite.com/python/answers/how-to-raise-an-exception-for-illegal-argument-combinations-in-python)
 - Python: [Is it bad form to raise exceptions within __init__?](https://stackoverflow.com/a/1507127/2989289)
+- Python: [How to copy a dictionary and only edit the copy](https://stackoverflow.com/a/2465951/2989289)
 
-  [1]: https://keepachangelog.com/en/1.0.0/
-  [2]: http://sentimentalversioning.org/
-  [3]: https://semver.org/spec/v2.0.0.html
+##### Consulted
+- Python: [4.4. break and continue Statements, and else Clauses on Loops](https://docs.python.org/3/tutorial/controlflow.html)
+- Python: [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)
+
+##### Read
+- Python: [How to raise an exception for illegal argument combinations in Python](https://www.kite.com/python/answers/how-to-raise-an-exception-for-illegal-argument-combinations-in-python)
 
 ## Bulking actions - 2021-10-08
 ##### Checked
