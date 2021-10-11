@@ -7,6 +7,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Now from SJCG - 2021-10-11
 ##### Checked
 - Python: [How to use argparse subparsers correctly?](https://stackoverflow.com/a/17074215/2989289)
+- Python: [Python Argparse conditionally required arguments](https://stackoverflow.com/a/25626676/2989289)
 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
