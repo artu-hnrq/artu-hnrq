@@ -8,6 +8,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Week free from client tasks - 2021-10-12
+##### Checked
+- Python: [Argparse append action with default value only if argument doesn't appear](https://stackoverflow.com/a/59669919/2989289)
 
 ## Now from SJCG - 2021-10-11
 ##### Checked
