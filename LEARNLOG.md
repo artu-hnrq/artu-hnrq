@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Week free from client tasks - 2021-10-12
 ##### Checked
 - Python: [Argparse append action with default value only if argument doesn't appear](https://stackoverflow.com/a/59669919/2989289)
+- Python: [Link to class method in python docstring](https://stackoverflow.com/a/21297186/2989289)
 
 ##### Consulted
 - Python: [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
