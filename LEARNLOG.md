@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Argparse append action with default value only if argument doesn't appear](https://stackoverflow.com/a/59669919/2989289)
 
+##### Consulted
+- Python: [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+
 ## Now from SJCG - 2021-10-11
 ##### Checked
 - Python: [How to use argparse subparsers correctly?](https://stackoverflow.com/a/17074215/2989289)
