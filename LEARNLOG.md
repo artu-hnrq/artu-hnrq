@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377095&utm_targetid=aud-438999696719:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1031795&gclid=Cj0KCQjw5JSLBhCxARIsAHgO2ScNUOHkma459rUBN_SJh72uhPDtdwvj-1mnIYKoqblB5oDIZlKmiRUaAkdfEALw_wcB)
+- Python: [String Split in Python](https://www.datacamp.com/community/tutorials/python-string-split?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377095&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1031795&gclid=Cj0KCQjw5JSLBhCxARIsAHgO2SfCXKR84GZIPC99vk9aYkiabU_bfi7fpeAMk-6CRysVNeugDpV7N24aAo3mEALw_wcB)
 
 ## Now from SJCG - 2021-10-11
 ##### Checked
