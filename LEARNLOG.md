@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [Dictionary setdefault()](https://www.programiz.com/python-programming/methods/dictionary/setdefault)
+- Git: [How to remove local untracked files from the current Git branch](https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1)
 
 ##### Sourced
 - [djangoi-click](https://github.com/GaretJax/django-click): Write Django management command using the click CLI library
