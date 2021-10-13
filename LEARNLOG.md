@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [argparse - Combining parent parser, subparsers and default values](https://stackoverflow.com/a/24666998/2989289)
 - Django: [how to run subprocess commands on button click](https://stackoverflow.com/q/38773269/2989289)
 - Django: [Is it possible to create subparsers in a django management command?](https://stackoverflow.com/a/37414551/2989289)
+- PyCharm: [Adding spaces in multiple lines simultaneously](https://stackoverflow.com/a/24837536/2989289)
 
 ##### Read
 - Python: [Dictionary setdefault()](https://www.programiz.com/python-programming/methods/dictionary/setdefault)
