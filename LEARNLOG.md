@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Link to class method in python docstring](https://stackoverflow.com/a/21297186/2989289)
 - Python: ["Ask forgiveness not permission" - explain](https://stackoverflow.com/a/12265860/2989289)
 - Python: [argparse reading csv file to function](https://stackoverflow.com/a/17370537/2989289)
+- Python: [Parsing boolean values with argparse](https://stackoverflow.com/a/19233287/2989289)
 
 ##### Consulted
 - Python: [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
