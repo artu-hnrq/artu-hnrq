@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+- Python: [argparse - Sub-commands](https://docs.python.org/3/library/argparse.html#sub-commands)
 
 ##### Read
 - Python: [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377095&utm_targetid=aud-438999696719:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1031795&gclid=Cj0KCQjw5JSLBhCxARIsAHgO2ScNUOHkma459rUBN_SJh72uhPDtdwvj-1mnIYKoqblB5oDIZlKmiRUaAkdfEALw_wcB)
