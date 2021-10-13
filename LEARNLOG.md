@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## One year later, and I'm here, implementing over argparse again - 2021-10-13
 ##### Checked
 - Python: [Creating a dictionary from a csv file?](https://stackoverflow.com/a/38370569/2989289)
+- Python: [argparse - Combining parent parser, subparsers and default values](https://stackoverflow.com/a/24666998/2989289)
 - Django: [how to run subprocess commands on button click](https://stackoverflow.com/q/38773269/2989289)
 
 ##### Sourced
