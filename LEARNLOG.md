@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [how to run subprocess commands on button click](https://stackoverflow.com/q/38773269/2989289)
 - Django: [Is it possible to create subparsers in a django management command?](https://stackoverflow.com/a/37414551/2989289)
 
+##### Read
+- Python: [Dictionary setdefault()](https://www.programiz.com/python-programming/methods/dictionary/setdefault)
+
 ##### Sourced
 - [djangoi-click](https://github.com/GaretJax/django-click): Write Django management command using the click CLI library
 
