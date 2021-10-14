@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Argparse optional positional arguments?](https://stackoverflow.com/a/4480202/2989289)
 - Django: [how to run subprocess commands on button click](https://stackoverflow.com/q/38773269/2989289)
 - Django: [Is it possible to create subparsers in a django management command?](https://stackoverflow.com/a/37414551/2989289)
+- Django: [ limiting query results](https://stackoverflow.com/a/49915878/2989289)
 - PyCharm: [Adding spaces in multiple lines simultaneously](https://stackoverflow.com/a/24837536/2989289)
 - Git: [How to remove local (untracked) files from the current Git working tree](https://stackoverflow.com/a/64966/2989289)
 - Computer Science: [What is the difference between lock, mutex and semaphore?](https://stackoverflow.com/a/24586999/2989289)
