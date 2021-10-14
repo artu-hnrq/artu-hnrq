@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [argparse - Combining parent parser, subparsers and default values](https://stackoverflow.com/a/24666998/2989289)
 - Python: [Finding the source code for built-in Python functions?](https://stackoverflow.com/a/8608609/2989289)
 - Python: [What error to raise when class state is invalid?](https://stackoverflow.com/a/10727476/2989289)
+- Python: [Efficient way of having a function only execute once in a loop](https://stackoverflow.com/a/4104188/2989289)
 - Django: [how to run subprocess commands on button click](https://stackoverflow.com/q/38773269/2989289)
 - Django: [Is it possible to create subparsers in a django management command?](https://stackoverflow.com/a/37414551/2989289)
 - PyCharm: [Adding spaces in multiple lines simultaneously](https://stackoverflow.com/a/24837536/2989289)
