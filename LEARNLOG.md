@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [What error to raise when class state is invalid?](https://stackoverflow.com/a/10727476/2989289)
 - Python: [Efficient way of having a function only execute once in a loop](https://stackoverflow.com/a/4104188/2989289)
 - Python: [Semaphores on Python](https://stackoverflow.com/a/48970754/2989289)
+- Python: [Argparse optional positional arguments?](https://stackoverflow.com/a/4480202/2989289)
 - Django: [how to run subprocess commands on button click](https://stackoverflow.com/q/38773269/2989289)
 - Django: [Is it possible to create subparsers in a django management command?](https://stackoverflow.com/a/37414551/2989289)
 - PyCharm: [Adding spaces in multiple lines simultaneously](https://stackoverflow.com/a/24837536/2989289)
