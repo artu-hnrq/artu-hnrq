@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [What is the analog for .Net InvalidOperationException in Python?](https://stackoverflow.com/a/2554816/2989289)
 
+##### Consulted
+- Python: [Limiting QuerySets](https://docs.djangoproject.com/en/dev/topics/db/queries/#limiting-querysets)
+
 ## One year later, and I'm here, implementing over argparse again - 2021-10-13
 ##### Checked
 - Python: [Creating a dictionary from a csv file?](https://stackoverflow.com/a/38370569/2989289)
