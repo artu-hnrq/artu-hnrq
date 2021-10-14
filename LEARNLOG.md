@@ -24,11 +24,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Is it possible to create subparsers in a django management command?](https://stackoverflow.com/a/37414551/2989289)
 - PyCharm: [Adding spaces in multiple lines simultaneously](https://stackoverflow.com/a/24837536/2989289)
 - Git: [How to remove local (untracked) files from the current Git working tree](https://stackoverflow.com/a/64966/2989289)
-- CCO: [What is the difference between lock, mutex and semaphore?](https://stackoverflow.com/a/24586999/2989289)
+- Computer Science: [What is the difference between lock, mutex and semaphore?](https://stackoverflow.com/a/24586999/2989289)
 
 ##### Read
 - Python: [Dictionary setdefault()](https://www.programiz.com/python-programming/methods/dictionary/setdefault)
 - Git: [How to remove local untracked files from the current Git branch](https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1)
+- Computer Science: [Mutexes and Semaphores Demystified](https://barrgroup.com/embedded-systems/how-to/rtos-mutex-semaphore)
 
 ##### Sourced
 - [djangoi-click](https://github.com/GaretJax/django-click): Write Django management command using the click CLI library
