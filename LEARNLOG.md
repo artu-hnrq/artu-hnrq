@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Doing all at the deadline again - 2021-10-14
+##### Checked
+- Python: [What is the analog for .Net InvalidOperationException in Python?](https://stackoverflow.com/a/2554816/2989289)
+
 ## One year later, and I'm here, implementing over argparse again - 2021-10-13
 ##### Checked
 - Python: [Creating a dictionary from a csv file?](https://stackoverflow.com/a/38370569/2989289)
