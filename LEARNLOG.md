@@ -11,9 +11,17 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Doing all at the deadline again - 2021-10-14
 ##### Checked
 - Python: [What is the analog for .Net InvalidOperationException in Python?](https://stackoverflow.com/a/2554816/2989289)
+- Python: [Efficient way of having a function only execute once in a loop](https://stackoverflow.com/a/4104188/2989289)
+- Python: [Semaphores on Python](https://stackoverflow.com/a/48970754/2989289)
+- Python: [Argparse optional positional arguments?](https://stackoverflow.com/a/4480202/2989289)
+- Computer Science: [What is the difference between lock, mutex and semaphore?](https://stackoverflow.com/a/24586999/2989289)
+- Django: [limiting query results](https://stackoverflow.com/a/49915878/2989289)
 
 ##### Consulted
 - Python: [Limiting QuerySets](https://docs.djangoproject.com/en/dev/topics/db/queries/#limiting-querysets)
+
+##### Read
+- Computer Science: [Mutexes and Semaphores Demystified](https://barrgroup.com/embedded-systems/how-to/rtos-mutex-semaphore)
 
 ## One year later, and I'm here, implementing over argparse again - 2021-10-13
 ##### Checked
@@ -21,20 +29,16 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [argparse - Combining parent parser, subparsers and default values](https://stackoverflow.com/a/24666998/2989289)
 - Python: [Finding the source code for built-in Python functions?](https://stackoverflow.com/a/8608609/2989289)
 - Python: [What error to raise when class state is invalid?](https://stackoverflow.com/a/10727476/2989289)
-- Python: [Efficient way of having a function only execute once in a loop](https://stackoverflow.com/a/4104188/2989289)
-- Python: [Semaphores on Python](https://stackoverflow.com/a/48970754/2989289)
-- Python: [Argparse optional positional arguments?](https://stackoverflow.com/a/4480202/2989289)
 - Django: [how to run subprocess commands on button click](https://stackoverflow.com/q/38773269/2989289)
 - Django: [Is it possible to create subparsers in a django management command?](https://stackoverflow.com/a/37414551/2989289)
-- Django: [ limiting query results](https://stackoverflow.com/a/49915878/2989289)
 - PyCharm: [Adding spaces in multiple lines simultaneously](https://stackoverflow.com/a/24837536/2989289)
 - Git: [How to remove local (untracked) files from the current Git working tree](https://stackoverflow.com/a/64966/2989289)
-- Computer Science: [What is the difference between lock, mutex and semaphore?](https://stackoverflow.com/a/24586999/2989289)
+
 
 ##### Read
 - Python: [Dictionary setdefault()](https://www.programiz.com/python-programming/methods/dictionary/setdefault)
 - Git: [How to remove local untracked files from the current Git branch](https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1)
-- Computer Science: [Mutexes and Semaphores Demystified](https://barrgroup.com/embedded-systems/how-to/rtos-mutex-semaphore)
+
 
 ##### Sourced
 - [djangoi-click](https://github.com/GaretJax/django-click): Write Django management command using the click CLI library
