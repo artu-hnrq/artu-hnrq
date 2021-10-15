@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Understanding slice notation](https://stackoverflow.com/a/509295/2989289)
 - Python: [Using the same option multiple times in Python's argparse](https://stackoverflow.com/a/36170308/2989289)
+- Python: [argparse select a list from choices](https://stackoverflow.com/a/63787026/2989289)
 
 ## Doing all at the deadline again - 2021-10-14
 ##### Checked
