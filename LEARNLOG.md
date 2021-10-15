@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Studing argparse one more time - 2021-10-15
+##### Checked
+- Python: [Understanding slice notation](https://stackoverflow.com/a/509295/2989289)
+
 ## Doing all at the deadline again - 2021-10-14
 ##### Checked
 - Python: [What is the analog for .Net InvalidOperationException in Python?](https://stackoverflow.com/a/2554816/2989289)
