@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [How to combine multiple regex into single one in python?](https://stackoverflow.com/a/42136278/2989289)
 - Python: [How to efficiently compare two unordered lists (not sets)](https://stackoverflow.com/a/7829388/2989289)
+- Python: [python list by value not by reference](https://stackoverflow.com/a/8744968/2989289)
 
 ##### Read
 - Python: [List remove()](https://www.programiz.com/python-programming/methods/list/remove)
