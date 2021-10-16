@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How to combine multiple regex into single one in python?](https://stackoverflow.com/a/42136278/2989289)
 - Python: [How to efficiently compare two unordered lists (not sets)](https://stackoverflow.com/a/7829388/2989289)
 
+##### Read
+- Python: [List remove()](https://www.programiz.com/python-programming/methods/list/remove)
+
 ## Studing argparse one more time - 2021-10-15
 ##### Checked
 - Python: [Understanding slice notation](https://stackoverflow.com/a/509295/2989289)
