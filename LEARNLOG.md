@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Great Friday - 2021-10-16
 ##### Checked
 - Python: [How to combine multiple regex into single one in python?](https://stackoverflow.com/a/42136278/2989289)
+- Python: [How to efficiently compare two unordered lists (not sets)](https://stackoverflow.com/a/7829388/2989289)
 
 ## Studing argparse one more time - 2021-10-15
 ##### Checked
