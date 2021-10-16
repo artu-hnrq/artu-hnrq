@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [List remove()](https://www.programiz.com/python-programming/methods/list/remove)
+- Python: Regex - [Alternation and Grouping](https://learnbyexample.github.io/py_regular_expressions/alternation-and-grouping.html)
 
 ## Studing argparse one more time - 2021-10-15
 ##### Checked
