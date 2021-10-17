@@ -46,7 +46,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Computer Science: [Mutexes and Semaphores Demystified](https://barrgroup.com/embedded-systems/how-to/rtos-mutex-semaphore)
 
 ##### Sourced
-- [plac](https://github.com/ialbert/plac - Parsing the Command Line the Easy Way
+- [plac](https://github.com/ialbert/plac) - Parsing the Command Line the Easy Way
 
 ## One year later, and I'm here, implementing over argparse again - 2021-10-13
 ##### Checked
