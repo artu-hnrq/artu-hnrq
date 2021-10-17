@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Went to deep in argparse this time - 2021-10-17
+##### Checked
+- Python: [Getting the name of a variable as a string](https://stackoverflow.com/a/18425523/2989289)
+
 ## Great Friday - 2021-10-16
 ##### Checked
 - Python: [How to combine multiple regex into single one in python?](https://stackoverflow.com/a/42136278/2989289)
