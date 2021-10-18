@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Getting the name of a variable as a string](https://stackoverflow.com/a/18425523/2989289)
 - Python: [How to code argparse combinational options in python](https://stackoverflow.com/a/5603420/2989289)
+- Python: [exception message capturing](https://stackoverflow.com/a/4690655/2989289)
 
 ## Great Friday - 2021-10-16
 ##### Checked
