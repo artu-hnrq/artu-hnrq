@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [query datetime for objects older than 5 hours](https://stackoverflow.com/a/52828728/2989289)
 - Django: [How can I return HTTP status code 204 from a Django view?](https://stackoverflow.com/a/12476918/2989289)
 - Django: [Correct way to use get_or_create?](https://stackoverflow.com/a/1941246/2989289)
+- Django: [taking values from POST request](https://stackoverflow.com/a/11336580/2989289)
 - Web: [422 Unprocessable Entity](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422)
 
 ## Great Friday - 2021-10-16
