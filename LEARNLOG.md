@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [How do I get back the option string using argparse?](https://stackoverflow.com/a/30694582/2989289)
 - Python: [Argparse conditionally required arguments](https://stackoverflow.com/a/25626676/2989289)
+- Python: [Create variable key/value pairs with argparse](https://stackoverflow.com/a/52014520/2989289)
   
 ## Went to deep in argparse this time - 2021-10-17
 ##### Checked
