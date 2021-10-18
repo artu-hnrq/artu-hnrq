@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [taking values from POST request](https://stackoverflow.com/a/11336580/2989289)
 - Django: [How do I JSON serialize a Python dictionary?](https://stackoverflow.com/a/802009/2989289)
 - Django: Queryset - [get(**kwargs)](https://docs.djangoproject.com/en/dev/ref/models/querysets/#get)
+- Django: Queryset - [first()](https://docs.djangoproject.com/en/dev/ref/models/querysets/#first)
 - Web: [422 Unprocessable Entity](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422)
 
 ## Great Friday - 2021-10-16
