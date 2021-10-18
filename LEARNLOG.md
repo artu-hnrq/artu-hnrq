@@ -25,6 +25,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Capturing URL parameters in request.GET](https://stackoverflow.com/a/150518/2989289)
 - Django: [get_object_or_404 or filter exists](https://stackoverflow.com/a/36515906/2989289)
 - Django: [shortcut functions](https://docs.djangoproject.com/en/3.2/topics/http/shortcuts/)
+- Django: [most efficient way to count same field values in a query](https://stackoverflow.com/a/3606466/2989289)
 - Web: [422 Unprocessable Entity](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422)
 
 ## Great Friday - 2021-10-16
