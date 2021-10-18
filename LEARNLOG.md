@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [exception message capturing](https://stackoverflow.com/a/4690655/2989289)
 - Python: [How to code argparse combinational options in python](https://stackoverflow.com/a/5603420/2989289)
 - Python: [How to copy a dictionary and only edit the copy](https://stackoverflow.com/a/2465932/2989289)
+- Python: [How to add key,value pair to dictionary?](https://stackoverflow.com/a/3776287/2989289)
 - Django: [How to select a record and update it, with a single queryset in Django?](https://stackoverflow.com/a/2712871/2989289)
 - Django: [query datetime for objects older than 5 hours](https://stackoverflow.com/a/52828728/2989289)
 - Django: [How can I return HTTP status code 204 from a Django view?](https://stackoverflow.com/a/12476918/2989289)
