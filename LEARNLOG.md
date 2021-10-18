@@ -28,6 +28,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [most efficient way to count same field values in a query](https://stackoverflow.com/a/3606466/2989289)
 - Django Rest Framework: [Make Django REST API accept a list](https://stackoverflow.com/a/48885641/2989289)
 - Web: [422 Unprocessable Entity](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422)
+- GCP: [How to delete GCP project immediately?](https://stackoverflow.com/a/51436982/2989289)
 
 ##### Read
 - Django: [10 things you need to know to effectively use Django Rest Framework](https://profil-software.com/blog/development/10-things-you-need-know-effectively-use-django-rest-framework/)
