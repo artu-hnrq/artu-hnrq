@@ -28,6 +28,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [most efficient way to count same field values in a query](https://stackoverflow.com/a/3606466/2989289)
 - Web: [422 Unprocessable Entity](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422)
 
+##### Read
+- Django: [10 things you need to know to effectively use Django Rest Framework](https://profil-software.com/blog/development/10-things-you-need-know-effectively-use-django-rest-framework/)
+
 ## Great Friday - 2021-10-16
 ##### Checked
 - Python: [How to combine multiple regex into single one in python?](https://stackoverflow.com/a/42136278/2989289)
