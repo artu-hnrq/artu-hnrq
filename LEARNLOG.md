@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-
+  
+## Starting a new wonderful week once again - 2021-10-18
+##### Checked
+- Python: [How do I get back the option string using argparse?](https://stackoverflow.com/a/30694582/2989289)
+  
 ## Went to deep in argparse this time - 2021-10-17
 ##### Checked
 - Python: [Getting the name of a variable as a string](https://stackoverflow.com/a/18425523/2989289)
