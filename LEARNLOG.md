@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Filling my body - 2021-10-19
 ##### Checked
 - Python: [What is the best way to write the contents of a StringIO to a file?](https://stackoverflow.com/a/3253819/2989289)
+- Python: [StringIO — Read and write strings as files](https://ironpython-test.readthedocs.io/en/latest/library/stringio.html)
 
 ## Starting a new wonderful week once again - 2021-10-18
 ##### Checked
