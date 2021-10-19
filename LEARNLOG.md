@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [functools — Higher-order functions and operations on callable objects](https://docs.python.org/3/library/functools.html)
+- Python: [operator — Standard operators as functions](The Model class the bulk_query will be applied for)
 
 ## Starting a new wonderful week once again - 2021-10-18
 ##### Checked
