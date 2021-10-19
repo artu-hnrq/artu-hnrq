@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How can I ensure that a method is called (once, if present) for every class in a hierarchy?](https://stackoverflow.com/a/20979325/2989289)
 - Python: [Requests Stream Data from API](https://stackoverflow.com/a/57498146/2989289)
 - Python: [How to get the raw content of a response in requests with Python?](https://stackoverflow.com/a/46772625/2989289)
+- Python: [StringIO replacement that works with bytes instead of strings?](https://stackoverflow.com/a/6479113/2989289)
 
 ##### Consulted
 - Python: [functools — Higher-order functions and operations on callable objects](https://docs.python.org/3/library/functools.html)
