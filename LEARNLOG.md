@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [io.StringIO encoding](https://stackoverflow.com/a/19345218/2989289)
 - Python: [Prevent calling a function more than once if the parameters have been used before](https://stackoverflow.com/a/60283973/2989289)
 - Python: [How can I ensure that a method is called (once, if present) for every class in a hierarchy?](https://stackoverflow.com/a/20979325/2989289)
+- Python: [Requests Stream Data from API](https://stackoverflow.com/a/57498146/2989289)
 
 ##### Consulted
 - Python: [functools — Higher-order functions and operations on callable objects](https://docs.python.org/3/library/functools.html)
