@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Reading from a file and writing to StringIO](https://stackoverflow.com/a/34277801/2989289)
 - Python: [io.StringIO encoding](https://stackoverflow.com/a/19345218/2989289)
 - Python: [Prevent calling a function more than once if the parameters have been used before](https://stackoverflow.com/a/60283973/2989289)
+- Python: [How can I ensure that a method is called (once, if present) for every class in a hierarchy?](https://stackoverflow.com/a/20979325/2989289)
 
 ## Starting a new wonderful week once again - 2021-10-18
 ##### Checked
