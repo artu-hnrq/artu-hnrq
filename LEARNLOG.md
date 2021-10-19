@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Filling my body - 2021-10-19
+##### Checked
+- Python: [What is the best way to write the contents of a StringIO to a file?](https://stackoverflow.com/a/3253819/2989289)
+
 ## Starting a new wonderful week once again - 2021-10-18
 ##### Checked
 - Python: [How do I get back the option string using argparse?](https://stackoverflow.com/a/30694582/2989289)
