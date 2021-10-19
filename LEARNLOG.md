@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [StringIO — Read and write strings as files](https://ironpython-test.readthedocs.io/en/latest/library/stringio.html)
 - Python: [Manage data as file object (StringIO)](https://ironpython-test.readthedocs.io/en/latest/library/stringio.html)
 - Python: [writing StringIO back to disk in python](https://stackoverflow.com/a/35758133/2989289)
+- Python: [Reading from a file and writing to StringIO](https://stackoverflow.com/a/34277801/2989289)
 
 ## Starting a new wonderful week once again - 2021-10-18
 ##### Checked
