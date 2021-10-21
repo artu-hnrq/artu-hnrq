@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Going unnoticed - 2021-10-21
+##### Read
+- Python: [going unnoticed](https://realpython.com/inner-functions-what-are-they-good-for/)
+
 ## Filling my body - 2021-10-19
 ##### Checked
 - Python: [What is the best way to write the contents of a StringIO to a file?](https://stackoverflow.com/a/3253819/2989289)
