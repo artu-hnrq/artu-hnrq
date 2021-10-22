@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Going unnoticed - 2021-10-21
+##### Checked
+- Python: [Dynamic one-line output in Django management command](https://stackoverflow.com/a/32036061/2989289)
+
 ##### Read
 - Python: [going unnoticed](https://realpython.com/inner-functions-what-are-they-good-for/)
 
