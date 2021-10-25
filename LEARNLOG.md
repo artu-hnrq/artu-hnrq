@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Comming back here - 2021-10-21
+##### Checked
+- Git: [Find out which remote branch a local branch is tracking](https://stackoverflow.com/a/12538667/2989289)
+
 ## Going unnoticed - 2021-10-21
 ##### Checked
 - Python: [Dynamic one-line output in Django management command](https://stackoverflow.com/a/32036061/2989289)
