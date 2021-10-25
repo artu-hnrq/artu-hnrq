@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [Find out which remote branch a local branch is tracking](https://stackoverflow.com/a/12538667/2989289)
 - Ubuntu: [How to recover deleted files?](https://askubuntu.com/a/3901/689894)
 - Python: [django.db.utils.ProgrammingError: relation already exists](https://stackoverflow.com/a/32432472/2989289)
+- PostgreSQL: [How to delete and recreate a postgres database using a single docker command?](https://stackoverflow.com/q/53974488/2989289)
 
 ##### Watched
 - [O Princípio Que TODO Programador Precisa Conhecer](https://youtu.be/jtzBhKkUKXs) - Felipe
