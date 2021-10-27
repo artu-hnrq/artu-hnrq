@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [django.db.utils.ProgrammingError: relation already exists](https://stackoverflow.com/a/32432472/2989289)
 - PostgreSQL: [How to delete and recreate a postgres database using a single docker command?](https://stackoverflow.com/q/53974488/2989289)
 
+##### Read
+- Pyhton: [Create Your Custom, private Python Package That You Can PIP Install From Your Git Repository](https://towardsdatascience.com/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893)
+
 ##### Watched
 - [O Princípio Que TODO Programador Precisa Conhecer](https://youtu.be/jtzBhKkUKXs) - Felipe
 
