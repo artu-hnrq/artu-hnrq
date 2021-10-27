@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Comming back here - 2021-10-21
+## Parsing again - 2021-10-27
+##### Sourced
+- [argcomplete](https://github.com/kislyuk/argcomplete): Python and tab completion, better together.
+
+## Comming back here - 2021-10-25
 ##### Checked
 - Git: [Find out which remote branch a local branch is tracking](https://stackoverflow.com/a/12538667/2989289)
 - Ubuntu: [How to recover deleted files?](https://askubuntu.com/a/3901/689894)
