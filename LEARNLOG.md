@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Pyhton: [Create Your Custom, private Python Package That You Can PIP Install From Your Git Repository](https://towardsdatascience.com/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893)
+- Python: [How To Add Custom Build Steps and Commands To setup.py](https://jichu4n.com/posts/how-to-add-custom-build-steps-and-commands-to-setuppy/)
 
 ##### Watched
 - [O Princípio Que TODO Programador Precisa Conhecer](https://youtu.be/jtzBhKkUKXs) - Felipe
