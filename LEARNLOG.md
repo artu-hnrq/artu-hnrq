@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Upgrade python packages from requirements.txt using pip command](https://stackoverflow.com/a/60788102/2989289)
 - Python: [Should I pin dev requirements as well, or just the installation requirements?](https://stackoverflow.com/a/55136935/2989289)
+- PyPA: [In requirements.txt, what does tilde equals (~=) mean?](https://stackoverflow.com/a/39590286/2989289)
 
 ##### Consulted:
 - PyPA: [pip install](https://pip.pypa.io/en/stable/cli/pip_install/#pip-install)
