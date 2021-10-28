@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Sourced
 - [pip-upgrader](https://github.com/simion/pip-upgrader): An interactive pip requirements upgrader. It also updates the version in your requirements.txt file
+- [pypa/pipfile](https://github.com/pypa/pipfile)
 
 ## Parsing again - 2021-10-27
 ##### Sourced
