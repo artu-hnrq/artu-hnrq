@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted:
 - PyPA: [pip install](https://pip.pypa.io/en/stable/cli/pip_install/#pip-install)
+- PyPA: [Installing Packages](https://packaging.python.org/tutorials/installing-packages/#installing-requirements)
 
 ##### Read
 - Python: [What the Pip!?](https://towardsdatascience.com/what-the-pip-71dbfeda12eb)
