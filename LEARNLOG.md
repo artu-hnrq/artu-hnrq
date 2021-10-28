@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Upgrade python packages from requirements.txt using pip command](https://stackoverflow.com/a/60788102/2989289)
 
+##### Sourced
+- [pip-upgrader](https://github.com/simion/pip-upgrader): An interactive pip requirements upgrader. It also updates the version in your requirements.txt file
+
 ## Parsing again - 2021-10-27
 ##### Sourced
 - [argcomplete](https://github.com/kislyuk/argcomplete): Python and tab completion, better together.
