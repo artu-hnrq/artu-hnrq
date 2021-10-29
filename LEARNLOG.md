@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Miguélando - 2021-10-29
 ##### Checked
-- Python: [Makefile variable expansion/evaluation](https://stackoverflow.com/a/9030219/2989289)
+- Make: [Makefile variable expansion/evaluation](https://stackoverflow.com/a/9030219/2989289)
+- Make: [Variable expansion in Makefiles](https://stackoverflow.com/q/67049909/2989289)
 
 ## Thingk about packing again - 2021-10-28
 ##### Checked
