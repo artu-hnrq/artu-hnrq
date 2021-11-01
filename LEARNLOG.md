@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Back home - 2021-10-31
 ##### Checked
 - Gnome: [How to properly start a Gnome-Shell extension via command line?](https://stackoverflow.com/a/47952111/2989289)
+- Ubuntu: [Is there a command to factory reset Ubuntu?](Is there a command to factory reset Ubuntu?)
 
 ## Miguélando - 2021-10-29
 ##### Checked
