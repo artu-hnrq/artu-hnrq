@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Back home - 2021-10-31
+##### Checked
+- Gnome: [How to properly start a Gnome-Shell extension via command line?](https://stackoverflow.com/a/47952111/2989289)
+
 ## Miguélando - 2021-10-29
 ##### Checked
 - Make: [Makefile variable expansion/evaluation](https://stackoverflow.com/a/9030219/2989289)
