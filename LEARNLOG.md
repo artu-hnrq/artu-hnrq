@@ -8,17 +8,21 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Frontend coding - 2021-11-02
+##### Practiced
+- PyCharm: [Exploring Django with Docker](Exploring Django with Docker)
 
 ## Brazilian Rap and coding - 2021-11-01
 ##### Consulted
-- PyCharm: [Debug JavaScript in Chrome](Debug JavaScript in Chrome)
+- PyCharm: [Debug JavaScript in Chrome](https://www.jetbrains.com/help/pycharm/debugging-javascript-in-chrome.html)
+- PyCharm: [Configuring JavaScript debugger](https://www.jetbrains.com/help/pycharm/configuring-javascript-debugger.html)
 
 ---
 
 ## Back home - 2021-10-31
 ##### Checked
 - Gnome: [How to properly start a Gnome-Shell extension via command line?](https://stackoverflow.com/a/47952111/2989289)
-- Ubuntu: [Is there a command to factory reset Ubuntu?](Is there a command to factory reset Ubuntu?)
+- Ubuntu: [Is there a command to factory reset Ubuntu?](https://askubuntu.com/a/898928/689894)
 
 ## Miguélando - 2021-10-29
 ##### Checked
