@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Wednesday studies - 2021-11-03
+##### Read
+- Python: [Python Set remove()](Python Set remove())
+
 ## Frontend coding - 2021-11-02
 ##### Practiced
 - PyCharm: [Exploring Django with Docker](Exploring Django with Docker)
