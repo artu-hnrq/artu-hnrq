@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Wednesday studies - 2021-11-03
+##### Checked
+- Python: [How to round to 2 decimals with Python?](https://stackoverflow.com/a/20457115/2989289)
+
 ##### Consulted
 - NumPy: [numpy.inner](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
 - NumPy: [numpy.outer](https://numpy.org/doc/stable/reference/generated/numpy.outer.html)
