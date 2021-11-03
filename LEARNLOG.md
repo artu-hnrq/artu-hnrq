@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - NumPy: [numpy.inner](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
 - NumPy: [numpy.outer](https://numpy.org/doc/stable/reference/generated/numpy.outer.html)
 - NumPy: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+- Git: [gitignore](https://git-scm.com/docs/gitignore)
 
 ##### Read
 - Python: [PEP 518 -- Specifying Minimum Build System Requirements for Python Projects](https://www.python.org/dev/peps/pep-0518/)
