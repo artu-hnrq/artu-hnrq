@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [PEP 518 -- Specifying Minimum Build System Requirements for Python Projects](https://www.python.org/dev/peps/pep-0518/)
+- Python: [What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
 
 ##### Read
 - Python: [Python Set remove()](Python Set remove())
