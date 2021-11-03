@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Wednesday studies - 2021-11-03
+##### Consulted
+- NumPy: [numpy.inner](numpy.inner)
+
 ##### Read
 - Python: [Python Set remove()](Python Set remove())
 
