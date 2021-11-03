@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Wednesday studies - 2021-11-03
 ##### Checked
 - Python: [How to round to 2 decimals with Python?](https://stackoverflow.com/a/20457115/2989289)
+- PyPA: [What is pyproject.toml file for?](https://stackoverflow.com/a/62983901/2989289)
 
 ##### Consulted
 - NumPy: [numpy.inner](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
