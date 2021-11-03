@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [How to round to 2 decimals with Python?](https://stackoverflow.com/a/20457115/2989289)
 - PyPA: [What is pyproject.toml file for?](https://stackoverflow.com/a/62983901/2989289)
+- PyPA: [How to format requirements.txt when package source is from specific websites?](https://stackoverflow.com/a/61742742/2989289)
 
 ##### Consulted
 - NumPy: [numpy.inner](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
