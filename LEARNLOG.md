@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - NumPy: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 
 ##### Read
+- Python: [PEP 518 -- Specifying Minimum Build System Requirements for Python Projects](https://www.python.org/dev/peps/pep-0518/)
+
+##### Read
 - Python: [Python Set remove()](Python Set remove())
 
 ## Frontend coding - 2021-11-02
