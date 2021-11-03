@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Practiced
 - PyCharm: [Exploring Django with Docker](Exploring Django with Docker)
 
+##### Read
+- PyPA: [Development Mode](Development Mode)
+
 ## Brazilian Rap and coding - 2021-11-01
 ##### Consulted
 - PyCharm: [Debug JavaScript in Chrome](https://www.jetbrains.com/help/pycharm/debugging-javascript-in-chrome.html)
