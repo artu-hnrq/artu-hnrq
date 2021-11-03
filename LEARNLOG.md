@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Wednesday studies - 2021-11-03
 ##### Consulted
 - NumPy: [numpy.inner](numpy.inner)
+- NumPy: [numpy.outer](numpy.outer)
 
 ##### Read
 - Python: [Python Set remove()](Python Set remove())
