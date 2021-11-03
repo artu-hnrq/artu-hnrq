@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - NumPy: [numpy.inner](https://numpy.org/doc/stable/reference/generated/numpy.inner.html)
 - NumPy: [numpy.outer](https://numpy.org/doc/stable/reference/generated/numpy.outer.html)
+- NumPy: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 
 ##### Read
 - Python: [Python Set remove()](Python Set remove())
