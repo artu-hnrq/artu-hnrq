@@ -29,10 +29,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Frontend coding - 2021-11-02
 ##### Practiced
-- PyCharm: [Exploring Django with Docker](Exploring Django with Docker)
+- PyCharm: [Exploring Django with Docker](https://www.jetbrains.com/pycharm/guide/tutorials/django-aws/django-docker/?source=google&medium=cpc&campaign=14124046227&gclid=Cj0KCQjw5oiMBhDtARIsAJi0qk1I4AWprbs7UGIeyhtC-_rQE1gvBUMLxe0fz6bYUQr9eKUwmw0Yy6gaAj97EALw_wcB)
 
 ##### Read
-- PyPA: [Development Mode](Development Mode)
+- PyPA: [Development Mode](https://setuptools.pypa.io/en/latest/userguide/development_mode.html)
 
 ## Brazilian Rap and coding - 2021-11-01
 ##### Consulted
