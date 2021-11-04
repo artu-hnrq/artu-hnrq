@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Google Pixeled again - 2021-11-04
 ##### Checked
 - PyPA: [How can I get the version defined in setup.py (setuptools) in my package?](https://stackoverflow.com/questions/2058802/how-can-i-get-the-version-defined-in-setup-py-setuptools-in-my-package)
+- PyPA: [Change default dist folder with setuptools](https://stackoverflow.com/a/13643284/2989289)
 
 ## Wednesday studies - 2021-11-03
 ##### Checked
