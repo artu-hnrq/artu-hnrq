@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [Change default dist folder with setuptools](https://stackoverflow.com/a/13643284/2989289)
 - PyPA: [packages and egg-info directories](https://stackoverflow.com/a/256614/2989289)
 - PyPA: [Adding [aliases] fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
+- PyPA: [What is pyproject.toml file for?](https://stackoverflow.com/a/66472800/2989289)
 
 ##### Sourced
 - [toml](https://pypi.org/project/toml/): Python lib for TOML
