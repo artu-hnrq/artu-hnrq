@@ -13,7 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [How can I get the version defined in setup.py (setuptools) in my package?](https://stackoverflow.com/questions/2058802/how-can-i-get-the-version-defined-in-setup-py-setuptools-in-my-package)
 - PyPA: [Change default dist folder with setuptools](https://stackoverflow.com/a/13643284/2989289)
 - PyPA: [packages and egg-info directories](https://stackoverflow.com/a/256614/2989289)
-- PyPA: [Adding [aliases] fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
+- PyPA: [Adding aliases fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
 - PyPA: [What is pyproject.toml file for?](https://stackoverflow.com/a/66472800/2989289)
 - PyPA: [Reliable way to get the "build" directory from within setup.py](https://stackoverflow.com/a/69136780/2989289)
 - PyPA: [ModuleNotFoundError when using setup.cfg and version accessed with attr](https://stackoverflow.com/a/58220353/2989289)
