@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [Adding [aliases] fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
 - PyPA: [What is pyproject.toml file for?](https://stackoverflow.com/a/66472800/2989289)
 - PyPA: [Reliable way to get the "build" directory from within setup.py](https://stackoverflow.com/a/69136780/2989289)
+- PyPA: [ModuleNotFoundError when using setup.cfg and version accessed with attr](https://stackoverflow.com/a/58220353/2989289)
 - Python: [Is a Python list guaranteed to have its elements stay in the order they are inserted in?](https://stackoverflow.com/a/13694053/2989289)
 
 ##### Read
