@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [Adding [aliases] fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
 - PyPA: [What is pyproject.toml file for?](https://stackoverflow.com/a/66472800/2989289)
 
+##### Read
+- PyPA: [PEP 660 -- Editable installs for pyproject.toml based builds (wheel based)](https://www.python.org/dev/peps/pep-0660/)
+
 ##### Sourced
 - [toml](https://pypi.org/project/toml/): Python lib for TOML
 
