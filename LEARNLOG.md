@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [packages and egg-info directories](https://stackoverflow.com/a/256614/2989289)
 - PyPA: [Adding [aliases] fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
 - PyPA: [What is pyproject.toml file for?](https://stackoverflow.com/a/66472800/2989289)
+- PyPA: [Reliable way to get the "build" directory from within setup.py](https://stackoverflow.com/a/69136780/2989289)
 
 ##### Read
 - PyPA: [PEP 660 -- Editable installs for pyproject.toml based builds (wheel based)](https://www.python.org/dev/peps/pep-0660/)
