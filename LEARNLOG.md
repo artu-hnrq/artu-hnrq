@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [How can I get the version defined in setup.py (setuptools) in my package?](https://stackoverflow.com/questions/2058802/how-can-i-get-the-version-defined-in-setup-py-setuptools-in-my-package)
 - PyPA: [Change default dist folder with setuptools](https://stackoverflow.com/a/13643284/2989289)
 - PyPA: [packages and egg-info directories](https://stackoverflow.com/a/256614/2989289)
+- PyPA: [Adding [aliases] fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
 
 ## Wednesday studies - 2021-11-03
 ##### Checked
