@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - PyPA: [PEP 660 -- Editable installs for pyproject.toml based builds (wheel based)](https://www.python.org/dev/peps/pep-0660/)
+- PyPA: [Python project version single-sourcing](https://sinoroc.gitlab.io/kb/python/project_version.html)
 
 ##### Sourced
 - [toml](https://pypi.org/project/toml/): Python lib for TOML
