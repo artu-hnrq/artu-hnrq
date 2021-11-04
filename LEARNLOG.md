@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [packages and egg-info directories](https://stackoverflow.com/a/256614/2989289)
 - PyPA: [Adding [aliases] fails with error: invalid command 'xyz'](https://stackoverflow.com/a/63672776/2989289
 
+##### Sourced
+- [toml](https://pypi.org/project/toml/): Python lib for TOML
+
 ## Wednesday studies - 2021-11-03
 ##### Checked
 - Python: [How to round to 2 decimals with Python?](https://stackoverflow.com/a/20457115/2989289)
