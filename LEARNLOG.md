@@ -19,6 +19,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyPA: [ModuleNotFoundError when using setup.cfg and version accessed with attr](https://stackoverflow.com/a/58220353/2989289)
 - Python: [Is a Python list guaranteed to have its elements stay in the order they are inserted in?](https://stackoverflow.com/a/13694053/2989289)
 
+##### Consulted
+- Python: [collections.deque](https://docs.python.org/2/library/collections.html#collections.deque)
 ##### Read
 - PyPA: [PEP 660 -- Editable installs for pyproject.toml based builds (wheel based)](https://www.python.org/dev/peps/pep-0660/)
 - PyPA: [Python project version single-sourcing](https://sinoroc.gitlab.io/kb/python/project_version.html)
