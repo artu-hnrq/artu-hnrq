@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Git: [How to pull a single file from a server repository in Git?](https://stackoverflow.com/a/28375437/2989289)
 - Git: [How do you push a tag to a remote repository using Git?](https://stackoverflow.com/a/23217431/2989289)
+- Git: [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/a/2003515/2989289)
 
 ##### Read
 - Github: [Automating PyPI releases with Github Actions](https://www.caktusgroup.com/blog/2021/02/11/automating-pypi-releases/)
