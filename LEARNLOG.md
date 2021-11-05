@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Github Actions: [Automating PyPI releases with Github Actions](https://www.caktusgroup.com/blog/2021/02/11/automating-pypi-releases/)
+- PyPa: [Creating Projects From Requirements.Txt Files](https://docs.activestate.com/platform/projects/requirements-txt/)
 
 ## Google Pixeled again - 2021-11-04
 ##### Checked
