@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Lazy Friday - 2021-11-05
+##### Checked
+- Git: [How to pull a single file from a server repository in Git?](https://stackoverflow.com/a/28375437/2989289)
+
 ## Google Pixeled again - 2021-11-04
 ##### Checked
 - PyPA: [How can I get the version defined in setup.py (setuptools) in my package?](https://stackoverflow.com/questions/2058802/how-can-i-get-the-version-defined-in-setup-py-setuptools-in-my-package)
