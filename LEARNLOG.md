@@ -8,6 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+
+## New week, new life - 2021-11-08
+##### Read
+MongoDB: [How to Use Django with MongoDB](https://www.mongodb.com/compatibility/mongodb-and-django)
+
 ## Lazy Friday - 2021-11-05
 ##### Checked
 - Git: [How to pull a single file from a server repository in Git?](https://stackoverflow.com/a/28375437/2989289)
