@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## The tenth - 2021-11-10
 ##### Checked
 - Django: [get class name for empty queryset in django](https://stackoverflow.com/a/14487781/2989289)
+- Python: [In python argparse, is there a use case for nargs=1?](https://stackoverflow.com/a/37868918/2989289)
 
 ## New week, new life - 2021-11-08
 ##### Read
