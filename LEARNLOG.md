@@ -9,6 +9,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 
+## The tenth - 2021-11-10
+##### Checked
+- Django: [get class name for empty queryset in django](https://stackoverflow.com/a/14487781/2989289)
+
 ## New week, new life - 2021-11-08
 ##### Read
 MongoDB: [How to Use Django with MongoDB](https://www.mongodb.com/compatibility/mongodb-and-django)
