@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [get class name for empty queryset in django](https://stackoverflow.com/a/14487781/2989289)
 - Django: [Checking for empty queryset in Django](https://stackoverflow.com/a/2373793/2989289)
+- Django: [best way to check the model type of a queryset](https://stackoverflow.com/a/16811573/2989289)
 - Python: [In python argparse, is there a use case for nargs=1?](https://stackoverflow.com/a/37868918/2989289)
 
 ## New week, new life - 2021-11-08
