@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [best way to check the model type of a queryset](https://stackoverflow.com/a/16811573/2989289)
 - Python: [In python argparse, is there a use case for nargs=1?](https://stackoverflow.com/a/37868918/2989289)
 
+##### Read
+- PyCharm: [Navigate Files With Navigation Bar](https://www.jetbrains.com/pycharm/guide/tips/navbar-navigate-files/)
+
 ## New week, new life - 2021-11-08
 ##### Read
 MongoDB: [How to Use Django with MongoDB](https://www.mongodb.com/compatibility/mongodb-and-django)
