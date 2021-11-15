@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Maximum and Minimum values for ints](https://stackoverflow.com/a/7604981/2989289)
 - Python: [Docstring: raise vs. raises](https://stackoverflow.com/a/34212785/2989289)
 - Python: [Is there a short contains function for lists?](https://stackoverflow.com/a/12934468/2989289)
+- Python: [overriding bool() for custom class](https://stackoverflow.com/a/2233850/2989289)
 
 ## The tenth - 2021-11-10
 ##### Checked
