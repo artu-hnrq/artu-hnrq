@@ -9,6 +9,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 
+## Direct from Terraza - 2021-11-15
+##### Checked
+- Python: [Maximum and Minimum values for ints](https://stackoverflow.com/a/7604981/2989289)
+
 ## The tenth - 2021-11-10
 ##### Checked
 - Django: [get class name for empty queryset in django](https://stackoverflow.com/a/14487781/2989289)
