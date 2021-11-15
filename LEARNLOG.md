@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Direct from Terraza - 2021-11-15
 ##### Checked
+- Django: [Select DISTINCT individual columns in django?](https://stackoverflow.com/a/3853075/2989289)
 - Python: [Maximum and Minimum values for ints](https://stackoverflow.com/a/7604981/2989289)
 
 ## The tenth - 2021-11-10
