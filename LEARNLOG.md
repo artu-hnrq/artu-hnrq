@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Bought a PS5, but not to me - 2021-11-17
 ##### Checked
 - SQL: [How to use count and group by at the same select statement](https://stackoverflow.com/a/2722426/2989289)
+- SQL: [Finding duplicate values in a SQL table](https://stackoverflow.com/a/2594855/2989289)
 
 ## Another day, another dollar - 2021-11-16
 ##### Checked
