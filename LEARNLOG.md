@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Another day, another dollar - 2021-11-16
 ##### Checked
 - Django: [Accessing Many to Many object through another Many to Many relationship](https://stackoverflow.com/a/10216147/2989289)
+- Python: [Handling exceptions inside context managers](https://stackoverflow.com/a/35483461/2989289)
 
 ## Direct from Terraza - 2021-11-15
 ##### Checked
