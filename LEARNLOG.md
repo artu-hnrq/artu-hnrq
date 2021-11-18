@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [values_list vs values](https://stackoverflow.com/a/37205928/2989289)
 - Django: [Output of values() on a QuerySet with ManyToMany fields](https://stackoverflow.com/a/33254026/2989289)
+- Python: [How do I use itertools.groupby()?](https://stackoverflow.com/a/45873519/2989289)
 
 ## Bought a PS5, but not to me - 2021-11-17
 ##### Checked
