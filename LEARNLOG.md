@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Raining Thrusday -2021-11-18
 ##### Checked
 - Django: [values_list vs values](https://stackoverflow.com/a/37205928/2989289)
+- Django: [Output of values() on a QuerySet with ManyToMany fields](https://stackoverflow.com/a/33254026/2989289)
 
 ## Bought a PS5, but not to me - 2021-11-17
 ##### Checked
