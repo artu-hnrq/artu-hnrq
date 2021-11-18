@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How do I attach a field from a related object to a Django queryset?](https://stackoverflow.com/a/51581558/2989289)
 - Python: [How do I use itertools.groupby()?](https://stackoverflow.com/a/45873519/2989289)
 
+##### Read
+- Django: [How to select some fields only in a queryset?](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/select_some_fields.html)
+
 ## Bought a PS5, but not to me - 2021-11-17
 ##### Checked
 - SQL: [How to use count and group by at the same select statement](https://stackoverflow.com/a/2722426/2989289)
