@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Crossing the dawn - 2021-11-19
 ##### Cheked
 - Django: [Extracting a `Q` object from a `QuerySet`](https://stackoverflow.com/q/9703511/2989289)
+- Django: [Building a queryset with Q objects](https://stackoverflow.com/a/20222483/2989289)
 
 ##### Read
 - Django: [Using Django querysets effectively](https://blog.etianen.com/blog/2013/06/08/django-querysets/)
