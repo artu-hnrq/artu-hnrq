@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Crossing the dawn - 2021-11-19
+##### Sourced
+- [attrs](https://www.attrs.org/en/stable/overview.html#overview) - Python Classes Without Boilerplate
+
 ## Raining Thrusday -2021-11-18
 ##### Checked
 - Django: [values_list vs values](https://stackoverflow.com/a/37205928/2989289)
