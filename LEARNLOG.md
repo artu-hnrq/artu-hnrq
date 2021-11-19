@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Sourced
 - [attrs](https://www.attrs.org/en/stable/overview.html#overview) - Python Classes Without Boilerplate
 
+##### Read
+- Django: [Using Django querysets effectively](https://blog.etianen.com/blog/2013/06/08/django-querysets/)
+
 ## Raining Thrusday -2021-11-18
 ##### Checked
 - Django: [values_list vs values](https://stackoverflow.com/a/37205928/2989289)
