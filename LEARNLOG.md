@@ -9,11 +9,14 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Crossing the dawn - 2021-11-19
-##### Sourced
-- [attrs](https://www.attrs.org/en/stable/overview.html#overview) - Python Classes Without Boilerplate
+##### Cheked
+- Django: [Extracting a `Q` object from a `QuerySet`](https://stackoverflow.com/q/9703511/2989289)
 
 ##### Read
 - Django: [Using Django querysets effectively](https://blog.etianen.com/blog/2013/06/08/django-querysets/)
+
+##### Sourced
+- [attrs](https://www.attrs.org/en/stable/overview.html#overview) - Python Classes Without Boilerplate
 
 ## Raining Thrusday -2021-11-18
 ##### Checked
