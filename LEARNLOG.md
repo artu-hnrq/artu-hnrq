@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Extracting a `Q` object from a `QuerySet`](https://stackoverflow.com/q/9703511/2989289)
 - Django: [Building a queryset with Q objects](https://stackoverflow.com/a/20222483/2989289)
 - Python: [Generator as function argument](https://stackoverflow.com/a/32521643/2989289)
+- Python: [passing argument to generator object created by generator expression?](https://stackoverflow.com/a/55248859/2989289)
 
 ##### Read
 - Django: [Using Django querysets effectively](https://blog.etianen.com/blog/2013/06/08/django-querysets/)
