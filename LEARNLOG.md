@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Skiping Saturday - 2021-11-21
+##### Checked
+- Bash: [Assigning default values to shell variables with a single command in bash](https://stackoverflow.com/a/2013589/2989289)
+
 ## Crossing the dawn - 2021-11-19
 ##### Checked
 - Django: [Extracting a `Q` object from a `QuerySet`](https://stackoverflow.com/q/9703511/2989289)
