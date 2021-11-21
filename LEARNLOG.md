@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Skiping Saturday - 2021-11-21
 ##### Checked
 - Bash: [Assigning default values to shell variables with a single command in bash](https://stackoverflow.com/a/2013589/2989289)
+- Git: [How do you push a tag to a remote repository using Git?](https://stackoverflow.com/a/26438076/2989289)
 
 ## Crossing the dawn - 2021-11-19
 ##### Checked
