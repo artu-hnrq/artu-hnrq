@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Aware after sun goes out - 2021-11-22
+##### Consulted
+- Python: [Publishing the distribution to PyPI](https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/)
+
 ## Skiping Saturday - 2021-11-21
 ##### Checked
 - Bash: [Assigning default values to shell variables with a single command in bash](https://stackoverflow.com/a/2013589/2989289)
