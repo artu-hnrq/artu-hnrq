@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Aware after sun goes out - 2021-11-22
 ##### Checked
+- Django: [get() returned more than one topic](https://stackoverflow.com/a/22064255/2989289)
 - Python: [Run workflow on push tag on specific branch](https://github.community/t/run-workflow-on-push-tag-on-specific-branch/17519?u=artu-hnrq)
 
 ##### Consulted
