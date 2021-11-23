@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Aware after sun goes out - 2021-11-22
+##### Checked
+- Python: [Run workflow on push tag on specific branch](https://github.community/t/run-workflow-on-push-tag-on-specific-branch/17519?u=artu-hnrq)
+
 ##### Consulted
 - Python: [Publishing the distribution to PyPI](https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/)
 
