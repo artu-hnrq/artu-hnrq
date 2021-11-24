@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Markdown: [Comments in Markdown](https://stackoverflow.com/a/4829998/2989289)
 - Python: [decorators in the python standard lib (@deprecated specifically)](https://stackoverflow.com/a/40301488/2989289)
 
+##### Read
+- Python: [Python now has its own developer-in-residence](https://www.zdnet.com/article/programming-language-python-now-has-its-own-developer-in-residence-this-is-what-theyre-planning-to-do/)
+
 ## Aware after sun goes out - 2021-11-22
 ##### Checked
 - Django: [get() returned more than one topic](https://stackoverflow.com/a/22064255/2989289)
