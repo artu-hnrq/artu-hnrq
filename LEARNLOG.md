@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Left work to late night conciously - 2021-11-23
+##### Checked
+- Python: [decorators in the python standard lib (@deprecated specifically)](https://stackoverflow.com/a/40301488/2989289)
+
 ## Aware after sun goes out - 2021-11-22
 ##### Checked
 - Django: [get() returned more than one topic](https://stackoverflow.com/a/22064255/2989289)
