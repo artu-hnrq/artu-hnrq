@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Left work to late night conciously - 2021-11-23
 ##### Checked
 - Bash: [What does an "exec" command do?](https://askubuntu.com/a/525787/689894)
+- Markdown: [Comments in Markdown](https://stackoverflow.com/a/4829998/2989289)
 - Python: [decorators in the python standard lib (@deprecated specifically)](https://stackoverflow.com/a/40301488/2989289)
 
 ## Aware after sun goes out - 2021-11-22
