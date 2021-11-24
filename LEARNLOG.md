@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Another afternoon along with Theus learning - 2021-11-24
+##### Checked
+- Python: [InternalError: current transaction is aborted, commands ignored until end of transaction block](https://stackoverflow.com/a/2209958/2989289)
+
 ##### Read
 - Python: [How mock.patch decorator works in python](https://medium.com/uckey/how-mock-patch-decorator-works-in-python-37acd8b78ae)
 
