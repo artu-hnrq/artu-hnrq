@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [Python now has its own developer-in-residence](https://www.zdnet.com/article/programming-language-python-now-has-its-own-developer-in-residence-this-is-what-theyre-planning-to-do/)
+- Python: [I am the new CPython Developer in Residence](https://lukasz.langa.pl/a072a74b-19d7-41ff-a294-e6b1319fdb6e/)
 
 ## Aware after sun goes out - 2021-11-22
 ##### Checked
