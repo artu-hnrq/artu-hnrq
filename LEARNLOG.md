@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [How mock.patch decorator works in python](https://medium.com/uckey/how-mock-patch-decorator-works-in-python-37acd8b78ae)
+- Python: [How to Implement a Python Stack](https://realpython.com/how-to-implement-python-stack/)
 
 ## Left work to late night conciously - 2021-11-23
 ##### Checked
