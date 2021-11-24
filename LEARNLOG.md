@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Another afternoon along with Theus learning - 2021-11-24
+##### Read
+- Python: [How mock.patch decorator works in python](https://medium.com/uckey/how-mock-patch-decorator-works-in-python-37acd8b78ae)
+
 ## Left work to late night conciously - 2021-11-23
 ##### Checked
 - Bash: [What does an "exec" command do?](https://askubuntu.com/a/525787/689894)
