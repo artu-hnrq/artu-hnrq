@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Starting in the morning - 2021-11-25
 ##### Checked
 - Gnome: [Command to List Installed and Enabled GNOME Extensions](https://askubuntu.com/a/1283470/689894)
+- PyTest: [Is there a way to specify which pytest tests to run from a file?](https://stackoverflow.com/a/36539692/2989289)
 
 ## Another afternoon along with Theus learning - 2021-11-24
 ##### Checked
