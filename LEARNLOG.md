@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Starting in the morning - 2021-11-25
+##### Checked
+- Gnome: [Command to List Installed and Enabled GNOME Extensions](https://askubuntu.com/a/1283470/689894)
+
 ## Another afternoon along with Theus learning - 2021-11-24
 ##### Checked
 - Python: [InternalError: current transaction is aborted, commands ignored until end of transaction block](https://stackoverflow.com/a/2209958/2989289)
