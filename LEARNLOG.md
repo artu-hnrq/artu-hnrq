@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## New week after medicine - 2021-11-29
+##### Checked
+- Django: [get foreign key object inside Queryset](https://stackoverflow.com/q/43805521/2989289)
+
 ## Starting in the morning - 2021-11-25
 ##### Checked
 - Django: [DatabaseError: current transaction is aborted, commands ignored until end of transaction block?](https://stackoverflow.com/a/13007379/2989289)
