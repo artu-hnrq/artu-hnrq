@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [get foreign key object inside Queryset](https://stackoverflow.com/q/43805521/2989289)
 
+##### Read
+- Python: [Python Mocking 101: Fake It Before You Make It](https://www.fugue.co/blog/2016-02-11-python-mocking-101#:~:text=Mocking%20in%20Python%20is%20done,want%20or%20raise%20an%20Exception%20)
+
 ## Starting in the morning - 2021-11-25
 ##### Checked
 - Django: [DatabaseError: current transaction is aborted, commands ignored until end of transaction block?](https://stackoverflow.com/a/13007379/2989289)
