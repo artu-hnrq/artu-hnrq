@@ -14,7 +14,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How to use sed to extract substring](https://stackoverflow.com/a/16675318/2989289)
 - Bash: [How to correctly quote the `$@` contents in a git alias?](https://stackoverflow.com/a/57786618/2989289)
 - Git: [List Git aliases](https://stackoverflow.com/a/7067489/2989289)
-- Gnome: [How to properly start a Gnome-Shell extension via command line?](https://stackoverflow.com/a/47952111/2989289)
+- Git: [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/a/2003515/2989289)
+- Gnome: [How to properly start a Gnome-Shell extension via command line?](https://stackoverflow.com/a/47952111/2989289
 
 ##### Sourced
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art): ASCII art library for Python
