@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Accepting late night work - 2021-11-30
+##### Checked
+- Gnome: [How to properly start a Gnome-Shell extension via command line?](https://stackoverflow.com/a/47952111/2989289)
+
 ## New week after medicine - 2021-11-29
 ##### Checked
 - Django: [get foreign key object inside Queryset](https://stackoverflow.com/q/43805521/2989289)
