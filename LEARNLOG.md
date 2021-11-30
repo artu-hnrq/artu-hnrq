@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Accepting late night work - 2021-11-30
 ##### Checked
+- Bash: [How to replace space with \(space) using sed?](https://stackoverflow.com/a/41662420/2989289)
 - Gnome: [How to properly start a Gnome-Shell extension via command line?](https://stackoverflow.com/a/47952111/2989289)
 
 ## New week after medicine - 2021-11-29
