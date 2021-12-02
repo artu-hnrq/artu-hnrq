@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [Git pull from another repository](https://stackoverflow.com/a/60210870/2989289)
 - Git: [Pushing empty commits to remote](https://stackoverflow.com/a/61789697/2989289)
 - Git: [In git, is there a simple way of introducing an unrelated branch to a repository?](https://stackoverflow.com/a/4288660/2989289)
+- Python: [Writing a Custom Matrix Class in Python, __setitem__ issues](https://stackoverflow.com/a/16248029/2989289)
 
 ---
 
