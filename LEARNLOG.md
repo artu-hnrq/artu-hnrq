@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+##### Another night, another dollar - 2021-12-02
+##### Checked
+- Git: [Git pull from another repository](https://stackoverflow.com/a/60210870/2989289)
+
+---
+
 ## Accepting late night work - 2021-11-30
 ##### Checked
 - Bash: [How to replace space with \(space) using sed?](https://stackoverflow.com/a/41662420/2989289)
