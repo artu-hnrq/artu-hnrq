@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Another night, another dollar - 2021-12-02
 ##### Checked
 - Git: [Git pull from another repository](https://stackoverflow.com/a/60210870/2989289)
+- Git: [Pushing empty commits to remote](https://stackoverflow.com/a/61789697/2989289)
 
 ---
 
