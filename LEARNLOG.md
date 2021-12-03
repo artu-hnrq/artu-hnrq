@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Using __delitem__ with a class object rather than an instance in Python](https://stackoverflow.com/a/20248184/2989289)
 - Python: [How to do two-level nested map](https://stackoverflow.com/a/31784811/2989289)
+- Python: [getting a reference to a function from inside itself](https://stackoverflow.com/a/852455/2989289)
 
 ##### Another night, another dollar - 2021-12-02
 ##### Checked
