@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## From the montains - 2021-12-08
 ##### Checked
 - PyTest: [Pass a parameter to a fixture function](https://stackoverflow.com/a/33879151/2989289)
+- PyTest: [Circular list iterator in Python](https://stackoverflow.com/a/23416519/2989289)
 
 ## Uninterested - 2021-12-03
 ##### Checked
