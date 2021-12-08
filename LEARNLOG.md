@@ -8,13 +8,17 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-##### Uninterested - 2021-12-03
+## From the montains - 2021-12-08
+##### Checked
+- PyTest: [Pass a parameter to a fixture function](https://stackoverflow.com/a/33879151/2989289)
+
+## Uninterested - 2021-12-03
 ##### Checked
 - Python: [Using __delitem__ with a class object rather than an instance in Python](https://stackoverflow.com/a/20248184/2989289)
 - Python: [How to do two-level nested map](https://stackoverflow.com/a/31784811/2989289)
 - Python: [getting a reference to a function from inside itself](https://stackoverflow.com/a/852455/2989289)
 
-##### Another night, another dollar - 2021-12-02
+## Another night, another dollar - 2021-12-02
 ##### Checked
 - Git: [Git pull from another repository](https://stackoverflow.com/a/60210870/2989289)
 - Git: [Pushing empty commits to remote](https://stackoverflow.com/a/61789697/2989289)
