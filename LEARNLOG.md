@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Lazy month, apparently - 2021-12-13
+##### Checked
+- [Reset local repo to be exactly the same as remote repo](https://stackoverflow.com/a/10170195/2989289)
+
 ##### Read
 - [How to make git local same as remote](https://linuxhint.com/make-git-local-same-as-remote/)
 
