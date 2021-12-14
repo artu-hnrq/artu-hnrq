@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Continuing - 2021-12-14 - 2021-12-14
+##### Checked
+- [Postgres SELECT* FROM table WHERE column-varchar=="string-example"?](https://stackoverflow.com/a/37869010/2989289)
+
 ## Lazy month, apparently - 2021-12-13
 ##### Checked
 - [Reset local repo to be exactly the same as remote repo](https://stackoverflow.com/a/10170195/2989289)
