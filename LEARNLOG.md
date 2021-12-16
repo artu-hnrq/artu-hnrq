@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Continuing - 2021-12-14 - 2021-12-14
+## Sparse contributions - 2021-12-16
+##### Read
+- SQL: [PostgreSQL INSERT](https://www.postgresqltutorial.com/postgresql-insert/#:~:text=The%20PostgreSQL%20INSERT%20statement%20allows,new%20row%20into%20a%20table.&text=In%20this%20syntax%3A,%2C%20....%20).)
+
+## Continuing - 2021-12-14
 ##### Checked
 - [Postgres SELECT* FROM table WHERE column-varchar=="string-example"?](https://stackoverflow.com/a/37869010/2989289)
 
