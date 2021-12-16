@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How to create custom template tags and filters](https://docs.djangoproject.com/en/4.0/howto/custom-template-tags/)
 
 ##### Read
+- Python: [Using Class Decorators in Python](https://towardsdatascience.com/using-class-decorators-in-python-2807ef52d273)
 - SQL: [PostgreSQL INSERT](https://www.postgresqltutorial.com/postgresql-insert/#:~:text=The%20PostgreSQL%20INSERT%20statement%20allows,new%20row%20into%20a%20table.&text=In%20this%20syntax%3A,%2C%20....%20).)
 
 ## Continuing - 2021-12-14
