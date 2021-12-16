@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Sparse contributions - 2021-12-16
+##### Checked
+- Python: [How do I detect whether a Python variable is a function?](https://stackoverflow.com/a/624939/2989289)
+
 ##### Consulted
 - Django: [How to create custom template tags and filters](https://docs.djangoproject.com/en/4.0/howto/custom-template-tags/)
 
