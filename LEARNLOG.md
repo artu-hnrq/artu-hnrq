@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Python: [@typing.overload](https://docs.python.org/3/library/typing.html#typing.overload)
 
+##### Read
+- Python: [Five-minute Multimethods in Python](https://www.artima.com/weblogs/viewpost.jsp?thread=101605)
+
 ## Sparse contributions - 2021-12-16
 ##### Checked
 - Python: [How do I detect whether a Python variable is a function?](https://stackoverflow.com/a/624939/2989289)
