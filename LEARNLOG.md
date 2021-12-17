@@ -22,6 +22,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Data Classes in Python 3.7+](https://realpython.com/python-data-classes/)
 - Python: [Overload Functions in Python](https://www.codementor.io/@arpitbhayani/overload-functions-in-python-13e32ahzqt)
 
+##### Sourced
+- [multimethod](https://pypi.org/project/multimethod/) - Multiple argument dispatching.
+
 ## Sparse contributions - 2021-12-16
 ##### Checked
 - Python: [How do I detect whether a Python variable is a function?](https://stackoverflow.com/a/624939/2989289)
