@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Dinner with Heron - 2021-12-17
 ##### Checked
 - Python: [Methods with the same name in one class in Python](https://stackoverflow.com/a/68080009/2989289)
+- Python: [get a class name of calling method](https://stackoverflow.com/a/53153842/2989289)
 
 ##### Consulted
 - Python: [@typing.overload](https://docs.python.org/3/library/typing.html#typing.overload)
