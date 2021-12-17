@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [Five-minute Multimethods in Python](https://www.artima.com/weblogs/viewpost.jsp?thread=101605)
+- Python: [Data Classes in Python 3.7+](https://realpython.com/python-data-classes/)
 
 ## Sparse contributions - 2021-12-16
 ##### Checked
