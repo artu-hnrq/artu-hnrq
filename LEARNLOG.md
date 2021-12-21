@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Between cerimonies - 2021-12-21
+##### Consulted
+- Django: [get_or_create()¶](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#get-or-create)
+
 ## Dinner with Heron - 2021-12-17
 ##### Checked
 - Python: [Methods with the same name in one class in Python](https://stackoverflow.com/a/68080009/2989289)
