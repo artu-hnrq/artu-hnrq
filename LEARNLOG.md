@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How to delete a record in Django models?](https://stackoverflow.com/a/3805981/2989289)
 - Python: [Best way to convert string to bytes in Python 3?](https://stackoverflow.com/a/7585619/2989289)
 - Python: [Whats the difference between os.urandom() and random?](https://stackoverflow.com/a/47515746/2989289)
+- PyPA: [When to use pip requirements file versus install_requires in setup.py?](https://stackoverflow.com/a/7085000/2989289)
 
 ##### Consulted
 - Django: [get_or_create()](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#get-or-create)
