@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Correct way to use get_or_create?](https://stackoverflow.com/a/1941246/2989289)
 - Django: [How do I reference a Django settings variable in my models.py?](https://stackoverflow.com/a/7867846/2989289)
+- Django: [How to delete a record in Django models?](https://stackoverflow.com/a/3805981/2989289)
 - Python: [Best way to convert string to bytes in Python 3?](https://stackoverflow.com/a/7585619/2989289)
 - Python: [Whats the difference between os.urandom() and random?](https://stackoverflow.com/a/47515746/2989289)
 
