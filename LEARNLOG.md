@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Between cerimonies - 2021-12-21
 ##### Checked
+- Algorithm: [What does it mean for a random number generator to be cryptographically secure?](https://crypto.stackexchange.com/a/39188)
 - Django: [Correct way to use get_or_create?](https://stackoverflow.com/a/1941246/2989289)
 - Django: [How do I reference a Django settings variable in my models.py?](https://stackoverflow.com/a/7867846/2989289)
 - Django: [How to delete a record in Django models?](https://stackoverflow.com/a/3805981/2989289)
