@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [get_or_create()](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#get-or-create)
+- Django: [Using settings in Python code](https://docs.djangoproject.com/en/4.0/topics/settings/#using-settings-in-python-code)
 
 ## Dinner with Heron - 2021-12-17
 ##### Checked
