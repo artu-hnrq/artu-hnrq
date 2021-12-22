@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Is there a label/goto in Python?](https://stackoverflow.com/a/32683845/2989289)
 - Python: [What version of Python do I have?](https://askubuntu.com/a/505449/689894)
 
+##### Read
+- Ubuntu: [How to Install Python 3.10 Final in Ubuntu 20.04, Ubuntu 18.04](https://ubuntuhandbook.org/index.php/2021/01/install-python-3-10-alpha-ubuntu-20-04-ubuntu-18-04/)
+
 ## Between cerimonies - 2021-12-21
 ##### Checked
 - Algorithm: [What does it mean for a random number generator to be cryptographically secure?](https://crypto.stackexchange.com/a/39188)
