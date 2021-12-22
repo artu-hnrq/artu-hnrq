@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Is there a label/goto in Python?](https://stackoverflow.com/a/32683845/2989289)
 - Python: [What version of Python do I have?](https://askubuntu.com/a/505449/689894)
+- Ubuntu: [Unable to set default python version to python3 in ubuntu](https://stackoverflow.com/a/50331137/2989289)
 
 ##### Read
 - Ubuntu: [How to Install Python 3.10 Final in Ubuntu 20.04, Ubuntu 18.04](https://ubuntuhandbook.org/index.php/2021/01/install-python-3-10-alpha-ubuntu-20-04-ubuntu-18-04/)
