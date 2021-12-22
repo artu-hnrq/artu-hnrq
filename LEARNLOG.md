@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Is there a label/goto in Python?](https://stackoverflow.com/a/32683845/2989289)
 - Python: [What version of Python do I have?](https://askubuntu.com/a/505449/689894)
+- Python: [Python, what's the Enum type good for?](https://stackoverflow.com/a/37601645/2989289)
 - Ubuntu: [Unable to set default python version to python3 in ubuntu](https://stackoverflow.com/a/50331137/2989289)
 
 ##### Read
