@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [Enum HOWTO](https://docs.python.org/3.11/howto/enum.html)
+- Python: [enum — Support for enumerations](https://docs.python.org/3/library/enum.html)
 
 ##### Read
 - Ubuntu: [How to Install Python 3.10 Final in Ubuntu 20.04, Ubuntu 18.04](https://ubuntuhandbook.org/index.php/2021/01/install-python-3-10-alpha-ubuntu-20-04-ubuntu-18-04/)
