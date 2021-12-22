@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Two in a row - 2021-12-22
 ##### Checked
 - Python: [Is there a label/goto in Python?](https://stackoverflow.com/a/32683845/2989289)
+- Python: [What version of Python do I have?](https://askubuntu.com/a/505449/689894)
 
 ## Between cerimonies - 2021-12-21
 ##### Checked
