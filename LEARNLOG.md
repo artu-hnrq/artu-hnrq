@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Two in a row - 2021-12-22
+##### Checked
+- Python: [Is there a label/goto in Python?](https://stackoverflow.com/a/32683845/2989289)
+
 ## Between cerimonies - 2021-12-21
 ##### Checked
 - Algorithm: [What does it mean for a random number generator to be cryptographically secure?](https://crypto.stackexchange.com/a/39188)
