@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Python, what's the Enum type good for?](https://stackoverflow.com/a/37601645/2989289)
 - Ubuntu: [Unable to set default python version to python3 in ubuntu](https://stackoverflow.com/a/50331137/2989289)
 
+##### Consulted
+- Python: [Enum HOWTO](https://docs.python.org/3.11/howto/enum.html)
+
 ##### Read
 - Ubuntu: [How to Install Python 3.10 Final in Ubuntu 20.04, Ubuntu 18.04](https://ubuntuhandbook.org/index.php/2021/01/install-python-3-10-alpha-ubuntu-20-04-ubuntu-18-04/)
 
