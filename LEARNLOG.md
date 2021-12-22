@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [What version of Python do I have?](https://askubuntu.com/a/505449/689894)
 - Python: [Python, what's the Enum type good for?](https://stackoverflow.com/a/37601645/2989289)
 - Ubuntu: [Unable to set default python version to python3 in ubuntu](https://stackoverflow.com/a/50331137/2989289)
+- PyTest: [what is the use of conftest.py files?](https://stackoverflow.com/a/34520971/2989289)
 
 ##### Consulted
 - Python: [Enum HOWTO](https://docs.python.org/3.11/howto/enum.html)
