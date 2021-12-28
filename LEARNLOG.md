@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Last days of year - 2021-12-28
+##### Checked
+- SQL: [How to declare Array variable in SQL Server?](https://stackoverflow.com/a/41672324/2989289)
+
 ## Two in a row - 2021-12-22
 ##### Checked
 - Python: [Is there a label/goto in Python?](https://stackoverflow.com/a/32683845/2989289)
