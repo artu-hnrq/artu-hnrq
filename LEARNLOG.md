@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Last days of year - 2021-12-28
 ##### Checked
 - SQL: [How to declare Array variable in SQL Server?](https://stackoverflow.com/a/41672324/2989289)
+- SQL: [How to declare an array inside MS SQL Server Stored Procedure?](https://stackoverflow.com/a/1732639/2989289)
 
 ## Two in a row - 2021-12-22
 ##### Checked
