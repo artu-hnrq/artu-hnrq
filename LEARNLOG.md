@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - SQL: [How to declare Array variable in SQL Server?](https://stackoverflow.com/a/41672324/2989289)
 - SQL: [How to declare an array inside MS SQL Server Stored Procedure?](https://stackoverflow.com/a/1732639/2989289)
 
+###### Read
+- SQL: [SQL Variables: Basics and usage](https://www.sqlshack.com/sql-variables-basics-and-usage/)
+
 ## Two in a row - 2021-12-22
 ##### Checked
 - Python: [Is there a label/goto in Python?](https://stackoverflow.com/a/32683845/2989289)
