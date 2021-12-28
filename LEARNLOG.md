@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - SQL: [How to declare Array variable in SQL Server?](https://stackoverflow.com/a/41672324/2989289)
 - SQL: [How to declare an array inside MS SQL Server Stored Procedure?](https://stackoverflow.com/a/1732639/2989289)
+- SQL: [variable to hold list of integers](https://stackoverflow.com/a/18372726/2989289)
 
 ###### Read
 - SQL: [SQL Variables: Basics and usage](https://www.sqlshack.com/sql-variables-basics-and-usage/)
