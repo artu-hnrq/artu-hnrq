@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ###### Read
 - SQL: [SQL Variables: Basics and usage](https://www.sqlshack.com/sql-variables-basics-and-usage/)
+- SQL: [How to implement array-like functionality in SQL Server](https://www.sqlshack.com/implement-array-like-functionality-sql-server/)
 
 ## Two in a row - 2021-12-22
 ##### Checked
