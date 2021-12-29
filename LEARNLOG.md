@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Gabriel at home - 2021-12-29
+##### Checked
+- SQL: [Inner-join with 3 tables?](https://stackoverflow.com/a/10195633/2989289)
+
 ##### Read
 - SQL: [Comments Within SQL Statements](https://docs.oracle.com/cd/B13789_01/server.101/b10759/sql_elements006.htm)
 
