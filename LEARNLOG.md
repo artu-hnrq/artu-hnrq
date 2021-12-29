@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Gabriel at home - 2021-12-29
+##### Read
+- SQL: [Comments Within SQL Statements](https://docs.oracle.com/cd/B13789_01/server.101/b10759/sql_elements006.htm)
+
 ## Last days of year - 2021-12-28
 ##### Checked
 - SQL: [How to declare Array variable in SQL Server?](https://stackoverflow.com/a/41672324/2989289)
