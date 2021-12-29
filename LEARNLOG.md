@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - SQL: [Comments Within SQL Statements](https://docs.oracle.com/cd/B13789_01/server.101/b10759/sql_elements006.htm)
+- SQL: [SQL COUNT(), AVG() and SUM() Functions](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
 
 ## Last days of year - 2021-12-28
 ##### Checked
