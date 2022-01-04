@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Training patience - 2022-01-04
 ##### Read
 - SQL: [Subqueries in the WHERE Clause](https://docs.actian.com/vector/5.1/index.html#page/SQLLang/Subqueries_in_the_WHERE_Clause.htm)
+- SQL: [Subqueries](https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php)
 
 ## Moving on to a new year - 2022-01-03
 ##### Read
