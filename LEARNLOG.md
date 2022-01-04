@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Training patience - 2022-01-04
+##### Checked
+- SQL: [Query with SUM with Group By](https://stackoverflow.com/a/41817228/2989289)
+
 ##### Read
 - SQL: [Subqueries in the WHERE Clause](https://docs.actian.com/vector/5.1/index.html#page/SQLLang/Subqueries_in_the_WHERE_Clause.htm)
 - SQL: [Subqueries](https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php)
