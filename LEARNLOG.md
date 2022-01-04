@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Moving on to a new year - 2022-01-03
+##### Read
+- Git: [Advanced Git Concepts You Should Know](https://dev.to/ruppysuppy/advanced-git-concepts-you-should-know-nle)
+
+---
+
 ## Found out Nefertiti - 2021-12-30
 ##### Read
 - SQL: [SQL SELECT DISTINCT Statement](https://www.w3schools.com/sql/sql_distinct.asp)
