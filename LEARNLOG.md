@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Training patience - 2022-01-04
+##### Read
+- SQL: [Subqueries in the WHERE Clause](https://docs.actian.com/vector/5.1/index.html#page/SQLLang/Subqueries_in_the_WHERE_Clause.htm)
+
 ## Moving on to a new year - 2022-01-03
 ##### Read
 - Git: [Advanced Git Concepts You Should Know](https://dev.to/ruppysuppy/advanced-git-concepts-you-should-know-nle)
