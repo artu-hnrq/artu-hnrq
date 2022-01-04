@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Training patience - 2022-01-04
 ##### Checked
 - SQL: [Query with SUM with Group By](https://stackoverflow.com/a/41817228/2989289)
+- SQL: [query to select dates between two dates](https://stackoverflow.com/a/22081848/2989289)
 
 ##### Read
 - SQL: [Subqueries in the WHERE Clause](https://docs.actian.com/vector/5.1/index.html#page/SQLLang/Subqueries_in_the_WHERE_Clause.htm)
