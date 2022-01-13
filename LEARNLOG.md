@@ -10,7 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Now from Palmares once again - 2022-01-14
 ##### Read
-- Python: [https://note.nkmk.me/en/python-list-sort-sorted/](https://note.nkmk.me/en/python-list-sort-sorted/)
+- Python: [Sort a list, string, tuple in Python (sort, sorted)](https://note.nkmk.me/en/python-list-sort-sorted/)
 
 ## Training patience - 2022-01-04
 ##### Checked
