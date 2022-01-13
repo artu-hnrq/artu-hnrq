@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Now from Palmares once again - 2022-01-14
+##### Read
+- Python: [https://note.nkmk.me/en/python-list-sort-sorted/](https://note.nkmk.me/en/python-list-sort-sorted/)
+
 ## Training patience - 2022-01-04
 ##### Checked
 - SQL: [Query with SUM with Group By](https://stackoverflow.com/a/41817228/2989289)
