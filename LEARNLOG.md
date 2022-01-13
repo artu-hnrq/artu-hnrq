@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Now from Palmares once again - 2022-01-14
+##### Checked
+- SQL: [SQL order string as number](https://stackoverflow.com/a/42712796/2989289)
+
 ##### Read
 - Python: [Sort a list, string, tuple in Python (sort, sorted)](https://note.nkmk.me/en/python-list-sort-sorted/)
 
