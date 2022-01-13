@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Now from Palmares once again - 2022-01-14
+## Very frist day of true work in this year - 2022-01-13
+## Checked
+- Django: [Multiple Sites under single Django project](https://stackoverflow.com/a/3370042/2989289)
+
+## Now from Palmares once again - 2022-01-12
 ##### Checked
 - Python: [How to add a string in a certain position?](https://stackoverflow.com/a/5254480/2989289)
 - SQL: [SQL order string as number](https://stackoverflow.com/a/42712796/2989289)
