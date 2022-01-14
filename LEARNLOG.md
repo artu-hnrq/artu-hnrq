@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Found out that elder place in myself - 2022-01-14
+##### Checked
+- Bah: [bash iterate file list, except when empty](https://unix.stackexchange.com/a/240004/364080)
+
 ## Very frist day of true work in this year - 2022-01-13
 ## Checked
 - Django: [Multiple Sites under single Django project](https://stackoverflow.com/a/3370042/2989289)
