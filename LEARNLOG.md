@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Bash: [bash iterate file list, except when empty](https://unix.stackexchange.com/a/240004/364080)
 - Flake8: [Github Action flake8 fails: f-string is missing placeholders](https://stackoverflow.com/a/62566118/2989289)
+- SQL: [How do I write a SQL query for a specific date range?](https://stackoverflow.com/a/22290622/2989289)
 
 ## Very frist day of true work in this year - 2022-01-13
 ## Checked
