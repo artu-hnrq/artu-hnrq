@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - CS: [RE - Repetition with Star and Plus](https://www.regular-expressions.info/repeat.html)
+- Python: [regular expression condition matching (?(id/name)yes-pattern|no-pattern) usage details](https://blog.katastros.com/a?ID=01600-496d1e3c-eaef-46fb-9691-021924aecd55)
 
 ## Found out that elder place in myself - 2022-01-14
 ##### Checked
