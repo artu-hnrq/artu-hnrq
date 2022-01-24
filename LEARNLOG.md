@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Not able to understand python regex with ?=](https://stackoverflow.com/a/14646991/2989289)
 
+##### Consulted
+- Python: [Regular Expression Syntax](https://docs.python.org/3/library/re.html#regular-expression-syntax)
+
 ##### Read
 - CS: [RE - Repetition with Star and Plus](https://www.regular-expressions.info/repeat.html)
 - Python: [regular expression condition matching (?(id/name)yes-pattern|no-pattern) usage details](https://blog.katastros.com/a?ID=01600-496d1e3c-eaef-46fb-9691-021924aecd55)
