@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Back from one-week vacvation - 2022-01-24
+##### Read
+CS: [RE - Repetition with Star and Plus](https://www.regular-expressions.info/repeat.html)
+
 ## Found out that elder place in myself - 2022-01-14
 ##### Checked
 - Bash: [bash iterate file list, except when empty](https://unix.stackexchange.com/a/240004/364080)
