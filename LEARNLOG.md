@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## From home again - 2022-01-26
+##### Read
+- Python: [Take Advantage of the Enum Class to Implement Enumerations in Python](https://betterprogramming.pub/take-advantage-of-the-enum-class-to-implement-enumerations-in-python-1b65b530e1d)
+
 ## Back from one-week vacvation - 2022-01-24
 ##### Checked
 - Python: [Not able to understand python regex with ?=](https://stackoverflow.com/a/14646991/2989289)
