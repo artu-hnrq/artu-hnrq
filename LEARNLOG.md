@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Luisa's birthday - 2022-01-28
 ##### Read
 - Bash: [Working with strings](https://hackaday.com/2022/01/26/linux-fu-bash-strings/)
+- Linux: [Managing Multiple Versions of Python on Ubuntu 18.04](https://hackersandslackers.com/multiple-versions-python-ubuntu/)
 
 ## From home again - 2022-01-26
 ##### Read
