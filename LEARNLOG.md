@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Git: [How to inject a commit between some two arbitrary commits in the past?](https://stackoverflow.com/a/32315197/2989289)
 - Git: [How to inject a version between some two arbitrary versions in the past?](https://stackoverflow.com/q/46678238/2989289)
+- Python: [Adding members to Python Enums](https://stackoverflow.com/a/35899963/2989289)
 
 ##### Read
 - PyCharm: [PyCharm 2022.1 EAP is open!](https://blog.jetbrains.com/pycharm/2022/01/pycharm-2022-1-eap-is-open/)
