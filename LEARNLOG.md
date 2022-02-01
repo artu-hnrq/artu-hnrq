@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Let's do it right way - 2022-02-01
 ##### Checked
 - Git: [How to inject a commit between some two arbitrary commits in the past?](https://stackoverflow.com/a/32315197/2989289)
+- Git: [How to inject a version between some two arbitrary versions in the past?](https://stackoverflow.com/q/46678238/2989289)
 
 ---
 
