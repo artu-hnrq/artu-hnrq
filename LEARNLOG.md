@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Adding members to Python Enums](https://stackoverflow.com/a/35899963/2989289)
 - Python: [How can I dynamically create derived classes from a base class](https://stackoverflow.com/a/15247892/2989289)
 
+##### Consulted
+- Python: [dataclasses — Data Classes](https://docs.python.org/3/library/dataclasses.html)
+
 ##### Read
 - PyCharm: [PyCharm 2022.1 EAP is open!](https://blog.jetbrains.com/pycharm/2022/01/pycharm-2022-1-eap-is-open/)
 
