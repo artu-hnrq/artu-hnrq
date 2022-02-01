@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Let's do it right way - 2022-02-01
+##### Checked
+- Git: [How to inject a commit between some two arbitrary commits in the past?](https://stackoverflow.com/a/32315197/2989289)
+
+---
+
 ## Caroline's birthday - 2022-01-31
 ##### Checked
 - Chrome: [How to search through all the ajax responses in network tab in Chrome?](https://stackoverflow.com/a/50872863/2989289)
