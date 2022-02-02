@@ -8,7 +8,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Let's do it right way - 2022-02-01
+## New Month, new team, european side - 2022-02-01
 ##### Checked
 - Git: [How to inject a commit between some two arbitrary commits in the past?](https://stackoverflow.com/a/32315197/2989289)
 - Git: [How to inject a version between some two arbitrary versions in the past?](https://stackoverflow.com/q/46678238/2989289)
@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How can I dynamically create derived classes from a base class](https://stackoverflow.com/a/15247892/2989289)
 
 ##### Consulted
+- Django: [first()](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#first)
 - Python: [dataclasses — Data Classes](https://docs.python.org/3/library/dataclasses.html)
 
 ##### Read
