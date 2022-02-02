@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [How to inject a version between some two arbitrary versions in the past?](https://stackoverflow.com/q/46678238/2989289)
 - Python: [Adding members to Python Enums](https://stackoverflow.com/a/35899963/2989289)
 - Python: [How can I dynamically create derived classes from a base class](https://stackoverflow.com/a/15247892/2989289)
+- Python: [a &= b meaning?](https://stackoverflow.com/a/21238905/2989289)
 
 ##### Consulted
 - Django: [first()](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#first)
