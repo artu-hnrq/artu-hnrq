@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Iemanjá day - 2022-02-02
 ##### Checked
 - Python: [Argparse, nargs with 1 required, 1 optional?](https://stackoverflow.com/a/69215990/2989289)
+- Python: [regex match space only](https://stackoverflow.com/a/38162969/2989289)
 
 ## New Month, new team, european side - 2022-02-01
 ##### Checked
