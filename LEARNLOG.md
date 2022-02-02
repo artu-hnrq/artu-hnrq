@@ -15,6 +15,30 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [regexes: How to access multiple matches of a group?](https://stackoverflow.com/a/5060695/2989289)
 - Python: [RegEx with multiple groups?](https://stackoverflow.com/a/4963707/2989289)
 
+##### Read
+- Computer Science: [
+Pitfalls
+Catastrophic Backtracking
+Too Many Repetitions
+Denial of Service
+Making Everything Optional
+Repeated Capturing Group
+Mixing Unicode & 8-bit
+More on This Site
+Introduction
+Regular Expressions Quick Start
+Regular Expressions Tutorial
+Replacement Strings Tutorial
+Applications and Languages
+Regular Expressions Examples
+Regular Expressions Reference
+Replacement Strings Reference
+Book Reviews
+Printable PDF
+About This Site
+RSS Feed & Blog
+Repeating a Capturing Group vs. Capturing a Repeated Group](https://www.regular-expressions.info/captureall.html)
+
 ## New Month, new team, european side - 2022-02-01
 ##### Checked
 - Git: [How to inject a commit between some two arbitrary commits in the past?](https://stackoverflow.com/a/32315197/2989289)
