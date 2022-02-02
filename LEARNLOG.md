@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [regex match space only](https://stackoverflow.com/a/38162969/2989289)
 - Python: [regexes: How to access multiple matches of a group?](https://stackoverflow.com/a/5060695/2989289)
 - Python: [RegEx with multiple groups?](https://stackoverflow.com/a/4963707/2989289)
+- Python: [Display different numbers of decimals in an f-string depending on number's magnitude?](https://stackoverflow.com/a/59060559/2989289)
 
 ##### Consulted
 - PyCharm: [Tool window view modes](https://www.jetbrains.com/help/pycharm/viewing-modes.html)
