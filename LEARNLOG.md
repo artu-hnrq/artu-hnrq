@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Iemanjá day - 2022-02-02
+##### Checked
+- Python: [Argparse, nargs with 1 required, 1 optional?](https://stackoverflow.com/a/69215990/2989289)
+
 ## New Month, new team, european side - 2022-02-01
 ##### Checked
 - Git: [How to inject a commit between some two arbitrary commits in the past?](https://stackoverflow.com/a/32315197/2989289)
