@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [regexes: How to access multiple matches of a group?](https://stackoverflow.com/a/5060695/2989289)
 - Python: [RegEx with multiple groups?](https://stackoverflow.com/a/4963707/2989289)
 
+##### Consulted
+- PyCharm: [Tool window view modes](https://www.jetbrains.com/help/pycharm/viewing-modes.html)
+
 ##### Read
 - Computer Science: [Repeating a Capturing Group vs. Capturing a Repeated Group](https://www.regular-expressions.info/captureall.html)
 
