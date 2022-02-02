@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Iemanjá day - 2022-02-02
 ##### Checked
 - Git: [Reset local repository branch to be just like remote repository HEAD](https://stackoverflow.com/a/1628334/2989289)
+- PyCharm: [detach editor window](https://stackoverflow.com/a/27072579/2989289)
 - Python: [Argparse, nargs with 1 required, 1 optional?](https://stackoverflow.com/a/69215990/2989289)
 - Python: [regex match space only](https://stackoverflow.com/a/38162969/2989289)
 - Python: [regexes: How to access multiple matches of a group?](https://stackoverflow.com/a/5060695/2989289)
