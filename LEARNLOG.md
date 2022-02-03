@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Wonderful medicine of Uni - 2022-02-03
+##### Read
+- PyCharm: [Working with TODO in PyCharm](https://blog.jetbrains.com/pycharm/2013/06/working-with-todo-in-pycharm/)
+
 ## Iemanjá day - 2022-02-02
 ##### Checked
 - Git: [Reset local repository branch to be just like remote repository HEAD](https://stackoverflow.com/a/1628334/2989289)
