@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Wonderful medicine of Uni - 2022-02-03
+##### Checked
+- PyCharm: [How to search through TODO comment list in IntelliJ IDEA?](https://stackoverflow.com/a/38681725/2989289)
+
 ##### Read
 - PyCharm: [Working with TODO in PyCharm](https://blog.jetbrains.com/pycharm/2013/06/working-with-todo-in-pycharm/)
 
