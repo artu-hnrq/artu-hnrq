@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Solomun on Warung - 2022-02-04
+##### Checked
+- Django: [How to catch Django's response of an Ajax call](https://stackoverflow.com/a/62643327/2989289)
+
 ##### Read
 - Django: [How to Work With AJAX Request With Django](https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html)
 
