@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Solomun on Warung - 2022-02-04
+##### Read
+- Django: [How to Work With AJAX Request With Django](https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html)
+
 ## Wonderful medicine of Uni - 2022-02-03
 ##### Checked
 - PyCharm: [How to search through TODO comment list in IntelliJ IDEA?](https://stackoverflow.com/a/38681725/2989289)
