@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Still alive, even after to many dance - 2022-02-07
+##### Checked
+- Git: [Setting upstream branch to remote with different name than your local](https://stackoverflow.com/a/44317554/2989289)
+
 ## Solomun on Warung - 2022-02-04
 ##### Checked
 - Django: [How to catch Django's response of an Ajax call](https://stackoverflow.com/a/62643327/2989289)
