@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Wednesday of study - 2022-02-09
 ##### Checked
 - CS: [Regular expression for 1 number and 3 capital letters](https://stackoverflow.com/a/13514471/2989289)
+- Python: [Infinite integer in Python](https://stackoverflow.com/a/35725065/2989289)
 
 ##### Read
 - Work: [5 Workspace Setup Sites for a Productive Work From Home or Office Desk](https://www.makeuseof.com/workspace-setup-sites-work-from-home-or-office-desk/)
