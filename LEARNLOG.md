@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Wednesday of study - 2022-02-09
 ##### Read
 - Work: [5 Workspace Setup Sites for a Productive Work From Home or Office Desk](https://www.makeuseof.com/workspace-setup-sites-work-from-home-or-office-desk/)
+- Linux: [6 Linux metacharacters I love to use on the command line](https://opensource.com/article/22/2/metacharacters-linux)
 
 ## Still alive, even after to many dance - 2022-02-07
 ##### Checked
