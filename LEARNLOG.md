@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Wednesday of study - 2022-02-09
+##### Checked
+- CS: [Regular expression for 1 number and 3 capital letters](https://stackoverflow.com/a/13514471/2989289)
+
 ##### Read
 - Work: [5 Workspace Setup Sites for a Productive Work From Home or Office Desk](https://www.makeuseof.com/workspace-setup-sites-work-from-home-or-office-desk/)
 - Linux: [6 Linux metacharacters I love to use on the command line](https://opensource.com/article/22/2/metacharacters-linux)
