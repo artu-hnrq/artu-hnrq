@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Python: [When to use __new__ vs. __init__ ?](https://mail.python.org/pipermail/tutor/2008-April/061426.html)
 - Python: [How to use __new__ and __init__ in Python?](https://www.pythonprogramming.in/how-to-use-new-and-init-in-python.html)
+- Pyrhon: [Constructors in Python (__init vs __new__)](https://dev.to/pila/constructors-in-python-init-vs-new-2f9j)
 
 ## It's Friday-day, then saturday and sunday - 2022-02-11
 ##### Checked
