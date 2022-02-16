@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Beauty buterflies in my stomach - 2022-02-16
+##### Checked
+- SQL: [How to select all records from one table that do not exist in another table?](https://stackoverflow.com/a/2686280/2989289)
+
 ## To much magic sent through dance - 2022-02-15
 ##### Read
 - Python: [When to use __new__ vs. __init__ ?](https://mail.python.org/pipermail/tutor/2008-April/061426.html)
