@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Love is blowing - 2022-02-22
 ##### Checked
-- VsCode: [Visual Studio Code how to resolve merge conflicts with git?](https://stackoverflow.com/a/44682439/2989289)
+- Git: [Visual Studio Code how to resolve merge conflicts with git?](https://stackoverflow.com/a/44682439/2989289)
+- Git: [What's the best visual merge tool for Git?](https://stackoverflow.com/a/137141/2989289)
 
 ## Beauty buterflies in my stomach - 2022-02-16
 ##### Checked
