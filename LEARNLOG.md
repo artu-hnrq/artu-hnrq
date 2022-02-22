@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Love is blowing - 2022-02-22
+##### Checked
+- VsCode: [Visual Studio Code how to resolve merge conflicts with git?](https://stackoverflow.com/a/44682439/2989289)
+
 ## Beauty buterflies in my stomach - 2022-02-16
 ##### Checked
 - SQL: [How to select all records from one table that do not exist in another table?](https://stackoverflow.com/a/2686280/2989289)
