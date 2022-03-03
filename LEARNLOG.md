@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Diamantina's fortification - 2022-03-02
+##### Consulted
+- Django: [F() expressions](https://docs.djangoproject.com/en/4.0/ref/models/expressions/#f-expressions)
+
+---
+
 ## Love is blowing - 2022-02-22 
 ##### Checked
 - Git: [Visual Studio Code how to resolve merge conflicts with git?](https://stackoverflow.com/a/44682439/2989289)
