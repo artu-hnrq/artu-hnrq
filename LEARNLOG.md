@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Diamantina's fortification - 2022-03-02
+##### Checked
+- Linux: [Snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks](https://stackoverflow.com/a/71065300/2989289)
+
 ##### Consulted
 - Django: [F() expressions](https://docs.djangoproject.com/en/4.0/ref/models/expressions/#f-expressions)
 
