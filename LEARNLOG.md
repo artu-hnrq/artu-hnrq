@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Losing frequency, enjoying the now - 2022-03-07
+###### Checked
+- Git: [How do you stash an untracked file?](https://stackoverflow.com/a/835561/2989289)
+
 ## Diamantina's fortification - 2022-03-02
 ##### Checked
 - Linux: [Snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks](https://stackoverflow.com/a/71065300/2989289)
