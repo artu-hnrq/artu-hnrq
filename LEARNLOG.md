@@ -8,8 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Dropping the mike in Maceió - 2022-03-09
+##### Checked
+- SQL: [How to multiply column values in SQL Server?](https://stackoverflow.com/a/23951984/2989289)
+
 ## Losing frequency, enjoying the now - 2022-03-07
-###### Checked
+##### Checked
 - Git: [How do you stash an untracked file?](https://stackoverflow.com/a/835561/2989289)
 
 ## Diamantina's fortification - 2022-03-02
