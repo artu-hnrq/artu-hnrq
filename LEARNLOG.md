@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Last weekday - 2022-03-11
+##### Checked
+- Django: [Capturing URL parameters in request.GET](https://stackoverflow.com/a/150518/2989289)
+
 ## Dropping the Mike at Maceió - 2022-03-09
 ##### Checked
 - SQL: [How to multiply column values in SQL Server?](https://stackoverflow.com/a/23951984/2989289)
