@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## First weekday again - 2022-03-14
 ##### Checked
+- Django: [order_by query set, ascending and descending](https://stackoverflow.com/a/9834153/2989289)
 - Python: [Replacing a character from a certain index](https://stackoverflow.com/questions/41752946/replacing-a-character-from-a-certain-index)
 - Python: [How to get the position of a character in Python?](https://stackoverflow.com/questions/2294493/how-to-get-the-position-of-a-character-in-python)
 - Python: [How to find char in string and get all the indexes?](https://stackoverflow.com/questions/11122291/how-to-find-char-in-string-and-get-all-the-indexes)
