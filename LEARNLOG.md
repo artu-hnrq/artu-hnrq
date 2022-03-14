@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## First weekday again - 2022-03-14
+##### Checked
+- Python: [Replacing a character from a certain index](https://stackoverflow.com/questions/41752946/replacing-a-character-from-a-certain-index)
+
 ## Last weekday - 2022-03-11
 ##### Checked
 - Django: [Capturing URL parameters in request.GET](https://stackoverflow.com/a/150518/2989289)
