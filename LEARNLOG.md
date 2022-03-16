@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Missing days, contiunity broken - 2022-03-16
+##### Checked
+- Django: [Accessing a key value pairs in a JsonResponse in Django Unit Testing](https://stackoverflow.com/a/51537214/2989289)
+
 ## First weekday again - 2022-03-14
 ##### Checked
 - Django: [order_by query set, ascending and descending](https://stackoverflow.com/a/9834153/2989289)
