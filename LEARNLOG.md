@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Nevermind - 2022-03-22
+##### Read
+- PyCharm: [Configuring JavaScript debugger](https://www.jetbrains.com/help/pycharm/configuring-javascript-debugger.html#ws_js_debug_default_chrome_user_data)
+
 ## Missing days, contiunity broken - 2022-03-16
 ##### Checked
 - Django: [Accessing a key value pairs in a JsonResponse in Django Unit Testing](https://stackoverflow.com/a/51537214/2989289)
