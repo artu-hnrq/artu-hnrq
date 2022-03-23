@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Forget Everything - 2022-03-23
+##### Checked
+- PyCharm: [Debug Javascript in Django Template](https://stackoverflow.com/a/63080085/2989289)
+
 ## Nevermind - 2022-03-22
 ##### Read
 - PyCharm: [Configuring JavaScript debugger](https://www.jetbrains.com/help/pycharm/configuring-javascript-debugger.html#ws_js_debug_default_chrome_user_data)
