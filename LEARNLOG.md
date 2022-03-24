@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - PyCharm: [Debug Javascript in Django Template](https://stackoverflow.com/a/63080085/2989289)
 
+##### Read
+- [10 Features Why GNOME 42 is the Greatest Release Ever](https://www.debugpoint.com/2022/03/gnome-42-release/)
+
 ## Nevermind - 2022-03-22
 ##### Read
 - PyCharm: [Configuring JavaScript debugger](https://www.jetbrains.com/help/pycharm/configuring-javascript-debugger.html#ws_js_debug_default_chrome_user_data)
