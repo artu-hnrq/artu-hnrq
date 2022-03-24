@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Might getting back - 2022-03-25
+##### Checked
+- Git: [Squash my last X commits together using Git](https://stackoverflow.com/a/5190323/2989289)
+
 ## Forget Everything - 2022-03-23
 ##### Checked
 - PyCharm: [Debug Javascript in Django Template](https://stackoverflow.com/a/63080085/2989289)
