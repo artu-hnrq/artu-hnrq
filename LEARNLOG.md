@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Might getting back - 2022-03-25
 ##### Checked
 - Git: [Squash my last X commits together using Git](https://stackoverflow.com/a/5190323/2989289)
+- Git: [Combining multiple commits before pushing in Git](https://stackoverflow.com/a/6934882/2989289)
 
 ## Forget Everything - 2022-03-23
 ##### Checked
