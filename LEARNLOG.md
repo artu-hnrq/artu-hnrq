@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - PyCharm: [How does pycharm adjust the font size of the interface?](https://developpaper.com/how-does-pycharm-adjust-the-font-size-of-the-interface/)
+- PyCharm: [How To Increase Menu And Tab Font Size In Intellij Jetbrains Pycharm](https://www.adoclib.com/blog/how-to-increase-menu-and-tab-font-size-in-intellij-jetbrains-pycharm-phpstorm-rubymine.html)
 
 ## Might getting back - 2022-03-25
 ##### Checked
