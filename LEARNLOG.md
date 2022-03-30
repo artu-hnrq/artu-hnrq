@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - PyCharm: [How to increase menu and tab font size in JetBrains IDEs](https://stackoverflow.com/a/39216469/2989289)
 
+##### Read
+- PyCharm: [How does pycharm adjust the font size of the interface?](https://developpaper.com/how-does-pycharm-adjust-the-font-size-of-the-interface/)
+
 ## Might getting back - 2022-03-25
 ##### Checked
 - Git: [Squash my last X commits together using Git](https://stackoverflow.com/a/5190323/2989289)
