@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Failed - 2022-03-30
+##### Checked
+- PyCharm: [How to increase menu and tab font size in JetBrains IDEs](https://stackoverflow.com/a/39216469/2989289)
+
 ## Might getting back - 2022-03-25
 ##### Checked
 - Git: [Squash my last X commits together using Git](https://stackoverflow.com/a/5190323/2989289)
