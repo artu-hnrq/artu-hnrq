@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python:? [Combinations between elements in two tuples in Python](https://stackoverflow.com/a/31133002/2989289)
 
+##### Read
+- Django: [Making queries](https://docs.djangoproject.com/en/4.0/topics/db/queries/)
+
 ## Failed - 2022-03-30
 ##### Checked
 - PyCharm: [How to increase menu and tab font size in JetBrains IDEs](https://stackoverflow.com/a/39216469/2989289)
