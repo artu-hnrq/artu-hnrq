@@ -10,10 +10,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## But always trying again - 2022-03-31
 ##### Checked
-- Python:? [Combinations between elements in two tuples in Python](https://stackoverflow.com/a/31133002/2989289)
+- Python: [Combinations between elements in two tuples in Python](https://stackoverflow.com/a/31133002/2989289)
 
 ##### Read
 - Django: [Making queries](https://docs.djangoproject.com/en/4.0/topics/db/queries/)
+- Django: [Compondo querysets no Django utilizando objetos Q()](https://medium.com/@csantosmachado/compondo-querysets-no-django-utilizando-objetos-q-c88bc3f65031)
 
 ## Failed - 2022-03-30
 ##### Checked
