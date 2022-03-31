@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## But always trying again - 2022-03-31
+##### Checked
+- Python:? [Combinations between elements in two tuples in Python](https://stackoverflow.com/a/31133002/2989289)
+
 ## Failed - 2022-03-30
 ##### Checked
 - PyCharm: [How to increase menu and tab font size in JetBrains IDEs](https://stackoverflow.com/a/39216469/2989289)
