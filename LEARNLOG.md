@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## What a mess this timeline is - 2022-04-06
+##### Checked
+- SQL: [How do I get SUM function in MySQL to return '0' if no values are found?](https://stackoverflow.com/a/7602285/2989289)
+
+---
+
 ## But always trying again - 2022-03-31
 ##### Checked
 - Python: [Combinations between elements in two tuples in Python](https://stackoverflow.com/a/31133002/2989289)
