@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - SQL: [UNION Operator](https://www.w3schools.com/sql/sql_union.asp)
+- SQL: [Utilizando o Operador UNION e UNION ALL](https://www.devmedia.com.br/sql-utilizando-o-operador-union-e-union-all/37457)
 
 ## What a mess this timeline is - 2022-04-06
 ##### Checked
