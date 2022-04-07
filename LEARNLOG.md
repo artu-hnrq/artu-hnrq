@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Argparse optional positional arguments?](https://stackoverflow.com/a/4480202/2989289)
 
+##### Read
+- SQL: [UNION Operator](https://www.w3schools.com/sql/sql_union.asp)
+
 ## What a mess this timeline is - 2022-04-06
 ##### Checked
 - Python: [argparse store false if unspecified](https://stackoverflow.com/a/8203679/2989289)
