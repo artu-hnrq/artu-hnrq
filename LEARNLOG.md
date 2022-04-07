@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Two days in a row - 2022-04-07
+##### Checked
+- Python: [Argparse optional positional arguments?](https://stackoverflow.com/a/4480202/2989289)
+
 ## What a mess this timeline is - 2022-04-06
 ##### Checked
 - Python: [argparse store false if unspecified](https://stackoverflow.com/a/8203679/2989289)
