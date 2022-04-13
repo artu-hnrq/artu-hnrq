@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - PyCharm: [Does pycharm have any tool for time-tracking](https://stackoverflow.com/a/62468135/2989289)
 - PyCharm: [How do I time script execution time in PyCharm without adding code every time?](https://stackoverflow.com/a/37303872/2989289)
 
+##### Consulted
+- Django: [Queryset.iterator()](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#iterator)
+
 ## After a rave it's all weird - 2022-04-12
 ##### Checked
 - Django: [When to use or not use iterator() in the django ORM](https://stackoverflow.com/a/12688222/2989289)
