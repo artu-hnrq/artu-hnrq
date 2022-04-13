@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Rushing now
 ##### Checked
 - PyCharm: [Does pycharm have any tool for time-tracking](https://stackoverflow.com/a/62468135/2989289)
+- PyCharm: [How do I time script execution time in PyCharm without adding code every time?](https://stackoverflow.com/a/37303872/2989289)
 
 ## After a rave it's all weird - 2022-04-12
 ##### Checked
