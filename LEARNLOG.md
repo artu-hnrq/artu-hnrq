@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Rushing now
+##### Checked
+- PyCharm: [Does pycharm have any tool for time-tracking](https://stackoverflow.com/a/62468135/2989289)
+
 ## After a rave it's all weird - 2022-04-12
 ##### Checked
 - Django: [When to use or not use iterator() in the django ORM](https://stackoverflow.com/a/12688222/2989289)
