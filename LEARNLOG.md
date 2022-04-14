@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Combining ordering and pagination in Django](https://stackoverflow.com/a/69290780/2989289)
 - Python: [What exactly do "u" and "r" string flags do, and what are raw string literals?](https://stackoverflow.com/a/2081655/2989289)
+- Python: [override __init__ args in __new__](https://stackoverflow.com/a/2484444/2989289)
 
 ##### Read
 - Django: [Efficient Pagination in Django and Postgres](https://pganalyze.com/blog/pagination-django-postgres)
