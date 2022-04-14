@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Does Python have a string 'contains' substring method?](https://stackoverflow.com/a/27138045/2989289)
 - Python: [How do I profile memory usage in Python?](https://stackoverflow.com/a/45679009/2989289)
 - Python: [trigger __new__ without __init__?](https://stackoverflow.com/a/70750135/2989289)
+- Python: [Why does range(start, end) not include end?](https://stackoverflow.com/a/35039558/2989289)
 
 ##### Read
 - Django: [Efficient Pagination in Django and Postgres](https://pganalyze.com/blog/pagination-django-postgres)
