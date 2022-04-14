@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Combining ordering and pagination in Django](https://stackoverflow.com/a/69290780/2989289)
 
+##### Read
+- Django: [Efficient Pagination in Django and Postgres](https://pganalyze.com/blog/pagination-django-postgres)
+
 ## Dad's birthday - 2022-04-13
 ##### Checked
 - PyCharm: [Does pycharm have any tool for time-tracking](https://stackoverflow.com/a/62468135/2989289)
