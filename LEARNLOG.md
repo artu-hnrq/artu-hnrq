@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Django: [Efficient Pagination in Django and Postgres](https://pganalyze.com/blog/pagination-django-postgres)
 - Python: [__new__ and __init__ in Python](https://www.codevoila.com/post/68/new-and-init-in-python)
+- Python: [__new__ magic method explained](https://howto.lintel.in/python-__new__-magic-method-explained/)
 
 ## Dad's birthday - 2022-04-13
 ##### Checked
