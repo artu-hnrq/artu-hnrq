@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Task concluded - 2022-04-14
 ##### Consulted
 - PyCharm: [Run tasks of manage.py](https://www.jetbrains.com/help/pycharm/running-manage-py.html)
+- Python: [PEP 487 – Simpler customisation of class creation](https://peps.python.org/pep-0487/)
 
 ##### Checked
 - Django: [Combining ordering and pagination in Django](https://stackoverflow.com/a/69290780/2989289)
