@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Rushing now
+## Task concluded - 2022-04-14
+##### Checked
+- Django: [Combining ordering and pagination in Django](https://stackoverflow.com/a/69290780/2989289)
+
+## Dad's birthday - 2022-04-13
 ##### Checked
 - PyCharm: [Does pycharm have any tool for time-tracking](https://stackoverflow.com/a/62468135/2989289)
 - PyCharm: [How do I time script execution time in PyCharm without adding code every time?](https://stackoverflow.com/a/37303872/2989289)
