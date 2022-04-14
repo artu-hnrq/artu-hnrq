@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Task concluded - 2022-04-14
+##### Consulted
+- PyCharm: [Run tasks of manage.py](https://www.jetbrains.com/help/pycharm/running-manage-py.html)
+
 ##### Checked
 - Django: [Combining ordering and pagination in Django](https://stackoverflow.com/a/69290780/2989289)
 - Python: [What exactly do "u" and "r" string flags do, and what are raw string literals?](https://stackoverflow.com/a/2081655/2989289)
