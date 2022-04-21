@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Using Python enums to define physical units](https://codereview.stackexchange.com/q/267948/213097)
 - Python: [What are the differences between a `classmethod` and a metaclass method?](https://stackoverflow.com/a/59412323/2989289)
+- Python: [Extending a predefined named tuple](https://stackoverflow.com/a/62160225/2989289)
 
 ## Task concluded - 2022-04-14
 ##### Consulted
