@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## One week passed - 2022-04-21
+##### Checked
+- Python: [Using Python enums to define physical units](https://codereview.stackexchange.com/q/267948/213097)
+
 ## Task concluded - 2022-04-14
 ##### Consulted
 - PyCharm: [Run tasks of manage.py](https://www.jetbrains.com/help/pycharm/running-manage-py.html)
