@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [update date automatically after a value change](https://stackoverflow.com/a/31858537/2989289)
 - Django: [Re-saving a model instance in Django not working](https://stackoverflow.com/a/68370326/2989289)
+- Python: [Subclassing: Is it possible to override a property with a conventional attribute?](https://stackoverflow.com/a/61436665/2989289)
 
 ## One week passed - 2022-04-21
 ##### Checked
