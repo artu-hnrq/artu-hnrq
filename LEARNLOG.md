@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Penultimate week at Maceió - 2022-04-26
+##### Checked
+- Django: [update date automatically after a value change](https://stackoverflow.com/a/31858537/2989289)
+
 ## One week passed - 2022-04-21
 ##### Checked
 - Python: [Using Python enums to define physical units](https://codereview.stackexchange.com/q/267948/213097)
