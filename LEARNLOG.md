@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Tuning into study period - 2022-04-27
+##### Read
+- Python: [Understand how to use NamedTuple and Dataclass](https://towardsdatascience.com/understand-how-to-use-namedtuple-and-dataclass-in-python-e82e535c3691)
+
 ## Penultimate week at Maceió - 2022-04-26
 ##### Checked
 - Django: [update date automatically after a value change](https://stackoverflow.com/a/31858537/2989289)
