@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+### Debugging myself - 2022-05-03
+##### Read
+- PyCharm: [Using Debug Console](https://www.jetbrains.com/help/pycharm/using-debug-console.html#open)
+
+---
+
 ## Knowing myself better one step at time - 2022-04-29
 ##### Checked
 - Django: [How to update a model instance in another model save method in django?](https://stackoverflow.com/a/29203307/2989289)
