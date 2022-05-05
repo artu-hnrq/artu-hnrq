@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Still - 2022-05-05
+##### Checked
+- Python: [Mock vs MagicMock](https://stackoverflow.com/questions/17181687/mock-vs-magicmock)
+
 ## Refactoring myself - 2022-05-04
 ##### Checked
 - Postgres: [select * from existing table - psql says table does not exist](https://stackoverflow.com/a/28240494/2989289)
