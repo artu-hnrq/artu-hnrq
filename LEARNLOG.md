@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How to pass the arguments to the new_callable from mock.patch?](https://stackoverflow.com/questions/50749380/how-to-pass-the-arguments-to-the-new-callable-from-mock-patch)
 - Python: [Mocking python function based on input arguments](https://stackoverflow.com/q/16162015/2989289)
 - Python: [Mocking Functions Using Python Mock](https://stackoverflow.com/a/44573949/2989289)
+- Python: [Using python's mock patch.object to change the return value of a method called within another method](https://stackoverflow.com/a/30502738/2989289)
 
 ## Refactoring myself - 2022-05-04
 ##### Checked
