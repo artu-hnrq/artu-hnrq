@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Still - 2022-05-05
 ##### Checked
+- PyTest: [@pytest.mark.parametrize: parametrizing test functions](https://docs.pytest.org/en/6.2.x/parametrize.html)
 - Python: [Mock vs MagicMock](https://stackoverflow.com/questions/17181687/mock-vs-magicmock)
 - Python: [How to pass the arguments to the new_callable from mock.patch?](https://stackoverflow.com/questions/50749380/how-to-pass-the-arguments-to-the-new-callable-from-mock-patch)
 - Python: [Mocking python function based on input arguments](https://stackoverflow.com/q/16162015/2989289)
