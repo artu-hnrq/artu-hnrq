@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Now getting cold from Urubici - 2022-05-12
 ##### Checked
 - Django: [distinguish between get / post in view's methods](https://stackoverflow.com/a/33574745/2989289)
+- Django: [Creating a JSON response](https://stackoverflow.com/a/2428119/2989289)
 
 ## Still - 2022-05-05
 ##### Checked
