@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [distinguish between get / post in view's methods](https://stackoverflow.com/a/33574745/2989289)
 - Django: [Creating a JSON response](https://stackoverflow.com/a/2428119/2989289)
 
+##### Read
+- Django: [QueryDict objects](https://docs.djangoproject.com/en/dev/ref/request-response/#querydict-objects)
+
 ## Still - 2022-05-05
 ##### Checked
 - PyTest: [@pytest.mark.parametrize: parametrizing test functions](https://docs.pytest.org/en/6.2.x/parametrize.html)
