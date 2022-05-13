@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Finally going back to home - 2022-05-13
 ##### Checked
 - Django: [Concatenating into a new field in a Django query](https://stackoverflow.com/a/50682754/2989289)
+- Django: [Get only certain fields of related object in Django](https://stackoverflow.com/a/41106361/2989289)
 
 ## Now getting cold from Urubici - 2022-05-12
 ##### Checked
