@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## From Florianópolis again - 2022-05-16
+##### Read
+- Django: [HttpRequest objects](https://docs.djangoproject.com/en/4.0/ref/request-response/#httprequest-objects)
+
 ## Finally going back to home - 2022-05-13
 ##### Checked
 - Django: [Concatenating into a new field in a Django query](https://stackoverflow.com/a/50682754/2989289)
