@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Commiting up - 2022-05-20
+##### Consulted
+- PyCharm: [Configure an interpreter using Docker](https://www.jetbrains.com/help/pycharm/using-docker-as-a-remote-interpreter.html)
+
 ## She will come to visit me - 2022-05-19
 ##### Read
 - Git: [checkout specific files from another branch](https://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
