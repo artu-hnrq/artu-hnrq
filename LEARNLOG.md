@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Commiting up - 2022-05-20
+##### Checked
+- Django: [How to execute a Python script from the Django shell?](https://stackoverflow.com/a/16853799/2989289)
+
 ##### Consulted
 - PyCharm: [Configure an interpreter using Docker](https://www.jetbrains.com/help/pycharm/using-docker-as-a-remote-interpreter.html)
 
