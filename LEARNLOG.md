@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How to revert the last migration?](https://stackoverflow.com/a/32124113/2989289)
 - DRF: [How can I set default value in serializers?](https://stackoverflow.com/a/39403037/2989289)
 - DRF: [adding additional field to ModelSerializer](https://stackoverflow.com/a/50271303/2989289)
+- DRF: [allow a serializer field to be created, but not edited](https://stackoverflow.com/a/53028351/2989289)
 
 ##### Read
 - Django: [Parsing Unsupported Requests (PUT, DELETE, etc.)](https://thihara.github.io/Django-Req-Parsing/)
