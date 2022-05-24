@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Starting to get the pace - 2022-05-24
 ##### Checked
 - Django: [How to revert the last migration?](https://stackoverflow.com/a/32124113/2989289)
+- DRF: [How can I set default value in serializers?](https://stackoverflow.com/a/39403037/2989289)
 
 ## Fully energized now - 2022-05-23
 ##### Checked
