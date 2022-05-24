@@ -15,7 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - DRF: [adding additional field to ModelSerializer](https://stackoverflow.com/a/50271303/2989289)
 
 ##### Read
-Django: [Parsing Unsupported Requests (PUT, DELETE, etc.)](https://thihara.github.io/Django-Req-Parsing/)
+- Django: [Parsing Unsupported Requests (PUT, DELETE, etc.)](https://thihara.github.io/Django-Req-Parsing/)
 
 ## Fully energized now - 2022-05-23
 ##### Checked
