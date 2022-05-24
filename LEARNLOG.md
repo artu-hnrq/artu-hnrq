@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Starting to get the pace - 2022-05-24
+##### Consulted
+- Django: [reverse()](https://docs.djangoproject.com/en/4.0/ref/urlresolvers/#django.urls.reverse)
+
 ##### Checked
 - Django: [How to revert the last migration?](https://stackoverflow.com/a/32124113/2989289)
 - DRF: [How can I set default value in serializers?](https://stackoverflow.com/a/39403037/2989289)
