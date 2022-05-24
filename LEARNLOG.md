@@ -8,6 +8,14 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Starting to get the pace - 2022-05-24
+##### Checked
+- Django: [How to revert the last migration?](https://stackoverflow.com/a/32124113/2989289)
+
+## Fully energized now - 2022-05-23
+##### Checked
+- Postgres: [How to sort by biggest ID to smallest in PostgreSQL](https://stackoverflow.com/a/50012221/2989289)
+
 ## Commiting up - 2022-05-20
 ##### Checked
 - Django: [How to execute a Python script from the Django shell?](https://stackoverflow.com/a/16853799/2989289)
