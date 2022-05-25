@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Totally droped in love for Lizy - 2022-05-25
+##### Consulted
+- Web: [HTTP response status codes > 201 Created](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)
+
 ## Starting to get the pace - 2022-05-24
 ##### Consulted
 - Django: [reverse()](https://docs.djangoproject.com/en/4.0/ref/urlresolvers/#django.urls.reverse)
