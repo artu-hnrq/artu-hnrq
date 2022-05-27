@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Bruce's killed himself - 2022-05-27
+##### Checked
+- Django: [How can I programmatically obtain the max_length of a Django model field?](https://stackoverflow.com/a/1829286/2989289)
+
 ## In call with my love - 2022-05-26
 ##### Checked
 - Django: [What's the difference between CharField and TextField](https://stackoverflow.com/q/7354588/2989289)
