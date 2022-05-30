@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How to filter objects for count annotation in Django?](https://stackoverflow.com/a/48649024/2989289)
 - Django: [Combine ~Q and F in Django?](https://stackoverflow.com/a/52373368/2989289)
 
+##### Consulted
+- Django: [icontains](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#icontains)
+
 ##### Read
 - Django: [QuerySet annotations with conditions](https://able.bio/dfernsby/django-queryset-annotations-with-conditions--19d4cb4b)
 
