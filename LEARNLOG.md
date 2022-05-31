@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Too much to happen - 2022-05-31
+##### Checked
+- Django: [Datetime changing on JSON response](https://stackoverflow.com/a/65213888/2989289)
+
 ## Living in deep love - 2022-05-30
 ##### Checked
 - Django: [How to filter objects for count annotation in Django?](https://stackoverflow.com/a/48649024/2989289)
