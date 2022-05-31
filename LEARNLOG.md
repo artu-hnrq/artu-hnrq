@@ -15,8 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Datetime changing on JSON response](https://stackoverflow.com/a/65213888/2989289)
 - Django: [ManyToManyField ordering using through](https://stackoverflow.com/a/10911820/2989289)
-- PyTest: [How to properly assert that an exception gets raised in pytest?](https://stackoverflow.com/a/29855337/2989289)
 - Git: [How do I check out a remote Git branch?](https://stackoverflow.com/a/1783426/2989289)
+- - PyTest: [How to properly assert that an exception gets raised in pytest?](https://stackoverflow.com/a/29855337/2989289)
+- PyTest: [AttributeError: 'ExceptionInfo' object has no attribute 'traceback' when using pytest to assert exceptions](https://stackoverflow.com/a/51325426/2989289)
 
 ## Living in deep love - 2022-05-30
 ##### Checked
