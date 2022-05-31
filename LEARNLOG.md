@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Too much to happen - 2022-05-31
+##### Consulted
+- PyTest: [raises](https://docs.pytest.org/en/stable/reference/reference.html?highlight=raises#pytest-raises)
+
 ##### Checked
 - Django: [Datetime changing on JSON response](https://stackoverflow.com/a/65213888/2989289)
 - Django: [ManyToManyField ordering using through](https://stackoverflow.com/a/10911820/2989289)
