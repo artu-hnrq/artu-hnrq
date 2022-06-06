@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Just forgot everything - 2022-06-06
+##### Checked
+- Docker: [Error checking context](https://stackoverflow.com/a/63316291/2989289)
+
+---
+
 ## Too much to happen - 2022-05-31
 ##### Consulted
 - PyTest: [raises](https://docs.pytest.org/en/stable/reference/reference.html?highlight=raises#pytest-raises)
