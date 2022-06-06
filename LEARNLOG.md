@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Just forgot everything - 2022-06-06
+##### Consulted
+- Django: [Middleware](https://docs.djangoproject.com/en/4.0/topics/http/middleware/)
+
 ##### Checked
 - Docker: [Error checking context](https://stackoverflow.com/a/63316291/2989289)
 
