@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Questioning - 2022-06-08
+##### Read
+- Web: [gRPC vs. REST: Getting Started With the Best API Protocol](https://www.toptal.com/grpc/grpc-vs-rest-api)
+
 ## Just forgot everything - 2022-06-06
 ##### Consulted
 - Django: [Middleware](https://docs.djangoproject.com/en/4.0/topics/http/middleware/)
