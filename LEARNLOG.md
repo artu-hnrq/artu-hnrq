@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Trust on love all the way up - 2022-06-09
+##### Read
+- PyCharm: [2022.2 EAP is open!](https://blog.jetbrains.com/pycharm/2022/05/pycharm-2022-2-eap-is-open/)
+
 ## Questioning - 2022-06-08
 ##### Read
 - Web: [gRPC vs. REST: Getting Started With the Best API Protocol](https://www.toptal.com/grpc/grpc-vs-rest-api)
