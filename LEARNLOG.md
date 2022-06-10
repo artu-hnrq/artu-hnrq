@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Good morning, my litte sunshine - 2022-06-10
+##### Checked
+- Bash: [Read a variable in bash with a default value](https://stackoverflow.com/a/6703730/2989289)
+
 ## Trust on love all the way up - 2022-06-09
 ##### Read
 - PyCharm: [2022.2 EAP is open!](https://blog.jetbrains.com/pycharm/2022/05/pycharm-2022-2-eap-is-open/)
