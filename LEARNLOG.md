@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Good morning, my litte sunshine - 2022-06-10
 ##### Checked
 - Bash: [Read a variable in bash with a default value](https://stackoverflow.com/a/6703730/2989289)
+- Bash: [Bash script running other bash scripts with user input](https://stackoverflow.com/a/64678092/2989289)
 
 ## Trust on love all the way up - 2022-06-09
 ##### Read
