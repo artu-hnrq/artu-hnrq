@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Bash: [Read a variable in bash with a default value](https://stackoverflow.com/a/6703730/2989289)
 - Bash: [Bash script running other bash scripts with user input](https://stackoverflow.com/a/64678092/2989289)
+- Bash: [Automatically enter input in command line](https://askubuntu.com/a/338860/689894)
 
 ## Trust on love all the way up - 2022-06-09
 ##### Read
