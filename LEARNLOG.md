@@ -14,6 +14,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Bash script running other bash scripts with user input](https://stackoverflow.com/a/64678092/2989289)
 - Bash: [Automatically enter input in command line](https://askubuntu.com/a/338860/689894)
 
+## It's saturday - 2022-06-11
+##### Watched
+- [10 Git Things You Wish You Knew… in PyCharm](https://youtu.be/2aqFz5p1Jdg) - YouTube
+
 ## Trust on love all the way up - 2022-06-09
 ##### Read
 - PyCharm: [2022.2 EAP is open!](https://blog.jetbrains.com/pycharm/2022/05/pycharm-2022-2-eap-is-open/)
