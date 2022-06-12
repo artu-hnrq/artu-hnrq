@@ -8,15 +8,19 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## It's saturday - 2022-06-11
+##### Watched
+- [10 Git Things You Wish You Knew… in PyCharm](https://youtu.be/2aqFz5p1Jdg) - YouTube
+
+##### Checked
+- Python: [How can I bind a function to an object instance using decorator?](https://stackoverflow.com/a/54040916/2989289)
+
+
 ## Good morning, my litte sunshine - 2022-06-10
 ##### Checked
 - Bash: [Read a variable in bash with a default value](https://stackoverflow.com/a/6703730/2989289)
 - Bash: [Bash script running other bash scripts with user input](https://stackoverflow.com/a/64678092/2989289)
 - Bash: [Automatically enter input in command line](https://askubuntu.com/a/338860/689894)
-
-## It's saturday - 2022-06-11
-##### Watched
-- [10 Git Things You Wish You Knew… in PyCharm](https://youtu.be/2aqFz5p1Jdg) - YouTube
 
 ## Trust on love all the way up - 2022-06-09
 ##### Read
