@@ -9,12 +9,14 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## It's saturday - 2022-06-11
-##### Watched
-- [10 Git Things You Wish You Knew… in PyCharm](https://youtu.be/2aqFz5p1Jdg) - YouTube
-
 ##### Checked
 - Python: [How can I bind a function to an object instance using decorator?](https://stackoverflow.com/a/54040916/2989289)
 
+##### Read
+- Python: [5 Advanced Tips on Python Decorators](https://towardsdatascience.com/5-advanced-tips-on-python-decorators-113307d5a92c)
+
+##### Watched
+- [10 Git Things You Wish You Knew… in PyCharm](https://youtu.be/2aqFz5p1Jdg) - YouTube
 
 ## Good morning, my litte sunshine - 2022-06-10
 ##### Checked
