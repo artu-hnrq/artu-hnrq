@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Git: [.gitconfig [alias] doesn't recognize strings](https://stackoverflow.com/a/25454284/2989289)
 - Git: [Which is the file format of ~/.gitconfig?](https://stackoverflow.com/a/68461700/2989289)
+- Python: [Import only a class static method](https://stackoverflow.com/a/12603576/2989289)
 
 ## It's saturday - 2022-06-11
 ##### Checked
