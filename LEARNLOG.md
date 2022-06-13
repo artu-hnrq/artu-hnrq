@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How can I make a deepcopy of a function in Python?](https://stackoverflow.com/a/30714299/2989289)
 - Python: [Bind an Unbound Method?](https://stackoverflow.com/a/1015405/2989289)
 
+##### Read
+- Python: [Adding methods to Python classes](https://block.arch.ethz.ch/blog/2016/07/adding-methods-to-python-classes/)
+
 ## It's saturday - 2022-06-11
 ##### Checked
 - Python: [How can I bind a function to an object instance using decorator?](https://stackoverflow.com/a/54040916/2989289)
