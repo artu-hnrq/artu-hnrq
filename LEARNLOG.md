@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Python: [Adding methods to Python classes](https://block.arch.ethz.ch/blog/2016/07/adding-methods-to-python-classes/)
+- Python: [Dynamically Add a Method to a Class in Python](https://mgarod.medium.com/dynamically-add-a-method-to-a-class-in-python-c49204b85bd6)
 
 ## It's saturday - 2022-06-11
 ##### Checked
