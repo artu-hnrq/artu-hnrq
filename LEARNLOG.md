@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Eleven days until she comes - 2022-06-13
+##### Checked
+- Git: [.gitconfig [alias] doesn't recognize strings](https://stackoverflow.com/a/25454284/2989289)
+
 ## It's saturday - 2022-06-11
 ##### Checked
 - Python: [How can I bind a function to an object instance using decorator?](https://stackoverflow.com/a/54040916/2989289)
