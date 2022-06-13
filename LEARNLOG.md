@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Import only a class static method](https://stackoverflow.com/a/12603576/2989289)
 - Python: [Is there a generic way for a function to reference itself?](https://stackoverflow.com/a/5063783/2989289)
 - Python: [How can I make a deepcopy of a function in Python?](https://stackoverflow.com/a/30714299/2989289)
+- Python: [Bind an Unbound Method?](https://stackoverflow.com/a/1015405/2989289)
 
 ## It's saturday - 2022-06-11
 ##### Checked
