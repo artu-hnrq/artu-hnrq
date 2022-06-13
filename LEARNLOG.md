@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Is there a generic way for a function to reference itself?](https://stackoverflow.com/a/5063783/2989289)
 - Python: [How can I make a deepcopy of a function in Python?](https://stackoverflow.com/a/30714299/2989289)
 - Python: [Bind an Unbound Method?](https://stackoverflow.com/a/1015405/2989289)
+- Python: [How do I bind an existing instance method in one class to another class?](https://stackoverflow.com/questions/6627387/how-do-i-bind-an-existing-instance-method-in-one-class-to-another-class)
 
 ##### Read
 - Python: [Adding methods to Python classes](https://block.arch.ethz.ch/blog/2016/07/adding-methods-to-python-classes/)
