@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Calling Lizy - 2022-06-15
 ##### Read
 - Dev: [Code Writing Code: An Introduction to the Theory and Practice of Modern Metaprogramming](https://www.toptal.com/julia/code-writing-code-modern-metaprogamming)
+- Postgres: [How to List Databases and Tables in PostgreSQL Using psql](https://chartio.com/resources/tutorials/how-to-list-databases-and-tables-in-postgresql-using-psql/)
 
 ## Eleven days until she comes - 2022-06-13
 ##### Checked
