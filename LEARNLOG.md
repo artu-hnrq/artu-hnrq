@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Calling Lizy - 2022-06-15
+##### Read
+- Dev: [Code Writing Code: An Introduction to the Theory and Practice of Modern Metaprogramming](https://www.toptal.com/julia/code-writing-code-modern-metaprogamming)
+
 ## Eleven days until she comes - 2022-06-13
 ##### Checked
 - Git: [.gitconfig [alias] doesn't recognize strings](https://stackoverflow.com/a/25454284/2989289)
