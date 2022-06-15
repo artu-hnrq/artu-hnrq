@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Calling Lizy - 2022-06-15
+##### Consulted
+- SQL: [DELETE Statement](https://www.w3schools.com/sql/sql_delete.asp)
+
 ##### Read
 - Dev: [Code Writing Code: An Introduction to the Theory and Practice of Modern Metaprogramming](https://www.toptal.com/julia/code-writing-code-modern-metaprogamming)
 - Postgres: [How to List Databases and Tables in PostgreSQL Using psql](https://chartio.com/resources/tutorials/how-to-list-databases-and-tables-in-postgresql-using-psql/)
