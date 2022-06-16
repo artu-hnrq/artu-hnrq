@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## More than twenty four hours - 2022-06-16
+##### Read
+- Python: [Global Variable in Python – Non-Local Python Variables](https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/)
+
 ## Calling Lizy - 2022-06-15
 ##### Consulted
 - SQL: [DELETE Statement](https://www.w3schools.com/sql/sql_delete.asp)
