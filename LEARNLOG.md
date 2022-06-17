@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## All solved - 2022-06-17
+##### Checked
+- Python: [How to mock a readonly property with mock?](https://stackoverflow.com/a/25424012/2989289)
+
 ## More than twenty four hours - 2022-06-16
 ##### Read
 - Python: [Global Variable in Python – Non-Local Python Variables](https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/)
