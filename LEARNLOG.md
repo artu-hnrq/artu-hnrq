@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - PyTest: [raises](https://docs.pytest.org/en/7.1.x/reference/reference.html#pytest-raises)
 - Dev: [How To Automatically Generate A Helpful Changelog From Your Git Commit Messages](https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/)
+- Dev: [Automating Version Tags and Changelogs for your Python Projects](https://towardsdatascience.com/automating-version-tags-and-changelogs-for-your-python-projects-6c46b68c7139)
 
 ## More than twenty four hours - 2022-06-16
 ##### Read
