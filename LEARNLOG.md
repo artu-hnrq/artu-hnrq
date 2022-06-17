@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [How to mock a readonly property with mock?](https://stackoverflow.com/a/25424012/2989289)
 - Python: [Create a "with" block on several context managers?](https://stackoverflow.com/a/46481946/2989289)
 
+##### Read
+- PyTest: [raises](https://docs.pytest.org/en/7.1.x/reference/reference.html#pytest-raises)
+
 ## More than twenty four hours - 2022-06-16
 ##### Read
 - Python: [Global Variable in Python – Non-Local Python Variables](https://www.freecodecamp.org/news/global-variable-in-python-non-local-python-variables/)
