@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Last week without her - 2022-06-20
+##### Tracked
+- [Add pre-commit hook that will run Commitizen on git commit](https://github.com/commitizen/cz-cli/issues/801)
+
 ## All solved - 2022-06-17
 ##### Checked
 - Python: [How to mock a readonly property with mock?](https://stackoverflow.com/a/25424012/2989289)
