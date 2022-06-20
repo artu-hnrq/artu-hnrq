@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Last week without her - 2022-06-20
 ##### Tracked
 - [Add pre-commit hook that will run Commitizen on git commit](https://github.com/commitizen/cz-cli/issues/801)
+- PyCharm: [2022.1.3 RC - Professional Edition (build 221.5921.12, June 16, 2022)](https://youtrack.jetbrains.com/articles/PY-A-23004355/JetBrains-PyCharm-Preview-EAP)
 
 ## All solved - 2022-06-17
 ##### Checked
