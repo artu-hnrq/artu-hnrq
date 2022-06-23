@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Python: [Getting Started with Python Pre-commit Hooks](https://towardsdatascience.com/getting-started-with-python-pre-commit-hooks-28be2b2d09d5)
 
+##### Tracked
+- PyCharm: [Integration with pre-commit Python hooks](https://youtrack.jetbrains.com/issue/PY-45757)
+
 ## Last week without her - 2022-06-20
 ##### Tracked
 - [Add pre-commit hook that will run Commitizen on git commit](https://github.com/commitizen/cz-cli/issues/801)
