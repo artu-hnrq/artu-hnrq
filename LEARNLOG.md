@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Superset: [API](https://superset.apache.org/docs/api/)
 
 ##### Checked
+- Django: [Multiple url patterns starting at the root spread across files](https://stackoverflow.com/a/11618280/2989289)
 - PyCharm: [Use of pre-commit with PyCharm](https://stackoverflow.com/questions/63663562/use-of-pre-commit-with-pycharm)
 
 ##### Discovered
