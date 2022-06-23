@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Last day without her - 2022-06-23
+##### Consulted
+- Django: [URL dispatcher](https://docs.djangoproject.com/en/4.0/topics/http/urls/)
+
 ##### Checked
 - PyCharm: [Use of pre-commit with PyCharm](https://stackoverflow.com/questions/63663562/use-of-pre-commit-with-pycharm)
 
