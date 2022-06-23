@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Last day without her - 2022-06-23
 ##### Consulted
 - Django: [URL dispatcher](https://docs.djangoproject.com/en/4.0/topics/http/urls/)
+- Superset: [API](https://superset.apache.org/docs/api/)
 
 ##### Checked
 - PyCharm: [Use of pre-commit with PyCharm](https://stackoverflow.com/questions/63663562/use-of-pre-commit-with-pycharm)
