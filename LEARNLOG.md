@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## She's flying to me - 2022-06-24
+##### Checked
+- Superset: [How do I change the column names of a table in Apache Superset?](https://stackoverflow.com/a/62564389/2989289)
+
 ##### Read
 - Superset: [Understanding the Superset Semantic Layer](https://preset.io/blog/understanding-superset-semantic-layer/)
 
