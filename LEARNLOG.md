@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## She's flying to me - 2022-06-24
+##### Read
+- Superset: [Understanding the Superset Semantic Layer](https://preset.io/blog/understanding-superset-semantic-layer/)
+
 ## Last day without her - 2022-06-23
 ##### Consulted
 - Django: [URL dispatcher](https://docs.djangoproject.com/en/4.0/topics/http/urls/)
