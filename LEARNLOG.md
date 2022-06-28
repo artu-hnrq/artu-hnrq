@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## She is here loving me - 2022-06-28
+##### Checked
+- Unix: [sudo with password in one command line?](https://superuser.com/a/67766/1063603)
+
 ## She's flying to me - 2022-06-24
 ##### Checked
 - Superset: [How do I change the column names of a table in Apache Superset?](https://stackoverflow.com/a/62564389/2989289)
