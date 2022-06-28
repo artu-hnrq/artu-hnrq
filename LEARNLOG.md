@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## She is here loving me - 2022-06-28
+##### Consulted
+- Docker: [Extends](https://docs.docker.com/compose/extends/)
+
 ##### Checked
 - Unix: [How do I run specific sudo commands without a password?](https://askubuntu.com/a/159009/689894)
 - Unix: [sudo with password in one command line?](https://superuser.com/a/67766/1063603)
