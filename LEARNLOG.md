@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Unix: [How to avoid being prompted for a password by sudo?](https://askubuntu.com/a/470466/689894)
 - Unix: [How to run sudo command with no password?](https://askubuntu.com/a/192062/689894)
 
+##### Read
+- PyCharm: [Debugging a Containerized Django App](https://testdriven.io/blog/django-debugging-pycharm/)
+
 ## She's flying to me - 2022-06-24
 ##### Checked
 - Superset: [How do I change the column names of a table in Apache Superset?](https://stackoverflow.com/a/62564389/2989289)
