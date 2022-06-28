@@ -10,10 +10,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## She is here loving me - 2022-06-28
 ##### Checked
+- Unix: [How do I run specific sudo commands without a password?](https://askubuntu.com/a/159009/689894)
 - Unix: [sudo with password in one command line?](https://superuser.com/a/67766/1063603)
 - Unix: [How to pass the password to su/sudo/ssh without overriding the TTY?](https://stackoverflow.com/a/4327123/2989289)
 - Unix: [run a sudo command, specifying the password on the same line](https://unix.stackexchange.com/a/275507/364080)
-- Uunix: [How to avoid being prompted for a password by sudo?](https://askubuntu.com/a/470466/689894)
+- Unix: [How to avoid being prompted for a password by sudo?](https://askubuntu.com/a/470466/689894)
 - Unix: [How to run sudo command with no password?](https://askubuntu.com/a/192062/689894)
 
 ## She's flying to me - 2022-06-24
