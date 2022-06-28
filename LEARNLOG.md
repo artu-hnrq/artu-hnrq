@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## She is here loving me - 2022-06-28
 ##### Checked
 - Unix: [sudo with password in one command line?](https://superuser.com/a/67766/1063603)
+- Unix: [How to pass the password to su/sudo/ssh without overriding the TTY?](https://stackoverflow.com/a/4327123/2989289)
 
 ## She's flying to me - 2022-06-24
 ##### Checked
