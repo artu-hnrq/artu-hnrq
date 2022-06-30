@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Last day at SSP 6 401 - 2022-06-30
+##### Checked
+- SQL: [How to perform string does not equal](https://stackoverflow.com/a/16324521/2989289)
+
 ##### Read
 - PyCharm: [2022.2 EAP 4 Is Out!](https://blog.jetbrains.com/pycharm/2022/06/2022-3-eap-4/)
 - PyCharm: [Keep Shortcuts Close, but Quick Lists and Favorites Closer](https://blog.jetbrains.com/idea/2020/11/quick-lists-and-favorites/)
