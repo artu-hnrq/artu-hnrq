@@ -10,7 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Last day at SSP 6 401 - 2022-06-30
 ##### Checked
-- SQL: [How to perform string does not equal](https://stackoverflow.com/a/16324521/2989289)
+- SQL: [How to perform string does not equal!](https://stackoverflow.com/a/16324521/2989289)
 
 ##### Read
 - PyCharm: [2022.2 EAP 4 Is Out!](https://blog.jetbrains.com/pycharm/2022/06/2022-3-eap-4/)
