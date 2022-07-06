@@ -8,7 +8,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Comming back from a nature trip - 2022-07-06
+## Comming back from a trip on nature - 2022-07-06
 ##### Watched
 - PyCharm: [Faster Django Queries With Materialized Views](https://youtu.be/qcTGppyu1nw) - YouTube
 
