@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Comming back from a nature trip - 2022-07-06
+##### Watched
+- PyCharm: [Faster Django Queries With Materialized Views](https://youtu.be/qcTGppyu1nw) - YouTube
+
+---
+
 ## Last day at SSP 6 401 - 2022-06-30
 ##### Checked
 - SQL: [How to perform string does not equal!](https://stackoverflow.com/a/16324521/2989289)
