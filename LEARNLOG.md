@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Looking ahead to get the pace back - 2022-07-07
 ##### Checked
 - Docker: [ERROR: 2 matches found based on name: network <nameofservice>_default is ambiguous](https://stackoverflow.com/a/67473621/2989289)
+  Django: [What is the difference between null=True and blank=True in Django?](https://stackoverflow.com/a/8609425/2989289)
 
 ## Comming back from a trip on nature - 2022-07-06
 ##### Watched
