@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Docker: [ERROR: 2 matches found based on name: network <nameofservice>_default is ambiguous](https://stackoverflow.com/a/67473621/2989289)
   Django: [What is the difference between null=True and blank=True in Django?](https://stackoverflow.com/a/8609425/2989289)
+  Django: [In Django models.py, what's the difference between default, null, and blank?](https://stackoverflow.com/a/4384131/2989289)
 
 ## Comming back from a trip on nature - 2022-07-06
 ##### Watched
