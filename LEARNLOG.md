@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Home internet connection difficult - 2022-07-08
+##### Checked
+- Django: [Annotating a Sum results in None rather than zero](https://stackoverflow.com/a/35413920/2989289)
+
 ## Looking ahead to get the pace back - 2022-07-07
 ##### Checked
 - Docker: [ERROR: 2 matches found based on name: network <nameofservice>_default is ambiguous](https://stackoverflow.com/a/67473621/2989289)
