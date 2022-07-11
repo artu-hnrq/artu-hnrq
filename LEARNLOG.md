@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Being turned off of Simplelegal - 2022-07-12
+##### Checked
+- Python: [How to move a file in Python?](https://stackoverflow.com/a/8858026/2989289)
+
 ## Fighting the fear of change - 2022-07-11
 ##### Checked
 - Django: [How to create new field in output by annotate() with default value?](https://stackoverflow.com/a/58303651/2989289)
