@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [How to create new field in output by annotate() with default value?](https://stackoverflow.com/a/58303651/2989289)
 - PyCharm: [How to get PyCharm to format a JSON file](https://stackoverflow.com/a/72229925/2989289)
+- Unix: [The place to store user data in Linux](https://superuser.com/a/897783/1063603)
 
 ##### Consulted
 - Django: [Supported arithmetic](https://docs.djangoproject.com/en/4.0/ref/models/expressions/#supported-arithmetic)
