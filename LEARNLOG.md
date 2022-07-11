@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Being turned off of Simplelegal - 2022-07-12
 ##### Checked
+- Git: [git push between two remote repositories](https://stackoverflow.com/a/62396288/2989289)
 - Python: [How to move a file in Python?](https://stackoverflow.com/a/8858026/2989289)
 
 ##### Read
