@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Watched
 - GCP: [How to use Cloud Storage with the command-line tool](https://youtu.be/M_urADGk9BQ) - YouTube
+- Unix: [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4)
 
 ## Home internet connection difficult - 2022-07-08
 ##### Checked
