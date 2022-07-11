@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [How to move a file in Python?](https://stackoverflow.com/a/8858026/2989289)
 
+##### Read
+- Python: [shutil.move() method](https://www.geeksforgeeks.org/python-shutil-move-method/)
+
 ## Fighting the fear of change - 2022-07-11
 ##### Checked
 - Django: [How to create new field in output by annotate() with default value?](https://stackoverflow.com/a/58303651/2989289)
