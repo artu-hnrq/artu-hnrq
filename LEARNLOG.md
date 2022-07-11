@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [Supported arithmetic](https://docs.djangoproject.com/en/4.0/ref/models/expressions/#supported-arithmetic)
+- Django: [Using F() with annotations](https://docs.djangoproject.com/en/4.0/ref/models/expressions/#using-f-with-annotations)
 
 ## Home internet connection difficult - 2022-07-08
 ##### Checked
