@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Aggregation](https://docs.djangoproject.com/en/4.0/topics/db/aggregation/)
 - Django: [Coalesce](https://docs.djangoproject.com/en/4.0/ref/models/database-functions/#coalesce)
 - Django: [Executing custom SQL directly](https://docs.djangoproject.com/en/4.0/topics/db/sql/#executing-custom-sql-directly)
+- PyCharm: [Reformat and rearrange code](https://www.jetbrains.com/help/pycharm/reformat-and-rearrange-code.html)
 
 ##### Watched
 - GCP: [How to use Cloud Storage with the command-line tool](https://youtu.be/M_urADGk9BQ) - YouTube
