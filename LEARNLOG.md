@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Using F() with annotations](https://docs.djangoproject.com/en/4.0/ref/models/expressions/#using-f-with-annotations)
 - Django: [Aggregation](https://docs.djangoproject.com/en/4.0/topics/db/aggregation/)
 - Django: [Coalesce](https://docs.djangoproject.com/en/4.0/ref/models/database-functions/#coalesce)
+- Django: [Executing custom SQL directly](https://docs.djangoproject.com/en/4.0/topics/db/sql/#executing-custom-sql-directly)
 
 ## Home internet connection difficult - 2022-07-08
 ##### Checked
