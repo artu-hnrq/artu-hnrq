@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Fighting the fear of change - 2022-07-11
+##### Checked
+- Django: [How to create new field in output by annotate() with default value?](https://stackoverflow.com/a/58303651/2989289)
+
 ## Home internet connection difficult - 2022-07-08
 ##### Checked
 - Django: [Annotating a Sum results in None rather than zero](https://stackoverflow.com/a/35413920/2989289)
