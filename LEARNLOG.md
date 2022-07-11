@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Git: [git push between two remote repositories](https://stackoverflow.com/a/62396288/2989289)
 - Python: [How to move a file in Python?](https://stackoverflow.com/a/8858026/2989289)
+- Python: [How do I link directories in python (Linux cmd ln -s equivalent)?](https://stackoverflow.com/a/49182816/2989289)
 
 ##### Read
 - Python: [shutil.move() method](https://www.geeksforgeeks.org/python-shutil-move-method/)
