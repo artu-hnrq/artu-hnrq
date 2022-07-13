@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Jumped on cold Poção - 2022-07-13
+##### Checked
+- Git: [GitLab rename branch and start over on another](https://stackoverflow.com/a/35119087/2989289)
+
 ## Being turned off of Simplelegal - 2022-07-12
 ##### Checked
 - Git: [git push between two remote repositories](https://stackoverflow.com/a/62396288/2989289)
