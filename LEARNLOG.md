@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - [openstack/cliff](https://github.com/openstack/cliff) - Command Line Interface Formulation Framework. Mirror of code maintained at opendev.org.
 - [datafolklabs / cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [ialbert/plac](https://github.com/ialbert/plac) - Parsing the Command Line the Easy Way
+- [google/python-fire](https://github.com/google/python-fire/) - Library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 ## Jumped on cold Poção - 2022-07-13
 ##### Checked
