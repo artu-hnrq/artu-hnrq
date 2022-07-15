@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Creating a CLI - 2022-07-15
 ##### Consulted
+- Python: [Using cliff](https://docs.openstack.org/cliff/latest/user/index.html)
 - Python: [Cemente - Framework Overview](https://docs.builtoncement.com/getting-started/framework-overview)
 
 ##### Read
