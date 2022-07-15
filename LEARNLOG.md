@@ -22,6 +22,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Dev: [REVL - Read–eval–print loop](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 - Python: [Command-line Applications](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/scenarios/cli.html)
 - Python: [setup.py vs setup.cfg](https://towardsdatascience.com/setuptools-python-571e7d5500f2)
+- Python: [5 Best Practices for Versioning Your Python Packages](https://blog.inedo.com/python-best-practices-for-versioning-python-packages-in-the-enterprise)
 
 ##### Sourced
 - [openstack/cliff](https://github.com/openstack/cliff) - Command Line Interface Formulation Framework. Mirror of code maintained at opendev.org.
