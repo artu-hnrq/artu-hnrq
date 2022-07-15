@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Creating a CLI - 2022-07-15
 ##### Checked
 - Python: [Standard way to embed version into Python package?](https://stackoverflow.com/a/459185/2989289)
+- Python: [Uninstalled pre-commit preventing 'git commit'](https://stackoverflow.com/a/71589181/2989289)
 
 ##### Consulted
 - Python: [Using cliff](https://docs.openstack.org/cliff/latest/user/index.html)
