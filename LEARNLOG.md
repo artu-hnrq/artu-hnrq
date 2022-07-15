@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [setup.py vs setup.cfg](https://towardsdatascience.com/setuptools-python-571e7d5500f2)
 - Python: [5 Best Practices for Versioning Your Python Packages](https://blog.inedo.com/python-best-practices-for-versioning-python-packages-in-the-enterprise)
 - Python: [Python Package Versions](https://martin-thoma.com/python-package-versions/)
+- Python: [Version String Management in Python: Introducing python-versioneer](https://blog.mozilla.org/warner/2012/01/31/version-string-management-in-python-introducing-python-versioneer/)
 
 ##### Sourced
 - [openstack/cliff](https://github.com/openstack/cliff) - Command Line Interface Formulation Framework. Mirror of code maintained at opendev.org.
