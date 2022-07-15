@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Creating a CLI - 2022-07-15
+##### Consulted
+- Python: [Cemente - Framework Overview](https://docs.builtoncement.com/getting-started/framework-overview)
+
 ##### Read
 - Python: [Command-line Applications](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/scenarios/cli.html)
 
