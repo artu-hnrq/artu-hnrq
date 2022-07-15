@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Python: [Using cliff](https://docs.openstack.org/cliff/latest/user/index.html)
 - Python: [Cemente - Framework Overview](https://docs.builtoncement.com/getting-started/framework-overview)
+- Python: [PEP 396 – Module Version Numbers](https://peps.python.org/pep-0396/)
 
 ##### Read
 - Dev: [REVL - Read–eval–print loop](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
