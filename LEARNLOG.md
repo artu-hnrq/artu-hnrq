@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Nomadic saturday - 2022-07-16
+##### Consulted
+- Python: [Entry points specification](https://packaging.python.org/en/latest/specifications/entry-points/)
+
 ## Creating a CLI - 2022-07-15
 ##### Checked
 - Python: [Standard way to embed version into Python package?](https://stackoverflow.com/a/459185/2989289)
