@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [Entry points specification](https://packaging.python.org/en/latest/specifications/entry-points/)
+- Make: [8.2 Functions for String Substitution and Analysis](https://www.gnu.org/software/make/manual/html_node/Text-Functions.html)
 
 ## Creating a CLI - 2022-07-15
 ##### Checked
