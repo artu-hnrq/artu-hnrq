@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Nomadic saturday - 2022-07-16
+##### Checked
+- Python: [Referring to existing distutils options inside setup.cfg and setup.py](https://stackoverflow.com/a/30679041/2989289)
+
 ##### Consulted
 - Python: [Entry points specification](https://packaging.python.org/en/latest/specifications/entry-points/)
 
