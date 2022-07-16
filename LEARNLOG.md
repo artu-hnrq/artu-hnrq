@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Nomadic saturday - 2022-07-16
 ##### Checked
 - Python: [Referring to existing distutils options inside setup.cfg and setup.py](https://stackoverflow.com/a/30679041/2989289)
+- Make: [Wildcard to obtain list of all directories](https://stackoverflow.com/a/13898309/2989289)
 
 ##### Consulted
 - Python: [Entry points specification](https://packaging.python.org/en/latest/specifications/entry-points/)
