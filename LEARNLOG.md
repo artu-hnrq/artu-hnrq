@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Backing from space - 2022-07-18
+##### Read
+- Python: [Cemente - Beginner Tutorial](https://docs.builtoncement.com/getting-started/beginner-tutorial/part-1-creating-your-first-project)
+
 ## Nomadic saturday - 2022-07-16
 ##### Checked
 - Make: [Wildcard to obtain list of all directories](https://stackoverflow.com/a/13898309/2989289)
