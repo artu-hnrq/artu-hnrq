@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [Welcome to TinyDB!](https://tinydb.readthedocs.io/en/latest/)
+- Python: [Cement - API Reference](https://cement.readthedocs.io/en/latest/)
 
 ##### Read
 - Python: [How to Get Started with TinyDB in Python](https://www.section.io/engineering-education/getting-started-with-tinydb-in-python/#disadvantage-of-tinydb)
