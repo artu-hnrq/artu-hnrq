@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [nested dataclasses to dict](https://stackoverflow.com/a/70152929/2989289)
 - Python: [How to create an optional field in a dataclass that is inherited?](https://stackoverflow.com/a/61562009/2989289)
 - Jinja: [jinja2 how to remove trailing newline](https://stackoverflow.com/a/36871282/2989289)
+- TinyDB: [get all IDs in list query](https://stackoverflow.com/a/41326004/2989289)
 
 ##### Consulted
 - Python: [Welcome to TinyDB!](https://tinydb.readthedocs.io/en/latest/)
