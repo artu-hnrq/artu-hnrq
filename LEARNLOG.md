@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Python: [Cemente - Beginner Tutorial](https://docs.builtoncement.com/getting-started/beginner-tutorial/part-1-creating-your-first-project)
 - Python: [Source code for cement.core.meta](https://cement.readthedocs.io/en/3.0/_modules/cement/core/meta/)
+- Python: [Cement - Interfaces and Handlers](https://docs.builtoncement.com/core-foundation/interfaces-and-handlers)
 
 ## Nomadic saturday - 2022-07-16
 ##### Checked
