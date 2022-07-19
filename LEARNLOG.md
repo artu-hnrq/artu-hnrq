@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Starting early - 2022-07-19
+##### Checked
+- Python: [How to override Jinja2 extension settings in Cement Framework?](https://stackoverflow.com/a/65197106/2989289)
+
 ##### Consulted
 - Python: [Welcome to TinyDB!](https://tinydb.readthedocs.io/en/latest/)
 
