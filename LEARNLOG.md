@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Starting early - 2022-07-19
 ##### Checked
 - Python: [How to override Jinja2 extension settings in Cement Framework?](https://stackoverflow.com/a/65197106/2989289)
+- Python: [How can I use a list[customClass] as type with @dataclass](https://stackoverflow.com/a/55097615/2989289)
 - Jinja: [jinja2 how to remove trailing newline](https://stackoverflow.com/a/36871282/2989289)
 
 ##### Consulted
