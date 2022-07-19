@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Starting early - 2022-07-19
+##### Consulted
+- Python: [Welcome to TinyDB!](https://tinydb.readthedocs.io/en/latest/)
+
 ## Backing from space - 2022-07-18
 ##### Read
 - Python: [Cemente - Beginner Tutorial](https://docs.builtoncement.com/getting-started/beginner-tutorial/part-1-creating-your-first-project)
