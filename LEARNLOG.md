@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - TinyDB: [get all IDs in list query](https://stackoverflow.com/a/41326004/2989289)
 
+##### Consulted
+- Python: [Standard operators as functions](https://docs.python.org/3/library/operator.html)
+
 ## Starting early - 2022-07-19
 ##### Checked
 - Python: [How to override Jinja2 extension settings in Cement Framework?](https://stackoverflow.com/a/65197106/2989289)
