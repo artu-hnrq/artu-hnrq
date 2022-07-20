@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Last days with Simplelegal - 2022-07-20
 ##### Checked
 - TinyDB: [get all IDs in list query](https://stackoverflow.com/a/41326004/2989289)
+- DRF: [Order by Serializer Method Field](https://stackoverflow.com/a/61887055/2989289)
 
 ##### Consulted
 - Python: [Standard operators as functions](https://docs.python.org/3/library/operator.html)
