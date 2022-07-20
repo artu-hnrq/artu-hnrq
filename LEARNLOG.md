@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [Standard operators as functions](https://docs.python.org/3/library/operator.html)
+- DRF: [Serializer relations](https://www.django-rest-framework.org/api-guide/relations/)
 
 ## Starting early - 2022-07-19
 ##### Checked
