@@ -14,8 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - DRF: [Order by Serializer Method Field](https://stackoverflow.com/a/61887055/2989289)
 
 ##### Consulted
-- Python: [Standard operators as functions](https://docs.python.org/3/library/operator.html)
+- Django: [Managers](https://docs.djangoproject.com/en/4.0/topics/db/managers/)
 - DRF: [Serializer relations](https://www.django-rest-framework.org/api-guide/relations/)
+- Python: [Standard operators as functions](https://docs.python.org/3/library/operator.html)
 
 ## Starting early - 2022-07-19
 ##### Checked
