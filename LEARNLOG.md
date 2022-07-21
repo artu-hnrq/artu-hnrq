@@ -17,6 +17,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - PyCharm: [Import delimiter-separated values into a database](https://www.jetbrains.com/help/pycharm/import-data.html#import_csv)
 
+##### Read
+- DRF: [Dynamic Nested Serialization](https://medium.com/django-rest/django-rest-framework-creating-product-backend-71b5d3ab19d9)
+
 ## Last days with Simplelegal - 2022-07-20
 ##### Checked
 - TinyDB: [get all IDs in list query](https://stackoverflow.com/a/41326004/2989289)
