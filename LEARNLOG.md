@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Custom QuerySet and Manager without breaking DRY?](https://stackoverflow.com/a/2163921/2989289)
 - Python: [How can I dynamically create derived classes from a base class](https://stackoverflow.com/a/15247892/2989289)
 
+##### Consulted
+- PyCharm: [Import delimiter-separated values into a database](https://www.jetbrains.com/help/pycharm/import-data.html#import_csv)
+
 ## Last days with Simplelegal - 2022-07-20
 ##### Checked
 - TinyDB: [get all IDs in list query](https://stackoverflow.com/a/41326004/2989289)
