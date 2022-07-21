@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Finishing left tasks - 2022-07-21
 ##### Checked
 - Django: [Custom QuerySet and Manager without breaking DRY?](https://stackoverflow.com/a/2163921/2989289)
+- DRF: [nested serializer order](https://stackoverflow.com/a/48249910/2989289)
 - Python: [How can I dynamically create derived classes from a base class](https://stackoverflow.com/a/15247892/2989289)
 
 ##### Consulted
