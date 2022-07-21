@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Finishing left tasks - 2022-07-21
+##### Checked
+- Python: [How can I dynamically create derived classes from a base class](https://stackoverflow.com/a/15247892/2989289)
+
 ## Last days with Simplelegal - 2022-07-20
 ##### Checked
 - TinyDB: [get all IDs in list query](https://stackoverflow.com/a/41326004/2989289)
