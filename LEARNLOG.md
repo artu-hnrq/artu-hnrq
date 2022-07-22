@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Unalome cerimony day - 2022-07-22
 ##### Checked
 - PyCharm: [2022.2 Release Candidate Is Available](https://blog.jetbrains.com/pycharm/2022/07/2022-2-rc/)
+- Python: [Get the name of a decorated function?](https://stackoverflow.com/a/42086220/2989289)
 
 ## Finishing left tasks - 2022-07-21
 ##### Checked
