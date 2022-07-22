@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Unalome cerimony day - 2022-07-22
+##### Checked
+- PyCharm: [2022.2 Release Candidate Is Available](https://blog.jetbrains.com/pycharm/2022/07/2022-2-rc/)
+
 ## Finishing left tasks - 2022-07-21
 ##### Checked
 - Django: [Custom QuerySet and Manager without breaking DRY?](https://stackoverflow.com/a/2163921/2989289)
