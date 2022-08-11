@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Now from Maceió - 2022-08-11
+##### Checked
+- Python: [Creating a simple XML file using python](https://stackoverflow.com/a/3605831/2989289)
+
 ##### Read
 - PyCharm: [What’s New in PyCharm 2022.2](https://www.jetbrains.com/pycharm/whatsnew/)
 
