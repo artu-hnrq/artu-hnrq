@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - PyCharm: [What’s New in PyCharm 2022.2](https://www.jetbrains.com/pycharm/whatsnew/)
+- Python: [The subprocess Module: Wrapping Programs With Python](https://realpython.com/python-subprocess/#the-decoding-of-standard-streams)
 
 ---
 
