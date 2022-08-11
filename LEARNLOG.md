@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [Creating a simple XML file using python](https://stackoverflow.com/a/3605831/2989289)
 
+##### Consult
+- Python: [The ElementTree XML API](https://docs.python.org/3/library/xml.etree.elementtree.html)
+
 ##### Read
 - PyCharm: [What’s New in PyCharm 2022.2](https://www.jetbrains.com/pycharm/whatsnew/)
 
