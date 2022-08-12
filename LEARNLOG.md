@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - PyCharm: [Update PyCharm on Linux](https://stackoverflow.com/a/45382732/2989289)
 - Gnome: [Terminal not opening up after upgrading python](https://askubuntu.com/a/1157104/689894)
+- Python: [Upgrade python packages from requirements.txt using pip command](https://stackoverflow.com/a/43642296/2989289)
 
 ##### Consulted
 - PyCharm: [Update via Snap](https://www.jetbrains.com/help/pycharm/update.html#snap)
