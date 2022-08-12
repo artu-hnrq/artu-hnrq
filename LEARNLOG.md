@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - PyCharm: [Update via Snap](https://www.jetbrains.com/help/pycharm/update.html#snap)
 
+##### Read
+- Python: [Installing multiple alternative versions of Python on Ubuntu 20.04](https://towardsdatascience.com/installing-multiple-alternative-versions-of-python-on-ubuntu-20-04-237be5177474)
+
 ## Now from Maceió - 2022-08-11
 ##### Checked
 - Python: [Creating a simple XML file using python](https://stackoverflow.com/a/3605831/2989289)
