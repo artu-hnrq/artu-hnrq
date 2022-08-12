@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Working on Fragatron again - 2022-08-12
+##### Checked
+- PyCharm: [Update PyCharm on Linux](https://stackoverflow.com/a/45382732/2989289)
+
 ## Now from Maceió - 2022-08-11
 ##### Checked
 - Python: [Creating a simple XML file using python](https://stackoverflow.com/a/3605831/2989289)
