@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - PyCharm: [Update PyCharm on Linux](https://stackoverflow.com/a/45382732/2989289)
 
+##### Consulted
+- PyCharm: [Update via Snap](https://www.jetbrains.com/help/pycharm/update.html#snap)
+
 ## Now from Maceió - 2022-08-11
 ##### Checked
 - Python: [Creating a simple XML file using python](https://stackoverflow.com/a/3605831/2989289)
