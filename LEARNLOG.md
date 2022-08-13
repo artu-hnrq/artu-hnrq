@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Trying to maintain consistence once again - 2022-08-13
 ##### Checked
+- Git: [How can I git stash a specific file?](https://stackoverflow.com/a/70178603/2989289)
 - Linux: [How to update-alternatives to Python 3 without breaking apt?](https://stackoverflow.com/a/46335142/2989289)
 - Python: [Pip is not working for Python 3.10 on Ubuntu](https://stackoverflow.com/a/69527217/2989289)
 
