@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Trying to maintain consistence once again - 2022-08-13
+##### Checked
+- Python: [Pip is not working for Python 3.10 on Ubuntu](https://stackoverflow.com/a/69527217/2989289)
+
 ## Working on Fragatron again - 2022-08-12
 ##### Checked
 - PyCharm: [Update PyCharm on Linux](https://stackoverflow.com/a/45382732/2989289)
