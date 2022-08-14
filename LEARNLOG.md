@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Python: [Relative imports for the billionth time](https://stackoverflow.com/a/14132912/2989289)
 - Markdown: [How to draw checkbox or tick mark in GitHub Markdown table?](https://stackoverflow.com/a/47344640/2989289)
 
+##### Consulted
+- Django: [Django 4.1 released](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
+
 ## Trying to maintain consistence once again - 2022-08-13
 ##### Checked
 - Git: [How can I git stash a specific file?](https://stackoverflow.com/a/70178603/2989289)
