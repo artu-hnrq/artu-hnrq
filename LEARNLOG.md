@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted:
 - Make: [5.1 Recipe Syntax](https://www.gnu.org/software/make/manual/html_node/Recipe-Syntax.html)
+- Python: [pathlib — Object-oriented filesystem paths](https://docs.python.org/3/library/pathlib.html)
 - XDG: [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 
 ##### Read
