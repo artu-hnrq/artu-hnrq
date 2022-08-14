@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Studying late night - 2022-08-14
+##### Checked
+- Python: [Relative imports for the billionth time](https://stackoverflow.com/a/14132912/2989289)
+
 ## Trying to maintain consistence once again - 2022-08-13
 ##### Checked
 - Git: [How can I git stash a specific file?](https://stackoverflow.com/a/70178603/2989289)
