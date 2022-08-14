@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted:
 - Make: [5.1 Recipe Syntax](https://www.gnu.org/software/make/manual/html_node/Recipe-Syntax.html)
+- XDG: [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 
 ##### Read
 - Linux: [How to Use update-alternatives Command on Ubuntu](https://linuxhint.com/update_alternatives_ubuntu/)
