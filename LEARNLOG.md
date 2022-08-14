@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Linux: [What goes in /var?](https://stackoverflow.com/questions/18514447/what-goes-in-var)
 - Linux: [Where should I store my application files (data, cache, logs, crashes, etc.)](https://unix.stackexchange.com/a/487751/364080)
 - Linux: [Where to store application data (non-user specific) on Linux](https://stackoverflow.com/a/1510352/2989289)
+- Linux: [What is the Linux equivalent to Windows' Program Files?](https://askubuntu.com/a/551932/689894)
 - Python: [Pip is not working for Python 3.10 on Ubuntu](https://stackoverflow.com/a/69527217/2989289)
 - Python: [Excluding a top-level directory from a setuptools package](https://stackoverflow.com/questions/608855/excluding-a-top-level-directory-from-a-setuptools-package)
 - Python: [What is __main__.py?](https://stackoverflow.com/a/36320295/2989289)
