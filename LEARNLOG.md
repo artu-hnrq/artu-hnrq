@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Studying late night - 2022-08-14
 ##### Checked
 - Python: [Relative imports for the billionth time](https://stackoverflow.com/a/14132912/2989289)
+- Markdown: [How to draw checkbox or tick mark in GitHub Markdown table?](https://stackoverflow.com/a/47344640/2989289)
 
 ## Trying to maintain consistence once again - 2022-08-13
 ##### Checked
