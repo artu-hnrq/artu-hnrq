@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Structuring a CLI - 2022-08-15
+##### Consulted
+- Python: [dir([object])](https://docs.python.org/3/library/functions.html#dir)
+
 ##### Read
 - Cement: [Part 1: Creating Your First Project](https://docs.builtoncement.com/getting-started/beginner-tutorial/part-1-creating-your-first-project)
 
