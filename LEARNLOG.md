@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Structuring a CLI - 2022-08-15
+##### Read
+- Cement: [Part 1: Creating Your First Project](https://docs.builtoncement.com/getting-started/beginner-tutorial/part-1-creating-your-first-project)
+
 ## Studying late night - 2022-08-14
 ##### Checked
 - Python: [Relative imports for the billionth time](https://stackoverflow.com/a/14132912/2989289)
