@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [Django 4.1 released](https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/)
+- Cement: [Framework Overview](https://docs.builtoncement.com/getting-started/framework-overview)
 
 ## Trying to maintain consistence once again - 2022-08-13
 ##### Checked
