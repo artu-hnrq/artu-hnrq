@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [dir([object])](https://docs.python.org/3/library/functions.html#dir)
+- Python: [__main__.py in Python Packages](https://docs.python.org/3/library/__main__.html#main-py-in-python-packages)
 
 ##### Read
 - Cement: [Part 1: Creating Your First Project](https://docs.builtoncement.com/getting-started/beginner-tutorial/part-1-creating-your-first-project)
