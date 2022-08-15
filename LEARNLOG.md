@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Structuring a CLI - 2022-08-15
 ##### Checked
 - Python: [What to put in a python module docstring?](https://stackoverflow.com/a/7373383/2989289)
+- Python: [Is __init__.py not required for packages in Python 3.3+](https://stackoverflow.com/a/48804718/2989289)
 
 ##### Consulted
 - Python: [dir([object])](https://docs.python.org/3/library/functions.html#dir)
