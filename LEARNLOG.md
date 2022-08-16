@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Coding before sleep - 2022-08-16
+##### Consulted
+- Python: [Twine](https://twine.readthedocs.io/en/latest/)
+
 ## Structuring a CLI - 2022-08-15
 ##### Checked
 - Python: [What to put in a python module docstring?](https://stackoverflow.com/a/7373383/2989289)
