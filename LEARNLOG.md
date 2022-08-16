@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Coding before sleep - 2022-08-16
+##### Checked
+- Setuptools: [know in advance the wheel filename of a native library](https://stackoverflow.com/a/60644659/2989289)
+
 ##### Consulted
 - Python: [Twine](https://twine.readthedocs.io/en/latest/)
 
