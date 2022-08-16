@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Coding before sleep - 2022-08-16
 ##### Checked
+- Github: [How to run GitHub Actions workflows locally?](https://stackoverflow.com/a/59988803/2989289)
 - Make: [What's the difference between := and = in Makefile?](https://stackoverflow.com/a/65850656/2989289)
 - Setuptools: [know in advance the wheel filename of a native library](https://stackoverflow.com/a/60644659/2989289)
 
