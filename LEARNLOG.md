@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Commiting all the way up - 2022-08-17
+##### Checked
+- Make: [Wildcard to obtain list of all directories](https://stackoverflow.com/a/13898309/2989289)
+
 ##### Sourced
 - Django: [django/utils/version.py](https://github.com/django/django/blob/main/django/utils/version.py)
 
