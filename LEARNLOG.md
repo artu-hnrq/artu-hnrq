@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Make: [Wildcard to obtain list of all directories](https://stackoverflow.com/a/13898309/2989289)
 - Make: [execute python from makefile using $(shell ...)](https://stackoverflow.com/a/19729756/2989289)
 
+##### Read
+- Python: [Understanding Python imports, __init__.py and pythonpath — once and for all](https://towardsdatascience.com/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355)
+
 ##### Sourced
 - Django: [django/utils/version.py](https://github.com/django/django/blob/main/django/utils/version.py)
 
