@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Git: [How to abort a cherry-pick?](https://stackoverflow.com/a/16826728/2989289)
 - Git: [mergetool generates unwanted .orig files](https://stackoverflow.com/a/1251696/2989289)
+- Git: [How do you push a tag to a remote repository using Git?](https://stackoverflow.com/a/5195913/2989289)
 - Make: [Wildcard to obtain list of all directories](https://stackoverflow.com/a/13898309/2989289)
 - Make: [execute python from makefile using $(shell ...)](https://stackoverflow.com/a/19729756/2989289)
 
