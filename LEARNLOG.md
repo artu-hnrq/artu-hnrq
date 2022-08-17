@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Commiting all the way up - 2022-08-17
+##### Sourced
+- Django: [django/utils/version.py](https://github.com/django/django/blob/main/django/utils/version.py)
+
 ## Coding before sleep - 2022-08-16
 ##### Checked
 - Github: [How to run GitHub Actions workflows locally?](https://stackoverflow.com/a/59988803/2989289)
