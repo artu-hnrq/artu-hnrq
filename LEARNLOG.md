@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Planting a Cement - 2022-08-18
+##### Consulted
+- Cement: [cement.ext.ext_yaml](https://cement.readthedocs.io/en/3.0/api/ext/ext_yaml/)
+
 ## Commiting all the way up - 2022-08-17
 ##### Checked
 - Git: [How to abort a cherry-pick?](https://stackoverflow.com/a/16826728/2989289)
