@@ -10,7 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Planting a Cement - 2022-08-18
 ##### Consulted
-- Cement: [cement.ext.ext_yaml](https://cement.readthedocs.io/en/3.0/api/ext/ext_yaml/)
+- Cement: actions/setup-python - [cement.ext.ext_yaml](https://cement.readthedocs.io/en/3.0/api/ext/ext_yaml/)
 
 ## Commiting all the way up - 2022-08-17
 ##### Checked
@@ -23,6 +23,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Python: [6. Modules](https://docs.python.org/3.10/tutorial/modules.html)
+
+##### Sourced
+- Github: [Check latest version](https://github.com/actions/setup-python/blob/main/docs/advanced-usage.md#check-latest-version)
 
 ##### Read
 - Python: [Understanding Python imports, __init__.py and pythonpath — once and for all](https://towardsdatascience.com/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355)
