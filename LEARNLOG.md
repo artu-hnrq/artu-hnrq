@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Sourced
 - Cement: [cement/core/foundation.py](https://github.com/datafolklabs/cement/blob/main/cement/core/foundation.py)
 
+##### Consulted
+- PyPA: [Recording installed projects](https://packaging.python.org/en/latest/specifications/recording-installed-packages/)
+
 ## Planting a Cement - 2022-08-18
 ##### Consulted
 - Cement: actions/setup-python - [cement.ext.ext_yaml](https://cement.readthedocs.io/en/3.0/api/ext/ext_yaml/)
