@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Day to finish it up - 2022-08-19
+##### Checked
+- Python: [How to customize a requirements.txt for multiple environments?](https://stackoverflow.com/a/20720019/2989289)
+
 ##### Read
 - Python: [Decorators: From Simple Decorators to Nesting Multiple](https://towardsdatascience.com/python-decorators-from-simple-decorators-to-nesting-multiple-33bbab8c5a45)
 - Python: [Better Python dependency while packaging your project](https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1)
