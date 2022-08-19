@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Day to finish it up - 2022-08-19
 ##### Read
 - Python: [Decorators: From Simple Decorators to Nesting Multiple](https://towardsdatascience.com/python-decorators-from-simple-decorators-to-nesting-multiple-33bbab8c5a45)
+- Python: [Better Python dependency while packaging your project](https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1)
 
 ##### Sourced
 - Cement: [cement/core/foundation.py](https://github.com/datafolklabs/cement/blob/main/cement/core/foundation.py)
