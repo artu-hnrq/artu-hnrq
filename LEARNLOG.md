@@ -8,7 +8,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Day to finish it up - 2022-08-19 
+## Day to finish it up - 2022-08-19
 ##### Checked
 - Python: [How to customize a requirements.txt for multiple environments?](https://stackoverflow.com/a/20720019/2989289)
 
