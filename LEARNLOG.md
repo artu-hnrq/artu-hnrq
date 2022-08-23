@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Cleaning externaly to clean up internally - 2022-08-23
+##### Consulted
+- Python: [class inspect.Parameter]([class inspect.Parameter](https://docs.python.org/3/library/inspect.html#inspect.Parameter))
+
 ## Getting back from Bug vs Under
 ##### Checked
 - Python: [list function argument names](https://stackoverflow.com/a/3517911)
