@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Getting back from Bug vs Under
+##### Checked
+- Python: [list function argument names](https://stackoverflow.com/a/3517911)
+
 ##### Read
 - Celery: [Asynchronous Tasks With Django and Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/#handle-workloads-asynchronously-with-celery)
 
