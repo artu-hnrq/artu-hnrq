@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Cleaning externaly to clean up internally - 2022-08-23
 ##### Consulted
-- Python: [class inspect.Parameter]([class inspect.Parameter](https://docs.python.org/3/library/inspect.html#inspect.Parameter))
+- Python: [class inspect.Parameter]([class inspect.Parameter](https://docs.python.org/3/library/inspect.html#inspect.Parameter)
+- Python: [operator — Standard operators as functions](https://docs.python.org/3/library/operator.html)
 
 ## Getting back from Bug vs Under
 ##### Checked
