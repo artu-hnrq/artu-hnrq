@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Fragatroning out away - 2022-08-25
 ##### Checked
+- Git: [How to verify valid format of URL as a git repo?](https://stackoverflow.com/a/23984356/2989289)
 - Unix: [What does the 'rc' in `.bashrc`, etc. mean?](https://superuser.com/a/173167/1063603)
 
 ## Cleaning externaly to clean up internally - 2022-08-23
