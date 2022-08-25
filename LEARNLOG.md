@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Fragatroning out away - 2022-08-25
+##### Checked
+- Unix: [What does the 'rc' in `.bashrc`, etc. mean?](https://superuser.com/a/173167/1063603)
+
 ## Cleaning externaly to clean up internally - 2022-08-23
 ##### Consulted
 - Cement: [Introduction to Hooks](https://docs.builtoncement.com/core-foundation/hooks)
