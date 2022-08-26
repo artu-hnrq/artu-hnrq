@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Watching and coding - 2022-08-26
+##### Checked
+- Python: [Getting the target of a symbolic link with pathlib](https://stackoverflow.com/a/44052420/2989289)
+
 ##### Consulted
 - [GitPython Tutorial](https://gitpython.readthedocs.io/en/stable/tutorial.html)
 
