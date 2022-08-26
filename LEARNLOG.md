@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Watching and coding - 2022-08-26
+##### Consulted
+- [GitPython Tutorial](https://gitpython.readthedocs.io/en/stable/tutorial.html)
+
 ## Fragatroning out away - 2022-08-25
 ##### Checked
 - Git: [How to verify valid format of URL as a git repo?](https://stackoverflow.com/a/23984356/2989289)
