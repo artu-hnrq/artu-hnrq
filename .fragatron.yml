@@ -1,0 +1,5 @@
+fragatron:
+    debug: true
+
+    plugins:
+        - instance
