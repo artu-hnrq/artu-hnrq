@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Jane's birthday - 2022-08-27
+##### Consulted
+- Python: [git.repo.base.Repo](https://gitpython.readthedocs.io/en/stable/reference.html#git.repo.base.Repo)
+
 ## Watching and coding - 2022-08-26
 ##### Checked
 - Python: [Getting the target of a symbolic link with pathlib](https://stackoverflow.com/a/44052420/2989289)
