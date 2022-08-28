@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## It's already tomorrow - 2022-08-28
+##### Checked
+- Python: [Get relative path from comparing two absolute paths](https://stackoverflow.com/a/57153766/2989289)
+
 ## Jane's birthday - 2022-08-27
 ##### Checked
 - Python: [Elegant ways to support equivalence ("equality") in Python classes](https://stackoverflow.com/a/25176504/2989289)
