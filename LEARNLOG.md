@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## It's already tomorrow - 2022-08-28
 ##### Checked
 - Python: [Get relative path from comparing two absolute paths](https://stackoverflow.com/a/57153766/2989289)
+- Python: [How to document class attributes in Python?](https://stackoverflow.com/a/69754746/2989289)
 
 ## Jane's birthday - 2022-08-27
 ##### Checked
