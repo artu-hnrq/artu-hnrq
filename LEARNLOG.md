@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Jane's birthday - 2022-08-27
+##### Checked
+- Python: [Elegant ways to support equivalence ("equality") in Python classes](https://stackoverflow.com/a/25176504/2989289)
+
 ##### Consulted
 - Python: [git.repo.base.Repo](https://gitpython.readthedocs.io/en/stable/reference.html#git.repo.base.Repo)
 - Python: [3.3. Special method names](https://docs.python.org/3/reference/datamodel.html#special-method-names)
