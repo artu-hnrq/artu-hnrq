@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Jane's birthday - 2022-08-27
 ##### Consulted
 - Python: [git.repo.base.Repo](https://gitpython.readthedocs.io/en/stable/reference.html#git.repo.base.Repo)
+- Python: [3.3. Special method names](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
 ## Watching and coding - 2022-08-26
 ##### Checked
