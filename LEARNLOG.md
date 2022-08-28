@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Jane's birthday - 2022-08-27
 ##### Checked
 - Python: [Elegant ways to support equivalence ("equality") in Python classes](https://stackoverflow.com/a/25176504/2989289)
+- Python: [What is a good way to order methods in a Python class?](https://stackoverflow.com/a/36967648/2989289)
 
 ##### Consulted
 - Python: [git.repo.base.Repo](https://gitpython.readthedocs.io/en/stable/reference.html#git.repo.base.Repo)
