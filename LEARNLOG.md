@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Another week begining - 2022-08-29
+##### Consulted
+- Python: [3.3.2. Customizing attribute access](https://docs.python.org/3/reference/datamodel.html#customizing-attribute-access)
+
 ## It's already tomorrow - 2022-08-28
 ##### Checked
 - Python: [Get relative path from comparing two absolute paths](https://stackoverflow.com/a/57153766/2989289)
