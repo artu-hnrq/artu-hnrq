@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [How to wrap or embed generators?](https://stackoverflow.com/a/44686657/2989289)
 - Python: [How to write Python generator function that never yields anything](https://stackoverflow.com/a/36863998/2989289)
+- Python: [how do I determine if an object is iterable?](https://stackoverflow.com/a/1952481/2989289)
 
 ##### Read
 - Python: [It’s Time to Say Goodbye to These Obsolete Python Libraries](https://python.plainenglish.io/its-time-to-say-goodbye-to-these-obsolete-python-libraries-7c02aa77d84a)
