@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [How can I see if a method is a decorator?](https://stackoverflow.com/a/9795373/2989289)
 
+##### Read
+- Django: [Django Web Framework - Mozilla Developer](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
 ##### Consulted
 Python: [Python Packages!](https://py-pkgs.org/)
 Cement: [Framework Extensions](https://cement.readthedocs.io/en/2.10/dev/extensions/)
