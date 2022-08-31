@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Finising projects up - 2022-08-31
+##### Checked
+- Python: [How can I see if a method is a decorator?](https://stackoverflow.com/a/9795373/2989289)
+
 ## Beach morning - 2022-08-30
 ##### Checked
 - Python: [How to wrap or embed generators?](https://stackoverflow.com/a/44686657/2989289)
