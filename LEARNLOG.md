@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Python: [How can I see if a method is a decorator?](https://stackoverflow.com/a/9795373/2989289)
 
+##### Consulted
+Python: [Python Packages!](https://py-pkgs.org/)
+
 ## Beach morning - 2022-08-30
 ##### Checked
 - Python: [How to wrap or embed generators?](https://stackoverflow.com/a/44686657/2989289)
