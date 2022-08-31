@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 Python: [Python Packages!](https://py-pkgs.org/)
+Cement: [Framework Extensions](https://cement.readthedocs.io/en/2.10/dev/extensions/)
 
 ## Beach morning - 2022-08-30
 ##### Checked
