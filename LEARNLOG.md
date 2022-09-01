@@ -8,10 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Intending to deplou a service to the cloud
+## Intending to deplou a service to the cloud - 2022-09-01
 ##### Checked
 - Make: [Comments inside a multi-line list in makefile](https://stackoverflow.com/q/22322317/2989289)
 - Django: [How do I print out the contents of my settings in a django shell?](https://stackoverflow.com/a/26718776/2989289)
+- Dev: [What is the need for env and env.example files in Laravel?](https://stackoverflow.com/a/52084653/2989289)
 
 ##### Read
 - Django: [Using Environment variables to manage Settings across servers](https://riptutorial.com/django/example/3580/using-environment-variables-to-manage-settings-across-servers)
