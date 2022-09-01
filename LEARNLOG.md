@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Django: [Using Environment variables to manage Settings across servers](https://riptutorial.com/django/example/3580/using-environment-variables-to-manage-settings-across-servers)
+- Django: [Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 
 ---
 
