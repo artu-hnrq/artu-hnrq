@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How do I print out the contents of my settings in a django shell?](https://stackoverflow.com/a/26718776/2989289)
 - Dev: [What is the need for env and env.example files in Laravel?](https://stackoverflow.com/a/52084653/2989289)
 
+##### Consulted
+- Bash: [6.2 Bash Startup Files](https://www.gnu.org/software/bash/manual/html_node/Bash-Startup-Files.html#Invoked-non_002dinteractively)
+
 ##### Read
 - Django: [Using Environment variables to manage Settings across servers](https://riptutorial.com/django/example/3580/using-environment-variables-to-manage-settings-across-servers)
 - Django: [Settings: Best Practices](https://djangostars.com/blog/configuring-django-settings-best-practices/)
