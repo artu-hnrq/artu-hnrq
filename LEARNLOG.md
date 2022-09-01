@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How do I print out the contents of my settings in a django shell?](https://stackoverflow.com/a/26718776/2989289)
 - Dev: [What is the need for env and env.example files in Laravel?](https://stackoverflow.com/a/52084653/2989289)
 
+##### Read
+- Bash: [test and comparison functions](https://developer.ibm.com/tutorials/l-bash-test/)
+
 ##### Consulted
 - Bash: [6.2 Bash Startup Files](https://www.gnu.org/software/bash/manual/html_node/Bash-Startup-Files.html#Invoked-non_002dinteractively)
 - Make: [6.10 Variables from the Environment](https://www.gnu.org/software/make/manual/html_node/Environment.html)
