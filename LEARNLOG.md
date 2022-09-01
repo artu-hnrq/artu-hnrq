@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Bash: [6.2 Bash Startup Files](https://www.gnu.org/software/bash/manual/html_node/Bash-Startup-Files.html#Invoked-non_002dinteractively)
+- Make: [6.10 Variables from the Environment](https://www.gnu.org/software/make/manual/html_node/Environment.html)
 
 ##### Read
 - Django: [Using Environment variables to manage Settings across servers](https://riptutorial.com/django/example/3580/using-environment-variables-to-manage-settings-across-servers)
