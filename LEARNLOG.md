@@ -21,6 +21,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Bash: [test and comparison functions](https://developer.ibm.com/tutorials/l-bash-test/)
 - Django: [i18n: A beginner’s guide](https://lokalise.com/blog/django-i18n-beginners-guide/)
+- Django: [A Quick Guide to Django i18n](https://phrase.com/blog/posts/quick-guide-django-i18n/)
 - Make: [Makefile and Dotenv](https://lithic.tech/blog/2020-05/makefile-dot-env)
 
 ##### Practiced
