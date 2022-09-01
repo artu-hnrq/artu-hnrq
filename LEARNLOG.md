@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Make: [Comments inside a multi-line list in makefile](https://stackoverflow.com/q/22322317/2989289)
 
+##### Read
+- Django: [Using Environment variables to manage Settings across servers](https://riptutorial.com/django/example/3580/using-environment-variables-to-manage-settings-across-servers)
+
 ---
 
 ## Finising projects up - 2022-08-31
