@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Intending to deplou a service to the cloud
+##### Checked
+- Make: [Comments inside a multi-line list in makefile](https://stackoverflow.com/q/22322317/2989289)
+
+---
+
 ## Finising projects up - 2022-08-31
 ##### Checked
 - Python: [How can I see if a method is a decorator?](https://stackoverflow.com/a/9795373/2989289)
