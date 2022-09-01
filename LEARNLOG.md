@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Bash: [test and comparison functions](https://developer.ibm.com/tutorials/l-bash-test/)
+- Make: [Makefile and Dotenv](https://lithic.tech/blog/2020-05/makefile-dot-env)
 
 ##### Consulted
 - Bash: [6.2 Bash Startup Files](https://www.gnu.org/software/bash/manual/html_node/Bash-Startup-Files.html#Invoked-non_002dinteractively)
