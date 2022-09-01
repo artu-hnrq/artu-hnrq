@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [How to use sessions](https://docs.djangoproject.com/en/4.0/topics/http/sessions/)
 - Django: [Internationalization and localization](https://docs.djangoproject.com/en/4.1/topics/i18n/)
+- Django: [Translation](https://docs.djangoproject.com/en/4.1/topics/i18n/translation/)
 
 ##### Read
 - Bash: [test and comparison functions](https://developer.ibm.com/tutorials/l-bash-test/)
