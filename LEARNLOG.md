@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Internationalization and localization](https://docs.djangoproject.com/en/4.1/topics/i18n/)
 - Django: [Translation](https://docs.djangoproject.com/en/4.1/topics/i18n/translation/)
 - Django: [Chapter 12: Deploying Django](https://django-book.readthedocs.io/en/latest/chapter12.html)
+- DRF: [Internationalization](https://www.django-rest-framework.org/topics/internationalization/)
 
 ##### Read
 - Bash: [test and comparison functions](https://developer.ibm.com/tutorials/l-bash-test/)
