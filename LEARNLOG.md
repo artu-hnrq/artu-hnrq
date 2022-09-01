@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How do I print out the contents of my settings in a django shell?](https://stackoverflow.com/a/26718776/2989289)
 - Dev: [What is the need for env and env.example files in Laravel?](https://stackoverflow.com/a/52084653/2989289)
 
+##### Consulted
+- Django: [How to use sessions](https://docs.djangoproject.com/en/4.0/topics/http/sessions/)
+
 ##### Read
 - Bash: [test and comparison functions](https://developer.ibm.com/tutorials/l-bash-test/)
 - Make: [Makefile and Dotenv](https://lithic.tech/blog/2020-05/makefile-dot-env)
