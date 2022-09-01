@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Intending to deplou a service to the cloud
 ##### Checked
 - Make: [Comments inside a multi-line list in makefile](https://stackoverflow.com/q/22322317/2989289)
+- Django: [How do I print out the contents of my settings in a django shell?](https://stackoverflow.com/a/26718776/2989289)
 
 ##### Read
 - Django: [Using Environment variables to manage Settings across servers](https://riptutorial.com/django/example/3580/using-environment-variables-to-manage-settings-across-servers)
