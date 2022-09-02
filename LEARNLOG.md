@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Enjoying the actual routine - 2022-09-02
 ##### Read
+- Docker: [Docker Cheatsheet](https://collabnix.com/docker-cheatsheet/)
 - Linkedin: [How you can change your main LinkedIn profile language](https://phaberest.medium.com/how-you-can-change-your-linkedin-profile-default-language-d37a5109b358)
 
 ## Intending to deplou a service to the cloud - 2022-09-01
