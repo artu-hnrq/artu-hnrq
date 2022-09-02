@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Enjoying the actual routine - 2022-09-02
+##### Read
+- Linkedin: [How you can change your main LinkedIn profile language](https://phaberest.medium.com/how-you-can-change-your-linkedin-profile-default-language-d37a5109b358)
+
 ## Intending to deplou a service to the cloud - 2022-09-01
 ##### Checked
 - Make: [Comments inside a multi-line list in makefile](https://stackoverflow.com/q/22322317/2989289)
