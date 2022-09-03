@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Think about publush webpages again - 2022-09-03
 ##### Consulted
 - GCP: [Running Django on the Cloud Run environment](https://cloud.google.com/python/django/run)
+- GCP: [Developing your service](https://cloud.google.com/run/docs/developing)
 
 ##### Read
 - Django: [4 step django CMS tutorial for new developers](https://www.django-cms.org/en/blog/2020/07/07/5-step-django-cms-tutorial-for-new-developers/)
