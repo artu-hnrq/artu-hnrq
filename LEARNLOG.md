@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Think about publush webpages again - 2022-09-03
+##### Checked
+- Django: [How do you serve static files when using the django runserver development server?](https://stackoverflow.com/a/43147802/2989289)
+
 ##### Consulted
 - GCP: [Running Django on the Cloud Run environment](https://cloud.google.com/python/django/run)
 - GCP: [Developing your service](https://cloud.google.com/run/docs/developing)
