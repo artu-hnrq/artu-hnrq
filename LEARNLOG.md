@@ -13,6 +13,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [How do you serve static files when using the django runserver development server?](https://stackoverflow.com/a/43147802/2989289)
 
 ##### Consulted
+- Django: [Managing files](https://docs.djangoproject.com/en/4.1/topics/files/)
 - GCP: [Running Django on the Cloud Run environment](https://cloud.google.com/python/django/run)
 - GCP: [Developing your service](https://cloud.google.com/run/docs/developing)
 
