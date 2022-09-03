@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Django: [4 step django CMS tutorial for new developers](https://www.django-cms.org/en/blog/2020/07/07/5-step-django-cms-tutorial-for-new-developers/)
+- Django: [Testing Files with Python/Django](https://swapps.com/blog/testing-files-with-pythondjango/)
 
 ## Enjoying the actual routine - 2022-09-02
 ##### Read
