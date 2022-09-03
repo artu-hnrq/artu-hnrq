@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Think about publush webpages again - 2022-09-03
+##### Read
+- Django: [4 step django CMS tutorial for new developers](https://www.django-cms.org/en/blog/2020/07/07/5-step-django-cms-tutorial-for-new-developers/)
+
 ## Enjoying the actual routine - 2022-09-02
 ##### Read
 - Docker: [Docker Cheatsheet](https://collabnix.com/docker-cheatsheet/)
