@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [Django settings](https://docs.djangoproject.com/en/4.1/topics/settings/)
+- Django: [How to deploy static files](https://docs.djangoproject.com/en/4.1/howto/static-files/deployment/)
 
 ##### Read
 - Django: [Streamline Your Django Settings With Type Hints: A Pydantic Tutorial](https://www.toptal.com/django/streamline-your-django-settings-with-type-hints-pydantic-tutorial)
