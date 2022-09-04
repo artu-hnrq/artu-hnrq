@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
   
 ## Music record day - 2022-09-04
+##### Checked
+- Django: [What's the difference between `from django.conf import settings` and `import settings` in a Django project](https://stackoverflow.com/a/19976749/2989289)
+
 ##### Read
 - Django: [Streamline Your Django Settings With Type Hints: A Pydantic Tutorial](https://www.toptal.com/django/streamline-your-django-settings-with-type-hints-pydantic-tutorial)
 
