@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Django: [Streamline Your Django Settings With Type Hints: A Pydantic Tutorial](https://www.toptal.com/django/streamline-your-django-settings-with-type-hints-pydantic-tutorial)
+- Django: [Serving Static Files](https://www.mattlayman.com/understand-django/serving-static-files/)
 
 ## Think about publush webpages again - 2022-09-03
 ##### Checked
