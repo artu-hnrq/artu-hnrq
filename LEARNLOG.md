@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Comming back with full power - 2022-09-05
+##### Checked
+- Django: [whitenoise do not show static files?](https://stackoverflow.com/a/69077874/2989289)
+
 ## Music record day - 2022-09-04
 ##### Checked
 - Cloud: [What exactly is a pre-fork web server model?](https://stackoverflow.com/a/70625494/2989289)
