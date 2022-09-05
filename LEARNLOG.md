@@ -24,6 +24,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Django settings](https://docs.djangoproject.com/en/4.1/topics/settings/)
 - Django: [How to deploy static files](https://docs.djangoproject.com/en/4.1/howto/static-files/deployment/)
 - Django: [How to use Django with Gunicorn](https://docs.djangoproject.com/en/4.1/howto/deployment/wsgi/gunicorn/)
+- Gunicorn: [Deploying Gunicorn](https://docs.gunicorn.org/en/stable/deploy.html)
 
 ##### Read
 - Django: [Streamline Your Django Settings With Type Hints: A Pydantic Tutorial](https://www.toptal.com/django/streamline-your-django-settings-with-type-hints-pydantic-tutorial)
