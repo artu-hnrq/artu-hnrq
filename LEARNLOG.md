@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [whitenoise do not show static files?](https://stackoverflow.com/a/69077874/2989289)
 - Django: [Running Django with Gunicorn - Best Practice](https://stackoverflow.com/a/16859467/2989289)
+- Django: [Deploying Django with gunicorn and nginx](https://stackoverflow.com/a/13004973/2989289)
 
 ## Music record day - 2022-09-04
 ##### Checked
