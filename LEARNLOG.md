@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Streamline Your Django Settings With Type Hints: A Pydantic Tutorial](https://www.toptal.com/django/streamline-your-django-settings-with-type-hints-pydantic-tutorial)
 - Django: [Serving Static Files](https://www.mattlayman.com/understand-django/serving-static-files/)
 - Django: [Working with Static and Media Files](https://testdriven.io/blog/django-static-files/)
+- Gunicorn: [Deploying & optimizing your django deployment with gunicorn](https://medium.com/analytics-vidhya/deploying-optimizing-your-django-deployment-with-gunicorn-why-cant-i-just-use-manage-py-3ecb72cd6882)
 
 ## Think about publush webpages again - 2022-09-03
 ##### Checked
