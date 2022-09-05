@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Music record day - 2022-09-04
 ##### Checked
 - Django: [What's the difference between `from django.conf import settings` and `import settings` in a Django project](https://stackoverflow.com/a/19976749/2989289)
+- Cloud: [What exactly is a pre-fork web server model?](https://stackoverflow.com/a/70625494/2989289)
 
 ##### Consulted
 - Django: [Django settings](https://docs.djangoproject.com/en/4.1/topics/settings/)
