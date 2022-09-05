@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Running Django with Gunicorn - Best Practice](https://stackoverflow.com/a/16859467/2989289)
 - Django: [Deploying Django with gunicorn and nginx](https://stackoverflow.com/a/13004973/2989289)
 
+##### Consulted
+- Django: [Using WhiteNoise with Django](http://whitenoise.evans.io/en/stable/django.html)
+
 ## Music record day - 2022-09-04
 ##### Checked
 - Cloud: [What exactly is a pre-fork web server model?](https://stackoverflow.com/a/70625494/2989289)
