@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Containerizing up - 2022-09-06
 ##### Read
 - Docker: [Here's a Production-Ready Dockerfile for Your Python/Django App](https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/)
+- Docker: [Best practices for containerizing Python applications with Docker](https://snyk.io/blog/best-practices-containerizing-python-docker/)
 
 ## Comming back with full power - 2022-09-05
 ##### Checked
