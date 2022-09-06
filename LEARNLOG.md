@@ -22,6 +22,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Docker: [Dockerfile](https://www.suse.com/suse-defines/definition/dockerfile/)
 
+##### Sourced
+- Docker: [python](https://hub.docker.com/_/python)
+
 ## Music record day - 2022-09-04
 ##### Checked
 - Cloud: [What exactly is a pre-fork web server model?](https://stackoverflow.com/a/70625494/2989289)
