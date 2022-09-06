@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Django: [Using WhiteNoise with Django](http://whitenoise.evans.io/en/stable/django.html)
 
+##### Read
+- Docker: [Dockerfile](https://www.suse.com/suse-defines/definition/dockerfile/)
+
 ## Music record day - 2022-09-04
 ##### Checked
 - Cloud: [What exactly is a pre-fork web server model?](https://stackoverflow.com/a/70625494/2989289)
