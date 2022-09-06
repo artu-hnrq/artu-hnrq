@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Containerizing up - 2022-09-06
+##### Checked
+- GCP: [What's the default storage for Google Cloud Run?](https://stackoverflow.com/a/55908537/2989289)
+
 ##### Read
 - Docker: [Here's a Production-Ready Dockerfile for Your Python/Django App](https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/)
 - Docker: [Best practices for containerizing Python applications with Docker](https://snyk.io/blog/best-practices-containerizing-python-docker/)
