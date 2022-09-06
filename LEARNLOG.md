@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Containerizing up - 2022-09-06
+##### Read
+- Docker: [Here's a Production-Ready Dockerfile for Your Python/Django App](https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/)
+
 ## Comming back with full power - 2022-09-05
 ##### Checked
 - Django: [whitenoise do not show static files?](https://stackoverflow.com/a/69077874/2989289)
