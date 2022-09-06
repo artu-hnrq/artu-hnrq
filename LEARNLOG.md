@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Using WhiteNoise with Django](http://whitenoise.evans.io/en/stable/django.html)
 
 ##### Read
+- Django: [Logging, The Right Way](https://lincolnloop.com/blog/django-logging-right-way/)
 - Docker: [Dockerfile](https://www.suse.com/suse-defines/definition/dockerfile/)
 - Docker: [What are the Differences in Docker Images?](https://medium.com/swlh/alpine-slim-stretch-buster-jessie-bullseye-bookworm-what-are-the-differences-in-docker-62171ed4531d)
 
