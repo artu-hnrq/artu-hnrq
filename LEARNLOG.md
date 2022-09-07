@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Building containers - 2022-09-07
 ##### Checked
 - Docker: [Docker can't find Python venv executable](https://stackoverflow.com/a/72469146/2989289)
+- Django: [How to automate createsuperuser on django?](https://stackoverflow.com/a/59467533/2989289)
 
 ##### Consulted
 - GCP: [General development tips](https://cloud.google.com/run/docs/tips/general)
