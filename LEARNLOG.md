@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Building containers - 2022-09-07
 ##### Checked
 - Docker: [Docker can't find Python venv executable](https://stackoverflow.com/a/72469146/2989289)
+- Docker: [docker-compose: using multiple Dockerfiles for multiple services](https://stackoverflow.com/a/49810701/2989289)
 - Django: [How to automate createsuperuser on django?](https://stackoverflow.com/a/59467533/2989289)
 - Make: [How to ensure Makefile variable is set as a prerequisite?](https://stackoverflow.com/a/7367903/2989289)
 - Python: [PIP Constraints Files](https://stackoverflow.com/a/36848206/2989289)
