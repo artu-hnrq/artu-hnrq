@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Docker: [Docker can't find Python venv executable](https://stackoverflow.com/a/72469146/2989289)
 
+##### Consulted
+- GCP: [General development tips](https://cloud.google.com/run/docs/tips/general)
+
 ## Containerizing up - 2022-09-06
 ##### Checked
 - GCP: [What's the default storage for Google Cloud Run?](https://stackoverflow.com/a/55908537/2989289)
