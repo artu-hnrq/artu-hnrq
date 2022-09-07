@@ -18,6 +18,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - GCP: [General development tips](https://cloud.google.com/run/docs/tips/general)
 
+##### Study content
+- Docker: [Nick Janetakis - Level Up Your Dev Skills](https://nickjanetakis.com/courses/)
+
 ## Containerizing up - 2022-09-06
 ##### Checked
 - GCP: [What's the default storage for Google Cloud Run?](https://stackoverflow.com/a/55908537/2989289)
