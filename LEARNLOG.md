@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Composing - 2022-09-08
+##### Checked
+- Docker: [Correct way to detach from a container without stopping it](https://stackoverflow.com/a/25354585/2989289)
+
 ##### Read
 - Docker: [How to Connect to a Docker Container](https://linuxize.com/post/how-to-connect-to-docker-container/)
 
