@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Composing - 2022-09-08
+##### Read
+- Docker: [How to Connect to a Docker Container](https://linuxize.com/post/how-to-connect-to-docker-container/)
+
 ## Building containers - 2022-09-07
 ##### Checked
 - Docker: [Docker can't find Python venv executable](https://stackoverflow.com/a/72469146/2989289)
