@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Docker: [Correct way to detach from a container without stopping it](https://stackoverflow.com/a/25354585/2989289)
 
+##### Consulted
+- Docker: [docker ps](https://docs.docker.com/engine/reference/commandline/ps/#filtering)
+
 ##### Read
 - Docker: [How to Connect to a Docker Container](https://linuxize.com/post/how-to-connect-to-docker-container/)
 
