@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Docker: [docker create](https://docs.docker.com/engine/reference/commandline/create/)
 
+##### Coursed
+- Docker: [Image Creation, Management, and Registry]https://www.linkedin.com/learning/docker-essential-training-3-image-creation-management-and-registry/welcome?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A5bb4fa9b498e2e532e6df920) - LinkedIn Learn
+
 ## Composing - 2022-09-08
 ##### Checked
 - Docker: [Correct way to detach from a container without stopping it](https://stackoverflow.com/a/25354585/2989289)
