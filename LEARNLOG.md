@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Refreshed - 2022-09-10
+##### Cheked
+- Make: [Makefiles with source files in different directories](https://stackoverflow.com/a/1139313/2989289)
+
 ##### Consulted
 - Docker: [docker create](https://docs.docker.com/engine/reference/commandline/create/)
 
