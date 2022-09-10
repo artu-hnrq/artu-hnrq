@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Refreshed - 2022-09-10
+##### Consulted
+- Docker: [docker create](https://docs.docker.com/engine/reference/commandline/create/)
+
 ## Composing - 2022-09-08
 ##### Checked
 - Docker: [Correct way to detach from a container without stopping it](https://stackoverflow.com/a/25354585/2989289)
