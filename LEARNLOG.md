@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Refreshed - 2022-09-10
 ##### Cheked
 - Docker: [How to start a stopped Docker container with a different command?](https://stackoverflow.com/a/66544609/2989289)
+- Gunicorn: [How to stop gunicorn properly](https://stackoverflow.com/a/65699468/2989289)
 - Make: [Makefiles with source files in different directories](https://stackoverflow.com/a/1139313/2989289)
 
 ##### Consulted
