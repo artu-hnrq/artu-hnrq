@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Get back from the dark - 2022-09-13
+##### Read
+- Git: [Bring your monorepo down to size with sparse-checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/)
+
 ## Refreshed - 2022-09-10
 ##### Cheked
 - Bash: [What does 2>/dev/null mean?](https://askubuntu.com/a/350216/689894)
