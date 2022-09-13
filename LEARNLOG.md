@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Get back from the dark - 2022-09-13
+##### Checked
+- Git: [How to change a git submodule to point to a subfolder?](https://stackoverflow.com/a/71072873/2989289)
+
 ##### Read
 - Git: [Bring your monorepo down to size with sparse-checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/)
 
