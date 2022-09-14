@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Docker: [How to run a docker container if not already running](https://stackoverflow.com/a/44739847/2989289)
 
+##### Read
+- Git: [Ignore files in Git without adding them to .gitignore](https://luisdalmolin.dev/blog/ignoring-files-in-git-without-gitignore/)
+
 ## Get back from the dark - 2022-09-13
 ##### Checked
 - Docker: [Understanding "VOLUME" instruction in DockerFile](https://stackoverflow.com/a/46992367/2989289)
