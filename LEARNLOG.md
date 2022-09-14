@@ -20,6 +20,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Whatched
 - GCP: [Hosting a web app on Google Cloud using Cloud Run](https://youtu.be/h4X_omdCqO0)
+- GCP: [Hosting a web app on Google Cloud using GCE](https://youtu.be/nnXi0ABwSXA)
 
 ## Get back from the dark - 2022-09-13
 ##### Checked
