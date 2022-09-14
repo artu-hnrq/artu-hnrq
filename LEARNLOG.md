@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Reboot-ntu - 2022-09-15
+##### Checked
+- Linux: [Re-install Ubuntu without losing data in home folder](https://askubuntu.com/a/269892/689894)
+
 ## Dockerizing submodules - 2022-09-14
 ##### Checked
 - Docker: [How to run a docker container if not already running](https://stackoverflow.com/a/44739847/2989289)
