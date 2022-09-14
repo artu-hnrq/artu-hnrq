@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Get back from the dark - 2022-09-13
 ##### Checked
+- Docker: [Understanding "VOLUME" instruction in DockerFile](https://stackoverflow.com/a/46992367/2989289)
 - Git: [How to change a git submodule to point to a subfolder?](https://stackoverflow.com/a/71072873/2989289)
 
 ##### Read
