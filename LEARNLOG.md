@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Docker: [docker commit](https://docs.docker.com/engine/reference/commandline/commit)
 
 ##### Read
+- Docker: [Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install/)
 - Git: [Ignore files in Git without adding them to .gitignore](https://luisdalmolin.dev/blog/ignoring-files-in-git-without-gitignore/)
 
 ##### Whatched
