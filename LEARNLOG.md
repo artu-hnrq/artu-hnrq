@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Git: [How to change a git submodule to point to a subfolder?](https://stackoverflow.com/a/71072873/2989289)
 
 ##### Read
+- Bash: [How to program with Bash: Logical operators and shell expansions](https://opensource.com/article/19/10/programming-bash-logical-operators-shell-expansions)
 - Git: [Bring your monorepo down to size with sparse-checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/)
 
 ## Refreshed - 2022-09-10
