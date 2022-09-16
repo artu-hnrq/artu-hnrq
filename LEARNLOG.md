@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Brand new fresh fragatron is on - 2022-09-16
+##### Checked
+- Linux: [How can I see the email address and other details entered when users are created?](https://askubuntu.com/a/942700/689894)
+
 ##### Read
 - Linux: [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
 - Linux: [Chown Command in Linux (File Ownership)](https://linuxize.com/post/linux-chown-command/)
