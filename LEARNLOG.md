@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Brand new fresh fragatron is on - 2022-09-16
 ##### Read
 - Linux: [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
+- Linux: [Chown Command in Linux (File Ownership)](https://linuxize.com/post/linux-chown-command/)
 
 ## Reboot-ntu - 2022-09-15
 ##### Checked
