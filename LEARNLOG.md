@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Linux: [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor)
 - Linux: [Chown Command in Linux (File Ownership)](https://linuxize.com/post/linux-chown-command/)
+- Linux: [Understanding the /etc/passwd File](https://linuxize.com/post/etc-passwd-file/)
 
 ## Reboot-ntu - 2022-09-15
 ##### Checked
