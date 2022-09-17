@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Keeping the health learning - 2022-09-17
+##### Read
+- Linux: [Managing dotfiles with GNU stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+
 ## Brand new fresh fragatron is on - 2022-09-16
 ##### Checked
 - Linux: [How can I see the email address and other details entered when users are created?](https://askubuntu.com/a/942700/689894)
