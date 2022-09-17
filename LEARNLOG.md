@@ -12,6 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Linux: [Managing dotfiles with GNU stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
 
+##### Sourced
+- [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
+
 ## Brand new fresh fragatron is on - 2022-09-16
 ##### Checked
 - Linux: [How can I see the email address and other details entered when users are created?](https://askubuntu.com/a/942700/689894)
