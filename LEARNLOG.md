@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Keeping the health learning - 2022-09-17
 ##### Read
 - Linux: [Managing dotfiles with GNU stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
+- Linux: [How To Use Rsync to Sync Local and Remote Directories](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 
 ##### Sourced
 - [jbernard/dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
