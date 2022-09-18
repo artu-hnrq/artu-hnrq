@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Linux: [Debian Software Package](https://fileinfo.com/extension/deb)
+- Linux: [APT Package Manager on Linux Explained](https://devconnected.com/apt-package-manager-on-linux-explained)
 
 ## Keeping the health learning - 2022-09-17
 ##### Read
