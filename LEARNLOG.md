@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Strongly founding - 2022-09-18
+##### Checked
+- Linux: [What are "build-essential" & "build-dep"?](https://superuser.com/a/151558/1063603)
+
 ##### Read
 - Linux: [Debian Software Package](https://fileinfo.com/extension/deb)
 
