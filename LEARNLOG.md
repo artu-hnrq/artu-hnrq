@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Hello stranger - 2022-09-21
+##### Checked
+- Bash: [Why is it better to use "#!/usr/bin/env NAME" instead of "#!/path/to/NAME" as my shebang?](https://unix.stackexchange.com/a/29620/364080)
+
 ## Strongly founding - 2022-09-18
 ##### Checked
 - Linux: [What are "build-essential" & "build-dep"?](https://superuser.com/a/151558/1063603)
