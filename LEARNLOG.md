@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Hello stranger - 2022-09-21
 ##### Checked
 - Bash: [Why is it better to use "#!/usr/bin/env NAME" instead of "#!/path/to/NAME" as my shebang?](https://unix.stackexchange.com/a/29620/364080)
+- Linux: [How can I update all Snap packages?](https://askubuntu.com/a/762435/689894)
 
 ## Strongly founding - 2022-09-18
 ##### Checked
