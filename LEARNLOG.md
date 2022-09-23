@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Missed once again - 2022-09-23
+##### Checked
+- Gnome: [How do I set a shortcut to screenshot a selected area?](https://askubuntu.com/a/170460/689894)
+
 ## Hello stranger - 2022-09-21
 ##### Checked
 - Bash: [Why is it better to use "#!/usr/bin/env NAME" instead of "#!/path/to/NAME" as my shebang?](https://unix.stackexchange.com/a/29620/364080)
