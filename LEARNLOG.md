@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Preparing to get back to work - 2022-09-24
+##### Sourced
+- [django-tenants](https://github.com/django-tenants/django-tenants) - Django tenants using PostgreSQL Schemas
+
 ## Missed once again - 2022-09-23
 ##### Checked
 - Gnome: [How do I set a shortcut to screenshot a selected area?](https://askubuntu.com/a/170460/689894)
