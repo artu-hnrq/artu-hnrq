@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Preparing to get back to work - 2022-09-24
+##### Checked
+- Gnome: [Can't bind gnome-do to Super + Space or Ctrl+Alt+Space](https://askubuntu.com/a/113362/689894)
+
 ##### Sourced
 - [django-tenants](https://github.com/django-tenants/django-tenants) - Django tenants using PostgreSQL Schemas
 
