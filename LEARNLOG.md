@@ -18,6 +18,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Bash: [Adding arguments and options to your Bash scripts](https://www.redhat.com/sysadmin/arguments-options-bash-scripts)
+- Bash: [How To Loop Through Files in a Directory](https://www.digitalocean.com/community/tutorials/workflow-loop-through-files-in-a-directory)
 
 ## Preparing to get back to work - 2022-09-24
 ##### Checked
