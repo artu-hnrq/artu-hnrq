@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Restarting to work for Blue Dahl - 2022-09-26
+##### Checked
+- Make: [How to run a bash script from a Makefile?](https://stackoverflow.com/a/66013190/2989289)
+
 ## Preparing to get back to work - 2022-09-24
 ##### Checked
 - Gnome: [Can't bind gnome-do to Super + Space or Ctrl+Alt+Space](https://askubuntu.com/a/113362/689894)
