@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Restarting to work for Blue Dahl - 2022-09-26
 ##### Checked
 - Make: [How to run a bash script from a Makefile?](https://stackoverflow.com/a/66013190/2989289)
+- Linux: [What do the different parts of "known_hosts" entries mean?](https://serverfault.com/a/331085/584569)
 
 ## Preparing to get back to work - 2022-09-24
 ##### Checked
