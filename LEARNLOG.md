@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Restarting to work for Blue Dahl - 2022-09-26
 ##### Checked
 - Bash: [Test if a command outputs an empty string](https://stackoverflow.com/a/12137501/2989289)
+- Bash: [How to loop over the lines of a file?](https://unix.stackexchange.com/a/7012/364080)
 - Make: [How to run a bash script from a Makefile?](https://stackoverflow.com/a/66013190/2989289)
 - Linux: [What do the different parts of "known_hosts" entries mean?](https://serverfault.com/a/331085/584569)
 - Linux: [How to get the computer name (not its hostname)?](https://unix.stackexchange.com/a/254607/364080)
