@@ -16,6 +16,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Linux: [What do the different parts of "known_hosts" entries mean?](https://serverfault.com/a/331085/584569)
 - Linux: [How to get the computer name (not its hostname)?](https://unix.stackexchange.com/a/254607/364080)
 
+##### Read
+- Bash: [Adding arguments and options to your Bash scripts](https://www.redhat.com/sysadmin/arguments-options-bash-scripts)
+
 ## Preparing to get back to work - 2022-09-24
 ##### Checked
 - Gnome: [Can't bind gnome-do to Super + Space or Ctrl+Alt+Space](https://askubuntu.com/a/113362/689894)
