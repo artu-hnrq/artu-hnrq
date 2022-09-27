@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## September is already finishing - 2022-09-27
+##### Checked
+- Bash: [Symlink dotfiles](https://stackoverflow.com/a/64548852/2989289)
+
 ## Restarting to work for Blue Dahl - 2022-09-26
 ##### Checked
 - Bash: [Test if a command outputs an empty string](https://stackoverflow.com/a/12137501/2989289)
