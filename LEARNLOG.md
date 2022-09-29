@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Preparing to impress - 2022-09-29
+##### Read
+- Bash: [6.2 Bash Startup Files](https://www.gnu.org/software/bash/manual/html_node/Bash-Startup-Files.html)
+
 ## Dinner at Valeska's - 2022-09-28
 ##### Checked
 - Snap: [Pending Update of Snap Store](https://askubuntu.com/a/1412580/689894)
