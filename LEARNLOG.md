@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - Docker: [Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install)
 - Docker: [Control Docker with systemd](https://docs.docker.com/config/daemon/systemd/)
+- PyCharm: [Docker Compose](https://www.jetbrains.com/help/pycharm/docker-compose.html)
 
 ## Preparing to impress - 2022-09-29
 ##### Checked
