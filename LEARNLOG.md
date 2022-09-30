@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Shipping application - 2022-09-30
 ##### Checked
 - Bash: [How to use spaces in a bash alias name?](https://superuser.com/a/105389/1063603)
+- Bash: [How do I change the default virtualenv prompt?](https://stackoverflow.com/a/20026992/2989289)
 
 ##### Consulted
 - Docker: [Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install)
