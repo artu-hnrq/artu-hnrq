@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Shipping application - 2022-09-30
+##### Read
+- Docker: [Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install)
+
 ## Preparing to impress - 2022-09-29
 ##### Checked
 - Bash: [Why isn't .profile sourced when opening a terminal?](https://askubuntu.com/a/566401/689894)
