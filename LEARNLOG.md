@@ -12,8 +12,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Bash: [How to use spaces in a bash alias name?](https://superuser.com/a/105389/1063603)
 
-##### Read
+##### Consulted
 - Docker: [Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install)
+- Docker: [Control Docker with systemd](https://docs.docker.com/config/daemon/systemd/)
 
 ## Preparing to impress - 2022-09-29
 ##### Checked
