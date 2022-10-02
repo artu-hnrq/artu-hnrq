@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+# Coding out loud - 2022-10-02
+##### Read
+- Docker: [docker containers with non-root user](https://gonzalo123.com/2020/12/14/running-python-django-docker-containers-with-non-root-user/)
+
 ## Composing strongly - 2022-10-01
 ##### Checked
 - Docker: [docker-compose build environment variable](https://stackoverflow.com/a/52430444/2989289)
