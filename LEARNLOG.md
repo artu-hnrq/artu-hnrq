@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Docker: [docker containers with non-root user](https://gonzalo123.com/2020/12/14/running-python-django-docker-containers-with-non-root-user/)
 - Docker: [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
+- Docker: [Should You Use Virtualenv in Docker?](https://vsupalov.com/virtualenv-in-docker/)
 
 ## Composing strongly - 2022-10-01
 ##### Checked
