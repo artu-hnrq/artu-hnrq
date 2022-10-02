@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Composing strongly - 2022-10-01
+##### Checked
+- Docker: [docker-compose build environment variable](https://stackoverflow.com/a/52430444/2989289)
+
+---
+
 ## Shipping application - 2022-09-30
 ##### Checked
 - Bash: [How to use spaces in a bash alias name?](https://superuser.com/a/105389/1063603)
