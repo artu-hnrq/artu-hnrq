@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-# Coding out loud - 2022-10-02
+## Lonesome left tha starting line - 2022-10-03
+#### Checked
+- Bash: [Looping through the elements of a path variable in Bash](https://stackoverflow.com/a/11655875/2989289)
+
+## Coding out loud - 2022-10-02
 ##### Checked
 - Docker: [Is there any disadvantage in using PYTHONDONTWRITEBYTECODE in Docker?](https://stackoverflow.com/a/60797635/2989289)
 
