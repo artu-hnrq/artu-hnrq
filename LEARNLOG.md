@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Lonesome left tha starting line - 2022-10-03
 #### Checked
 - Bash: [Looping through the elements of a path variable in Bash](https://stackoverflow.com/a/11655875/2989289)
+- Make: [What is the difference between the GNU Makefile variable assignments =, ?=, := and +=?](https://stackoverflow.com/q/448910/2989289)
 
 ## Coding out loud - 2022-10-02
 ##### Checked
