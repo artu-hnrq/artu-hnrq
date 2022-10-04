@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Postponing work - 2022-10-04
+##### Checked
+- Django: [Which Model Field to use in Django to store longitude and latitude values?](https://stackoverflow.com/a/30711177/2989289)
+
 ##### Read
 - Bash: [Creating a bash completion script](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
 - Make: [Automation and Make: Running Make](https://swcarpentry.github.io/make-novice/reference.html)
