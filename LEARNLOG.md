@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Creating a bash completion script](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
 - Make: [Automation and Make: Running Make](https://swcarpentry.github.io/make-novice/reference.html)
 
+##### Tracked
+- Docker: [Optional environment file (env_file) #3560](https://github.com/docker/compose/issues/3560)
+
 ## Lonesome left tha starting line - 2022-10-03
 #### Checked
 - Bash: [Looping through the elements of a path variable in Bash](https://stackoverflow.com/a/11655875/2989289)
