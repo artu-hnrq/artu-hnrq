@@ -11,6 +11,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Postponing work - 2022-10-04
 ##### Checked
 - Django: [Which Model Field to use in Django to store longitude and latitude values?](https://stackoverflow.com/a/30711177/2989289)
+- Django: [Handle Latitude and Longitude Properly](https://raphael-leger.medium.com/django-handle-latitude-and-longitude-54a4bb2f6e3b)
+
+##### Consulted
+- Django: [GeoDjango Model API](https://docs.djangoproject.com/en/4.1/ref/contrib/gis/model-api/)
 
 ##### Read
 - Bash: [Creating a bash completion script](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
