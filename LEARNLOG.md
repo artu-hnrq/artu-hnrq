@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Postponing work - 2022-10-04
+##### Read
+- Bash: [Creating a bash completion script](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
+
 ## Lonesome left tha starting line - 2022-10-03
 #### Checked
 - Bash: [Looping through the elements of a path variable in Bash](https://stackoverflow.com/a/11655875/2989289)
