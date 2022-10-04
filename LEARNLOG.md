@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - Django: [Which Model Field to use in Django to store longitude and latitude values?](https://stackoverflow.com/a/30711177/2989289)
 - Django: [Handle Latitude and Longitude Properly](https://raphael-leger.medium.com/django-handle-latitude-and-longitude-54a4bb2f6e3b)
+- Django: [generic relation model declaration](https://stackoverflow.com/a/48779617/2989289)
 
 ##### Consulted
 - Django: [GeoDjango Model API](https://docs.djangoproject.com/en/4.1/ref/contrib/gis/model-api/)
