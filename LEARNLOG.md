@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Postponing work - 2022-10-04
 ##### Read
 - Bash: [Creating a bash completion script](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
+- Make: [Automation and Make: Running Make](https://swcarpentry.github.io/make-novice/reference.html)
 
 ## Lonesome left tha starting line - 2022-10-03
 #### Checked
