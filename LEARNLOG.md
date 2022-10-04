@@ -14,6 +14,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [Process all arguments except the first one (in a bash script)](https://stackoverflow.com/a/62630975/2989289)
 - Make: [What is the difference between the GNU Makefile variable assignments =, ?=, := and +=?](https://stackoverflow.com/q/448910/2989289)
 
+##### Consulted
+- Make: [10.5.3 Automatic Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
+
 ## Coding out loud - 2022-10-02
 ##### Checked
 - Docker: [Is there any disadvantage in using PYTHONDONTWRITEBYTECODE in Docker?](https://stackoverflow.com/a/60797635/2989289)
