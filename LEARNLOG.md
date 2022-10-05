@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Running enthusiasmed - 2022-10-05
 ##### Checked
 - Django: [Should I be adding the Django migration files in the .gitignore file?](https://stackoverflow.com/questions/28035119/should-i-be-adding-the-django-migration-files-in-the-gitignore-file#comment47660873_28035246)
+- Django: [UniqueConstraint](https://stackoverflow.com/a/56024282/2989289)
 
 ## Postponing work - 2022-10-04
 ##### Checked
