@@ -16,6 +16,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Django: [GeoDjango Model API](https://docs.djangoproject.com/en/4.1/ref/contrib/gis/model-api/)
+- DigitalOcean: [Deploy a Django App on App Platform](https://docs.digitalocean.com/tutorials/app-deploy-django-app/)
 
 ##### Read
 - Bash: [Creating a bash completion script](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
