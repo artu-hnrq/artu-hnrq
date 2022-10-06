@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [Should I be adding the Django migration files in the .gitignore file?](https://stackoverflow.com/questions/28035119/should-i-be-adding-the-django-migration-files-in-the-gitignore-file#comment47660873_28035246)
 - Django: [UniqueConstraint](https://stackoverflow.com/a/56024282/2989289)
 
+##### Discovered
+- [django-model-utils](https://django-model-utils.readthedocs.io/en/latest/index.html)
+
 ##### Read
 - Django: [Dynamically creating Django models with `type`](https://python.tutorialink.com/dynamically-creating-django-models-with-type/)
 - Django: [VirtualFunctionField - a virtual field with calculated values](https://www.reddit.com/r/django/comments/fycwcl/virtualfunctionfield_a_virtual_field_with/?utm_source=share&utm_medium=web2x&context=3)
