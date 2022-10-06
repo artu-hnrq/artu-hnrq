@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Django: [Dynamically creating Django models with `type`](https://python.tutorialink.com/dynamically-creating-django-models-with-type/)
+- Django: [VirtualFunctionField - a virtual field with calculated values](https://www.reddit.com/r/django/comments/fycwcl/virtualfunctionfield_a_virtual_field_with/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Postponing work - 2022-10-04
 ##### Checked
