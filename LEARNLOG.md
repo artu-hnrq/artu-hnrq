@@ -14,7 +14,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Django: [UniqueConstraint](https://stackoverflow.com/a/56024282/2989289)
 
 ##### Discovered
-- [django-model-utils](https://django-model-utils.readthedocs.io/en/latest/index.html)
+- Django: [django-model-utils](https://django-model-utils.readthedocs.io/en/latest/index.html)
+- Django: [django-configurations](https://django-configurations.readthedocs.io/en/stable/index.html)
 
 ##### Read
 - Django: [Dynamically creating Django models with `type`](https://python.tutorialink.com/dynamically-creating-django-models-with-type/)
