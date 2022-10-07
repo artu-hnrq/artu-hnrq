@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Big party eve - 2022-010-07
+##### Consulted
+- Django: [Subquery() expressions](https://docs.djangoproject.com/en/3.1/ref/models/expressions/#subquery-expressions)
+
 ##### Read
 - Django: [Annotations: steroids to your Querysets](https://medium.com/@singhgautam7/django-annotations-steroids-to-your-querysets-766231f0823a)
 
