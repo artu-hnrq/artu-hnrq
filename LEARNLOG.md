@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Read
 - Django: [Annotations: steroids to your Querysets](https://medium.com/@singhgautam7/django-annotations-steroids-to-your-querysets-766231f0823a)
+- Django: [6 expert tips for building better Django models](https://sunscrapers.com/blog/building-better-django-models-6-expert-tips/)
 
 ## Running enthusiasmed - 2022-10-05
 ##### Checked
