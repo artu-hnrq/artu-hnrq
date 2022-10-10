@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## After party - 2022-10-10
 ##### Checked
 - Django: [add_to_class() making models inheritance/MRO work wrong](https://stackoverflow.com/a/7706615/2989289)
+- Django: [How to migrate data from a field to another in a table using south](https://stackoverflow.com/a/23532985/2989289)
 
 ## Big party eve - 2022-10-07
 ##### Consulted
