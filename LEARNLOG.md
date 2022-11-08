@@ -9,7 +9,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## A way time after - 2022-11-08
-##### Starting reviewing knowledge
+##### Checked
+- PyCharm: [How can I link my external css file to my html file in Pycharm?](https://stackoverflow.com/a/70678326/2989289)
+
+##### Read
 - PyCharm: [LiveEdit HTML and CSS](https://www.jetbrains.com/pycharm/guide/tips/live-edit/)
 
 ---
