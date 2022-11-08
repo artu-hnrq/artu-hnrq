@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## A way time after - 2022-11-08
+##### Starting reviewing knowledge
+- PyCharm: [LiveEdit HTML and CSS](https://www.jetbrains.com/pycharm/guide/tips/live-edit/)
+
+---
+
 ## After party - 2022-10-10
 ##### Checked
 - Django: [add_to_class() making models inheritance/MRO work wrong](https://stackoverflow.com/a/7706615/2989289)
