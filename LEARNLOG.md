@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Getting back on the game - 2022-11-09
+##### Checked
+- HTML: [Two forms share same input](https://stackoverflow.com/a/39023485/2989289)
+
 ##### Sourced
 - [ad-m / github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 
