@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Working on CSS
+##### Checked
+- CSS: [Why are input fields wider than it's parent div?](https://stackoverflow.com/a/54336954/2989289)
+
 ## Getting back on the game - 2022-11-09
 ##### Checked
 - HTML: [Two forms share same input](https://stackoverflow.com/a/39023485/2989289)
