@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Earlier birthday party concluded
+##### Read
+- Lua: [Why Lua Is So Popular — & What You Can Build With It](https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/)
+
 ## Working on CSS
 ##### Checked
 - CSS: [Why are input fields wider than it's parent div?](https://stackoverflow.com/a/54336954/2989289)
