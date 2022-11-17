@@ -8,12 +8,17 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Earlier birthday party concluded
+## Becoming a skillfull frontend developer - 2022-11-17
+##### Checked
+- Linux: [In which situations are PS2, PS3, PS4 used as the prompt?](https://unix.stackexchange.com/a/193660/364080)
+
+
+## Earlier birthday party concluded - 2022-11-16
 ##### Read
 - Lua: [Why Lua Is So Popular — & What You Can Build With It](https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/)
 - Web: [What is Design Thinking — & How Can You Start Actually Using It?](https://www.codecademy.com/resources/blog/what-is-design-thinking-process-examples/)
 
-## Working on CSS
+## Working on CSS - 2022-11-15
 ##### Checked
 - CSS: [Why are input fields wider than it's parent div?](https://stackoverflow.com/a/54336954/2989289)
 
