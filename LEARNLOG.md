@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Mastering CSS features - 2022-11-18
 ##### Checked
 - Bash: [How to uppercase the command line argument?](https://unix.stackexchange.com/a/344791/364080)
+- Ubuntu: [How to install a deb file, by dpkg -i or by apt?](https://unix.stackexchange.com/a/159114/364080)
 
 ## Becoming a skillfull frontend developer - 2022-11-17
 ##### Checked
