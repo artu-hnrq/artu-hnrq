@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Bash: [How to uppercase the command line argument?](https://unix.stackexchange.com/a/344791/364080)
 - Ubuntu: [How to install a deb file, by dpkg -i or by apt?](https://unix.stackexchange.com/a/159114/364080)
 
+##### Consulted
+- NPM: [star - Mark your favorite packages](https://www.cin.ufpe.br/~tsb4/trash/node_modules/npm/docs/public/cli-commands/npm-star/)
+
 ## Becoming a skillfull frontend developer - 2022-11-17
 ##### Checked
 - Linux: [In which situations are PS2, PS3, PS4 used as the prompt?](https://unix.stackexchange.com/a/193660/364080)
