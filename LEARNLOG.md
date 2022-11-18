@@ -19,6 +19,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - NPM: [semver(7) -- The semantic versioner for npm](https://www.cin.ufpe.br/~tsb4/trash/node_modules/npm/docs/public/using-npm/semver/)
 - React: [Adding a Sass Stylesheet](https://create-react-app.dev/docs/adding-a-sass-stylesheet/)
 
+##### Read
+- JS: [How I structure my JavaScript projects in 2022](https://gomakethings.com/how-i-structure-my-javascript-projects-in-2022/)
+
 ## Becoming a skillfull frontend developer - 2022-11-17
 ##### Checked
 - Linux: [In which situations are PS2, PS3, PS4 used as the prompt?](https://unix.stackexchange.com/a/193660/364080)
