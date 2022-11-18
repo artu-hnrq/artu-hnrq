@@ -8,10 +8,13 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Mastering CSS features - 2022-11-18
+##### Checked
+- Bash: [How to uppercase the command line argument?](https://unix.stackexchange.com/a/344791/364080)
+
 ## Becoming a skillfull frontend developer - 2022-11-17
 ##### Checked
 - Linux: [In which situations are PS2, PS3, PS4 used as the prompt?](https://unix.stackexchange.com/a/193660/364080)
-
 
 ## Earlier birthday party concluded - 2022-11-16
 ##### Read
