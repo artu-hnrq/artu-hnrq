@@ -15,6 +15,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - NPM: [star - Mark your favorite packages](https://www.cin.ufpe.br/~tsb4/trash/node_modules/npm/docs/public/cli-commands/npm-star/)
+- NPM: [package.json - Specifics of npm's package.json handling](https://www.cin.ufpe.br/~tsb4/trash/node_modules/npm/docs/public/configuring-npm/package-json/)
 
 ## Becoming a skillfull frontend developer - 2022-11-17
 ##### Checked
