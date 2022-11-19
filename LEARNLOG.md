@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Checked
 - CSS: [Sass .scss: Nesting and multiple classes?](https://stackoverflow.com/a/11084798/2989289)
 - CSS: [Sass Variables](https://sass-lang.com/documentation/variables)
+- CSS: [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/)
 - JS: [How can I change an element's class with JavaScript?](https://stackoverflow.com/questions/195951/how-can-i-change-an-elements-class-with-javascript)
 
 ##### Read
