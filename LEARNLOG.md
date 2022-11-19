@@ -19,6 +19,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - JS: [How to Set Up a Front End Development Project](https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/)
 - JS: [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#aa-using-a-body-class)
+- Design: [Designing a Material Theme: Color](https://material.io/blog/design-material-theme-color)
 
 ## Mastering CSS features - 2022-11-18
 ##### Checked
