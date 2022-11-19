@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Deep diving on Node.js - 2022-11-19
+##### Checked
+- CSS: [Sass .scss: Nesting and multiple classes?](https://stackoverflow.com/a/11084798/2989289)
+
 ##### Read
 - JS: [How to Set Up a Front End Development Project](https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/)
 
