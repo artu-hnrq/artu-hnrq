@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Deep diving on Node.js - 2022-11-19
+##### Read
+- JS: [How to Set Up a Front End Development Project](https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/)
+
 ## Mastering CSS features - 2022-11-18
 ##### Checked
 - Bash: [How to uppercase the command line argument?](https://unix.stackexchange.com/a/344791/364080)
