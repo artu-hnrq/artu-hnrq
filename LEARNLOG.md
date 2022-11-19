@@ -23,6 +23,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - JS: [How I structure my JavaScript projects in 2022](https://gomakethings.com/how-i-structure-my-javascript-projects-in-2022/)
 - HTML: [HTML5 Imports: Import HTML Files Into HTML Files](https://www.jotform.com/blog/html5-imports-import-html-files-into-html-files-83467/)
+- HTML: [HTML5 Imports: Embedding an HTML File Inside Another HTML File](https://onextrapixel.com/html5-imports-embedding-an-html-file-inside-another-html-file/)
 
 ## Becoming a skillfull frontend developer - 2022-11-17
 ##### Checked
