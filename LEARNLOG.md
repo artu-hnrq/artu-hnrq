@@ -14,6 +14,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - CSS: [Sass Variables](https://sass-lang.com/documentation/variables)
 - CSS: [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/)
 - JS: [How can I change an element's class with JavaScript?](https://stackoverflow.com/questions/195951/how-can-i-change-an-elements-class-with-javascript)
+- JS: [Is there a "null coalescing" operator in JavaScript?](https://stackoverflow.com/a/476445/2989289)
 
 ##### Read
 - JS: [How to Set Up a Front End Development Project](https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/)
