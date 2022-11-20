@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Becomming a UI concerned developer - 2022-11-20
+##### Consulted
+- PyCharm: [Use regex capturing groups and backreferences](https://www.jetbrains.com/help/pycharm/tutorial-finding-and-replacing-text-using-regular-expressions.html#capture_groups_and_backreference)
+
 ## Deep diving on Node.js - 2022-11-19
 ##### Checked
 - CSS: [Sass .scss: Nesting and multiple classes?](https://stackoverflow.com/a/11084798/2989289)
