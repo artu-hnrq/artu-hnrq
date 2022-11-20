@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Becomming a UI concerned developer - 2022-11-20
+##### Checked
+- JS: [How do I link a JavaScript file to a HTML file?](https://stackoverflow.com/a/13739595/2989289)
+
 ##### Consulted
 - PyCharm: [Use regex capturing groups and backreferences](https://www.jetbrains.com/help/pycharm/tutorial-finding-and-replacing-text-using-regular-expressions.html#capture_groups_and_backreference)
 
