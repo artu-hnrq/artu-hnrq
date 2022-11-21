@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Planming working from everywhere - 2022-11-21
 ##### Discovered
 - [JetBrains Gateway](https://www.jetbrains.com/remote-development/gateway/)
+- [JetBrains Fleet](https://www.jetbrains.com/fleet/)
 - [Converting Colors](https://convertingcolors.com/)
 
 ## Becomming a UI concerned developer - 2022-11-20
