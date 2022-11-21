@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
 
 ## Planming working from everywhere - 2022-11-21
+##### Coursed
+- CSS: [A Complete Guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)
+
 ##### Discovered
 - [JetBrains Gateway](https://www.jetbrains.com/remote-development/gateway/)
 - [JetBrains Fleet](https://www.jetbrains.com/fleet/)
