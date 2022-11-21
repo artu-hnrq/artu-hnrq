@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Planming working from everywhere - 2022-11-21
+##### Discovered
+- [JetBrains Gateway](https://www.jetbrains.com/remote-development/gateway/)
+
 ## Becomming a UI concerned developer - 2022-11-20
 ##### Checked
 - JS: [How do I link a JavaScript file to a HTML file?](https://stackoverflow.com/a/13739595/2989289)
