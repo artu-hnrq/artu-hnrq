@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Founding out robust frontend possibilities - 2022-11-22
+##### Consulted:
+- Tumblr: [How to create a custom HTML theme](https://www.tumblr.com/docs/br/custom_themes)
 
 ## Planming working from everywhere - 2022-11-21
 ##### Coursed
