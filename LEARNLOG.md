@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## So much basic frontend code, that didn't logged learn yesterday - 2022-11-24
+##### Checked
+- CSS: [Can we define min-margin and max-margin, max-padding and min-padding in css?](https://stackoverflow.com/a/64391207/2989289)
+  
 ## Founding out robust frontend possibilities - 2022-11-22
 ##### Consulted:
 - Tumblr: [How to create a custom HTML theme](https://www.tumblr.com/docs/br/custom_themes)
