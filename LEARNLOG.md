@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Flexboxing - 2022-11-25
 ##### Checked
 - CSS: [Box-sizing all elements in css](https://stackoverflow.com/a/49601310/2989289)
+- CSS: [How to Build CSS-only Smart Layouts with Flexbox](https://www.toptal.com/front-end/how-to-build-css-only-smart-layouts-with-flexbox)
 - JS: [10 Design Patterns in TypeScript](https://fireship.io/lessons/typescript-design-patterns/)
   
 ## So much basic frontend code, that didn't logged learn yesterday - 2022-11-24
