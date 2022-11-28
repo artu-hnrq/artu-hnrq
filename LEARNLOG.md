@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Seeking for sacred no-coding weekends
+##### Tracked
+- Github: Codespace [Single PWA for github.dev and all subdomains?](https://github.com/community/community/discussions/17427)
+
 ## Flexboxing - 2022-11-25
 ##### Checked
 - CSS: [Box-sizing all elements in css](https://stackoverflow.com/a/49601310/2989289)
