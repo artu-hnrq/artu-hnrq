@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Geting the Next step
 ##### Checked: 
 - JS: [TypeError: Cannot read properties of undefined (reading 'map')](https://stackoverflow.com/a/70009224/2989289)
+- Next: [use getStaticProps in component](https://stackoverflow.com/a/68149362/2989289)
   
 ## Seeking for sacred no-coding weekends
 ##### Tracked
