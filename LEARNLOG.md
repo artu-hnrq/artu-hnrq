@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Geting the Next step
+##### Checked: 
+- JS: [TypeError: Cannot read properties of undefined (reading 'map')](https://stackoverflow.com/a/70009224/2989289)
+  
 ## Seeking for sacred no-coding weekends
 ##### Tracked
 - Github: Codespace [Single PWA for github.dev and all subdomains?](https://github.com/community/community/discussions/17427)
