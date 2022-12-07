@@ -11,6 +11,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Lizy's birthday was yesterday - 2022-12-07
 ##### Coded
 - Next: [next-web-app](https://stackblitz.com/edit/nextjs-wyx2vn)
+
+##### Consulted
+- Next: [Sass Support](https://nextjs.org/docs/basic-features/built-in-css-support#sass-support)
   
 ## Now from Maceió again
 ##### Learn 
