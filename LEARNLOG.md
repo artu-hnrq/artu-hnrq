@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Lizy's birthday was yesterday - 2022-12-07
+##### Coded
+- Next: [next-web-app](https://stackblitz.com/edit/nextjs-wyx2vn)
+  
 ## Now from Maceió again
 ##### Learn 
 - Next: [Prefetching](Route prefetching in Next.js by @bibydigital https://web.dev/route-prefetching-in-nextjs/)
