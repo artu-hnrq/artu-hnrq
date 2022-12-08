@@ -17,6 +17,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ##### Consulted
 - Tailwind: [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
+- CSS: [linear-gradient()](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
   
 ## Lizy's birthday was yesterday - 2022-12-07
 ##### Checked
