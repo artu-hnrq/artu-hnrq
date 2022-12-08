@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
   
 ## Workspace on - 2022-12-08
+##### Checked
+- CSS: [React MaterialUI LinearProgress with gradient](https://stackoverflow.com/q/65725522/2989289)
+
 ##### Coursed
 - API: [Building a basic API using Swagger](https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/)
 
