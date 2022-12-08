@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Workspace on - 2022-12-08
+##### Coursed
+- API: [Building a basic API using Swagger](https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/)
+  
 ## Lizy's birthday was yesterday - 2022-12-07
 ##### Checked
 - Sass: [:after and :before pseudo-element selectors in Sass](https://stackoverflow.com/a/10750761/2989289)
