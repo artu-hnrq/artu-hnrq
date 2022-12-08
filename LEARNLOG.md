@@ -11,6 +11,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Workspace on - 2022-12-08
 ##### Coursed
 - API: [Building a basic API using Swagger](https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/)
+
+##### Consulted
+- Tailwind: [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
   
 ## Lizy's birthday was yesterday - 2022-12-07
 ##### Checked
