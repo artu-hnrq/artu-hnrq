@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
-# Fragatron is back and clean - 2022-12-09
+## Opening space to really flow on code
+##### Checked
+- VScode: [Recording a 'macro'? or a series of actions in Visual Studio Code?](https://stackoverflow.com/a/64289429/2989289)
+  
+## Fragatron is back and clean - 2022-12-09
 ##### Cheked
 - CSS: [CSS Animation onClick](https://stackoverflow.com/a/66656849/2989289)
 
