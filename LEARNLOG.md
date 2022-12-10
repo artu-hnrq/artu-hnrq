@@ -8,9 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
-## Opening space to really flow on code
+## Opening space to really flow on code - 2022-12-10
 ##### Checked
 - Chrome: [Ways to see a list of all the tabs open in Chrome?](https://superuser.com/a/1658303/1063603)
+- Firebase: [Firebase storage Upload file](https://stackoverflow.com/a/52894873/2989289)
 - VScode: [Recording a 'macro'? or a series of actions in Visual Studio Code?](https://stackoverflow.com/a/64289429/2989289)
 - VScode: [Running two or more commands with one shortcut](https://stackoverflow.com/a/49612562/2989289)
   
