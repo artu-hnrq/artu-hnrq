@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   
 ## Opening space to really flow on code
 ##### Checked
+- Chrome: [Ways to see a list of all the tabs open in Chrome?](https://superuser.com/a/1658303/1063603)
 - VScode: [Recording a 'macro'? or a series of actions in Visual Studio Code?](https://stackoverflow.com/a/64289429/2989289)
   
 ## Fragatron is back and clean - 2022-12-09
