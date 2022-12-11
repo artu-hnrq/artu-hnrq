@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Pushing before day starts - 2022-12-11
+##### Checked
+- TS: [How to use paths in tsconfig.json?](https://stackoverflow.com/a/43330003/2989289)
+  
 ## Opening space to really flow on code - 2022-12-10
 ##### Checked
 - Chrome: [Ways to see a list of all the tabs open in Chrome?](https://superuser.com/a/1658303/1063603)
