@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Another week beginning - 2022-12-12
+##### Read
+- PyCharm: [Run/Debug Configuration: NPM](https://www.jetbrains.com/help/pycharm/run-debug-configuration-npm.html)
+  
 ## Pushing before day starts - 2022-12-11
 ##### Checked
 - TS: [How to use paths in tsconfig.json?](https://stackoverflow.com/a/43330003/2989289)
