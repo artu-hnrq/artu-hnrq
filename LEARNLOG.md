@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Let's do it! - 2022-12-13
+##### Read
+- CSS: [A Complete Guide to CSS Media Queries
+Avatar of Andrés Galante
+](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+  
 ## Another week beginning - 2022-12-12
 ##### Read
 - PyCharm: [Run/Debug Configuration: NPM](https://www.jetbrains.com/help/pycharm/run-debug-configuration-npm.html)
