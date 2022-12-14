@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Studing over-night recently - 2022-12-14
 ##### Read
 - CSS: [Custom Properties That Dynamically Update](https://spacejelly.dev/posts/how-to-create-css-custom-properties-that-dynamically-update-with-react-javascript/)
+- Sass: [How do you strip the unit from any number in SASS?](https://stackoverflow.com/a/12335841/2989289)
   
 ## Let's do it! - 2022-12-13
 ##### Consulted
