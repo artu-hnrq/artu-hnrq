@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Studing over-night recently - 2022-12-14
+##### Read
+- CSS: [Custom Properties That Dynamically Update](https://spacejelly.dev/posts/how-to-create-css-custom-properties-that-dynamically-update-with-react-javascript/)
+  
 ## Let's do it! - 2022-12-13
 ##### Consulted
 - CSS: [animation property](https://developer.mozilla.org/en-US/docs/web/CSS/animation)
