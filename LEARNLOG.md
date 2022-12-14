@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
   
 ## Let's do it! - 2022-12-13
+##### Consulted
+- CSS: [animation property](https://developer.mozilla.org/en-US/docs/web/CSS/animation)
+
 ##### Read
 - CSS: [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - CSS: [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
