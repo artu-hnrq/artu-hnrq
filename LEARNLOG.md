@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - CSS: [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - CSS: [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/)
+- JS: [JS read json file and use as an object](https://stackoverflow.com/a/34789405/2989289)
   
 ## Another week beginning - 2022-12-12
 ##### Read
