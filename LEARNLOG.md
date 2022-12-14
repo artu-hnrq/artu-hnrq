@@ -10,6 +10,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   
 ## Studing over-night recently - 2022-12-14
 ##### Checked
+- CSS: [Is there a way to type check CSS custom properties](https://stackoverflow.com/a/67160815/2989289)
 - Sass: [Sass Variable in CSS calc() function](https://stackoverflow.com/a/20236515/2989289)
 
 ##### Read
