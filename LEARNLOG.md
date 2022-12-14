@@ -9,6 +9,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [3]: https://semver.org/spec/v2.0.0.html
   
 ## Studing over-night recently - 2022-12-14
+##### Checked
+- Sass: [Sass Variable in CSS calc() function](https://stackoverflow.com/a/20236515/2989289)
+
 ##### Read
 - CSS: [Custom Properties That Dynamically Update](https://spacejelly.dev/posts/how-to-create-css-custom-properties-that-dynamically-update-with-react-javascript/)
 - Sass: [Correctly Adding Unit to Number](https://css-tricks.com/snippets/sass/correctly-adding-unit-number/)
