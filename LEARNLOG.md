@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Studing on the dawn - 2022-12-16
+##### Checked
+- JS: [Extending an Object in Javascript](https://stackoverflow.com/questions/10430279/extending-an-object-in-javascript)
+  
 ## Opening new routes - 2022-12-15
 ##### Checked
 - Stack Overflow: [How to get tags using the API?](https://stackapps.com/a/2610/71392)
