@@ -15,6 +15,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Read
 - Sass: [Introducing Sass Modules](https://css-tricks.com/introducing-sass-modules/)
 - Sass: [Generating TypeScript definitions for CSS Modules](https://www.skovy.dev/blog/generating-typescript-definitions-for-css-modules-using-sass?seed=lau53e)
+
+##### Sourced
+- TS: [typescript-plugin-css-modules](https://www.npmjs.com/package/typescript-plugin-css-modules)
   
 ## Opening new routes - 2022-12-15
 ##### Checked
