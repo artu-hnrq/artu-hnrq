@@ -11,6 +11,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Studing on the dawn - 2022-12-16
 ##### Checked
 - JS: [Extending an Object in Javascript](https://stackoverflow.com/questions/10430279/extending-an-object-in-javascript)
+
+##### Read
+- Sass: [Introducing Sass Modules](https://css-tricks.com/introducing-sass-modules/)
   
 ## Opening new routes - 2022-12-15
 ##### Checked
