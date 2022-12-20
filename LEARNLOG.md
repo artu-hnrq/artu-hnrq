@@ -11,6 +11,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Stablishing routine yet - 2022-12-20
 ##### Consulted
 - NPM: [Creating and publishing scoped public packages](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
+
+##### Read
+- NPM: [Getting started with npm](https://nodesource.com/blog/the-basics-getting-started-with-npm)
   
 ## Studing on the dawn - 2022-12-16
 ##### Checked
