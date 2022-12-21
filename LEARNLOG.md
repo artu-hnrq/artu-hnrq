@@ -12,6 +12,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ##### Consulted
 - NPM: [Creating and publishing scoped public packages](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
 - TS: [ECMAScript Modules in Node.js](https://www.typescriptlang.org/docs/handbook/esm-node.html)
+- TS: [Creating .d.ts Files from .js files](https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html)
 
 ##### Read
 - NPM: [Getting started with npm](https://nodesource.com/blog/the-basics-getting-started-with-npm)
