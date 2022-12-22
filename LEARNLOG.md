@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Proceeding at night - 2022-12-22
+##### Read
+- Management: [API-First vs. API Design-First: A Comprehensive Guide](https://blog.stoplight.io/api-first-vs.-api-design-first-a-comprehensive-guide)
+ 
 ## Starting late again - 2022-12-21
 ##### Checked
 - TS: [Cannot find module ... or its corresponding type declarations](https://stackoverflow.com/a/64732688/2989289)
