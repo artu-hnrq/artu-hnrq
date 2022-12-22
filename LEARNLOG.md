@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Starting late again - 2022-12-21
+##### Checked
+- TS: [Cannot find module ... or its corresponding type declarations](https://stackoverflow.com/a/64732688/2989289)
+  
 ## Stablishing routine yet - 2022-12-20
 ##### Consulted
 - NPM: [Creating and publishing scoped public packages](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
