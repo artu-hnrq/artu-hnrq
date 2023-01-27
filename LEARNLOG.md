@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Happy new year - 2022-01-26
 ##### Read
 - Django: [10 Best Django Books for Beginner and Advanced Programmers](https://hackr.io/blog/django-books)
+- Django: [Five Advanced Django Tips](https://www.laac.dev/blog/five-advanced-django-tips/)
   
 ---
   
