@@ -8,6 +8,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
+## Happy new year - 2022-01-26
+##### Read
+- Django: [10 Best Django Books for Beginner and Advanced Programmers](https://hackr.io/blog/django-books)
+  
+---
+  
 ## Proceeding at night - 2022-12-22
 ##### Read
 - Management: [API-First vs. API Design-First: A Comprehensive Guide](https://blog.stoplight.io/api-first-vs.-api-design-first-a-comprehensive-guide)
