@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
-## About to move back to the new home
+## Going to the beach - 2022-01-28
+##### Checked
+- Django: [designing models with virtual fields](https://stackoverflow.com/a/590968/2989289)
+  
+## About to move back to the new home - 2022-01-27
 ##### Checked
 - Django: [How to reset migrations](https://stackoverflow.com/a/29253574/2989289)
   
