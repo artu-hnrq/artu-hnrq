@@ -7,6 +7,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+
+## Now from the new home - 2022-02-04
+##### Read
+- Django: [How to add a logo to Django admin?](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/logo.html) 
+
+---
   
 ## Going to the beach - 2022-01-28
 ##### Checked
