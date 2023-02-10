@@ -8,7 +8,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-##### Ready to mount new workspace
+## From new stand-desk - 2022-02-10
+##### Read
+- PyCharm: [Using PyCharm to Read Data From a MySQL DataBase Into pandas](https://blog.jetbrains.com/pycharm/2023/02/using-pycharm-to-read-data-from-a-mysql-database-into-pandas/)
+
+## Ready to mount new workspace - 2022-02-08
 ##### Read
 - Web: [FRONTEND FOR BACKEND DEVELOPERS](https://itnext.io/frontend-for-backend-developers-6433adb5a10d)
 
