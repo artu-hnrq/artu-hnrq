@@ -8,7 +8,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
-## Planing organization
+## Planing organization - 2022-02-11
 ##### Consulted
 - Notion: [Database properties](https://www.notion.so/help/database-properties)
 
