@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Focusing on productivity - 2022-02-16
+##### Read
+- [5 Tips to Use Google Tasks Effectively](https://www.makeuseof.com/tips-use-google-tasks-effectively/)
+
 ## Planing organization - 2022-02-11
 ##### Consulted
 - Notion: [Database properties](https://www.notion.so/help/database-properties)
