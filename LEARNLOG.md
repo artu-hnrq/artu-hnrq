@@ -10,7 +10,8 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 
 ## Seeking for habitual routines - 2022-02-21
 ##### Read
-- Write: [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
+- Work: [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
+- Work: [How to write SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 
 ## Avoiding procrastination - 2022-02-20
 ##### Read
