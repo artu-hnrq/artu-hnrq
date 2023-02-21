@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Seeking for habitual routines - 2022-02-21
+##### Read
+- Write: [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
+
 ## Avoiding procrastination - 2022-02-20
 ##### Read
 - [Conheça os 7 principais tipos de alimentos e suas funções no corpo](https://semprebem.paguemenos.com.br/posts/saude/tipos-de-alimentos)
