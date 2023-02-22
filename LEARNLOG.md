@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Summing time in front of PC - 2022-02-22
+##### Read
+- Work: [Data sources & linked databases](https://www.notion.so/help/data-sources-and-linked-databases)
+
 ## Seeking for habitual routines - 2022-02-21
 ##### Read
 - Work: [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
