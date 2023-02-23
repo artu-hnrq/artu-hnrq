@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Heading to the end of one more month - 2022-02-23
 ##### Read
 - Notion: [Build a website with Notion in seconds, no coding required](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required)
+- Notion: [How to build a website on Notion (and whether or not you should)](https://zapier.com/blog/how-to-build-a-website-on-notion/)
 
 ## Summing time in front of PC - 2022-02-22
 ##### Read
