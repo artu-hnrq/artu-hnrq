@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## How about yesterday? - 2022-02-25
+##### Tracked
+- Bash: [koalaman/shellcheck](https://github.com/koalaman/shellcheck/wiki/SC2005)
+
 ## Heading to the end of one more month - 2022-02-23
 ##### Read
 - Notion: [Build a website with Notion in seconds, no coding required](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required)
