@@ -8,6 +8,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+
+## Re-designing workpace - 2022-03-02
+
 ## Deep diving into the pace - 2022-03-01
 ##### Read
 - Github: [10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/2023-02-28-10-things-you-didnt-know-you-could-do-with-github-codespaces/)
