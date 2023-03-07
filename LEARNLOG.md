@@ -7,6 +7,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
+  
+## Planning in familly - 2022-03-07
+##### Listened
+- [Django Deployment Strategies & Preparing for PyCascades 2023](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA/episode/MDVlNjE1NWUtOGFiOS00YjFlLWJhZmEtNGY5NjYwM2MxNDI0?sa=X&ved=0CAUQkfYCahcKEwi4yuurucr9AhUAAAAAHQAAAAAQAQ)
 
 ## Restarting once again - 2022-03-06
 
