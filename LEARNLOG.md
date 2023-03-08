@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## International women day - 2022-03-08
 ##### Checked
 - Bash: [On GNOME, make the current window take the whole screen](https://unix.stackexchange.com/a/663933/364080)
+- Bash: [How can I wait until an application has started?](https://askubuntu.com/a/885051/689894)
   
 ## Planning in familly - 2022-03-07
 ##### Listened
