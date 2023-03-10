@@ -8,81 +8,85 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
   
-## International women day - 2022-03-08
+## Computerization consultancy - 2023-03-09
+##### Checked
+- Ubuntu: [Cycling windows by click on dock program's icon](https://askubuntu.com/q/1180752/689894)
+  
+## International women day - 2023-03-08
 ##### Checked
 - Bash: [On GNOME, make the current window take the whole screen](https://unix.stackexchange.com/a/663933/364080)
 - Bash: [How can I wait until an application has started?](https://askubuntu.com/a/885051/689894)
   
-## Planning in familly - 2022-03-07
+## Planning in familly - 2023-03-07
 ##### Listened
 - [Django Deployment Strategies & Preparing for PyCascades 2023](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA/episode/MDVlNjE1NWUtOGFiOS00YjFlLWJhZmEtNGY5NjYwM2MxNDI0?sa=X&ved=0CAUQkfYCahcKEwi4yuurucr9AhUAAAAAHQAAAAAQAQ)
 
-## Restarting once again - 2022-03-06
+## Restarting once again - 2023-03-06
 
-## Cerimony night - 2022-03-04
+## Cerimony night - 2023-03-04
 
-## Re-designing workpace - 2022-03-02
+## Re-designing workpace - 2023-03-02
 
-## Deep diving into the pace - 2022-03-01
+## Deep diving into the pace - 2023-03-01
 ##### Read
 - Github: [10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/2023-02-28-10-things-you-didnt-know-you-could-do-with-github-codespaces/)
 
 ---
 
-## How about yesterday? - 2022-02-25
+## How about yesterday? - 2023-02-25
 ##### Tracked
 - Bash: [koalaman/shellcheck](https://github.com/koalaman/shellcheck/wiki/SC2005)
 
-## Heading to the end of one more month - 2022-02-23
+## Heading to the end of one more month - 2023-02-23
 ##### Read
 - Notion: [Build a website with Notion in seconds, no coding required](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required)
 - Notion: [How to build a website on Notion (and whether or not you should)](https://zapier.com/blog/how-to-build-a-website-on-notion/)
 - PyCharm: [2023.1: EAP 3 Is Here!](https://blog.jetbrains.com/pycharm/2023/02/2023-1-eap-3/)
 
-## Summing time in front of PC - 2022-02-22
+## Summing time in front of PC - 2023-02-22
 ##### Read
 - Notion: [Data sources & linked databases](https://www.notion.so/help/data-sources-and-linked-databases)
 
-## Seeking for habitual routines - 2022-02-21
+## Seeking for habitual routines - 2023-02-21
 ##### Read
 - Work: [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 - Work: [How to write SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 
-## Avoiding procrastination - 2022-02-20
+## Avoiding procrastination - 2023-02-20
 ##### Read
 - [Conheça os 7 principais tipos de alimentos e suas funções no corpo](https://semprebem.paguemenos.com.br/posts/saude/tipos-de-alimentos)
 
-## Focusing on productivity - 2022-02-16 
+## Focusing on productivity - 2023-02-16 
 ##### Read
 - [5 Tips to Use Google Tasks Effectively](https://www.makeuseof.com/tips-use-google-tasks-effectively/)
 
-## Planing organization - 2022-02-11
+## Planing organization - 2023-02-11
 ##### Consulted
 - Notion: [Database properties](https://www.notion.so/help/database-properties)
 
-## From new stand-desk - 2022-02-10
+## From new stand-desk - 2023-02-10
 ##### Read
 - PyCharm: [Using PyCharm to Read Data From a MySQL DataBase Into pandas](https://blog.jetbrains.com/pycharm/2023/02/using-pycharm-to-read-data-from-a-mysql-database-into-pandas/)
 
-## Ready to mount new workspace - 2022-02-08
+## Ready to mount new workspace - 2023-02-08
 ##### Read
 - Web: [FRONTEND FOR BACKEND DEVELOPERS](https://itnext.io/frontend-for-backend-developers-6433adb5a10d)
 
-## Now from the new home - 2022-02-04 
+## Now from the new home - 2023-02-04 
 ##### Read
 - Django: [How to add a logo to Django admin?](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/logo.html) 
 
 ---
   
-## Going to the beach - 2022-01-28
+## Going to the beach - 2023-01-28
 ##### Checked
 - Django: [designing models with virtual fields](https://stackoverflow.com/a/590968/2989289)
   
-## About to move back to the new home - 2022-01-27
+## About to move back to the new home - 2023-01-27
 ##### Checked
 - Django: [How to reset migrations](https://stackoverflow.com/a/29253574/2989289)
   
-## Happy new year - 2022-01-26
+## Happy new year - 2023-01-26
 ##### Read
 - Django: [10 Best Django Books for Beginner and Advanced Programmers](https://hackr.io/blog/django-books)
 - Django: [Five Advanced Django Tips](https://www.laac.dev/blog/five-advanced-django-tips/)
