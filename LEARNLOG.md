@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
    
+## Managing developer profiles - 2022-03-13
+##### Coded
+- Python: [Compare the Triplets - Hacker Rank](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/318233378)
+   
 ## Heading to web development role - 2023-03-12
 ##### Read
 - Web: [The 2023 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
