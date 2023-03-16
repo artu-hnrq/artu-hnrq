@@ -7,8 +7,12 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-    
-## Managing developer profiles - 2022-03-13
+
+## Learning No-code - 2023-03-15
+##### Watched
+- [Curso FlutterFlow Gratuito (2023) - Do Zero ao App](https://youtu.be/K6y6yd3gEXA)
+
+## Managing developer profiles - 2023-03-13
 ##### Coded
 - Python: [Compare the Triplets - Hacker Rank](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/318233378)
    
