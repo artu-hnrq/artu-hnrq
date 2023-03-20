@@ -11,6 +11,7 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 ## Flutter-flowing - 2023-03-20
 ##### Consulted
 - Flutter: [FFlow: Stack](https://docs.flutterflow.io/widgets-and-components/widgets-ui-elements/layout-elements/stack)
+- Flutter: [Flutter Widget Positioning - A Guide for the CSS Developer](https://fireship.io/lessons/flutter-widget-positioning-guide/)
 
 ## Learning No-code - 2023-03-15
 ##### Watched
