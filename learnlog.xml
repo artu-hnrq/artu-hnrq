@@ -6,11 +6,11 @@
   <link>https://artu-hnrq.github.io/</link>
   <description>Footprints of an enthusiastic learner</description>
 
-<!--  <item>-->
-<!--    <title>The original record</title>-->
-<!--    <link>https://github.com/artu-hnrq/artu-hnrq/blob/main/LEARNLOG.md</link>-->
-<!--    <description>A simple keep-changelog-kind file where it all have started</description>-->
-<!--  </item>-->
+  <item>
+    <title>The original record</title>
+    <link>https://github.com/artu-hnrq/artu-hnrq/blob/main/LEARNLOG.md</link>
+    <description>A simple keep-changelog-kind file where it all have started</description>
+  </item>
 
 </channel>
 </rss>
