@@ -13,6 +13,9 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
 - Flutter: [FFlow: Stack](https://docs.flutterflow.io/widgets-and-components/widgets-ui-elements/layout-elements/stack)
 - Flutter: [Flutter Widget Positioning - A Guide for the CSS Developer](https://fireship.io/lessons/flutter-widget-positioning-guide/)
 
+##### Read
+- RSS: [How to Create a Simple RSS feed](https://www.aakashweb.com/articles/how-to-create-simple-rss-feed/)
+
 ## Learning No-code - 2023-03-15
 ##### Watched
 - [Curso FlutterFlow Gratuito (2023) - Do Zero ao App](https://youtu.be/K6y6yd3gEXA)
