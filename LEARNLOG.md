@@ -7,7 +7,11 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [1]: https://keepachangelog.com/en/1.0.0/
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
-  
+
+## Working on Learnlog - 2023-03-21
+##### Read
+- Storybook: [Why most design systems implode](https://storybook.js.org/blog/why-most-design-systems-implode/)
+
 ## Flutter-flowing - 2023-03-20
 ##### Consulted
 - Flutter: [FFlow: Stack](https://docs.flutterflow.io/widgets-and-components/widgets-ui-elements/layout-elements/stack)
