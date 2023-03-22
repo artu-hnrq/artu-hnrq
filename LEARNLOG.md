@@ -8,6 +8,10 @@ Since I'm offten looking up to learn, I used to fell it would be nice to have a 
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Yet, doing the same - 2023-03-22
+##### Listened
+- Python: [Coding With namedtuple & Python's Dynamic Superpowers](https://realpython.com/podcasts/rpp/149/) - Real Python Podcast
+
 ## Working on Learnlog - 2023-03-21
 ##### Read
 - Storybook: [Why most design systems implode](https://storybook.js.org/blog/why-most-design-systems-implode/)
