@@ -8,6 +8,10 @@ Since I'm often looking up to learn, I used to fell it would be nice to have a h
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Think on no-code automation - 2023-03-23
+##### Read
+- RSS: [How to Publicly Share Your Pocket Reading List](https://www.makeuseof.com/tag/publicly-share-pocket-reading-list/)
+
 ## Yet, doing the same - 2023-03-22
 ##### Listened
 - Python: [Coding With namedtuple & Python's Dynamic Superpowers](https://realpython.com/podcasts/rpp/149/) - Real Python Podcast
