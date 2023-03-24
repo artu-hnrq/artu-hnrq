@@ -8,6 +8,9 @@ Since I'm often looking up to learn, I used to fell it would be nice to have a h
   [2]: http://sentimentalversioning.org/
   [3]: https://semver.org/spec/v2.0.0.html
 
+## Turning integrations on - 2023-03-24
+- Raindrop - [Obtain API access token](https://developer.raindrop.io/v1/authentication/token)
+
 ## Think on no-code automation - 2023-03-23
 ##### Read
 - RSS: [How to Publicly Share Your Pocket Reading List](https://www.makeuseof.com/tag/publicly-share-pocket-reading-list/)
